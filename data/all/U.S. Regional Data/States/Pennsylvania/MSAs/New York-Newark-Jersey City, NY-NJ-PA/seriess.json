@@ -1,0 +1,1770 @@
+{
+    "ACTLISCOU35620": {
+        "title": "Housing Inventory: Active Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 3
+    },
+    "ACTLISCOUMM35620": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ACTLISCOUYY35620": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRI35620": {
+        "title": "Housing Inventory: Average Listing Price in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "AVELISPRIMM35620": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRIYY35620": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "CCDIOA35620Q156N": {
+        "title": "CredAbility Consumer Distress Index for New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "2005-01-01",
+        "end": "2013-01-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "DESCMSA35620": {
+        "title": "Market Hotness: Demand Score in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "ENUC356230010": {
+        "title": "Total Quarterly Wages in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 2
+    },
+    "ENUC356230010SA": {
+        "title": "Total Quarterly Wages in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC356240010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC356240010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC356240110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC356240110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC356240210": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC356240210SA": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC356240310": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC356240310SA": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC356240510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC356240510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "HORAMMMSA35620": {
+        "title": "Market Hotness: Hotness Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change",
+        "popularity": 1
+    },
+    "HORAMSA35620": {
+        "title": "Market Hotness: Hotness Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "HORAYYMSA35620": {
+        "title": "Market Hotness: Hotness Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change from Year Ago",
+        "popularity": 1
+    },
+    "HOSCMSA35620": {
+        "title": "Market Hotness: Hotness Score in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "IHLCHG35620": {
+        "title": "Job Postings on Indeed in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2020-02-01",
+        "end": "2022-11-25",
+        "frequency": "Daily, 7-Day",
+        "units": "Percent Change from Feb 01, 2020",
+        "popularity": 8
+    },
+    "INTINCOMENYL": {
+        "title": "Net Interest Income for Commercial Banks with Assets under $5B in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "IRPD35620": {
+        "title": "Implicit Regional Price Deflator for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "LAUMT363562000000003A": {
+        "title": "Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "LAUMT363562000000004": {
+        "title": "Unemployed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT363562000000004A": {
+        "title": "Unemployed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT363562000000005": {
+        "title": "Employed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT363562000000005A": {
+        "title": "Employed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 2
+    },
+    "LAUMT363562000000006A": {
+        "title": "Civilian Labor Force in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LDPEPRMMMSA35620": {
+        "title": "Market Hotness: Listing Views per Property in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "LDPEPRVSUSMSA35620": {
+        "title": "Market Hotness: Listing Views per Property Versus the United States in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "LDPEPRYYMSA35620": {
+        "title": "Market Hotness: Listing Views per Property in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "LLSNYL": {
+        "title": "Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "LLSRNYL": {
+        "title": "Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDAONMAMMMSA35620": {
+        "title": "Market Hotness: Median Days on Market in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MEDAONMAMSA35620": {
+        "title": "Market Hotness: Median Days on Market in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Days",
+        "popularity": 1
+    },
+    "MEDAONMAYYMSA35620": {
+        "title": "Market Hotness: Median Days on Market in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDDAYONMAR35620": {
+        "title": "Housing Inventory: Median Days on Market in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDDAYONMARMM35620": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDDAYONMARYY35620": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI35620": {
+        "title": "Housing Inventory: Median Listing Price in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 3
+    },
+    "MEDLISPRIMM35620": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE35620": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 15
+    },
+    "MEDLISPRIPERSQUFEEMM35620": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY35620": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIYY35620": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDOMMDAMSA35620": {
+        "title": "Market Hotness: Median Days on Market in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDOVSUSMSA35620": {
+        "title": "Market Hotness: Median Days on Market Versus the United States in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MEDOYYDAMSA35620": {
+        "title": "Market Hotness: Median Days on Market Day in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDSQUFEE35620": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDSQUFEEMM35620": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEEYY35620": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MELIPRMMMSA35620": {
+        "title": "Market Hotness: Median Listing Price in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MELIPRMSA35620": {
+        "title": "Market Hotness: Median Listing Price in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MELIPRVSUSMSA35620": {
+        "title": "Market Hotness: Median Listing Price Versus the United States in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MELIPRYYMSA35620": {
+        "title": "Market Hotness: Median Listing Price in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "NEWLISCOU35620": {
+        "title": "Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 3
+    },
+    "NEWLISCOUMM35620": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWLISCOUYY35620": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWY636BP1FH": {
+        "title": "New Private Housing Units Authorized by Building Permits: 1-Unit Structures for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1988-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 5
+    },
+    "NEWY636BP1FHSA": {
+        "title": "New Private Housing Units Authorized by Building Permits: 1-Unit Structures for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1988-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 2
+    },
+    "NEWY636BPPRIV": {
+        "title": "New Private Housing Structures Authorized by Building Permits for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1988-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 15
+    },
+    "NEWY636BPPRIVSA": {
+        "title": "New Private Housing Structures Authorized by Building Permits for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1988-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 4
+    },
+    "NEWY636EDUH": {
+        "title": "All Employees: Education and Health Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636EDUHN": {
+        "title": "All Employees: Education and Health Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636FIRE": {
+        "title": "All Employees: Financial Activities in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636FIREN": {
+        "title": "All Employees: Financial Activities in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636GOVT": {
+        "title": "All Employees: Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636GOVTN": {
+        "title": "All Employees: Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636INFO": {
+        "title": "All Employees: Information in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636INFON": {
+        "title": "All Employees: Information in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636LEIH": {
+        "title": "All Employees: Leisure and Hospitality in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636LEIHN": {
+        "title": "All Employees: Leisure and Hospitality in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636LF": {
+        "title": "Civilian Labor Force in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 2
+    },
+    "NEWY636LFN": {
+        "title": "Civilian Labor Force in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 3
+    },
+    "NEWY636MFG": {
+        "title": "All Employees: Manufacturing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636MFGN": {
+        "title": "All Employees: Manufacturing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636NA": {
+        "title": "All Employees: Total Nonfarm in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 5
+    },
+    "NEWY636NAN": {
+        "title": "All Employees: Total Nonfarm in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636NRMN": {
+        "title": "All Employees: Mining, Logging, and Construction in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636NRMNN": {
+        "title": "All Employees: Mining, Logging, and Construction in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636PBSV": {
+        "title": "All Employees: Professional and Business Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636PBSVN": {
+        "title": "All Employees: Professional and Business Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636PCPI": {
+        "title": "Per Capita Personal Income in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1969-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 13
+    },
+    "NEWY636SRVO": {
+        "title": "All Employees: Other Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636SRVON": {
+        "title": "All Employees: Other Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636TRAD": {
+        "title": "All Employees: Trade, Transportation, and Utilities in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636TRADN": {
+        "title": "All Employees: Trade, Transportation, and Utilities in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "NEWY636UR": {
+        "title": "Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "NEWY636URN": {
+        "title": "Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 16
+    },
+    "NGMP35620": {
+        "title": "Total Gross Domestic Product for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 35
+    },
+    "NIHHRAMSA35620": {
+        "title": "Market Hotness: Nielsen Household Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "NIMNYL": {
+        "title": "Net Interest Margin for Commercial Banks with Assets under $5B in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NINYL": {
+        "title": "Net Income for Commercial Banks with Assets under $5B in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "NYLAGRIDX": {
+        "title": "Economic Conditions Index for New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-02-01",
+        "end": "2019-12-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "NYTPOP": {
+        "title": "Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 20
+    },
+    "PCRGMP35620": {
+        "title": "Total Per Capita Real Gross Domestic Product for New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 5
+    },
+    "PENLISCOU35620": {
+        "title": "Housing Inventory: Pending Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM35620": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY35620": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU35620": {
+        "title": "Housing Inventory: Price Increased Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIINCCOUMM35620": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOUYY35620": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOU35620": {
+        "title": "Housing Inventory: Price Reduced Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM35620": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY35620": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "QGMP35620": {
+        "title": "Total Quantity Indexes for Real GDP for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP35620": {
+        "title": "Total Real Gross Domestic Product for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 5
+    },
+    "ROANYL": {
+        "title": "Return on Average Assets for Commercial Banks with Assets under $5B in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RPI35620": {
+        "title": "Real Personal Income for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC35620": {
+        "title": "Real Per Capita Personal Income for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 4
+    },
+    "RPPALL35620": {
+        "title": "Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 4
+    },
+    "RPPGOOD35620": {
+        "title": "Regional Price Parities: Goods for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVEOTH35620": {
+        "title": "Regional Price Parities: Services: Other for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 4
+    },
+    "RPPSERVERENT35620": {
+        "title": "Regional Price Parities: Services: Rents for New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SMS36356200000000026": {
+        "title": "All Employees: Total Nonfarm in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-04-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "3-Month Average Change, Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356200000000001A": {
+        "title": "All Employees: Total Nonfarm in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356200500000001": {
+        "title": "All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356200500000001A": {
+        "title": "All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356200500000001SA": {
+        "title": "All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356200500000002": {
+        "title": "Average Weekly Hours of All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2011-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU36356200500000002A": {
+        "title": "Average Weekly Hours of All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2011-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU36356200500000002SA": {
+        "title": "Average Weekly Hours of All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "2011-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU36356200500000003": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2011-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 2
+    },
+    "SMU36356200500000003A": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2011-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU36356200500000003SA": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "2011-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU36356200500000011": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2011-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU36356200500000011A": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "2011-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU36356200500000011SA": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "2011-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU36356200600000001": {
+        "title": "All Employees: Goods Producing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356200600000001A": {
+        "title": "All Employees: Goods Producing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356200600000001SA": {
+        "title": "All Employees: Goods Producing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356200700000001": {
+        "title": "All Employees: Service-Providing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356200700000001A": {
+        "title": "All Employees: Service-Providing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356200700000001SA": {
+        "title": "All Employees: Service-Providing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356200800000001": {
+        "title": "All Employees: Private Service Providing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356200800000001A": {
+        "title": "All Employees: Private Service Providing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356200800000001SA": {
+        "title": "All Employees: Private Service Providing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356201500000001A": {
+        "title": "All Employees: Mining, Logging, and Construction in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356201523800001": {
+        "title": "All Employees: Mining, Logging, and Construction: Specialty Trade Contractors in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "2005-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356201523800001A": {
+        "title": "All Employees: Mining, Logging, and Construction: Specialty Trade Contractors in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "2005-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356201523800001SA": {
+        "title": "All Employees: Mining, Logging, and Construction: Specialty Trade Contractors in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "2005-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356203000000001A": {
+        "title": "All Employees: Manufacturing in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204000000001A": {
+        "title": "All Employees: Trade, Transportation, and Utilities in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356204100000001": {
+        "title": "All Employees: Wholesale Trade in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204100000001A": {
+        "title": "All Employees: Wholesale Trade in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356204100000001SA": {
+        "title": "All Employees: Wholesale Trade in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204142300001": {
+        "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Durable Goods in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204142300001A": {
+        "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Durable Goods in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204142300001SA": {
+        "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Durable Goods in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204200000001": {
+        "title": "All Employees: Retail Trade in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204200000001A": {
+        "title": "All Employees: Retail Trade in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204200000001SA": {
+        "title": "All Employees: Retail Trade in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204244500001": {
+        "title": "All Employees: Retail Trade: Food and Beverage Stores in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204244500001A": {
+        "title": "All Employees: Retail Trade: Food and Beverage Stores in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356204244500001SA": {
+        "title": "All Employees: Retail Trade: Food and Beverage Stores in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204245200001": {
+        "title": "All Employees: Retail Trade: General Merchandise Stores in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204245200001A": {
+        "title": "All Employees: Retail Trade: General Merchandise Stores in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356204245200001SA": {
+        "title": "All Employees: Retail Trade: General Merchandise Stores in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204245210001": {
+        "title": "All Employees: Retail Trade: Department Stores in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204245210001A": {
+        "title": "All Employees: Retail Trade: Department Stores in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356204245210001SA": {
+        "title": "All Employees: Retail Trade: Department Stores in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204300000001": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204300000001A": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204300000001SA": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204340008901": {
+        "title": "All Employees: Transportation and Warehousing in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356204340008901A": {
+        "title": "All Employees: Transportation and Warehousing in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356204340008901SA": {
+        "title": "All Employees: Transportation and Warehousing in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356205000000001A": {
+        "title": "All Employees: Information in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356205051700001": {
+        "title": "All Employees: Information: Telecommunications in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356205051700001A": {
+        "title": "All Employees: Information: Telecommunications in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356205051700001SA": {
+        "title": "All Employees: Information: Telecommunications in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356205500000001A": {
+        "title": "All Employees: Financial Activities in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356205552000001": {
+        "title": "All Employees: Financial Activities: Finance and Insurance in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356205552000001A": {
+        "title": "All Employees: Financial Activities: Finance and Insurance in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356205552000001SA": {
+        "title": "All Employees: Financial Activities: Finance and Insurance in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356205552400001": {
+        "title": "All Employees: Financial Activities: Insurance Carriers and Related Activities in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356205552400001A": {
+        "title": "All Employees: Financial Activities: Insurance Carriers and Related Activities in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356205552400001SA": {
+        "title": "All Employees: Financial Activities: Insurance Carriers and Related Activities in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206000000001A": {
+        "title": "All Employees: Professional and Business Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206054000001": {
+        "title": "All Employees: Professional, Scientific, and Technical Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206054000001A": {
+        "title": "All Employees: Professional, Scientific, and Technical Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206054000001SA": {
+        "title": "All Employees: Professional, Scientific, and Technical Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206055000001": {
+        "title": "All Employees: Management of Companies and Enterprises in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206055000001A": {
+        "title": "All Employees: Management of Companies and Enterprises in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356206055000001SA": {
+        "title": "All Employees: Management of Companies and Enterprises in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206056000001": {
+        "title": "All Employees: Administrative and Support and Waste Management and Remediation Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356206056000001A": {
+        "title": "All Employees: Administrative and Support and Waste Management and Remediation Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206056000001SA": {
+        "title": "All Employees: Administrative and Support and Waste Management and Remediation Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206500000001A": {
+        "title": "All Employees: Education and Health Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206562000001": {
+        "title": "All Employees: Education and Health Services: Health Care and Social Assistance in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206562000001A": {
+        "title": "All Employees: Health Care and Social Assistance in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206562000001SA": {
+        "title": "All Employees: Education and Health Services: Health Care and Social Assistance in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206562100001": {
+        "title": "All Employees: Health Care: Ambulatory Health Care Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206562100001A": {
+        "title": "All Employees: Health Care: Ambulatory Health Care Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356206562100001SA": {
+        "title": "All Employees: Health Care: Ambulatory Health Care Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356206562200001": {
+        "title": "All Employees: Health Care: Hospitals in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356206562200001A": {
+        "title": "All Employees: Health Care: Hospitals in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356206562200001SA": {
+        "title": "All Employees: Health Care: Hospitals in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356207000000001A": {
+        "title": "All Employees: Leisure and Hospitality in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356207072000001": {
+        "title": "All Employees: Accommodation and Food Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356207072000001A": {
+        "title": "All Employees: Accommodation and Food Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356207072000001SA": {
+        "title": "All Employees: Accommodation and Food Services in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356208000000001A": {
+        "title": "All Employees: Other Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU36356209000000001A": {
+        "title": "All Employees: Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356209091000001": {
+        "title": "All Employees: Government: Federal Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356209091000001A": {
+        "title": "All Employees: Federal Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356209091000001SA": {
+        "title": "All Employees: Government: Federal Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356209092000001": {
+        "title": "All Employees: Government: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356209092000001A": {
+        "title": "All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356209092000001SA": {
+        "title": "All Employees: Government: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356209093000001": {
+        "title": "All Employees: Government: Local Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356209093000001A": {
+        "title": "All Employees: Local Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU36356209093000001SA": {
+        "title": "All Employees: Government: Local Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SUSCMSA35620": {
+        "title": "Market Hotness: Supply Score in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "TOTASSETNYL": {
+        "title": "Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "TOTLOANNYL": {
+        "title": "Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    }
+}

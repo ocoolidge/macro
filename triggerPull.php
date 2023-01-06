@@ -1,0 +1,1 @@
+<?php `git pull --no-rebase https://github.com/ocoolidge/macro.git main`;

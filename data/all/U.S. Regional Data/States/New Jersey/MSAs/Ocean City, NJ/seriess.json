@@ -1,0 +1,986 @@
+{
+    "ACTLISCOU36140": {
+        "title": "Housing Inventory: Active Listing Count in Ocean City, NJ (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "ACTLISCOUMM36140": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ACTLISCOUYY36140": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ATNHPIUS36140Q": {
+        "title": "All-Transactions House Price Index for Ocean City, NJ (MSA)",
+        "start": "1985-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index 1995:Q1=100",
+        "popularity": 2
+    },
+    "AVELISPRI36140": {
+        "title": "Housing Inventory: Average Listing Price in Ocean City, NJ (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "AVELISPRIMM36140": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRIYY36140": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "ENUC361430010": {
+        "title": "Total Quarterly Wages in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC361430010SA": {
+        "title": "Total Quarterly Wages in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "ENUC361440010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC361440010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC361440110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC361440110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC361440210": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Ocean City, NJ (MSA)",
+        "start": "1995-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC361440210SA": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Ocean City, NJ (MSA)",
+        "start": "1995-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC361440310": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC361440310SA": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC361440510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC361440510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "IRPD36140": {
+        "title": "Implicit Regional Price Deflator for Ocean City, NJ (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 0
+    },
+    "LAUMT343614000000003A": {
+        "title": "Unemployment Rate in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "LAUMT343614000000004": {
+        "title": "Unemployed Persons in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT343614000000004A": {
+        "title": "Unemployed Persons in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUMT343614000000005": {
+        "title": "Employed Persons in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT343614000000005A": {
+        "title": "Employed Persons in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUMT343614000000006A": {
+        "title": "Civilian Labor Force in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "MEDDAYONMAR36140": {
+        "title": "Housing Inventory: Median Days on Market in Ocean City, NJ (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDDAYONMARMM36140": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDDAYONMARYY36140": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI36140": {
+        "title": "Housing Inventory: Median Listing Price in Ocean City, NJ (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIMM36140": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE36140": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in Ocean City, NJ (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEMM36140": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY36140": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "MEDLISPRIYY36140": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEE36140": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in Ocean City, NJ (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDSQUFEEMM36140": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEEYY36140": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "NEWLISCOU36140": {
+        "title": "Housing Inventory: New Listing Count in Ocean City, NJ (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "NEWLISCOUMM36140": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWLISCOUYY36140": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NGMP36140": {
+        "title": "Total Gross Domestic Product for Ocean City, NJ (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "OCEA134BP1FH": {
+        "title": "New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA)",
+        "start": "2004-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 1
+    },
+    "OCEA134BP1FHSA": {
+        "title": "New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA)",
+        "start": "2004-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 1
+    },
+    "OCEA134BPPRIV": {
+        "title": "New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)",
+        "start": "2004-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 1
+    },
+    "OCEA134BPPRIVSA": {
+        "title": "New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)",
+        "start": "2004-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 1
+    },
+    "OCEA134EDUH": {
+        "title": "All Employees: Education and Health Services in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "OCEA134EDUHN": {
+        "title": "All Employees: Education and Health Services in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "OCEA134GOVT": {
+        "title": "All Employees: Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "OCEA134GOVTN": {
+        "title": "All Employees: Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "OCEA134LEIH": {
+        "title": "All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "OCEA134LEIHN": {
+        "title": "All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "OCEA134LF": {
+        "title": "Civilian Labor Force in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "OCEA134LFN": {
+        "title": "Civilian Labor Force in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "OCEA134NA": {
+        "title": "All Employees: Total Nonfarm in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "OCEA134NAN": {
+        "title": "All Employees: Total Nonfarm in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "OCEA134PCPI": {
+        "title": "Per Capita Personal Income in Ocean City, NJ (MSA)",
+        "start": "1969-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "OCEA134TRAD": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "OCEA134TRADN": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "OCEA134UR": {
+        "title": "Unemployment Rate in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "OCEA134URN": {
+        "title": "Unemployment Rate in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "OCIPOP": {
+        "title": "Resident Population in Ocean City, NJ (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "PATENTCBSA136140": {
+        "title": "U.S. Granted Utility Patents Originating in Ocean City, NJ (MSA)",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 1
+    },
+    "PCRGMP36140": {
+        "title": "Total Per Capita Real Gross Domestic Product for Ocean City, NJ (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 1
+    },
+    "PENLISCOU36140": {
+        "title": "Housing Inventory: Pending Listing Count in Ocean City, NJ (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM36140": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY36140": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU36140": {
+        "title": "Housing Inventory: Price Increased Count in Ocean City, NJ (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIINCCOUMM36140": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOUYY36140": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOU36140": {
+        "title": "Housing Inventory: Price Reduced Count in Ocean City, NJ (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM36140": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY36140": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in Ocean City, NJ (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "QGMP36140": {
+        "title": "Total Quantity Indexes for Real GDP for Ocean City, NJ (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP36140": {
+        "title": "Total Real Gross Domestic Product for Ocean City, NJ (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPI36140": {
+        "title": "Real Personal Income for Ocean City, NJ (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC36140": {
+        "title": "Real Per Capita Personal Income for Ocean City, NJ (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPPALL36140": {
+        "title": "Regional Price Parities: All Items for Ocean City, NJ (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD36140": {
+        "title": "Regional Price Parities: Goods for Ocean City, NJ (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 0
+    },
+    "RPPSERVEOTH36140": {
+        "title": "Regional Price Parities: Services: Other for Ocean City, NJ (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 0
+    },
+    "RPPSERVERENT36140": {
+        "title": "Regional Price Parities: Services: Rents for Ocean City, NJ (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SMS34361400000000026": {
+        "title": "All Employees: Total Nonfarm in Ocean City, NJ (MSA)",
+        "start": "1990-04-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "3-Month Average Change, Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361400000000001A": {
+        "title": "All Employees: Total Nonfarm in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU34361400500000001": {
+        "title": "All Employees: Total Private in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361400500000001A": {
+        "title": "All Employees: Total Private in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU34361400500000001SA": {
+        "title": "All Employees: Total Private in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361400500000002": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Ocean City, NJ (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU34361400500000002A": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Ocean City, NJ (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 0
+    },
+    "SMU34361400500000002SA": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Ocean City, NJ (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU34361400500000003": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU34361400500000003A": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 0
+    },
+    "SMU34361400500000003SA": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Ocean City, NJ (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU34361400500000011": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU34361400500000011A": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "SMU34361400500000011SA": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Ocean City, NJ (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU34361400600000001": {
+        "title": "All Employees: Goods Producing in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361400600000001A": {
+        "title": "All Employees: Goods Producing in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU34361400600000001SA": {
+        "title": "All Employees: Goods Producing in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU34361400700000001": {
+        "title": "All Employees: Service-Providing in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361400700000001A": {
+        "title": "All Employees: Service-Providing in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU34361400700000001SA": {
+        "title": "All Employees: Service-Providing in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361400800000001": {
+        "title": "All Employees: Private Service Providing in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361400800000001A": {
+        "title": "All Employees: Private Service Providing in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU34361400800000001SA": {
+        "title": "All Employees: Private Service Providing in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361404000000001A": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU34361404200000001": {
+        "title": "All Employees: Retail Trade in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361404200000001A": {
+        "title": "All Employees: Retail Trade in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361404200000001SA": {
+        "title": "All Employees: Retail Trade in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361406500000001A": {
+        "title": "All Employees: Education and Health Services in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU34361407000000001A": {
+        "title": "All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361407072000001": {
+        "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361407072000001A": {
+        "title": "All Employees: Accommodation and Food Services in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361407072000001SA": {
+        "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361409000000001A": {
+        "title": "All Employees: Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU34361409091000001": {
+        "title": "All Employees: Government: Federal Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361409091000001A": {
+        "title": "All Employees: Federal Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361409091000001SA": {
+        "title": "All Employees: Government: Federal Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361409092000001": {
+        "title": "All Employees: Government: State Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361409092000001A": {
+        "title": "All Employees: State Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361409092000001SA": {
+        "title": "All Employees: Government: State Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361409093000001": {
+        "title": "All Employees: Government: Local Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361409093000001A": {
+        "title": "All Employees: Local Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU34361409093000001SA": {
+        "title": "All Employees: Government: Local Government in Ocean City, NJ (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    }
+}

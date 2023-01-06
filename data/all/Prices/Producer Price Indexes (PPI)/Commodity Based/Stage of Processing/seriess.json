@@ -1,0 +1,850 @@
+{
+    "PFCGEF": {
+        "title": "Producer Price Index by Commodity for Finished Consumer Goods Excluding Foods (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "PPICEM": {
+        "title": "Producer Price Index by Commodity for Crude Energy Materials (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "PPICFF": {
+        "title": "Producer Price Index by Commodity for Crude Foodstuffs and Feedstuffs (DISCONTINUED)",
+        "start": "1969-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "PPICPE": {
+        "title": "Producer Price Index by Commodity for Finished Goods: Capital Equipment (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 4
+    },
+    "PPICRM": {
+        "title": "Producer Price Index by Commodity for Crude Materials for Further Processing (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 3
+    },
+    "PPIFCF": {
+        "title": "Producer Price Index by Commodity for Finished Consumer Foods (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 3
+    },
+    "PPIFCG": {
+        "title": "Producer Price Index by Commodity for Finished Consumer Goods (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 2
+    },
+    "PPIFEG": {
+        "title": "Producer Price Index by Commodity for Finished Energy Goods (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "PPIFGS": {
+        "title": "Producer Price Index by Commodity for Finished Goods (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 18
+    },
+    "PPIFLE": {
+        "title": "Producer Price Index by Commodity for Finished Goods Less Energy (DISCONTINUED)",
+        "start": "1975-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "PPIFLF": {
+        "title": "Producer Price Index by Commodity for Finished Goods Excluding Foods (DISCONTINUED)",
+        "start": "1967-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "PPIIEG": {
+        "title": "Producer Price Index by Commodity Intermediate Energy Goods (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "PPIIFF": {
+        "title": "Producer Price Index by Commodity Intermediate Foods and Feeds (DISCONTINUED)",
+        "start": "1967-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "PPIITM": {
+        "title": "Producer Price Index by Commodity Intermediate Materials: Supplies and Components (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 6
+    },
+    "PPILFE": {
+        "title": "Producer Price Index by Commodity for Finished Goods Less Food and Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 13
+    },
+    "WPSSOP1200": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Nonfood Materials Except Fuel (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP1210": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP121X": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nonfood Materials Excluding Fuel for Manufacturing, Excluding Selected Items (DISCONTINUED)",
+        "start": "1967-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP1220": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Construction (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP1300": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Fuel (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP1310": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing Industries (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP1320": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nonmanufacturing Industries (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP1400": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Materials Less Agricultural Products (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP1500": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Nonfood Materials Less Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP1510": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Energy Materials (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP1600": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Materials Less Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2100": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2110": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Food Manufacturing (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2120": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nondurable Manufacturing (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2130": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Durable Manufacturing (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2140": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Components for Manufacturing (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 0
+    },
+    "WPSSOP2200": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Materials and Components for Construction (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2400": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Processed Fuels and Lubricants (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2410": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing Industries (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2420": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nonmanufacturing Industries (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2500": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Containers, Nonreturnable (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2600": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Supplies (DISCONTINUED)",
+        "start": "1976-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2610": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing Industries (DISCONTINUED)",
+        "start": "1978-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2620": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nonmanufacturing Industries (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2621": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufactured Animal Feeds (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2622": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Other Supplies (DISCONTINUED)",
+        "start": "1978-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2700": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Intermediate Materials Less Foods and Feeds (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2900": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Intermediate Materials Less Food and Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP2920": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Intermediate Materials Less Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP3111": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Foods, Crude (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP3112": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Foods, Processed (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP3120": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Consumer Nondurable Goods Less Food (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP3130": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Consumer Durable Goods (DISCONTINUED)",
+        "start": "1947-04-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP3210": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing Industries (DISCONTINUED)",
+        "start": "1975-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP3220": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nonmanufacturing Industries (DISCONTINUED)",
+        "start": "1975-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP3600": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Goods Less Food and Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP3610": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Goods Less Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOP3620": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Consumer Nondurable Goods Less Food and Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPSSOPCNMT": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Nonfood Materials (DISCONTINUED)",
+        "start": "1967-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1000": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Materials (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1100": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Foodstuffs and Feedstuffs (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1200": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Nonfood Materials Except Fuel (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1210": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP121X": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nonfood Materials Excluding Fuel for Manufacturing, Excluding Selected Items (DISCONTINUED)",
+        "start": "1967-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1220": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Construction (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1300": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Fuel (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1310": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing Industries (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1320": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nonmanufacturing Industries (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1400": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Materials Less Agricultural Products (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1500": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Nonfood Materials Less Energy (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP1600": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Materials Less Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2000": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Intermediate Materials, Supplies, and Components (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 2
+    },
+    "WPUSOP2100": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2110": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Food Manufacturing (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2120": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nondurable Manufacturing (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 0
+    },
+    "WPUSOP2130": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Durable Manufacturing (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 2
+    },
+    "WPUSOP2140": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Components for Manufacturing (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2200": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Materials and Components for Construction (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2400": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Processed Fuels and Lubricants (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2410": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing Industries (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2420": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nonmanufacturing Industries (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2500": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Containers, Nonreturnable (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2600": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Supplies (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2610": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing Industries (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 2
+    },
+    "WPUSOP2620": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nonmanufacturing Industries (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2621": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufactured Animal Feeds (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2622": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Other Supplies (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2700": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Intermediate Materials Less Foods and Feeds (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2800": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Intermediate Foods and Feeds (DISCONTINUED)",
+        "start": "1967-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP2900": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Intermediate Materials Less Food and Energy (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 3
+    },
+    "WPUSOP2910": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Intermediate Energy Goods (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 2
+    },
+    "WPUSOP2920": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Intermediate Materials Less Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3000": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Goods (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 11
+    },
+    "WPUSOP3100": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Goods (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3110": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Foods (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3111": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Foods, Crude (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3112": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Foods, Processed (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3120": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Consumer Nondurable Goods Less Food (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3130": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Consumer Durable Goods (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3200": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Capital Equipment (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 2
+    },
+    "WPUSOP3210": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Manufacturing Industries (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3220": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Nonmanufacturing Industries (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3300": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Goods Excluding Foods (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3400": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Goods, Excluding Foods (DISCONTINUED)",
+        "start": "1967-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3500": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Goods Less Food and Energy (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 6
+    },
+    "WPUSOP3510": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Energy Goods (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3520": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Goods Less Energy (DISCONTINUED)",
+        "start": "1975-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3600": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Goods Less Food and Energy (DISCONTINUED)",
+        "start": "1973-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3610": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Finished Consumer Goods Less Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOP3620": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Consumer Nondurable Goods Less Food and Energy (DISCONTINUED)",
+        "start": "1974-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    },
+    "WPUSOPCNMT": {
+        "title": "Producer Price Index by Commodity for Stage of Processing: Crude Nonfood Materials (DISCONTINUED)",
+        "start": "1967-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Index 1982=100",
+        "popularity": 1
+    }
+}

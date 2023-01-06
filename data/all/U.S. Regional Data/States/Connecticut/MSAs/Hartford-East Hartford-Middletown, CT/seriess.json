@@ -1,0 +1,698 @@
+{
+    "ACTLISCOU25540": {
+        "title": "Housing Inventory: Active Listing Count in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "ACTLISCOUMM25540": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ACTLISCOUYY25540": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ATNHPIUS25540Q": {
+        "title": "All-Transactions House Price Index for Hartford-East Hartford-Middletown, CT (MSA)",
+        "start": "1977-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index 1995:Q1=100",
+        "popularity": 8
+    },
+    "AVELISPRI25540": {
+        "title": "Housing Inventory: Average Listing Price in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "AVELISPRIMM25540": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRIYY25540": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "CCDIOA25540Q156N": {
+        "title": "CredAbility Consumer Distress Index for Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "2005-01-01",
+        "end": "2013-01-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "DESCMSA25540": {
+        "title": "Market Hotness: Demand Score in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "ENUC255430010": {
+        "title": "Total Quarterly Wages in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC255430010SA": {
+        "title": "Total Quarterly Wages in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "ENUC255440010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC255440010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC255440110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC255440110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC255440210": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC255440210SA": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC255440310": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-07-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC255440310SA": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-07-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC255440510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-01-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC255440510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-01-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "HNBAGRIDX": {
+        "title": "Economic Conditions Index for Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "1990-02-01",
+        "end": "2019-12-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "HORAMMMSA25540": {
+        "title": "Market Hotness: Hotness Rank in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change",
+        "popularity": 1
+    },
+    "HORAMSA25540": {
+        "title": "Market Hotness: Hotness Rank in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "HORAYYMSA25540": {
+        "title": "Market Hotness: Hotness Rank in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change from Year Ago",
+        "popularity": 1
+    },
+    "HOSCMSA25540": {
+        "title": "Market Hotness: Hotness Score in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "HTFPOP": {
+        "title": "Resident Population in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 3
+    },
+    "IHLCHG25540": {
+        "title": "Job Postings on Indeed in Hartford-East Hartford-Middletown, CT (MSA)",
+        "start": "2020-02-01",
+        "end": "2022-11-25",
+        "frequency": "Daily, 7-Day",
+        "units": "Percent Change from Feb 01, 2020",
+        "popularity": 1
+    },
+    "INTINCOMEHNB": {
+        "title": "Net Interest Income for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "IRPD25540": {
+        "title": "Implicit Regional Price Deflator for Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "LDPEPRMMMSA25540": {
+        "title": "Market Hotness: Listing Views per Property in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "LDPEPRVSUSMSA25540": {
+        "title": "Market Hotness: Listing Views per Property Versus the United States in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "LDPEPRYYMSA25540": {
+        "title": "Market Hotness: Listing Views per Property in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "LLSHNB": {
+        "title": "Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "LLSRHNB": {
+        "title": "Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDAONMAMMMSA25540": {
+        "title": "Market Hotness: Median Days on Market in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MEDAONMAMSA25540": {
+        "title": "Market Hotness: Median Days on Market in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Days",
+        "popularity": 1
+    },
+    "MEDAONMAYYMSA25540": {
+        "title": "Market Hotness: Median Days on Market in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDDAYONMAR25540": {
+        "title": "Housing Inventory: Median Days on Market in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 6
+    },
+    "MEDDAYONMARMM25540": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDDAYONMARYY25540": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI25540": {
+        "title": "Housing Inventory: Median Listing Price in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIMM25540": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE25540": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEMM25540": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY25540": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIYY25540": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDOMMDAMSA25540": {
+        "title": "Market Hotness: Median Days on Market in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDOVSUSMSA25540": {
+        "title": "Market Hotness: Median Days on Market Versus the United States in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MEDOYYDAMSA25540": {
+        "title": "Market Hotness: Median Days on Market Day in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDSQUFEE25540": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDSQUFEEMM25540": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEEYY25540": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MELIPRMMMSA25540": {
+        "title": "Market Hotness: Median Listing Price in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MELIPRMSA25540": {
+        "title": "Market Hotness: Median Listing Price in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MELIPRVSUSMSA25540": {
+        "title": "Market Hotness: Median Listing Price Versus the United States in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MELIPRYYMSA25540": {
+        "title": "Market Hotness: Median Listing Price in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "NEWLISCOU25540": {
+        "title": "Housing Inventory: New Listing Count in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "NEWLISCOUMM25540": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWLISCOUYY25540": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NGMP25540": {
+        "title": "Total Gross Domestic Product for Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 5
+    },
+    "NIHHRAMSA25540": {
+        "title": "Market Hotness: Nielsen Household Rank in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "NIHNB": {
+        "title": "Net Income for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "NIMHNB": {
+        "title": "Net Interest Margin for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PATENTCBSA125540": {
+        "title": "U.S. Granted Utility Patents Originating in Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 1
+    },
+    "PCRGMP25540": {
+        "title": "Total Per Capita Real Gross Domestic Product for Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 1
+    },
+    "PENLISCOU25540": {
+        "title": "Housing Inventory: Pending Listing Count in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM25540": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY25540": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU25540": {
+        "title": "Housing Inventory: Price Increased Count in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIINCCOUMM25540": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOUYY25540": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOU25540": {
+        "title": "Housing Inventory: Price Reduced Count in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM25540": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY25540": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "QGMP25540": {
+        "title": "Total Quantity Indexes for Real GDP for Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP25540": {
+        "title": "Total Real Gross Domestic Product for Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "ROAHNB": {
+        "title": "Return on Average Assets for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RPI25540": {
+        "title": "Real Personal Income for Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC25540": {
+        "title": "Real Per Capita Personal Income for Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPPALL25540": {
+        "title": "Regional Price Parities: All Items for Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD25540": {
+        "title": "Regional Price Parities: Goods for Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVEOTH25540": {
+        "title": "Regional Price Parities: Services: Other for Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVERENT25540": {
+        "title": "Regional Price Parities: Services: Rents for Hartford-West Hartford-East Hartford, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SUSCMSA25540": {
+        "title": "Market Hotness: Supply Score in Hartford-West Hartford-East Hartford, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "TOTASSETHNB": {
+        "title": "Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "TOTLOANHNB": {
+        "title": "Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    }
+}

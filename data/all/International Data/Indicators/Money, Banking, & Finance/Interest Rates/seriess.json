@@ -1,0 +1,4426 @@
+{
+    "ECBDFR": {
+        "title": "ECB Deposit Facility Rate for Euro Area",
+        "start": "1999-01-01",
+        "end": "2022-12-28",
+        "frequency": "Daily, 7-Day",
+        "units": "Percent",
+        "popularity": 56
+    },
+    "ECBMLFR": {
+        "title": "ECB Marginal Lending Facility Rate for Euro Area",
+        "start": "1999-01-01",
+        "end": "2022-12-28",
+        "frequency": "Daily, 7-Day",
+        "units": "Percent",
+        "popularity": 38
+    },
+    "ECBMRRFR": {
+        "title": "ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area",
+        "start": "1999-01-01",
+        "end": "2022-12-28",
+        "frequency": "Daily, 7-Day",
+        "units": "Percent",
+        "popularity": 45
+    },
+    "INTDSRAUM193N": {
+        "title": "Interest Rates, Discount Rate for Australia",
+        "start": "1969-07-01",
+        "end": "2013-04-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 20
+    },
+    "INTDSRBRM193N": {
+        "title": "Interest Rates, Discount Rate for Brazil",
+        "start": "1996-10-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 24
+    },
+    "INTDSRCAM193N": {
+        "title": "Interest Rates, Discount Rate for Canada",
+        "start": "1992-12-01",
+        "end": "2013-01-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 24
+    },
+    "INTDSRCNM193N": {
+        "title": "Interest Rates, Discount Rate for China",
+        "start": "1990-03-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 45
+    },
+    "INTDSRDEM193N": {
+        "title": "Interest Rates, Discount Rate for Germany",
+        "start": "1950-01-01",
+        "end": "1998-12-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 23
+    },
+    "INTDSRESM193N": {
+        "title": "Interest Rates, Discount Rate for Spain",
+        "start": "1964-01-01",
+        "end": "1998-12-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 12
+    },
+    "INTDSREZA193N": {
+        "title": "Interest Rates, Discount Rate for Euro Area",
+        "start": "1999-01-01",
+        "end": "2016-01-01",
+        "frequency": "Annual",
+        "units": "Percent per Annum",
+        "popularity": 3
+    },
+    "INTDSREZM193N": {
+        "title": "Interest Rates, Discount Rate for Euro Area",
+        "start": "1999-01-01",
+        "end": "2017-05-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 20
+    },
+    "INTDSREZQ193N": {
+        "title": "Interest Rates, Discount Rate for Euro Area",
+        "start": "1999-01-01",
+        "end": "2017-01-01",
+        "frequency": "Quarterly",
+        "units": "Percent per Annum",
+        "popularity": 29
+    },
+    "INTDSRGBM193N": {
+        "title": "Interest Rates, Discount Rate for United Kingdom",
+        "start": "1959-01-01",
+        "end": "2013-03-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 32
+    },
+    "INTDSRIDM193N": {
+        "title": "Interest Rates, Discount Rate for Indonesia",
+        "start": "1990-01-01",
+        "end": "2013-04-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 25
+    },
+    "INTDSRINM193N": {
+        "title": "Interest Rates, Discount Rate for India",
+        "start": "1968-01-01",
+        "end": "2022-07-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 38
+    },
+    "INTDSRIRM193N": {
+        "title": "Interest Rates, Discount Rate for Islamic Republic of Iran",
+        "start": "1957-01-01",
+        "end": "2004-09-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 6
+    },
+    "INTDSRITM193N": {
+        "title": "Interest Rates, Discount Rate for Italy",
+        "start": "1964-01-01",
+        "end": "1998-12-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 20
+    },
+    "INTDSRJPM193N": {
+        "title": "Interest Rates, Discount Rate for Japan",
+        "start": "1953-01-01",
+        "end": "2017-04-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 51
+    },
+    "INTDSRKRM193N": {
+        "title": "Interest Rates, Discount Rate for Republic of Korea",
+        "start": "1964-01-01",
+        "end": "2022-08-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 43
+    },
+    "INTDSRMXM193N": {
+        "title": "Interest Rates, Discount Rate for Mexico",
+        "start": "2008-01-01",
+        "end": "2013-04-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 15
+    },
+    "INTDSRPLM193N": {
+        "title": "Interest Rates, Discount Rate for Poland",
+        "start": "1998-01-01",
+        "end": "2013-04-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 7
+    },
+    "INTDSRRUM193N": {
+        "title": "Interest Rates, Discount Rate for Russian Federation",
+        "start": "1995-01-01",
+        "end": "2013-04-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 14
+    },
+    "INTDSRSAM193N": {
+        "title": "Interest Rates, Discount Rate for Saudi Arabia",
+        "start": "1999-01-01",
+        "end": "2013-03-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 23
+    },
+    "INTDSRTRM193N": {
+        "title": "Interest Rates, Discount Rate for Turkey",
+        "start": "1964-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 41
+    },
+    "INTDSRUSM193N": {
+        "title": "Interest Rates, Discount Rate for United States",
+        "start": "1950-01-01",
+        "end": "2021-08-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 73
+    },
+    "INTDSRZAM193N": {
+        "title": "Interest Rates, Discount Rate for South Africa",
+        "start": "1957-01-01",
+        "end": "2013-04-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 13
+    },
+    "INTGSBAUM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Australia",
+        "start": "1969-07-01",
+        "end": "2019-11-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 11
+    },
+    "INTGSBCAM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Canada",
+        "start": "1950-01-01",
+        "end": "2017-04-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 6
+    },
+    "INTGSBDEM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Germany",
+        "start": "1957-01-01",
+        "end": "2017-05-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 11
+    },
+    "INTGSBESM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Spain",
+        "start": "1978-03-01",
+        "end": "2022-09-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 6
+    },
+    "INTGSBEZA193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Euro Area",
+        "start": "1970-01-01",
+        "end": "2016-01-01",
+        "frequency": "Annual",
+        "units": "Percent per Annum",
+        "popularity": 1
+    },
+    "INTGSBEZM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Euro Area",
+        "start": "1970-01-01",
+        "end": "2017-05-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 11
+    },
+    "INTGSBEZQ193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Euro Area",
+        "start": "1970-01-01",
+        "end": "2017-01-01",
+        "frequency": "Quarterly",
+        "units": "Percent per Annum",
+        "popularity": 1
+    },
+    "INTGSBFRM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for France",
+        "start": "1969-01-01",
+        "end": "2017-05-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 7
+    },
+    "INTGSBGBM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for United Kingdom",
+        "start": "1957-01-01",
+        "end": "2022-08-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 40
+    },
+    "INTGSBINM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for India",
+        "start": "1960-01-01",
+        "end": "2017-05-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 17
+    },
+    "INTGSBITM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Italy",
+        "start": "1980-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 14
+    },
+    "INTGSBJPM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Japan",
+        "start": "1999-01-01",
+        "end": "2017-05-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 17
+    },
+    "INTGSBKRM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Republic of Korea",
+        "start": "1973-05-01",
+        "end": "2022-08-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 15
+    },
+    "INTGSBMXM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Mexico",
+        "start": "2001-10-01",
+        "end": "2022-09-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 4
+    },
+    "INTGSBPLM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Poland",
+        "start": "2001-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 5
+    },
+    "INTGSBRUM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for Russian Federation",
+        "start": "2005-04-01",
+        "end": "2011-03-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 2
+    },
+    "INTGSBUSM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for United States",
+        "start": "1953-04-01",
+        "end": "2021-08-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 13
+    },
+    "INTGSBZAM193N": {
+        "title": "Interest Rates, Government Securities, Government Bonds for South Africa",
+        "start": "1957-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 5
+    },
+    "INTGSTAUM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Australia",
+        "start": "1995-01-01",
+        "end": "2013-05-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 9
+    },
+    "INTGSTBRM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Brazil",
+        "start": "1995-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 39
+    },
+    "INTGSTCAM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Canada",
+        "start": "1950-01-01",
+        "end": "2017-04-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 17
+    },
+    "INTGSTDEM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Germany",
+        "start": "1975-07-01",
+        "end": "2007-08-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 15
+    },
+    "INTGSTESM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Spain",
+        "start": "1987-07-01",
+        "end": "2022-09-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 8
+    },
+    "INTGSTFRM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for France",
+        "start": "1970-01-01",
+        "end": "2017-05-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 12
+    },
+    "INTGSTGBM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for United Kingdom",
+        "start": "1964-01-01",
+        "end": "2016-08-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 11
+    },
+    "INTGSTITM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Italy",
+        "start": "1977-03-01",
+        "end": "2022-09-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 10
+    },
+    "INTGSTJPM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Japan",
+        "start": "1955-04-01",
+        "end": "2017-06-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 27
+    },
+    "INTGSTMXM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Mexico",
+        "start": "1986-10-01",
+        "end": "2022-09-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 28
+    },
+    "INTGSTPLM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Poland",
+        "start": "1992-01-01",
+        "end": "2017-02-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 3
+    },
+    "INTGSTRUM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Russian Federation",
+        "start": "1995-01-01",
+        "end": "2001-11-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 6
+    },
+    "INTGSTSAM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Saudi Arabia",
+        "start": "2009-06-01",
+        "end": "2018-02-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 12
+    },
+    "INTGSTTRM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for Turkey",
+        "start": "1986-12-01",
+        "end": "2008-04-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 12
+    },
+    "INTGSTUSM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for United States",
+        "start": "1950-01-01",
+        "end": "2021-08-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 22
+    },
+    "INTGSTZAM193N": {
+        "title": "Interest Rates, Government Securities, Treasury Bills for South Africa",
+        "start": "1957-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent per Annum",
+        "popularity": 19
+    },
+    "IR3OBD01IDA156N": {
+        "title": "Other 3-Month Rates: Bank Deposit Rates for Indonesia",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3OBD01IDM156N": {
+        "title": "Other 3-Month Rates: Bank Deposit Rates for Indonesia",
+        "start": "1998-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IR3OBD01IDQ156N": {
+        "title": "Other 3-Month Rates: Bank Deposit Rates for Indonesia",
+        "start": "1998-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TBB01AUA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Bank Bills: Total for Australia",
+        "start": "1968-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IR3TBB01AUM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Bank Bills: Total for Australia",
+        "start": "1968-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 39
+    },
+    "IR3TBB01AUQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Bank Bills: Total for Australia",
+        "start": "1968-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 49
+    },
+    "IR3TBB01NZA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Bank Bills for New Zealand",
+        "start": "1974-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TBB01NZM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Bank Bills for New Zealand",
+        "start": "1973-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 35
+    },
+    "IR3TBB01NZQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Bank Bills for New Zealand",
+        "start": "1974-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TCD01JPA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Certificates of Deposit for Japan",
+        "start": "1980-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TCD01JPM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Certificates of Deposit for Japan",
+        "start": "1979-05-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 18
+    },
+    "IR3TCD01JPQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Certificates of Deposit for Japan",
+        "start": "1979-07-01",
+        "end": "2022-01-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TCD01KRA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Certificates of Deposit for the Republic of Korea",
+        "start": "1991-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TCD01KRM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Certificates of Deposit for the Republic of Korea",
+        "start": "1991-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 39
+    },
+    "IR3TCD01KRQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Certificates of Deposit for the Republic of Korea",
+        "start": "1991-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TCD01USA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Certificates of Deposit for the United States",
+        "start": "1965-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TCD01USM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Certificates of Deposit for the United States",
+        "start": "1964-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 39
+    },
+    "IR3TCD01USQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Certificates of Deposit for the United States",
+        "start": "1964-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 13
+    },
+    "IR3TCP01CAA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Commercial/Corporate Paper: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TCP01CAM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Commercial/Corporate Paper: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 15
+    },
+    "IR3TCP01CAQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Commercial/Corporate Paper: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TED01CHA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Eurodollar Deposits: Total for Switzerland",
+        "start": "1974-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TED01CHM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Eurodollar Deposits: Total for Switzerland",
+        "start": "1974-01-01",
+        "end": "2022-04-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "IR3TED01CHQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Eurodollar Deposits: Total for Switzerland",
+        "start": "1974-01-01",
+        "end": "2022-01-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TED01USA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Eurodollar Deposits for the United States",
+        "start": "1960-01-01",
+        "end": "2020-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 17
+    },
+    "IR3TED01USM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Eurodollar Deposits for the United States",
+        "start": "1960-01-01",
+        "end": "2021-06-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 31
+    },
+    "IR3TED01USQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Eurodollar Deposits for the United States",
+        "start": "1960-01-01",
+        "end": "2021-04-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 15
+    },
+    "IR3TIB01ATA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Austria",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01ATM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Austria",
+        "start": "1989-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IR3TIB01ATQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Austria",
+        "start": "1989-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01AUA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Australia",
+        "start": "1968-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TIB01AUM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Australia",
+        "start": "1968-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 29
+    },
+    "IR3TIB01AUQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Australia",
+        "start": "1968-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IR3TIB01BEA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Belgium",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01BEM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Belgium",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IR3TIB01BEQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Belgium",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01CAA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IR3TIB01CAM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 30
+    },
+    "IR3TIB01CAQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IR3TIB01CHA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Switzerland",
+        "start": "1974-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01CHM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Switzerland",
+        "start": "1974-01-01",
+        "end": "2021-12-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 21
+    },
+    "IR3TIB01CHQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Switzerland",
+        "start": "1974-01-01",
+        "end": "2021-10-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01CLA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Chile",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01CLM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Chile",
+        "start": "1997-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IR3TIB01CLQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Chile",
+        "start": "1997-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01CNA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for China (People's Republic Of)",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01CNM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for China (People's Republic Of)",
+        "start": "1997-06-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 19
+    },
+    "IR3TIB01CNQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for China (People's Republic Of)",
+        "start": "1997-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01CZA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for the Czech Republic",
+        "start": "1993-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01CZM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for the Czech Republic",
+        "start": "1993-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IR3TIB01CZQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for the Czech Republic",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01DEA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Germany",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TIB01DEM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Germany",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 34
+    },
+    "IR3TIB01DEQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Germany",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IR3TIB01DKA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Denmark",
+        "start": "1987-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01DKM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Denmark",
+        "start": "1987-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "IR3TIB01DKQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Denmark",
+        "start": "1987-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IR3TIB01EEA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Estonia",
+        "start": "1996-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01EEM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Estonia",
+        "start": "1996-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IR3TIB01EEQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Estonia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TIB01ESA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Spain",
+        "start": "1977-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01ESM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Spain",
+        "start": "1977-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IR3TIB01ESQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Spain",
+        "start": "1977-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01EZA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for the Euro Area (19 Countries)",
+        "start": "1994-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 12
+    },
+    "IR3TIB01EZM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for the Euro Area (19 Countries)",
+        "start": "1994-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 32
+    },
+    "IR3TIB01EZQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for the Euro Area (19 Countries)",
+        "start": "1994-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "IR3TIB01FIA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Finland",
+        "start": "1987-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01FIM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Finland",
+        "start": "1987-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IR3TIB01FIQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Finland",
+        "start": "1987-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01FRA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for France",
+        "start": "1970-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01FRM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for France",
+        "start": "1970-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 20
+    },
+    "IR3TIB01FRQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for France",
+        "start": "1970-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01GBA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the United Kingdom",
+        "start": "1986-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01GBM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the United Kingdom",
+        "start": "1986-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 32
+    },
+    "IR3TIB01GBQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the United Kingdom",
+        "start": "1986-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IR3TIB01GRA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Greece",
+        "start": "1995-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01GRM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Greece",
+        "start": "1994-03-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IR3TIB01GRQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Greece",
+        "start": "1994-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01HUA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Hungary",
+        "start": "1991-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01HUM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Hungary",
+        "start": "1991-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IR3TIB01HUQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Hungary",
+        "start": "1991-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01IDA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Indonesia",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01IDM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Indonesia",
+        "start": "1998-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 13
+    },
+    "IR3TIB01IDQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Indonesia",
+        "start": "1998-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TIB01IEA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Ireland",
+        "start": "1984-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01IEM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Ireland",
+        "start": "1984-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IR3TIB01IEQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Ireland",
+        "start": "1984-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01ILA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Israel",
+        "start": "1992-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TIB01ILM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Israel",
+        "start": "1992-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IR3TIB01ILQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Israel",
+        "start": "1992-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01ISA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Iceland",
+        "start": "1988-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01ISM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Iceland",
+        "start": "1987-11-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01ISQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Iceland",
+        "start": "1988-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01ITA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Italy",
+        "start": "1979-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01ITM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Italy",
+        "start": "1978-10-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 13
+    },
+    "IR3TIB01ITQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Italy",
+        "start": "1978-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IR3TIB01JPA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Japan",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IR3TIB01JPM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Japan",
+        "start": "2002-04-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 34
+    },
+    "IR3TIB01JPQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Japan",
+        "start": "2002-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IR3TIB01KRA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Republic of Korea",
+        "start": "1991-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01KRM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Republic of Korea",
+        "start": "1991-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IR3TIB01KRQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Republic of Korea",
+        "start": "1991-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01LUA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Luxembourg",
+        "start": "1999-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01LUM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Luxembourg",
+        "start": "1999-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01LUQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Luxembourg",
+        "start": "1999-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01MXA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Mexico",
+        "start": "1997-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01MXM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Mexico",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 21
+    },
+    "IR3TIB01MXQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Mexico",
+        "start": "1997-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01NLA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Netherlands",
+        "start": "1982-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01NLM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Netherlands",
+        "start": "1982-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IR3TIB01NLQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Netherlands",
+        "start": "1982-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01NOA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Norway",
+        "start": "1979-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01NOM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Norway",
+        "start": "1979-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 23
+    },
+    "IR3TIB01NOQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Norway",
+        "start": "1979-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01NZA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for New Zealand",
+        "start": "1974-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01NZM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for New Zealand",
+        "start": "1973-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 11
+    },
+    "IR3TIB01NZQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for New Zealand",
+        "start": "1974-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01PLA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Poland",
+        "start": "1992-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01PLM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Poland",
+        "start": "1991-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 18
+    },
+    "IR3TIB01PLQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Poland",
+        "start": "1991-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TIB01PTA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Portugal",
+        "start": "1986-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01PTM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Portugal",
+        "start": "1985-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IR3TIB01PTQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Portugal",
+        "start": "1985-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01RUA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Russian Federation",
+        "start": "1997-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01RUM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Russian Federation",
+        "start": "1997-01-01",
+        "end": "2022-02-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 18
+    },
+    "IR3TIB01RUQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Russian Federation",
+        "start": "1997-01-01",
+        "end": "2021-10-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01SEA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Sweden",
+        "start": "1982-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01SEM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Sweden",
+        "start": "1982-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 19
+    },
+    "IR3TIB01SEQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Sweden",
+        "start": "1982-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IR3TIB01SIA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Slovenia",
+        "start": "2002-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01SIM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Slovenia",
+        "start": "2002-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01SIQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Slovenia",
+        "start": "2002-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01SKA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Slovak Republic",
+        "start": "1996-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01SKM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Slovak Republic",
+        "start": "1995-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TIB01SKQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the Slovak Republic",
+        "start": "1995-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01TRA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Turkey",
+        "start": "1992-01-01",
+        "end": "2004-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01TRM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Turkey",
+        "start": "1991-07-01",
+        "end": "2008-04-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IR3TIB01TRQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Turkey",
+        "start": "1991-07-01",
+        "end": "2006-10-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01USA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the United States",
+        "start": "1965-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IR3TIB01USM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the United States",
+        "start": "1964-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 43
+    },
+    "IR3TIB01USQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for the United States",
+        "start": "1964-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 12
+    },
+    "IR3TIB01ZAA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for South Africa",
+        "start": "1981-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TIB01ZAM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for South Africa",
+        "start": "1981-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 26
+    },
+    "IR3TIB01ZAQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Interbank Rates for South Africa",
+        "start": "1981-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TTS01CNA156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Treasury Securities: Total for China (People's Republic Of)",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IR3TTS01CNM156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Treasury Securities: Total for China (People's Republic Of)",
+        "start": "1997-06-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 31
+    },
+    "IR3TTS01CNQ156N": {
+        "title": "Interest Rates: 3-Month or 90-Day Rates and Yields: Treasury Securities: Total for China (People's Republic Of)",
+        "start": "1997-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IR3TTS01GBA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for the United Kingdom",
+        "start": "1960-01-01",
+        "end": "2016-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TTS01GBM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for the United Kingdom",
+        "start": "1960-01-01",
+        "end": "2017-06-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 35
+    },
+    "IR3TTS01GBQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for the United Kingdom",
+        "start": "1960-01-01",
+        "end": "2017-04-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IR3TTS01HUA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Hungary",
+        "start": "1991-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TTS01HUM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Hungary",
+        "start": "1991-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IR3TTS01HUQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Hungary",
+        "start": "1991-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TTS01MXA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Mexico",
+        "start": "1978-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TTS01MXM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Mexico",
+        "start": "1978-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IR3TTS01MXQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Mexico",
+        "start": "1978-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TTS01SEA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Sweden",
+        "start": "1982-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "IR3TTS01SEM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Sweden",
+        "start": "1982-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IR3TTS01SEQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Sweden",
+        "start": "1982-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TTS01TRA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Turkey",
+        "start": "1992-01-01",
+        "end": "2004-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TTS01TRM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Turkey",
+        "start": "1991-07-01",
+        "end": "2008-04-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IR3TTS01TRQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Turkey",
+        "start": "1991-07-01",
+        "end": "2006-10-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TTS01ZAA156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for South Africa",
+        "start": "1981-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IR3TTS01ZAM156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for South Africa",
+        "start": "1981-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IR3TTS01ZAQ156N": {
+        "title": "3-Month or 90-day Rates and Yields: Treasury Securities for South Africa",
+        "start": "1981-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "IRLOHO01KRA156N": {
+        "title": "Other Long Term Rates and Yields: Housing Bonds for the Republic of Korea",
+        "start": "1987-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLOHO01KRM156N": {
+        "title": "Other Long Term Rates and Yields: Housing Bonds for the Republic of Korea",
+        "start": "1987-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRLOHO01KRQ156N": {
+        "title": "Other Long Term Rates and Yields: Housing Bonds for the Republic of Korea",
+        "start": "1987-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLOHO02LUA156N": {
+        "title": "Other Long Term Rates and Yields: Mortgage Rates for Luxembourg",
+        "start": "1987-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLOHO02LUM156N": {
+        "title": "Other Long Term Rates and Yields: Mortgage Rates for Luxembourg",
+        "start": "1987-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLOHO02LUQ156N": {
+        "title": "Other Long Term Rates and Yields: Mortgage Rates for Luxembourg",
+        "start": "1987-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLONG01LUA156N": {
+        "title": "Other Long Term Rates and Yields: Non-Government Bonds (DISCONTINUED)",
+        "start": "1987-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLONG01LUM156N": {
+        "title": "Other Long Term Rates and Yields: Non-Government Bonds (DISCONTINUED)",
+        "start": "1987-01-01",
+        "end": "2014-04-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLONG01LUQ156N": {
+        "title": "Other Long Term Rates and Yields: Non-Government Bonds (DISCONTINUED)",
+        "start": "1987-01-01",
+        "end": "2014-01-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTCT01ATA156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for Austria (DISCONTINUED)",
+        "start": "1965-01-01",
+        "end": "2014-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTCT01ATM156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for Austria (DISCONTINUED)",
+        "start": "1964-11-01",
+        "end": "2015-03-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTCT01ATQ156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for Austria (DISCONTINUED)",
+        "start": "1965-01-01",
+        "end": "2015-01-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTCT01BEA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: Combined Terms: Total for Belgium",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTCT01BEM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: Combined Terms: Total for Belgium",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTCT01BEQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: Combined Terms: Total for Belgium",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTCT01DEA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: Combined Terms: Total for Germany",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTCT01DEM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: Combined Terms: Total for Germany",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 10
+    },
+    "IRLTCT01DEQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: Combined Terms: Total for Germany",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTCT01RUA156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for the Russian Federation",
+        "start": "1999-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTCT01RUM156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for the Russian Federation",
+        "start": "1999-01-01",
+        "end": "2018-06-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTCT01RUQ156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for the Russian Federation",
+        "start": "1999-01-01",
+        "end": "2018-04-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTCT01USA156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for the United States",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTCT01USM156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for the United States",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 14
+    },
+    "IRLTCT01USQ156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for the United States",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTCT01ZAA156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for South Africa",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTCT01ZAM156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for South Africa",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRLTCT01ZAQ156N": {
+        "title": "Long-Term Government Bond Yields: Combined Terms for South Africa",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01ATA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Austria",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IRLTLT01ATM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Austria",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 14
+    },
+    "IRLTLT01ATQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Austria",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01AUA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Australia",
+        "start": "1970-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRLTLT01AUM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Australia",
+        "start": "1969-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 33
+    },
+    "IRLTLT01AUQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Australia",
+        "start": "1969-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01BEA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Belgium",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IRLTLT01BEM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Belgium",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 15
+    },
+    "IRLTLT01BEQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Belgium",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "IRLTLT01CAA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Canada",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IRLTLT01CAM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Canada",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 38
+    },
+    "IRLTLT01CAQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Canada",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IRLTLT01CHA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Switzerland",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01CHM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Switzerland",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 34
+    },
+    "IRLTLT01CHQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Switzerland",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTLT01CLA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Chile",
+        "start": "2005-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01CLM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Chile",
+        "start": "2004-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IRLTLT01CLQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Chile",
+        "start": "2004-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 11
+    },
+    "IRLTLT01CZA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for the Czech Republic",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01CZM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for the Czech Republic",
+        "start": "2000-04-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRLTLT01CZQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for the Czech Republic",
+        "start": "2000-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IRLTLT01DEA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Germany",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 20
+    },
+    "IRLTLT01DEM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Germany",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 57
+    },
+    "IRLTLT01DEQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Germany",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 13
+    },
+    "IRLTLT01DKA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Denmark",
+        "start": "1987-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01DKM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Denmark",
+        "start": "1987-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 19
+    },
+    "IRLTLT01DKQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Denmark",
+        "start": "1987-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01ESA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Spain",
+        "start": "1980-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IRLTLT01ESM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Spain",
+        "start": "1980-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 28
+    },
+    "IRLTLT01ESQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Spain",
+        "start": "1980-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01EZA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for the Euro Area (19 Countries)",
+        "start": "1970-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 18
+    },
+    "IRLTLT01EZM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for the Euro Area (19 Countries)",
+        "start": "1970-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 48
+    },
+    "IRLTLT01EZQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for the Euro Area (19 Countries)",
+        "start": "1970-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IRLTLT01FIA156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Finland",
+        "start": "1988-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01FIM156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Finland",
+        "start": "1988-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 16
+    },
+    "IRLTLT01FIQ156N": {
+        "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Finland",
+        "start": "1988-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTLT01FRA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for France",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "IRLTLT01FRM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for France",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 39
+    },
+    "IRLTLT01FRQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for France",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRLTLT01GBA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the United Kingdom",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRLTLT01GBM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the United Kingdom",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 52
+    },
+    "IRLTLT01GBQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the United Kingdom",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 12
+    },
+    "IRLTLT01GRA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Greece",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IRLTLT01GRM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Greece",
+        "start": "1997-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 33
+    },
+    "IRLTLT01GRQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Greece",
+        "start": "1997-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 10
+    },
+    "IRLTLT01HUA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Hungary",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01HUM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Hungary",
+        "start": "1999-02-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 12
+    },
+    "IRLTLT01HUQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Hungary",
+        "start": "1999-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTLT01IEA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Ireland",
+        "start": "1971-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRLTLT01IEM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Ireland",
+        "start": "1970-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 22
+    },
+    "IRLTLT01IEQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Ireland",
+        "start": "1971-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01ILA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Israel",
+        "start": "1997-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTLT01ILM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Israel",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 11
+    },
+    "IRLTLT01ILQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Israel",
+        "start": "1997-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTLT01ISA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Iceland",
+        "start": "1992-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01ISM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Iceland",
+        "start": "1992-01-01",
+        "end": "2022-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRLTLT01ISQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Iceland",
+        "start": "1992-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTLT01ITA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Italy",
+        "start": "1992-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRLTLT01ITM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Italy",
+        "start": "1991-03-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 43
+    },
+    "IRLTLT01ITQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Italy",
+        "start": "1991-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 13
+    },
+    "IRLTLT01JPA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Japan",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 10
+    },
+    "IRLTLT01JPM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Japan",
+        "start": "1989-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 54
+    },
+    "IRLTLT01JPQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Japan",
+        "start": "1989-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 10
+    },
+    "IRLTLT01KRA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Republic of Korea",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01KRM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Republic of Korea",
+        "start": "2000-10-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 25
+    },
+    "IRLTLT01KRQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Republic of Korea",
+        "start": "2000-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTLT01LUA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Luxembourg",
+        "start": "1994-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTLT01LUM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Luxembourg",
+        "start": "1993-10-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 16
+    },
+    "IRLTLT01LUQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Luxembourg",
+        "start": "1993-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRLTLT01MXA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Mexico",
+        "start": "2002-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRLTLT01MXM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Mexico",
+        "start": "2001-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 21
+    },
+    "IRLTLT01MXQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Mexico",
+        "start": "2001-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTLT01NLA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Netherlands",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01NLM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Netherlands",
+        "start": "1960-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 22
+    },
+    "IRLTLT01NLQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Netherlands",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01NOA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Norway",
+        "start": "1985-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTLT01NOM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Norway",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 16
+    },
+    "IRLTLT01NOQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Norway",
+        "start": "1985-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTLT01NZA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for New Zealand",
+        "start": "1970-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01NZM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for New Zealand",
+        "start": "1970-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 20
+    },
+    "IRLTLT01NZQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for New Zealand",
+        "start": "1970-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTLT01PLA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Poland",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01PLM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Poland",
+        "start": "2001-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 18
+    },
+    "IRLTLT01PLQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Poland",
+        "start": "2001-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01PTA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Portugal",
+        "start": "1994-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRLTLT01PTM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Portugal",
+        "start": "1993-07-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 16
+    },
+    "IRLTLT01PTQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Portugal",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01RUA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Russian Federation",
+        "start": "1999-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01RUM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Russian Federation",
+        "start": "1999-01-01",
+        "end": "2018-06-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 14
+    },
+    "IRLTLT01RUQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Russian Federation",
+        "start": "1999-01-01",
+        "end": "2018-04-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTLT01SEA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Sweden",
+        "start": "1987-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTLT01SEM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Sweden",
+        "start": "1986-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 25
+    },
+    "IRLTLT01SEQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Sweden",
+        "start": "1987-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTLT01SIA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Slovenia",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTLT01SIM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Slovenia",
+        "start": "2002-03-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 10
+    },
+    "IRLTLT01SIQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Slovenia",
+        "start": "2002-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTLT01SKA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Slovak Republic",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01SKM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Slovak Republic",
+        "start": "2000-09-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01SKQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Slovak Republic",
+        "start": "2000-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTLT01USA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the United States",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 14
+    },
+    "IRLTLT01USM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the United States",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 67
+    },
+    "IRLTLT01USQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the United States",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 25
+    },
+    "IRLTLT01ZAA156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for South Africa",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTLT01ZAM156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for South Africa",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 20
+    },
+    "IRLTLT01ZAQ156N": {
+        "title": "Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for South Africa",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTMT01ISA156N": {
+        "title": "Long-Term Government Bond Yields: 2 to 9 -Year for Iceland",
+        "start": "1994-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTMT01ISM156N": {
+        "title": "Long-Term Government Bond Yields: 2 to 9 -Year for Iceland",
+        "start": "1993-11-01",
+        "end": "2022-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTMT01ISQ156N": {
+        "title": "Long-Term Government Bond Yields: 2 to 9 -Year for Iceland",
+        "start": "1994-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTMT01SEA156N": {
+        "title": "Long-Term Government Bond Yields: 2 to 9 -Year for Sweden",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTMT01SEM156N": {
+        "title": "Long-Term Government Bond Yields: 2 to 9 -Year for Sweden",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRLTMT01SEQ156N": {
+        "title": "Long-Term Government Bond Yields: 2 to 9 -Year for Sweden",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTST01MXA156N": {
+        "title": "Long-Term Government Bond Yields: 6-Month to 2-Year for Mexico",
+        "start": "1991-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRLTST01MXM156N": {
+        "title": "Long-Term Government Bond Yields: 6-Month to 2-Year for Mexico",
+        "start": "1990-11-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRLTST01MXQ156N": {
+        "title": "Long-Term Government Bond Yields: 6-Month to 2-Year for Mexico",
+        "start": "1991-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRLTST01TRA156N": {
+        "title": "Long-Term Government Bond Yields: 6-Month to 2-Year for Turkey",
+        "start": "1992-01-01",
+        "end": "1992-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRLTST01TRM156N": {
+        "title": "Long-Term Government Bond Yields: 6-Month to 2-Year for Turkey",
+        "start": "1991-07-01",
+        "end": "2010-09-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 13
+    },
+    "IRLTST01TRQ156N": {
+        "title": "Long-Term Government Bond Yields: 6-Month to 2-Year for Turkey",
+        "start": "1991-07-01",
+        "end": "2010-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IRSPTT01SIM156N": {
+        "title": "Total Spread of Interest Rates for Slovenia",
+        "start": "2002-03-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCB01ATA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Austria",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCB01ATM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Austria",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCB01ATQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Austria",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01BRA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Brazil",
+        "start": "1996-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01BRM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Brazil",
+        "start": "1996-10-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "IRSTCB01BRQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Brazil",
+        "start": "1996-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCB01CAA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRSTCB01CAM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 35
+    },
+    "IRSTCB01CAQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRSTCB01CNA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for China (People's Republic Of)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCB01CNM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for China (People's Republic Of)",
+        "start": "1990-03-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 18
+    },
+    "IRSTCB01CNQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for China (People's Republic Of)",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCB01CZA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for the Czech Republic",
+        "start": "1992-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01CZM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for the Czech Republic",
+        "start": "1992-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCB01CZQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for the Czech Republic",
+        "start": "1992-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01DKA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Denmark",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01DKM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Denmark",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRSTCB01DKQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Denmark",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01FIA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Finland",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01FIM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Finland",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCB01FIQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Central Bank Rates: Total for Finland",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01HUA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Hungary",
+        "start": "1983-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01HUM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Hungary",
+        "start": "1983-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRSTCB01HUQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Hungary",
+        "start": "1983-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01IDA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Indonesia",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01IDM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Indonesia",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IRSTCB01IDQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Indonesia",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCB01INA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for India",
+        "start": "1968-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01INM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for India",
+        "start": "1968-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IRSTCB01INQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for India",
+        "start": "1968-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCB01JPA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Japan",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRSTCB01JPM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Japan",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 28
+    },
+    "IRSTCB01JPQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Japan",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRSTCB01PLA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Poland",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01PLM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Poland",
+        "start": "1989-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCB01PLQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Poland",
+        "start": "1989-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01RUA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for the Russian Federation",
+        "start": "1995-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01RUM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for the Russian Federation",
+        "start": "1995-01-01",
+        "end": "2022-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IRSTCB01RUQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for the Russian Federation",
+        "start": "1995-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01ZAA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for South Africa",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCB01ZAM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for South Africa",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRSTCB01ZAQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for South Africa",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ATA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Austria",
+        "start": "1999-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ATM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Austria",
+        "start": "1999-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ATQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Austria",
+        "start": "1999-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01AUA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Australia",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01AUM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Australia",
+        "start": "1990-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "IRSTCI01AUQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Australia",
+        "start": "1990-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01BEA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Belgium",
+        "start": "1999-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01BEM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Belgium",
+        "start": "1999-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01BEQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Belgium",
+        "start": "1999-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01BRA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Brazil",
+        "start": "1996-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01BRM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Brazil",
+        "start": "1996-10-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 10
+    },
+    "IRSTCI01BRQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Brazil",
+        "start": "1996-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRSTCI01CAA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Canada",
+        "start": "1975-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01CAM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Canada",
+        "start": "1975-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 12
+    },
+    "IRSTCI01CAQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Canada",
+        "start": "1975-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01CHA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Switzerland",
+        "start": "1972-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01CHM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Switzerland",
+        "start": "1972-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 10
+    },
+    "IRSTCI01CHQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Switzerland",
+        "start": "1972-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01CLA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Chile",
+        "start": "1996-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01CLM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Chile",
+        "start": "1996-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IRSTCI01CLQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Chile",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01CNA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for China (People's Republic Of)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01CNM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for China (People's Republic Of)",
+        "start": "1990-03-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 15
+    },
+    "IRSTCI01CNQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for China (People's Republic Of)",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01CZA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for the Czech Republic",
+        "start": "1993-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01CZM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for the Czech Republic",
+        "start": "1993-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01CZQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for the Czech Republic",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01DEA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Germany",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01DEM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Germany",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 10
+    },
+    "IRSTCI01DEQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Germany",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01DKA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Denmark",
+        "start": "1997-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01DKM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Denmark",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01DKQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Denmark",
+        "start": "1997-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01EEA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Estonia",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01EEM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Estonia",
+        "start": "2007-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01EEQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Estonia",
+        "start": "2007-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ESA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Spain",
+        "start": "1973-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ESM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Spain",
+        "start": "1973-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01ESQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Spain",
+        "start": "1973-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01EZA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for the Euro Area (19 Countries)",
+        "start": "1994-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01EZM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for the Euro Area (19 Countries)",
+        "start": "1994-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 14
+    },
+    "IRSTCI01EZQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for the Euro Area (19 Countries)",
+        "start": "1994-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01FIA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Finland",
+        "start": "1999-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01FIM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Finland",
+        "start": "1999-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01FIQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Finland",
+        "start": "1999-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01FRA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for France",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01FRM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for France",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRSTCI01FRQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for France",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01GBA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the United Kingdom",
+        "start": "1978-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01GBM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the United Kingdom",
+        "start": "1978-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 15
+    },
+    "IRSTCI01GBQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the United Kingdom",
+        "start": "1978-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRSTCI01GRA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Greece",
+        "start": "1980-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01GRM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Greece",
+        "start": "1980-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01GRQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Greece",
+        "start": "1980-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01HUA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Hungary",
+        "start": "1992-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01HUM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Hungary",
+        "start": "1992-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01HUQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Hungary",
+        "start": "1992-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01IDA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Indonesia",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01IDM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Indonesia",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01IDQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Indonesia",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01IEA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Ireland",
+        "start": "1999-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01IEM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Ireland",
+        "start": "1999-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01IEQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Ireland",
+        "start": "1999-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ILA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Israel",
+        "start": "1992-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ILM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Israel",
+        "start": "1992-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01ILQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Israel",
+        "start": "1992-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01INA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for India",
+        "start": "1968-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 13
+    },
+    "IRSTCI01INM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for India",
+        "start": "1968-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "IRSTCI01INQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for India",
+        "start": "1968-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRSTCI01ISA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Iceland",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ISM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Iceland",
+        "start": "1998-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ISQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Iceland",
+        "start": "1998-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ITA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Italy",
+        "start": "1999-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ITM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Italy",
+        "start": "1999-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01ITQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Italy",
+        "start": "1999-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01JPA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Japan",
+        "start": "1985-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01JPM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Japan",
+        "start": "1985-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 32
+    },
+    "IRSTCI01JPQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Japan",
+        "start": "1985-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01KRA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Republic of Korea",
+        "start": "1991-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01KRM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Republic of Korea",
+        "start": "1991-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRSTCI01KRQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Republic of Korea",
+        "start": "1991-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01LUA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Luxembourg",
+        "start": "1999-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01LUM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Luxembourg",
+        "start": "1999-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01LUQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Luxembourg",
+        "start": "1999-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01MXA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Mexico",
+        "start": "1976-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01MXM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Mexico",
+        "start": "1975-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "IRSTCI01MXQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Mexico",
+        "start": "1976-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01NLA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Netherlands",
+        "start": "1999-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01NLM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Netherlands",
+        "start": "1999-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01NLQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Netherlands",
+        "start": "1999-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01NOA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Norway",
+        "start": "1982-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01NOM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Norway",
+        "start": "1982-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "IRSTCI01NOQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Norway",
+        "start": "1982-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01NZA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for New Zealand",
+        "start": "1985-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01NZM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for New Zealand",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01NZQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for New Zealand",
+        "start": "1985-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01PLA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Poland",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01PLM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Poland",
+        "start": "1989-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01PLQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Poland",
+        "start": "1989-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01PTA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Portugal",
+        "start": "1999-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01PTM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Portugal",
+        "start": "1999-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTCI01PTQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Portugal",
+        "start": "1999-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01RUA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Russian Federation",
+        "start": "1995-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01RUM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Russian Federation",
+        "start": "1995-01-01",
+        "end": "2022-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01RUQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Russian Federation",
+        "start": "1995-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01SEA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Sweden",
+        "start": "1960-01-01",
+        "end": "2019-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01SEM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Sweden",
+        "start": "1960-01-01",
+        "end": "2020-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRSTCI01SEQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Sweden",
+        "start": "1960-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01SIA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Slovenia",
+        "start": "2004-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01SIM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Slovenia",
+        "start": "2004-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01SIQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Slovenia",
+        "start": "2004-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01SKA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Slovak Republic",
+        "start": "1995-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01SKM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Slovak Republic",
+        "start": "1995-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01SKQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the Slovak Republic",
+        "start": "1995-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01TRA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Turkey",
+        "start": "1986-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01TRM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Turkey",
+        "start": "1986-05-01",
+        "end": "2022-09-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 11
+    },
+    "IRSTCI01TRQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Turkey",
+        "start": "1986-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01USA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the United States",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01USM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the United States",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 23
+    },
+    "IRSTCI01USQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for the United States",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ZAA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for South Africa",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTCI01ZAM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for South Africa",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTCI01ZAQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for South Africa",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTFR01BRA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Federal Funds Rate: Total for Brazil",
+        "start": "1994-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTFR01BRM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Federal Funds Rate: Total for Brazil",
+        "start": "1986-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "IRSTFR01BRQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Federal Funds Rate: Total for Brazil",
+        "start": "1994-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTFR01USA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Federal Funds Rate for the United States",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTFR01USM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Federal Funds Rate for the United States",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRSTFR01USQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Federal Funds Rate for the United States",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "IRSTLC01GBA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: London Clearing Banks Rate for the United Kingdom (DISCONTINUED)",
+        "start": "1971-01-01",
+        "end": "2014-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTLC01GBM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: London Clearing Banks Rate for the United Kingdom (DISCONTINUED)",
+        "start": "1971-09-01",
+        "end": "2015-07-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTLC01GBQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: London Clearing Banks Rate for the United Kingdom (DISCONTINUED)",
+        "start": "1971-07-01",
+        "end": "2015-04-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTPI01CAA156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Prime Rates: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTPI01CAM156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Prime Rates: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 23
+    },
+    "IRSTPI01CAQ156N": {
+        "title": "Interest Rates: Immediate Rates (< 24 Hrs): Prime Rates: Total for Canada",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "IRSTPI01INA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Prime Rates for India",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTPI01INM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Prime Rates for India",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "IRSTPI01INQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Prime Rates for India",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTPI01USA156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Prime Rates for the United States",
+        "start": "1960-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "IRSTPI01USM156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Prime Rates for the United States",
+        "start": "1960-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "IRSTPI01USQ156N": {
+        "title": "Immediate Rates: Less than 24 Hours: Prime Rates for the United States",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    }
+}

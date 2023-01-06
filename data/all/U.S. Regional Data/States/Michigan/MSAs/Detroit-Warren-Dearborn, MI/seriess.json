@@ -1,0 +1,2770 @@
+{
+    "ACTLISCOU19820": {
+        "title": "Housing Inventory: Active Listing Count in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 2
+    },
+    "ACTLISCOUMM19820": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ACTLISCOUYY19820": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRI19820": {
+        "title": "Housing Inventory: Average Listing Price in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "AVELISPRIMM19820": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRIYY19820": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "CCDIOA19820Q156N": {
+        "title": "CredAbility Consumer Distress Index for Detroit-Warren-Livonia, MI (MSA) (DISCONTINUED)",
+        "start": "2005-01-01",
+        "end": "2013-01-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "DESCMSA19820": {
+        "title": "Market Hotness: Demand Score in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "DETR826BP1FH": {
+        "title": "New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1988-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 3
+    },
+    "DETR826BP1FHSA": {
+        "title": "New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1988-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 2
+    },
+    "DETR826BPPRIV": {
+        "title": "New Private Housing Structures Authorized by Building Permits for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1988-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 3
+    },
+    "DETR826BPPRIVSA": {
+        "title": "New Private Housing Structures Authorized by Building Permits for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1988-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 2
+    },
+    "DETR826EDUH": {
+        "title": "All Employees: Education and Health Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826EDUHN": {
+        "title": "All Employees: Education and Health Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826FIRE": {
+        "title": "All Employees: Financial Activities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826FIREN": {
+        "title": "All Employees: Financial Activities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826GOVT": {
+        "title": "All Employees: Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826GOVTN": {
+        "title": "All Employees: Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826INFO": {
+        "title": "All Employees: Information in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826INFON": {
+        "title": "All Employees: Information in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826LEIH": {
+        "title": "All Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826LEIHN": {
+        "title": "All Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826LF": {
+        "title": "Civilian Labor Force in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 2
+    },
+    "DETR826LFN": {
+        "title": "Civilian Labor Force in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "DETR826MFG": {
+        "title": "All Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 5
+    },
+    "DETR826MFGN": {
+        "title": "All Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826NA": {
+        "title": "All Employees: Total Nonfarm in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 6
+    },
+    "DETR826NAN": {
+        "title": "All Employees: Total Nonfarm in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 2
+    },
+    "DETR826NRMN": {
+        "title": "All Employees: Mining, Logging, and Construction in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826NRMNN": {
+        "title": "All Employees: Mining, Logging, and Construction in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826PBSV": {
+        "title": "All Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826PBSVN": {
+        "title": "All Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826PCPI": {
+        "title": "Per Capita Personal Income in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1969-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 12
+    },
+    "DETR826SRVO": {
+        "title": "All Employees: Other Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826SRVON": {
+        "title": "All Employees: Other Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826TRAD": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826TRADN": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "DETR826UR": {
+        "title": "Unemployment Rate in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "DETR826URN": {
+        "title": "Unemployment Rate in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 20
+    },
+    "DEXRPSNSA": {
+        "title": "Home Price Sales Pair Counts for Detroit, Michigan",
+        "start": "1991-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Units",
+        "popularity": 3
+    },
+    "DWLAGRIDX": {
+        "title": "Economic Conditions Index for Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "1990-02-01",
+        "end": "2019-12-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "DWLPOP": {
+        "title": "Resident Population in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 16
+    },
+    "ENUC198230010": {
+        "title": "Total Quarterly Wages in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC198230010SA": {
+        "title": "Total Quarterly Wages in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC198240010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC198240010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC198240110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC198240110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC198240210": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC198240210SA": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC198240310": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC198240310SA": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC198240510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC198240510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "HORAMMMSA19820": {
+        "title": "Market Hotness: Hotness Rank in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change",
+        "popularity": 1
+    },
+    "HORAMSA19820": {
+        "title": "Market Hotness: Hotness Rank in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "HORAYYMSA19820": {
+        "title": "Market Hotness: Hotness Rank in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change from Year Ago",
+        "popularity": 1
+    },
+    "HOSCMSA19820": {
+        "title": "Market Hotness: Hotness Score in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "IHLCHG19820": {
+        "title": "Job Postings on Indeed in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2020-02-01",
+        "end": "2022-11-25",
+        "frequency": "Daily, 7-Day",
+        "units": "Percent Change from Feb 01, 2020",
+        "popularity": 1
+    },
+    "INTINCOMEDWL": {
+        "title": "Net Interest Income for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "IRPD19820": {
+        "title": "Implicit Regional Price Deflator for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "LASMT261982000000003": {
+        "title": "Unemployment Rate in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "LASMT261982000000004": {
+        "title": "Unemployed Persons in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LASMT261982000000005": {
+        "title": "Employed Persons in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LASMT261982000000006": {
+        "title": "Civilian Labor Force in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 3
+    },
+    "LAUMT261982000000003A": {
+        "title": "Unemployment Rate in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "LAUMT261982000000004": {
+        "title": "Unemployed Persons in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT261982000000004A": {
+        "title": "Unemployed Persons in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT261982000000005": {
+        "title": "Employed Persons in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT261982000000005A": {
+        "title": "Employed Persons in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 2
+    },
+    "LAUMT261982000000006A": {
+        "title": "Civilian Labor Force in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LDPEPRMMMSA19820": {
+        "title": "Market Hotness: Listing Views per Property in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "LDPEPRVSUSMSA19820": {
+        "title": "Market Hotness: Listing Views per Property Versus the United States in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "LDPEPRYYMSA19820": {
+        "title": "Market Hotness: Listing Views per Property in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "LLSDWL": {
+        "title": "Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "LLSRDWL": {
+        "title": "Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDAONMAMMMSA19820": {
+        "title": "Market Hotness: Median Days on Market in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MEDAONMAMSA19820": {
+        "title": "Market Hotness: Median Days on Market in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Days",
+        "popularity": 1
+    },
+    "MEDAONMAYYMSA19820": {
+        "title": "Market Hotness: Median Days on Market in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDDAYONMAR19820": {
+        "title": "Housing Inventory: Median Days on Market in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDDAYONMARMM19820": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDDAYONMARYY19820": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI19820": {
+        "title": "Housing Inventory: Median Listing Price in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 7
+    },
+    "MEDLISPRIMM19820": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE19820": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEMM19820": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY19820": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIYY19820": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDOMMDAMSA19820": {
+        "title": "Market Hotness: Median Days on Market in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDOVSUSMSA19820": {
+        "title": "Market Hotness: Median Days on Market Versus the United States in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MEDOYYDAMSA19820": {
+        "title": "Market Hotness: Median Days on Market Day in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDSQUFEE19820": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 2
+    },
+    "MEDSQUFEEMM19820": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEEYY19820": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MELIPRMMMSA19820": {
+        "title": "Market Hotness: Median Listing Price in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MELIPRMSA19820": {
+        "title": "Market Hotness: Median Listing Price in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MELIPRVSUSMSA19820": {
+        "title": "Market Hotness: Median Listing Price Versus the United States in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MELIPRYYMSA19820": {
+        "title": "Market Hotness: Median Listing Price in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "NEWLISCOU19820": {
+        "title": "Housing Inventory: New Listing Count in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "NEWLISCOUMM19820": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWLISCOUYY19820": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NGMP19820": {
+        "title": "Total Gross Domestic Product for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 30
+    },
+    "NIDWL": {
+        "title": "Net Income for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "NIHHRAMSA19820": {
+        "title": "Market Hotness: Nielsen Household Rank in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "NIMDWL": {
+        "title": "Net Interest Margin for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PATENTCBSA119820": {
+        "title": "U.S. Granted Utility Patents Originating in Detroit-Warren-Livonia, MI (MSA)",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 1
+    },
+    "PCRGMP19820": {
+        "title": "Total Per Capita Real Gross Domestic Product for Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 5
+    },
+    "PENLISCOU19820": {
+        "title": "Housing Inventory: Pending Listing Count in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM19820": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY19820": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU19820": {
+        "title": "Housing Inventory: Price Increased Count in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIINCCOUMM19820": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOUYY19820": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOU19820": {
+        "title": "Housing Inventory: Price Reduced Count in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM19820": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY19820": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "QGMP19820": {
+        "title": "Total Quantity Indexes for Real GDP for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP19820": {
+        "title": "Total Real Gross Domestic Product for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 6
+    },
+    "ROADWL": {
+        "title": "Return on Average Assets for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RPI19820": {
+        "title": "Real Personal Income for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC19820": {
+        "title": "Real Per Capita Personal Income for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 2
+    },
+    "RPPALL19820": {
+        "title": "Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD19820": {
+        "title": "Regional Price Parities: Goods for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVEOTH19820": {
+        "title": "Regional Price Parities: Services: Other for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 0
+    },
+    "RPPSERVERENT19820": {
+        "title": "Regional Price Parities: Services: Rents for Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SMS26198200000000026": {
+        "title": "All Employees: Total Nonfarm in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-04-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "3-Month Average Change, Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198200000000001A": {
+        "title": "All Employees: Total Nonfarm in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 2
+    },
+    "SMU26198200500000001": {
+        "title": "All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198200500000001A": {
+        "title": "All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198200500000001SA": {
+        "title": "All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198200500000002": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2011-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198200500000002A": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2011-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 0
+    },
+    "SMU26198200500000002SA": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2011-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198200500000003": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2011-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198200500000003A": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2011-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198200500000003SA": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2011-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198200500000011": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2011-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198200500000011A": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2011-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "SMU26198200500000011SA": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2011-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198200600000001": {
+        "title": "All Employees: Goods Producing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198200600000001A": {
+        "title": "All Employees: Goods Producing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198200600000001SA": {
+        "title": "All Employees: Goods Producing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198200700000001": {
+        "title": "All Employees: Service-Providing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198200700000001A": {
+        "title": "All Employees: Service-Providing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198200700000001SA": {
+        "title": "All Employees: Service-Providing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198200800000001": {
+        "title": "All Employees: Private Service Providing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198200800000001A": {
+        "title": "All Employees: Private Service Providing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198200800000001SA": {
+        "title": "All Employees: Private Service Providing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198201500000001A": {
+        "title": "All Employees: Mining, Logging, and Construction in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198201523800001": {
+        "title": "All Employees: Mining, Logging, and Construction: Specialty Trade Contractors in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198201523800001A": {
+        "title": "All Employees: Mining, Logging, and Construction: Specialty Trade Contractors in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2014-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198201523800001SA": {
+        "title": "All Employees: Mining, Logging, and Construction: Specialty Trade Contractors in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2015-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198202023800001": {
+        "title": "All Employees: Construction: Specialty Trade Contractors in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198202023800001A": {
+        "title": "All Employees: Construction: Specialty Trade Contractors in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198202023800001SA": {
+        "title": "All Employees: Construction: Specialty Trade Contractors in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203000000001A": {
+        "title": "All Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203000000007": {
+        "title": "Average Weekly Hours of Production Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198203000000007A": {
+        "title": "Average Weekly Hours of Production Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 0
+    },
+    "SMU26198203000000007SA": {
+        "title": "Average Weekly Hours of Production Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198203000000008": {
+        "title": "Average Hourly Earnings of Production Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198203000000008A": {
+        "title": "Average Hourly Earnings of Production Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 0
+    },
+    "SMU26198203000000008SA": {
+        "title": "Average Hourly Earnings of Production Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198203000000030": {
+        "title": "Average Weekly Earnings of Production Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198203000000030A": {
+        "title": "Average Weekly Earnings of Production Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "SMU26198203000000030SA": {
+        "title": "Average Weekly Earnings of Production Employees: Manufacturing in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198203100000001": {
+        "title": "All Employees: Manufacturing: Durable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203100000001A": {
+        "title": "All Employees: Manufacturing: Durable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203100000001SA": {
+        "title": "All Employees: Manufacturing: Durable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203133600001": {
+        "title": "All Employees: Manufacturing: Durable Goods: Transportation Equipment Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203133600001A": {
+        "title": "All Employees: Durable Goods: Transportation Equipment Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203133600001SA": {
+        "title": "All Employees: Manufacturing: Durable Goods: Transportation Equipment Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203133610001": {
+        "title": "All Employees: Manufacturing: Durable Goods: Motor Vehicle Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203133610001A": {
+        "title": "All Employees: Durable Goods: Motor Vehicle Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 2
+    },
+    "SMU26198203133610001SA": {
+        "title": "All Employees: Manufacturing: Durable Goods: Motor Vehicle Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203133630001": {
+        "title": "All Employees: Manufacturing: Durable Goods: Motor Vehicle Parts Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203133630001A": {
+        "title": "All Employees: Durable Goods: Motor Vehicle Parts Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203133630001SA": {
+        "title": "All Employees: Manufacturing: Durable Goods: Motor Vehicle Parts Manufacturing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203200000001": {
+        "title": "All Employees: Manufacturing: Non-Durable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203200000001A": {
+        "title": "All Employees: Manufacturing: Non-Durable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198203200000001SA": {
+        "title": "All Employees: Manufacturing: Non-Durable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204000000001A": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204100000001": {
+        "title": "All Employees: Wholesale Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204100000001A": {
+        "title": "All Employees: Wholesale Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198204100000001SA": {
+        "title": "All Employees: Wholesale Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204142300001": {
+        "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Durable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204142300001A": {
+        "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Durable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198204142300001SA": {
+        "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Durable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204142400001": {
+        "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198204142400001A": {
+        "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198204142400001SA": {
+        "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204200000001": {
+        "title": "All Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204200000001A": {
+        "title": "All Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198204200000001SA": {
+        "title": "All Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204200000007": {
+        "title": "Average Weekly Hours of Production Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198204200000007A": {
+        "title": "Average Weekly Hours of Production Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 0
+    },
+    "SMU26198204200000007SA": {
+        "title": "Average Weekly Hours of Production Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198204200000008": {
+        "title": "Average Hourly Earnings of Production Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198204200000008A": {
+        "title": "Average Hourly Earnings of Production Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 0
+    },
+    "SMU26198204200000008SA": {
+        "title": "Average Hourly Earnings of Production Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198204200000030": {
+        "title": "Average Weekly Earnings of Production Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198204200000030A": {
+        "title": "Average Weekly Earnings of Production Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "SMU26198204200000030SA": {
+        "title": "Average Weekly Earnings of Production Employees: Retail Trade in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198204244500001": {
+        "title": "All Employees: Retail Trade: Food and Beverage Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204244500001A": {
+        "title": "All Employees: Retail Trade: Food and Beverage Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204244500001SA": {
+        "title": "All Employees: Retail Trade: Food and Beverage Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204244600001": {
+        "title": "All Employees: Retail Trade: Health and Personal Care Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198204244600001A": {
+        "title": "All Employees: Retail Trade: Health and Personal Care Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198204244600001SA": {
+        "title": "All Employees: Retail Trade: Health and Personal Care Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204244800001": {
+        "title": "All Employees: Retail Trade: Clothing and Clothing Accessories Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204244800001A": {
+        "title": "All Employees: Retail Trade: Clothing and Clothing Accessories Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198204244800001SA": {
+        "title": "All Employees: Retail Trade: Clothing and Clothing Accessories Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204245200001": {
+        "title": "All Employees: Retail Trade: General Merchandise Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204245200001A": {
+        "title": "All Employees: Retail Trade: General Merchandise Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198204245200001SA": {
+        "title": "All Employees: Retail Trade: General Merchandise Stores in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204300000001": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204300000001A": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198204300000001SA": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204340008901": {
+        "title": "All Employees: Transportation and Utilities: Transportation and Warehousing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204340008901A": {
+        "title": "All Employees: Transportation and Warehousing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198204340008901SA": {
+        "title": "All Employees: Transportation and Utilities: Transportation and Warehousing in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198205000000001A": {
+        "title": "All Employees: Information in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198205051700001": {
+        "title": "All Employees: Information: Telecommunications in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198205051700001A": {
+        "title": "All Employees: Information: Telecommunications in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198205051700001SA": {
+        "title": "All Employees: Information: Telecommunications in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198205500000001A": {
+        "title": "All Employees: Financial Activities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198205552000001": {
+        "title": "All Employees: Financial Activities: Finance and Insurance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198205552000001A": {
+        "title": "All Employees: Financial Activities: Finance and Insurance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198205552000001SA": {
+        "title": "All Employees: Financial Activities: Finance and Insurance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198205552200001": {
+        "title": "All Employees: Financial Activities: Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198205552200001A": {
+        "title": "All Employees: Financial Activities: Credit Intermediation and Related Activities including Monetary Authorities - Central Bank in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198205552200001SA": {
+        "title": "All Employees: Financial Activities: Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206000000001A": {
+        "title": "All Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198206000000007": {
+        "title": "Average Weekly Hours of Production Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198206000000007A": {
+        "title": "Average Weekly Hours of Production Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 0
+    },
+    "SMU26198206000000007SA": {
+        "title": "Average Weekly Hours of Production Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198206000000008": {
+        "title": "Average Hourly Earnings of Production Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198206000000008A": {
+        "title": "Average Hourly Earnings of Production Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 0
+    },
+    "SMU26198206000000008SA": {
+        "title": "Average Hourly Earnings of Production Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198206000000030": {
+        "title": "Average Weekly Earnings of Production Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198206000000030A": {
+        "title": "Average Weekly Earnings of Production Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "SMU26198206000000030SA": {
+        "title": "Average Weekly Earnings of Production Employees: Professional and Business Services in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198206054000001": {
+        "title": "All Employees: Professional and Business Services: Professional, Scientific, and Technical Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206054000001A": {
+        "title": "All Employees: Professional, Scientific, and Technical Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206054000001SA": {
+        "title": "All Employees: Professional and Business Services: Professional, Scientific, and Technical Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206054120001": {
+        "title": "All Employees: Professional and Business Services: Accounting, Tax Preparation, Bookkeeping, and Payroll Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206054120001A": {
+        "title": "All Employees: Accounting, Tax Preparation, Bookkeeping, and Payroll Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206054120001SA": {
+        "title": "All Employees: Professional and Business Services: Accounting, Tax Preparation, Bookkeeping, and Payroll Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206054150001": {
+        "title": "All Employees: Professional and Business Services: Computer Systems Design and Related Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206054150001A": {
+        "title": "All Employees: Computer Systems Design and Related Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206054150001SA": {
+        "title": "All Employees: Professional and Business Services: Computer Systems Design and Related Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206055000001": {
+        "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206055000001A": {
+        "title": "All Employees: Management of Companies and Enterprises in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206055000001SA": {
+        "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206056000001": {
+        "title": "All Employees: Professional and Business Services: Administrative and Support and Waste Management and Remediation Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206056000001A": {
+        "title": "All Employees: Administrative and Support and Waste Management and Remediation Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198206056000001SA": {
+        "title": "All Employees: Professional and Business Services: Administrative and Support and Waste Management and Remediation Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206056130001": {
+        "title": "All Employees: Professional and Business Services: Employment Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206056130001A": {
+        "title": "All Employees: Employment Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206056130001SA": {
+        "title": "All Employees: Professional and Business Services: Employment Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206056170001": {
+        "title": "All Employees: Professional and Business Services: Services to Buildings and Dwellings in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206056170001A": {
+        "title": "All Employees: Services to Buildings and Dwellings in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206056170001SA": {
+        "title": "All Employees: Professional and Business Services: Services to Buildings and Dwellings in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206500000001A": {
+        "title": "All Employees: Education and Health Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206561110001": {
+        "title": "All Employees: Education and Health Services: Elementary and Secondary Schools in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198206561110001A": {
+        "title": "All Employees: Educational Services: Elementary and Secondary Schools in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206561110001SA": {
+        "title": "All Employees: Education and Health Services: Elementary and Secondary Schools in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562000001": {
+        "title": "All Employees: Education and Health Services: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562000001A": {
+        "title": "All Employees: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562000001SA": {
+        "title": "All Employees: Education and Health Services: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562000007": {
+        "title": "Average Weekly Hours of Production Employees: Education and Health Services: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198206562000007A": {
+        "title": "Average Weekly Hours of Production Employees: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 0
+    },
+    "SMU26198206562000007SA": {
+        "title": "Average Weekly Hours of Production Employees: Education and Health Services: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198206562000008": {
+        "title": "Average Hourly Earnings of Production Employees: Education and Health Services: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198206562000008A": {
+        "title": "Average Hourly Earnings of Production Employees: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 0
+    },
+    "SMU26198206562000008SA": {
+        "title": "Average Hourly Earnings of Production Employees: Education and Health Services: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198206562000030": {
+        "title": "Average Weekly Earnings of Production Employees: Education and Health Services: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198206562000030A": {
+        "title": "Average Weekly Earnings of Production Employees: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198206562000030SA": {
+        "title": "Average Weekly Earnings of Production Employees: Education and Health Services: Health Care and Social Assistance in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198206562100001": {
+        "title": "All Employees: Education and Health Services: Ambulatory Health Care Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562100001A": {
+        "title": "All Employees: Health Care: Ambulatory Health Care Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562100001SA": {
+        "title": "All Employees: Education and Health Services: Ambulatory Health Care Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562200001": {
+        "title": "All Employees: Education and Health Services: Hospitals in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562200001A": {
+        "title": "All Employees: Health Care: Hospitals in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562200001SA": {
+        "title": "All Employees: Education and Health Services: Hospitals in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562300001": {
+        "title": "All Employees: Education and Health Services: Nursing and Residential Care Facilities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562300001A": {
+        "title": "All Employees: Health Care: Nursing and Residential Care Facilities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198206562300001SA": {
+        "title": "All Employees: Education and Health Services: Nursing and Residential Care Facilities in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562400001": {
+        "title": "All Employees: Education and Health Services: Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198206562400001A": {
+        "title": "All Employees: Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198206562400001SA": {
+        "title": "All Employees: Education and Health Services: Social Assistance in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207000000001A": {
+        "title": "All Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207000000007": {
+        "title": "Average Weekly Hours of Production Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198207000000007A": {
+        "title": "Average Weekly Hours of Production Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 0
+    },
+    "SMU26198207000000007SA": {
+        "title": "Average Weekly Hours of Production Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU26198207000000008": {
+        "title": "Average Hourly Earnings of Production Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198207000000008A": {
+        "title": "Average Hourly Earnings of Production Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 0
+    },
+    "SMU26198207000000008SA": {
+        "title": "Average Hourly Earnings of Production Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU26198207000000030": {
+        "title": "Average Weekly Earnings of Production Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198207000000030A": {
+        "title": "Average Weekly Earnings of Production Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2003-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "SMU26198207000000030SA": {
+        "title": "Average Weekly Earnings of Production Employees: Leisure and Hospitality in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "2003-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU26198207071000001": {
+        "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207071000001A": {
+        "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198207071000001SA": {
+        "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072000001": {
+        "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072000001A": {
+        "title": "All Employees: Accommodation and Food Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072000001SA": {
+        "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072200001": {
+        "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072200001A": {
+        "title": "All Employees: Food Services and Drinking Places in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072200001SA": {
+        "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072250001": {
+        "title": "All Employees: Leisure and Hospitality: Restaurants and Other Eating Places in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072250001A": {
+        "title": "All Employees: Leisure and Hospitality: Restaurants and Other Eating Places in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198207072251101": {
+        "title": "All Employees: Leisure and Hospitality: Full-Service Restaurants in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072251101A": {
+        "title": "All Employees: Full-Service Restaurants in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072251101SA": {
+        "title": "All Employees: Leisure and Hospitality: Full-Service Restaurants in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072259001": {
+        "title": "All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198207072259001A": {
+        "title": "All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198207072259001SA": {
+        "title": "All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "2001-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198208000000001A": {
+        "title": "All Employees: Other Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198209000000001A": {
+        "title": "All Employees: Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198209091000001": {
+        "title": "All Employees: Government: Federal Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209091000001A": {
+        "title": "All Employees: Federal Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209091000001SA": {
+        "title": "All Employees: Government: Federal Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209091912001": {
+        "title": "All Employees: Government: U.S. Postal Service in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209091912001A": {
+        "title": "All Employees: Federal Government: U.S. Postal Service in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209091912001SA": {
+        "title": "All Employees: Government: U.S. Postal Service in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209092000001": {
+        "title": "All Employees: Government: State Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209092000001A": {
+        "title": "All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209092000001SA": {
+        "title": "All Employees: Government: State Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209092161101": {
+        "title": "All Employees: Government: State Government Educational Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209092161101A": {
+        "title": "All Employees: State Government Educational Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209092161101SA": {
+        "title": "All Employees: Government: State Government Educational Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209093000001": {
+        "title": "All Employees: Government: Local Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209093000001A": {
+        "title": "All Employees: Local Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209093000001SA": {
+        "title": "All Employees: Government: Local Government in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209093161101": {
+        "title": "All Employees: Government: Local Government Educational Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209093161101A": {
+        "title": "All Employees: Local Government Educational Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209093161101SA": {
+        "title": "All Employees: Government: Local Government Educational Services in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209093611101": {
+        "title": "All Employees: Local Government Elementary and Secondary Education in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2016-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209093611101A": {
+        "title": "All Employees: Local Government Elementary and Secondary Education in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198209093611101SA": {
+        "title": "All Employees: Local Government Elementary and Secondary Education in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2016-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209093611201": {
+        "title": "All Employees: Local Government Junior Colleges in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2016-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU26198209093611201A": {
+        "title": "All Employees: Local Government Junior Colleges in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU26198209093611201SA": {
+        "title": "All Employees: Local Government Junior Colleges in Detroit-Warren-Dearborn, MI (MSA)",
+        "start": "1990-01-01",
+        "end": "2016-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SUSCMSA19820": {
+        "title": "Market Hotness: Supply Score in Detroit-Warren-Dearborn, MI (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "TOTASSETDWL": {
+        "title": "Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "TOTLOANDWL": {
+        "title": "Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)",
+        "start": "1989-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    }
+}

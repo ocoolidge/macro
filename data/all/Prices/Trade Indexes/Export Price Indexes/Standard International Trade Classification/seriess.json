@@ -1,0 +1,898 @@
+{
+    "IX0": {
+        "title": "Export Price Index (SITC): Food and live animals (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX01": {
+        "title": "Export Price Index (SITC): Meat and meat preparations (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX012": {
+        "title": "Export Price Index (SITC): Meat, not of bovine animals, and edible offal, fresh/chilled/frozen (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX03": {
+        "title": "Export Price Index (SITC): Fish, crustaceans, aquatic invertebrates and preparations thereof (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX04": {
+        "title": "Export Price Index (SITC): Cereals and cereal preparations (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX041": {
+        "title": "Export Price Index (SITC): Wheat (including spelt) and meslin, unmilled (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX044": {
+        "title": "Export Price Index (SITC): Maize (not including sweet corn) unmilled (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX05": {
+        "title": "Export Price Index (SITC): Vegetables, fruit and nuts, fresh or dried (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX057": {
+        "title": "Export Price Index (SITC): Fruit and nuts (not including oil nuts), fresh or dried (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX08": {
+        "title": "Export Price Index (SITC): Feeding stuff for animals (not including unmilled cereals) (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX09": {
+        "title": "Export Price Index (SITC): Miscellaneous edible products and preparations (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX0R": {
+        "title": "Export Price Index (SITC): Other food and live animals (DISCONTINUED)",
+        "start": "1996-12-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX1": {
+        "title": "Export Price Index (SITC): Beverages and tobacco (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX12": {
+        "title": "Export Price Index (SITC): Tobacco and tobacco manufactures (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX2": {
+        "title": "Export Price Index (SITC): Crude materials, inedible, except fuels (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX22": {
+        "title": "Export Price Index (SITC): Oil seeds and oleaginous fruits (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX24": {
+        "title": "Export Price Index (SITC): Cork and wood (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX25": {
+        "title": "Export Price Index (SITC): Woodpulp and recovered paper (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX26": {
+        "title": "Export Price Index (SITC): Textile fibers and their waste (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX28": {
+        "title": "Export Price Index (SITC): Metalliferous ores and metal scrap (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX2R": {
+        "title": "Export Price Index (SITC): Other crude materials, inedible, except fuels (DISCONTINUED)",
+        "start": "1996-12-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX3": {
+        "title": "Export Price Index (SITC): Mineral fuels, lubricants and related materials (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX33": {
+        "title": "Export Price Index (SITC): Petroleum, petroleum products and related materials (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX334": {
+        "title": "Export Price Index (SITC): Petroleum oils and oils from bituminous minerals (other than crude) (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX5": {
+        "title": "Export Price Index (SITC): Chemicals and related products, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX51": {
+        "title": "Export Price Index (SITC): Organic chemicals (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX514": {
+        "title": "Export Price Index (SITC): Nitrogen-function compounds (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX515": {
+        "title": "Export Price Index (SITC): Organic-inorganic and heterocylics, nucleic acids and their salts (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX516": {
+        "title": "Export Price Index (SITC): Organic chemicals, n.e.s. (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX52": {
+        "title": "Export Price Index (SITC): Inorganic chemicals (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX54": {
+        "title": "Export Price Index (SITC): Medicinal and pharmaceutical products (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX541": {
+        "title": "Export Price Index (SITC): Medicinal and pharmaceutical products, other than medicaments (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX542": {
+        "title": "Export Price Index (SITC): Medicaments (including veterinary medicaments) (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX55": {
+        "title": "Export Price Index (SITC): Essential oils; polishing and cleansing preps (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX553": {
+        "title": "Export Price Index (SITC): Perfumery, cosmetics, or toilet preparations, excluding soaps (DISCONTINUED)",
+        "start": "1997-12-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX56": {
+        "title": "Export Price Index (SITC): Fertilizers (DISCONTINUED)",
+        "start": "1996-12-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX57": {
+        "title": "Export Price Index (SITC): Plastics in primary forms (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX571": {
+        "title": "Export Price Index (SITC): Polymers of ethylene, in primary forms (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 3
+    },
+    "IX574": {
+        "title": "Export Price Index (SITC): Polyacetals, other polyethers and epoxide resins, in primary forms (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 4
+    },
+    "IX575": {
+        "title": "Export Price Index (SITC): Plastics, n.e.s., in primary forms (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX58": {
+        "title": "Export Price Index (SITC): Plastics in nonprimary forms (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX582": {
+        "title": "Export Price Index (SITC): Plates, sheets, film, foil and strips of plastic (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX59": {
+        "title": "Export Price Index (SITC): Chemical materials and products, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX598": {
+        "title": "Export Price Index (SITC): Miscellaneous chemical products, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX6": {
+        "title": "Export Price Index (SITC): Manufactured goods classified chiefly by material (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX62": {
+        "title": "Export Price Index (SITC): Rubber manufactures, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX64": {
+        "title": "Export Price Index (SITC): Uncoated Paper/paperboard, and linerboard (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 3
+    },
+    "IX641": {
+        "title": "Export Price Index (SITC): Uncoated Paper/paperboard, and linerboard (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX642": {
+        "title": "Export Price Index (SITC): Paper, paperboard, cut to size, and articles thereof (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX65": {
+        "title": "Export Price Index (SITC): Textile yarn, fabrics, and made-up articles, n.e.s. (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX657": {
+        "title": "Export Price Index (SITC): Special yarns, special textile fabrics and related products (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX66": {
+        "title": "Export Price Index (SITC): Nonmetallic mineral manufactures, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX664": {
+        "title": "Export Price Index (SITC): Glass (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX67": {
+        "title": "Export Price Index (SITC): Iron and steel (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX68": {
+        "title": "Export Price Index (SITC): Nonferrous metals (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX684": {
+        "title": "Export Price Index (SITC): Aluminum (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX69": {
+        "title": "Export Price Index (SITC): Manufactures of metals, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX695": {
+        "title": "Export Price Index (SITC): Tools for use in hand or in machines (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX699": {
+        "title": "Export Price Index (SITC): Manufactures of base metal, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX6R": {
+        "title": "Export Price Index (SITC): Other manufactured goods classified chiefly by material (DISCONTINUED)",
+        "start": "2001-12-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2001=100",
+        "popularity": 1
+    },
+    "IX7": {
+        "title": "Export Price Index (SITC): Machinery and transport equipment (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX71": {
+        "title": "Export Price Index (SITC): Power generating machinery and equipment (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX713": {
+        "title": "Export Price Index (SITC): Internal combustion piston engines and parts thereof, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX714": {
+        "title": "Export Price Index (SITC): Gas turbine engines and reaction engines; parts thereof n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX716": {
+        "title": "Export Price Index (SITC): Rotating electric plant and parts thereof, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX72": {
+        "title": "Export Price Index (SITC): Machinery specialized for particular industries (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX721": {
+        "title": "Export Price Index (SITC): Agricultural machinery (excluding tractors) and parts thereof (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX723": {
+        "title": "Export Price Index (SITC): Civil engineering and contractors' plant, equipment and parts, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX728": {
+        "title": "Export Price Index (SITC): Machinery and equipment specialized for particular industries, and parts (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX73": {
+        "title": "Export Price Index (SITC): Metalworking machinery (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX74": {
+        "title": "Export Price Index (SITC): General industrial machinery, equipment, and parts, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX741": {
+        "title": "Export Price Index (SITC): Heating and cooling equipment and parts thereof, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX742": {
+        "title": "Export Price Index (SITC): Pumps for liquids; liquid elevators; and parts thereof (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX743": {
+        "title": "Export Price Index (SITC): Pumps, compressors, fans, centrifuges, and filtering Apparatus (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX744": {
+        "title": "Export Price Index (SITC): Mechanical handling equipment, and parts thereof, n.e.s. (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX745": {
+        "title": "Export Price Index (SITC): Nonelectrical machinery, tools and mechanical apparatus, and parts (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX747": {
+        "title": "Export Price Index (SITC): Taps, cocks, valves and similar appliances (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX75": {
+        "title": "Export Price Index (SITC): Computer equipment and office machines (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX752": {
+        "title": "Export Price Index (SITC): Computer equipment (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX759": {
+        "title": "Export Price Index (SITC): Parts and accessories for computer equipment and office machines (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX76": {
+        "title": "Export Price Index (SITC): Telecommunications and sound recording and reproducing apparatus and equipment (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX764": {
+        "title": "Export Price Index (SITC): Telecommunications equipment and parts, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX77": {
+        "title": "Export Price Index (SITC): Electrical machinery and equipment (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX771": {
+        "title": "Export Price Index (SITC): Electric power machinery (except rotating power machinery) and parts (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX772": {
+        "title": "Export Price Index (SITC): Electrical circuitry equipment (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX773": {
+        "title": "Export Price Index (SITC): Equipment for distributing electricity, n.e.s. (DISCONTINUED)",
+        "start": "1996-12-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX774": {
+        "title": "Export Price Index (SITC): Electro-diagnostic apparatus for medical use (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX775": {
+        "title": "Export Price Index (SITC): Household type electrical and nonelectrical equipment, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX776": {
+        "title": "Export Price Index (SITC): Electronic valves and tubes, diodes, transistors and integrated circuits (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX778": {
+        "title": "Export Price Index (SITC): Electrical machinery and apparatus, nes (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX78": {
+        "title": "Export Price Index (SITC): Road vehicles (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX781": {
+        "title": "Export Price Index (SITC): Motor vehicles (except public transport) designed to transport people (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX782": {
+        "title": "Export Price Index (SITC): Motor vehicles for the transport of goods and multi-purpose motor vehicles (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX784": {
+        "title": "Export Price Index (SITC): Parts and accessories for tractors, motor cars and other motor vehicles (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX8": {
+        "title": "Export Price Index (SITC): Miscellaneous manufactured articles (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX82": {
+        "title": "Export Price Index (SITC): Furniture and parts thereof (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX84": {
+        "title": "Export Price Index (SITC): Articles of apparel and clothing accessories (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX845": {
+        "title": "Export Price Index (SITC): Apparel, of textile fabrics, knitted or crocheted (DISCONTINUED)",
+        "start": "2001-12-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2001=100",
+        "popularity": 1
+    },
+    "IX87": {
+        "title": "Export Price Index (SITC): Professional, scientific and controlling instruments and apparatus, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX872": {
+        "title": "Export Price Index (SITC): Instruments and appliances; for medical, surgical, dental, and veterinary use (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX874": {
+        "title": "Export Price Index (SITC): Measuring, checking, analyzing and controlling instruments, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX88": {
+        "title": "Export Price Index (SITC): Photographic apparatus, equipment and supplies and optical goods, n.e.s. (DISCONTINUED)",
+        "start": "1995-03-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX882": {
+        "title": "Export Price Index (SITC): Photographic and cinematographic supplies (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX884": {
+        "title": "Export Price Index (SITC): Optical goods, including optical fiber cables (DISCONTINUED)",
+        "start": "2001-12-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2001=100",
+        "popularity": 1
+    },
+    "IX89": {
+        "title": "Export Price Index (SITC): Miscellaneous manufactured articles, n.e.s. (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX892": {
+        "title": "Export Price Index (SITC): Printed matter (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX893": {
+        "title": "Export Price Index (SITC): Articles, n.e.s. of plastics (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX894": {
+        "title": "Export Price Index (SITC): Baby carriages, toys, games and sporting goods (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX898": {
+        "title": "Export Price Index (SITC): Musical instruments, LDs, tapes, and other sound recordings (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX899": {
+        "title": "Export Price Index (SITC): Miscellaneous manufactured articles, n.e.s. (DISCONTINUED)",
+        "start": "1996-12-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX8R": {
+        "title": "Export Price Index (SITC): Other miscellaneous manufactured articles (DISCONTINUED)",
+        "start": "1996-12-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IX971": {
+        "title": "Export Price Index (SITC): Gold, nonmonetary (excluding gold ores and concentrates) (DISCONTINUED)",
+        "start": "1995-01-01",
+        "end": "2005-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 4
+    }
+}

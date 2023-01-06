@@ -1,0 +1,674 @@
+{
+    "CP1M": {
+        "title": "1-Month Commercial Paper Rate (DISCONTINUED)",
+        "start": "1971-04-01",
+        "end": "1997-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "CP3M": {
+        "title": "3-Month Commercial Paper Rate (DISCONTINUED)",
+        "start": "1971-04-01",
+        "end": "1997-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 12
+    },
+    "CP6M": {
+        "title": "6-Month Commercial Paper Rate (DISCONTINUED)",
+        "start": "1970-01-01",
+        "end": "1997-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "CPF1M": {
+        "title": "30-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "CPF2M": {
+        "title": "60-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "CPF3M": {
+        "title": "90-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 18
+    },
+    "CPN1M": {
+        "title": "30-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "CPN2M": {
+        "title": "60-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "CPN3M": {
+        "title": "90-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 25
+    },
+    "DCP30": {
+        "title": "1-Month Commercial Paper Rate (DISCONTINUED)",
+        "start": "1982-11-29",
+        "end": "1997-08-29",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "DCPF1M": {
+        "title": "30-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-15",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 29
+    },
+    "DCPF2M": {
+        "title": "60-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-15",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "DCPF3M": {
+        "title": "90-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-20",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 50
+    },
+    "DCPN2M": {
+        "title": "60-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-21",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "DCPN30": {
+        "title": "30-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-22",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 12
+    },
+    "DCPN3M": {
+        "title": "90-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-21",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 41
+    },
+    "H0RIFSPPCM01NA": {
+        "title": "1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1971-01-01",
+        "end": "1997-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPCM01NM": {
+        "title": "1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1971-04-01",
+        "end": "1997-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPCM03NA": {
+        "title": "3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1971-01-01",
+        "end": "1997-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPCM03NM": {
+        "title": "3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1971-04-01",
+        "end": "1997-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPCM06NA": {
+        "title": "6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1970-01-01",
+        "end": "1997-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPCM06NB": {
+        "title": "6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1970-01-02",
+        "end": "1997-08-29",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "H0RIFSPPCM06NM": {
+        "title": "6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1970-01-01",
+        "end": "1997-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPFM01NA": {
+        "title": "1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1956-01-01",
+        "end": "1997-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPFM01NM": {
+        "title": "1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1956-04-01",
+        "end": "1997-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPFM01NWF": {
+        "title": "1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1956-04-20",
+        "end": "1997-08-29",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPFM03NA": {
+        "title": "3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1954-01-01",
+        "end": "1997-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPFM03NM": {
+        "title": "3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1954-05-01",
+        "end": "1997-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPFM03NWF": {
+        "title": "3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1954-05-07",
+        "end": "1997-08-29",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPFM06NA": {
+        "title": "6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1954-01-01",
+        "end": "1997-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPFM06NB": {
+        "title": "6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1954-05-05",
+        "end": "1997-08-29",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPFM06NM": {
+        "title": "6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1954-05-01",
+        "end": "1997-08-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H0RIFSPPFM06NWF": {
+        "title": "6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1954-05-07",
+        "end": "1997-08-29",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H15H0RIFSPPCM01NB": {
+        "title": "1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1971-04-08",
+        "end": "1997-08-29",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H15H0RIFSPPCM03NB": {
+        "title": "3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1971-04-08",
+        "end": "1997-08-29",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "H15H0RIFSPPFM01NB": {
+        "title": "1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1956-04-17",
+        "end": "1997-08-29",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "H15H0RIFSPPFM03NB": {
+        "title": "3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1954-05-05",
+        "end": "1997-08-29",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPAAAD01NB": {
+        "title": "Overnight AA Asset-Backed Commercial Paper Interest Rate",
+        "start": "2001-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "RIFSPPAAAD07NB": {
+        "title": "7-Day AA Asset-Backed Commercial Paper Interest Rate",
+        "start": "2001-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "RIFSPPAAAD15NB": {
+        "title": "15-Day AA Asset-Backed Commercial Paper Interest Rate",
+        "start": "2001-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "RIFSPPAAAD30NB": {
+        "title": "30-Day AA Asset-Backed Commercial Paper Interest Rate",
+        "start": "2001-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 16
+    },
+    "RIFSPPAAAD60NB": {
+        "title": "60-Day AA Asset-Backed Commercial Paper Interest Rate",
+        "start": "2001-01-02",
+        "end": "2022-12-23",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "RIFSPPAAAD90NB": {
+        "title": "90-Day AA Asset-Backed Commercial Paper Interest Rate",
+        "start": "2001-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 22
+    },
+    "RIFSPPCUNA": {
+        "title": "Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commercial Paper Funding Facility (CPFF) (DISCONTINUED)",
+        "start": "2008-01-01",
+        "end": "2010-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPCUNB": {
+        "title": "Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commercial Paper Funding Facility (CPFF) (DISCONTINUED)",
+        "start": "2008-10-27",
+        "end": "2010-02-01",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPCUNM": {
+        "title": "Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commercial Paper Funding Facility (CPFF) (DISCONTINUED)",
+        "start": "2008-10-01",
+        "end": "2010-02-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPCUNWF": {
+        "title": "Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commercial Paper Funding Facility (CPFF) (DISCONTINUED)",
+        "start": "2008-10-31",
+        "end": "2010-02-05",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPCUSNA": {
+        "title": "Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commercial Paper Funding Facility (CPFF) (DISCONTINUED)",
+        "start": "2008-01-01",
+        "end": "2010-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPCUSNB": {
+        "title": "Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commercial Paper Funding Facility (CPFF) (DISCONTINUED)",
+        "start": "2008-10-27",
+        "end": "2010-02-01",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "RIFSPPCUSNM": {
+        "title": "Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commercial Paper Funding Facility (CPFF) (DISCONTINUED)",
+        "start": "2008-10-01",
+        "end": "2010-02-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPCUSNWF": {
+        "title": "Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commercial Paper Funding Facility (CPFF) (DISCONTINUED)",
+        "start": "2008-10-31",
+        "end": "2010-02-05",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPFAAD01NB": {
+        "title": "Overnight AA Financial Commercial Paper Interest Rate",
+        "start": "1998-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 12
+    },
+    "RIFSPPFAAD07NB": {
+        "title": "7-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 17
+    },
+    "RIFSPPFAAD15NB": {
+        "title": "15-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-16",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "RIFSPPFAAD30NA": {
+        "title": "30-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPFAAD30NB": {
+        "title": "30-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-15",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 13
+    },
+    "RIFSPPFAAD60NA": {
+        "title": "60-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPFAAD60NB": {
+        "title": "60-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-15",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "RIFSPPFAAD90NA": {
+        "title": "90-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "RIFSPPFAAD90NB": {
+        "title": "90-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-20",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 47
+    },
+    "RIFSPPNA2P2D01NB": {
+        "title": "Overnight A2/P2 Nonfinancial Commercial Paper Interest Rate",
+        "start": "1998-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 17
+    },
+    "RIFSPPNA2P2D07NB": {
+        "title": "7-Day A2/P2 Nonfinancial Commercial Paper Interest Rate",
+        "start": "1998-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 10
+    },
+    "RIFSPPNA2P2D15NB": {
+        "title": "15-Day A2/P2 Nonfinancial Commercial Paper Interest Rate",
+        "start": "1998-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "RIFSPPNA2P2D30NB": {
+        "title": "30-Day A2/P2 Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 30
+    },
+    "RIFSPPNA2P2D60NB": {
+        "title": "60-Day A2/P2 Nonfinancial Commercial Paper Interest Rate",
+        "start": "1998-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 8
+    },
+    "RIFSPPNA2P2D90NB": {
+        "title": "90-Day A2/P2 Nonfinancial Commercial Paper Interest Rate",
+        "start": "1998-01-02",
+        "end": "2022-12-23",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 48
+    },
+    "RIFSPPNAAD01NB": {
+        "title": "Overnight AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1998-01-02",
+        "end": "2022-12-27",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 9
+    },
+    "RIFSPPNAAD07NB": {
+        "title": "7-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-23",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "RIFSPPNAAD15NB": {
+        "title": "15-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-23",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "RIFSPPNAAD30NA": {
+        "title": "30-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPNAAD30NB": {
+        "title": "30-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-22",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 21
+    },
+    "RIFSPPNAAD60NA": {
+        "title": "60-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RIFSPPNAAD60NB": {
+        "title": "60-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-21",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "RIFSPPNAAD90NA": {
+        "title": "90-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "RIFSPPNAAD90NB": {
+        "title": "90-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-02",
+        "end": "2022-12-21",
+        "frequency": "Daily",
+        "units": "Percent",
+        "popularity": 27
+    },
+    "WCP1M": {
+        "title": "1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1971-04-09",
+        "end": "1997-08-29",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "WCP3M": {
+        "title": "3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1971-04-09",
+        "end": "1997-08-29",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "WCP6M": {
+        "title": "6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+        "start": "1970-01-02",
+        "end": "1997-08-29",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "WCPF1M": {
+        "title": "30-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-03",
+        "end": "2022-12-16",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 4
+    },
+    "WCPF2M": {
+        "title": "60-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-03",
+        "end": "2022-12-16",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "WCPF3M": {
+        "title": "90-Day AA Financial Commercial Paper Interest Rate",
+        "start": "1997-01-03",
+        "end": "2022-12-23",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 11
+    },
+    "WCPN1M": {
+        "title": "30-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-03",
+        "end": "2022-12-23",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "WCPN2M": {
+        "title": "60-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-03",
+        "end": "2022-12-23",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "WCPN3M": {
+        "title": "90-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "start": "1997-01-03",
+        "end": "2022-12-23",
+        "frequency": "Weekly, Ending Friday",
+        "units": "Percent",
+        "popularity": 4
+    }
+}

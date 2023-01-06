@@ -1,0 +1,74 @@
+{
+    "CONSDEF": {
+        "title": "Consumption Deflator",
+        "start": "1947-01-01",
+        "end": "2021-10-01",
+        "frequency": "Quarterly",
+        "units": "Index 2012=100",
+        "popularity": 6
+    },
+    "EDEF": {
+        "title": "Equipment Deflator",
+        "start": "1947-01-01",
+        "end": "2021-10-01",
+        "frequency": "Quarterly",
+        "units": "Index 2012=100",
+        "popularity": 2
+    },
+    "ESDEF": {
+        "title": "Equipment and Software Deflator (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2011-10-01",
+        "frequency": "Quarterly",
+        "units": "Index 2005=100",
+        "popularity": 1
+    },
+    "INVDEF": {
+        "title": "Investment Deflator",
+        "start": "1947-01-01",
+        "end": "2021-10-01",
+        "frequency": "Quarterly",
+        "units": "Index 2012=100",
+        "popularity": 9
+    },
+    "NINV": {
+        "title": "Nominal Investment",
+        "start": "1947-01-01",
+        "end": "2021-10-01",
+        "frequency": "Quarterly",
+        "units": "Billions of Dollars",
+        "popularity": 2
+    },
+    "PERIC": {
+        "title": "Relative Price of Equipment",
+        "start": "1947-01-01",
+        "end": "2021-10-01",
+        "frequency": "Quarterly",
+        "units": "Index 2012=1",
+        "popularity": 4
+    },
+    "PERICD": {
+        "title": "Relative Price of Equipment and Software (DISCONTINUED)",
+        "start": "1947-01-01",
+        "end": "2011-10-01",
+        "frequency": "Quarterly",
+        "units": "Index 2005=1",
+        "popularity": 2
+    },
+    "PIRIC": {
+        "title": "Relative Price of Investment Goods",
+        "start": "1947-01-01",
+        "end": "2021-10-01",
+        "frequency": "Quarterly",
+        "units": "Index 2012=1",
+        "popularity": 20
+    },
+    "RINV": {
+        "title": "Real Investment",
+        "start": "1947-01-01",
+        "end": "2021-10-01",
+        "frequency": "Quarterly",
+        "units": "Billions of Chained 2012 Dollars",
+        "popularity": 2
+    }
+}

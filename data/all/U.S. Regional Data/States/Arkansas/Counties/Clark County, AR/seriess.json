@@ -1,0 +1,706 @@
+{
+    "2020RATIO005019": {
+        "title": "Income Inequality in Clark County, AR",
+        "start": "2010-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "ARCLLFN": {
+        "title": "Civilian Labor Force in Clark County, AR",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "ARCLPOP": {
+        "title": "Resident Population in Clark County, AR",
+        "start": "1970-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 2
+    },
+    "ARCLURN": {
+        "title": "Unemployment Rate in Clark County, AR",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "ATNHPIUS05019A": {
+        "title": "All-Transactions House Price Index for Clark County, AR",
+        "start": "1986-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "B01002001E005019": {
+        "title": "Estimate, Median Age by Sex, Total Population (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Years of Age",
+        "popularity": 1
+    },
+    "B03002001E005019": {
+        "title": "Population Estimate, Total (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002002E005019": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002003E005019": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, White Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002004E005019": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Black or African American Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002005E005019": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, American Indian and Alaska Native Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002006E005019": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Asian Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002007E005019": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Native Hawaiian and Other Pacific Islander Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002008E005019": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Some Other Race Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002009E005019": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Two or More Races (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002010E005019": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Two or More Races, Two Races Including Some Other Race (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002011E005019": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Two or More Races, Two Races Excluding Some Other Race, and Three or More Races (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002012E005019": {
+        "title": "Population Estimate, Total, Hispanic or Latino (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002013E005019": {
+        "title": "Population Estimate, Total, Hispanic or Latino, White Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002014E005019": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Black or African American Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002015E005019": {
+        "title": "Population Estimate, Total, Hispanic or Latino, American Indian and Alaska Native Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002016E005019": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Asian Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002017E005019": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Native Hawaiian and Other Pacific Islander Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002018E005019": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Some Other Race Alone (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002019E005019": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Two or More Races (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002020E005019": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Two or More Races, Two Races Including Some Other Race (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002021E005019": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Two or More Races, Two Races Excluding Some Other Race, and Three or More Races (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B080ACS005019": {
+        "title": "Mean Commuting Time for Workers (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Minutes",
+        "popularity": 1
+    },
+    "B14005DCYACS005019": {
+        "title": "Disconnected Youth (5-year estimate) for Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "BPPRIV005019": {
+        "title": "New Private Housing Structures Authorized by Building Permits for Clark County, AR",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Units",
+        "popularity": 1
+    },
+    "CBR05019ARA647NCEN": {
+        "title": "SNAP Benefits Recipients in Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2020-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "CDC20N2U005019": {
+        "title": "Premature Death Rate for Clark County, AR",
+        "start": "1999-01-01",
+        "end": "2020-01-01",
+        "frequency": "Annual",
+        "units": "Rate per 100,000",
+        "popularity": 1
+    },
+    "CDC20N2UAA005019": {
+        "title": "Age-Adjusted Premature Death Rate for Clark County, AR",
+        "start": "1999-01-01",
+        "end": "2020-01-01",
+        "frequency": "Annual",
+        "units": "Rate per 100,000",
+        "popularity": 1
+    },
+    "DMPCRATE005019": {
+        "title": "Rate of Preventable Hospital Admissions (5-year estimate) in Clark County, AR",
+        "start": "2008-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "DP04ACS005019": {
+        "title": "Burdened Households (5-year estimate) in Clark County, AR",
+        "start": "2010-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ENU0501920510": {
+        "title": "Number of Private Establishments for All Industries in Clark County, AR",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Establishments",
+        "popularity": 1
+    },
+    "EQFXSUBPRIME005019": {
+        "title": "Equifax Subprime Credit Population for Clark County, AR",
+        "start": "2014-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "FBITC005019": {
+        "title": "Combined Violent and Property Crime Offenses Known to Law Enforcement in Clark County, AR",
+        "start": "2005-01-01",
+        "end": "2020-01-01",
+        "frequency": "Annual",
+        "units": "Known Offenses",
+        "popularity": 1
+    },
+    "GDPALL05019": {
+        "title": "Gross Domestic Product: All Industries in Clark County, AR",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of U.S. Dollars",
+        "popularity": 1
+    },
+    "GDPGOODS05019": {
+        "title": "Gross Domestic Product: Private Goods-Producing Industries in Clark County, AR",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of U.S. Dollars",
+        "popularity": 0
+    },
+    "GDPGOVT05019": {
+        "title": "Gross Domestic Product: Government and Government Enterprises in Clark County, AR",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of U.S. Dollars",
+        "popularity": 1
+    },
+    "GDPSERV05019": {
+        "title": "Gross Domestic Product: Private Services-Providing Industries in Clark County, AR",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of U.S. Dollars",
+        "popularity": 1
+    },
+    "HC01ESTVC1605019": {
+        "title": "High School Graduate or Higher (5-year estimate) in Clark County, AR",
+        "start": "2010-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "HC01ESTVC1705019": {
+        "title": "Bachelor's Degree or Higher (5-year estimate) in Clark County, AR",
+        "start": "2010-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "HOWNRATEACS005019": {
+        "title": "Homeownership Rate (5-year estimate) for Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "LAUCN050190000000003A": {
+        "title": "Unemployment Rate in Clark County, AR",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "LAUCN050190000000004": {
+        "title": "Unemployed Persons in Clark County, AR",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUCN050190000000004A": {
+        "title": "Unemployed Persons in Clark County, AR",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUCN050190000000005": {
+        "title": "Employed Persons in Clark County, AR",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUCN050190000000005A": {
+        "title": "Employed Persons in Clark County, AR",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUCN050190000000006A": {
+        "title": "Civilian Labor Force in Clark County, AR",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "MHIAR05019A052NCEN": {
+        "title": "Estimate of Median Household Income for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "MHICILBAR05019A052NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of Median Household Income for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "MHICIUBAR05019A052NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of Median Household Income for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "NETMIGNACS005019": {
+        "title": "Net County-to-County Migration Flow (5-year estimate) for Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2019-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PATENTCOUNTY05019": {
+        "title": "U.S. Granted Utility Patents Originating in Clark County, AR",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 0
+    },
+    "PCPI05019": {
+        "title": "Per Capita Personal Income in Clark County, AR",
+        "start": "1969-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "PE5T17AR05019A647NCEN": {
+        "title": "Estimate of Related Children Age 5-17 in Families in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PEAAAR05019A647NCEN": {
+        "title": "Estimate of People of All Ages in Poverty in Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PECILB5T17AR05019A647NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of Related Children Age 5-17 in Families in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PECILBAAAR05019A647NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of People of All Ages in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PECILBU18AR05019A647NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of People Age 0-17 in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PECIUB5T17AR05019A647NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of Related Children Age 5-17 in Families in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "PECIUBAAAR05019A647NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of People of All Ages in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PECIUBU18AR05019A647NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of People Age 0-17 in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PEU18AR05019A647NCEN": {
+        "title": "Estimate of People Age 0-17 in Poverty in Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PI05019": {
+        "title": "Personal Income in Clark County, AR",
+        "start": "1969-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "PP5T17AR05019A156NCEN": {
+        "title": "Estimated Percent of Related Children Age 5-17 in Families in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PPAAAR05019A156NCEN": {
+        "title": "Estimated Percent of People of All Ages in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PPCILB5T17AR05019A156NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of Percent of Related Children Age 5-17 in Families in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPCILBAAAR05019A156NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of Percent of People of All Ages in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPCILBU18AR05019A156NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of Percent of People Age 0-17 in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PPCIUB5T17AR05019A156NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of Percent of Related Children Age 5-17 in Families in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPCIUBAAAR05019A156NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of Percent of People of All Ages in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPCIUBU18AR05019A156NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of Percent of People Age 0-17 in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PPU18AR05019A156NCEN": {
+        "title": "Estimated Percent of People Age 0-17 in Poverty for Clark County, AR",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PUA0T17AR05019A647NCEN": {
+        "title": "Poverty Universe, Age 0-17 for Clark County, AR",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "PUA5T17RAR05019A647NCEN": {
+        "title": "Poverty Universe, Age 5-17 related for Clark County, AR",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PUAAAR05019A647NCEN": {
+        "title": "Poverty Universe, All Ages for Clark County, AR",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "RACEDISPARITY005019": {
+        "title": "White to Non-White Racial Dissimilarity (5-year estimate) Index for Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "REALGDPALL05019": {
+        "title": "Real Gross Domestic Product: All Industries in Clark County, AR",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 U.S. Dollars",
+        "popularity": 1
+    },
+    "REALGDPGOODS05019": {
+        "title": "Real Gross Domestic Product: Private Goods-Producing Industries in Clark County, AR",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 U.S. Dollars",
+        "popularity": 0
+    },
+    "REALGDPGOVT05019": {
+        "title": "Real Gross Domestic Product: Government and Government Enterprises in Clark County, AR",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 U.S. Dollars",
+        "popularity": 1
+    },
+    "REALGDPSERV05019": {
+        "title": "Real Gross Domestic Product: Private Services-Providing Industries in Clark County, AR",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 U.S. Dollars",
+        "popularity": 0
+    },
+    "S1101SPHOUSE005019": {
+        "title": "Single-Parent Households with Children as a Percentage of Households with Children (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "S1501ACSTOTAL005019": {
+        "title": "People 25 Years and Over Who Have Completed an Associate's Degree or Higher (5-year estimate) in Clark County, AR",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "S1701ACS005019": {
+        "title": "Percent of Population Below the Poverty Level (5-year estimate) in Clark County, AR",
+        "start": "2012-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "USPTOISSUED005019": {
+        "title": "New Patent Assignments in Clark County, AR",
+        "start": "2004-07-01",
+        "end": "2015-09-01",
+        "frequency": "Monthly",
+        "units": "Patents",
+        "popularity": 1
+    }
+}

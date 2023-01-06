@@ -1,0 +1,738 @@
+{
+    "ACTLISCOU31860": {
+        "title": "Housing Inventory: Active Listing Count in Mankato-North Mankato, MN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "ACTLISCOUMM31860": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "ACTLISCOUYY31860": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ATNHPIUS31860Q": {
+        "title": "All-Transactions House Price Index for Mankato, MN (MSA)",
+        "start": "1986-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index 1995:Q1=100",
+        "popularity": 2
+    },
+    "AVELISPRI31860": {
+        "title": "Housing Inventory: Average Listing Price in Mankato-North Mankato, MN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "AVELISPRIMM31860": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRIYY31860": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "ENUC318630010": {
+        "title": "Total Quarterly Wages in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC318630010SA": {
+        "title": "Total Quarterly Wages in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "ENUC318640010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC318640010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC318640110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC318640110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC318640210": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC318640210SA": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC318640310": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC318640310SA": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC318640510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC318640510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Mankato-North Mankato, MN (MSA)",
+        "start": "2013-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "IRPD31860": {
+        "title": "Implicit Regional Price Deflator for Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "LAUMT273186000000003": {
+        "title": "Unemployment Rate in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "LAUMT273186000000003A": {
+        "title": "Unemployment Rate in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "LAUMT273186000000004": {
+        "title": "Unemployed Persons in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT273186000000004A": {
+        "title": "Unemployed Persons in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUMT273186000000005": {
+        "title": "Employed Persons in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT273186000000005A": {
+        "title": "Employed Persons in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT273186000000006": {
+        "title": "Civilian Labor Force in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT273186000000006A": {
+        "title": "Civilian Labor Force in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "MEDDAYONMAR31860": {
+        "title": "Housing Inventory: Median Days on Market in Mankato-North Mankato, MN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDDAYONMARMM31860": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDDAYONMARYY31860": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI31860": {
+        "title": "Housing Inventory: Median Listing Price in Mankato-North Mankato, MN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIMM31860": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE31860": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in Mankato-North Mankato, MN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEMM31860": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY31860": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIYY31860": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEE31860": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in Mankato-North Mankato, MN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDSQUFEEMM31860": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "MEDSQUFEEYY31860": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MKTPOP": {
+        "title": "Resident Population in Mankato-North Mankato, MN (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 3
+    },
+    "NEWLISCOU31860": {
+        "title": "Housing Inventory: New Listing Count in Mankato-North Mankato, MN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "NEWLISCOUMM31860": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWLISCOUYY31860": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NGMP31860": {
+        "title": "Total Gross Domestic Product for Mankato-North Mankato, MN (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "PATENTCBSA131860": {
+        "title": "U.S. Granted Utility Patents Originating in Mankato-North Mankato, MN (MSA)",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 1
+    },
+    "PCRGMP31860": {
+        "title": "Total Per Capita Real Gross Domestic Product for Mankato-North Mankato, MN (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 1
+    },
+    "PENLISCOU31860": {
+        "title": "Housing Inventory: Pending Listing Count in Mankato-North Mankato, MN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM31860": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY31860": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU31860": {
+        "title": "Housing Inventory: Price Increased Count in Mankato-North Mankato, MN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIINCCOUMM31860": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOUYY31860": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PRIREDCOU31860": {
+        "title": "Housing Inventory: Price Reduced Count in Mankato-North Mankato, MN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM31860": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY31860": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "QGMP31860": {
+        "title": "Total Quantity Indexes for Real GDP for Mankato-North Mankato, MN (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP31860": {
+        "title": "Total Real Gross Domestic Product for Mankato-North Mankato, MN (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPI31860": {
+        "title": "Real Personal Income for Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC31860": {
+        "title": "Real Per Capita Personal Income for Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPPALL31860": {
+        "title": "Regional Price Parities: All Items for Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD31860": {
+        "title": "Regional Price Parities: Goods for Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 0
+    },
+    "RPPSERVEOTH31860": {
+        "title": "Regional Price Parities: Services: Other for Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 0
+    },
+    "RPPSERVERENT31860": {
+        "title": "Regional Price Parities: Services: Rents for Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SMS27318600000000001": {
+        "title": "All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMS27318600000000026": {
+        "title": "All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-04-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "3-Month Average Change, Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318600000000001": {
+        "title": "All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318600000000001A": {
+        "title": "All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318600500000001": {
+        "title": "All Employees: Total Private in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318600500000001A": {
+        "title": "All Employees: Total Private in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU27318600500000001SA": {
+        "title": "All Employees: Total Private in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU27318600500000002": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU27318600500000002A": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU27318600500000002SA": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Mankato-North Mankato, MN (MSA) (DISCONTINUED)",
+        "start": "2008-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU27318600500000003": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU27318600500000003A": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU27318600500000003SA": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA) (DISCONTINUED)",
+        "start": "2008-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU27318600500000011": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU27318600500000011A": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "SMU27318600500000011SA": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA) (DISCONTINUED)",
+        "start": "2008-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "SMU27318600600000001": {
+        "title": "All Employees: Goods Producing in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318600600000001A": {
+        "title": "All Employees: Goods Producing in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU27318600600000001SA": {
+        "title": "All Employees: Goods Producing in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU27318600700000001": {
+        "title": "All Employees: Service-Providing in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318600700000001A": {
+        "title": "All Employees: Service-Providing in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU27318600700000001SA": {
+        "title": "All Employees: Service-Providing in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318600800000001": {
+        "title": "All Employees: Private Service Providing in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318600800000001A": {
+        "title": "All Employees: Private Service Providing in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318600800000001SA": {
+        "title": "All Employees: Private Service Providing in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318609000000001": {
+        "title": "All Employees: Government in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318609000000001A": {
+        "title": "All Employees: Government in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU27318609000000001SA": {
+        "title": "All Employees: Government in Mankato-North Mankato, MN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    }
+}

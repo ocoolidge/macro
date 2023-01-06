@@ -1,0 +1,1250 @@
+{
+    "IR": {
+        "title": "Import Price Index (End Use): All Commodities",
+        "start": "1982-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 50
+    },
+    "IR0": {
+        "title": "Import Price Index (End Use): Foods, Feeds, and Beverages",
+        "start": "1977-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 3
+    },
+    "IR00": {
+        "title": "Import Price Index (End Use): Agricultural Foods, Feeds and Beverages, Excluding Distilled Beverages",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR000": {
+        "title": "Import Price Index (End Use): Green Coffee, Cocoa Beans, and Cane Sugar",
+        "start": "1982-03-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 8
+    },
+    "IR00000": {
+        "title": "Import Price Index (End Use): Green Coffee",
+        "start": "2007-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2007=100",
+        "popularity": 2
+    },
+    "IR001": {
+        "title": "Import Price Index (End Use): Other Agricultural Foods",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR00100": {
+        "title": "Import Price Index (End Use): Meat Products",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR00110": {
+        "title": "Import Price Index (End Use): Dairy products and eggs (DISCONTINUED)",
+        "start": "2010-12-01",
+        "end": "2017-08-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2010=100",
+        "popularity": 1
+    },
+    "IR00120": {
+        "title": "Import Price Index (End Use): Fruits and Frozen Juices",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR00130": {
+        "title": "Import Price Index (End Use): Vegetables",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR00140": {
+        "title": "Import Price Index (End Use): Nuts and preparations (DISCONTINUED)",
+        "start": "2010-12-01",
+        "end": "2011-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2010=100",
+        "popularity": 1
+    },
+    "IR00150": {
+        "title": "Import Price Index (End Use): Food Oils and Oilseeds",
+        "start": "2007-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2007=100",
+        "popularity": 1
+    },
+    "IR00160": {
+        "title": "Import Price Index (End Use): Bakery Products",
+        "start": "1996-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR00180": {
+        "title": "Import Price Index (End Use): Other Foods",
+        "start": "2015-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2015=100",
+        "popularity": 1
+    },
+    "IR00190": {
+        "title": "Import Price Index (End Use): Wine and Related Products",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR002": {
+        "title": "Import Price Index (End Use): Feedstuff and Foodgrains",
+        "start": "2013-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2013=100",
+        "popularity": 1
+    },
+    "IR01": {
+        "title": "Import Price Index (End Use): Nonagricultural Products",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR01000": {
+        "title": "Import Price Index (End Use): Fish and Shellfish",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR01010": {
+        "title": "Import Price Index (End Use): Alcoholic Beverages, Excluding Wine",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR1": {
+        "title": "Import Price Index (End Use): Industrial Supplies and Materials",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR10": {
+        "title": "Import Price Index (End Use): Fuels and Lubricants",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR100": {
+        "title": "Import Price Index (End Use): Petroleum Products, Excluding Natural Gas",
+        "start": "1982-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 4
+    },
+    "IR10000": {
+        "title": "Import Price Index (End Use): Crude Oil",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 20
+    },
+    "IR10010": {
+        "title": "Import Price Index (End Use): Fuel Oil",
+        "start": "1986-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 6
+    },
+    "IR10020": {
+        "title": "Import Price Index (End Use): Other Petroleum Products",
+        "start": "1986-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR101": {
+        "title": "Import Price Index (End Use): Fuels, N.E.S. - Coals and Gas",
+        "start": "1981-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR10110": {
+        "title": "Import Price Index (End Use): Natural Gas",
+        "start": "1981-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 5
+    },
+    "IR10110NG": {
+        "title": "Import Price Index (End Use): Gaseous natural gas",
+        "start": "2001-12-01",
+        "end": "2020-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2001=100",
+        "popularity": 1
+    },
+    "IR103": {
+        "title": "Import Price Index (End Use): Nuclear fuel materials (DISCONTINUED)",
+        "start": "2011-12-01",
+        "end": "2016-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2011=100",
+        "popularity": 1
+    },
+    "IR11": {
+        "title": "Import Price Index (End Use): Paper and Paper Base Stocks",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR110": {
+        "title": "Import Price Index (End Use): Woodpulp",
+        "start": "2009-12-01",
+        "end": "2018-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2009=100",
+        "popularity": 1
+    },
+    "IR111": {
+        "title": "Import Price Index (End Use): Newsprint and Other Paper Products",
+        "start": "1980-12-01",
+        "end": "2021-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR11110": {
+        "title": "Import Price Index (End Use): Paper and Paper Products",
+        "start": "1980-12-01",
+        "end": "2021-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR12": {
+        "title": "Import Price Index (End Use): Agricultural Products, Textile Supplies and Chemicals",
+        "start": "1984-03-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR120": {
+        "title": "Import Price Index (End Use): Agricultural Industrial Supplies and Materials Products",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR12070": {
+        "title": "Import Price Index (End Use): Tobacco, Waxes, Nonfood Oils",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR121": {
+        "title": "Import Price Index (End Use): Textile Supplies and Related Materials",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR12135": {
+        "title": "Import Price Index (End Use): Synthetic Cloth",
+        "start": "1996-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR12150": {
+        "title": "Import Price Index (End Use): Finished textile industrial supplies",
+        "start": "2011-12-01",
+        "end": "2020-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2011=100",
+        "popularity": 1
+    },
+    "IR125": {
+        "title": "Import Price Index (End Use): Chemicals, Excluding Medicinals and Food Additives",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR12500": {
+        "title": "Import Price Index (End Use): Plastic Materials",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 3
+    },
+    "IR12510": {
+        "title": "Import Price Index (End Use): Chemicals - Fertilizers",
+        "start": "2007-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2007=100",
+        "popularity": 10
+    },
+    "IR12530": {
+        "title": "Import Price Index (End Use): Chemicals - Inorganic Chemicals",
+        "start": "2016-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2016=100",
+        "popularity": 1
+    },
+    "IR12540": {
+        "title": "Import Price Index (End Use): Chemicals - Organic Chemicals",
+        "start": "2012-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2012=100",
+        "popularity": 1
+    },
+    "IR12550": {
+        "title": "Import Price Index (End Use): Chemicals - Other",
+        "start": "1992-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR13": {
+        "title": "Import Price Index (End Use): Selected Building Materials, Except Metals",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR130": {
+        "title": "Import Price Index (End Use): Lumber and Other Unfinished Building Materials",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 3
+    },
+    "IR13000": {
+        "title": "Import Price Index (End Use): Lumber",
+        "start": "1980-12-01",
+        "end": "2021-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 5
+    },
+    "IR13020": {
+        "title": "Import Price Index (End Use): Stone, Sand, and Cement",
+        "start": "2019-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2019=100",
+        "popularity": 6
+    },
+    "IR131": {
+        "title": "Import Price Index (End Use): Building Materials, Finished",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR13110": {
+        "title": "Import Price Index (End Use): Other finished building materials",
+        "start": "1996-12-01",
+        "end": "2018-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR13120": {
+        "title": "Import Price Index (End Use): Nontextile Floor Tiles",
+        "start": "2007-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2007=100",
+        "popularity": 1
+    },
+    "IR14": {
+        "title": "Import Price Index (End Use): Unfinished Metals Associated with Durable Goods Output",
+        "start": "1981-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR140": {
+        "title": "Import Price Index (End Use): Steelmaking and Ferroalloying Materials",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR141": {
+        "title": "Import Price Index (End Use): Iron and Steel Mill Products - Semifinished",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 12
+    },
+    "IR142": {
+        "title": "Import Price Index (End Use): Major Nonferrous Metals - Crude and Semifinished",
+        "start": "1981-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR14200": {
+        "title": "Import Price Index (End Use): Bauxite and Aluminum",
+        "start": "1986-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 47
+    },
+    "IR14220": {
+        "title": "Import Price Index (End Use): Copper",
+        "start": "2017-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2017=100",
+        "popularity": 5
+    },
+    "IR14240": {
+        "title": "Import Price Index (End Use): Nickel",
+        "start": "2007-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2007=100",
+        "popularity": 5
+    },
+    "IR14250": {
+        "title": "Import Price Index (End Use): Tin",
+        "start": "2010-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2010=100",
+        "popularity": 2
+    },
+    "IR14260": {
+        "title": "Import Price Index (End Use): Zinc",
+        "start": "2008-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2008=100",
+        "popularity": 9
+    },
+    "IR14270": {
+        "title": "Import Price Index (End Use): Nonmonetary Gold",
+        "start": "1992-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 19
+    },
+    "IR14280": {
+        "title": "Import Price Index (End Use): Other Precious Metals",
+        "start": "1981-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR15": {
+        "title": "Import Price Index (End Use): Finished Metals Associated with Durable Goods",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR150": {
+        "title": "Import Price Index (End Use): Iron and Steel Products, Except Advanced Manufacturing",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR151": {
+        "title": "Import Price Index (End Use): Iron and Steel Manufacturing, Except Steel - Advanced",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR152": {
+        "title": "Import Price Index (End Use): Finished Metals Shapes and Advanced Manufacturing",
+        "start": "1984-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR16": {
+        "title": "Import Price Index (End Use): Nonmetals Associated with Durable Goods",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR160": {
+        "title": "Import Price Index (End Use): Unfinished, nonmetals asso. with durable goods output (DISCONTINUED)",
+        "start": "2011-12-01",
+        "end": "2017-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2011=100",
+        "popularity": 1
+    },
+    "IR161": {
+        "title": "Import Price Index (End Use): Finished Nonmetals Associated with Durable Goods",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR16120": {
+        "title": "Import Price Index (End Use): Other Industrial Supplies",
+        "start": "1987-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR1DUR": {
+        "title": "Import Price Index (End Use): Industrial Supplies and Materials, Durable",
+        "start": "1989-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR1EXFUEL": {
+        "title": "Import Price Index (End Use): Industrial Supplies and Materials Excluding Fuels",
+        "start": "2001-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2001=100",
+        "popularity": 2
+    },
+    "IR1EXPET": {
+        "title": "Import Price Index (End Use): Industrial Supplies and Materials Excluding Petroleum",
+        "start": "1982-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR1NONDUR": {
+        "title": "Import Price Index (End Use): Industrial Supplies and Materials Nondurable Excluding Petroleum",
+        "start": "1989-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR2": {
+        "title": "Import Price Index (End Use): Capital Goods, Except Automotive",
+        "start": "1979-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 3
+    },
+    "IR20": {
+        "title": "Import Price Index (End Use): Electric Generating, and Electric Equipment and Parts",
+        "start": "1979-03-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR20000": {
+        "title": "Import Price Index (End Use): Generators, Accessories",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR20005": {
+        "title": "Import Price Index (End Use): Electric Apparatus",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21": {
+        "title": "Import Price Index (End Use): Nonelectrical Machinery, Except Consumer - Type",
+        "start": "1979-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR210": {
+        "title": "Import Price Index (End Use): Oil Drilling, Mining, and Construction Machinery",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR21000": {
+        "title": "Import Price Index (End Use): Drilling and oil field equipment (DISCONTINUED)",
+        "start": "2007-12-01",
+        "end": "2011-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2007=100",
+        "popularity": 1
+    },
+    "IR21030": {
+        "title": "Import Price Index (End Use): Excavating Machinery",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR211": {
+        "title": "Import Price Index (End Use): Industrial and Service Machinery, N.e.c.",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21100": {
+        "title": "Import Price Index (End Use): Industrial Engines",
+        "start": "1987-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21120": {
+        "title": "Import Price Index (End Use): Metal Working Machine Tools",
+        "start": "1979-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21140": {
+        "title": "Import Price Index (End Use): Machinery for working wood, plastic, stone, rubber and glass (DISCONTINUED)",
+        "start": "1987-12-01",
+        "end": "2013-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21150": {
+        "title": "Import Price Index (End Use): Pulp and paper machinery (DISCONTINUED)",
+        "start": "1984-12-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21160": {
+        "title": "Import Price Index (End Use): Measuring, Testing, Control Instruments",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21170": {
+        "title": "Import Price Index (End Use): Materials Handling Equipment",
+        "start": "1996-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21180": {
+        "title": "Import Price Index (End Use): Other Industrial Machines",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21190": {
+        "title": "Import Price Index (End Use): Photo, Service Industry Machines",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR212": {
+        "title": "Import Price Index (End Use): Agricultural machinery and equipment (DISCONTINUED)",
+        "start": "1985-12-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR213": {
+        "title": "Import Price Index (End Use): Computers, Peripherals and Semiconductors",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR21300": {
+        "title": "Import Price Index (End Use): Computers",
+        "start": "1994-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21301": {
+        "title": "Import Price Index (End Use): Computer Accessories",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR21320": {
+        "title": "Import Price Index (End Use): Semiconductors",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 13
+    },
+    "IR213COM": {
+        "title": "Import Price Index (End Use): Computers, Peripherals, Accessories and Parts, Excluding Semiconductors",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR214": {
+        "title": "Import Price Index (End Use): Telecommunications Equipment",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR215": {
+        "title": "Import Price Index (End Use): Business Machinery and Equipment, Except Computers and Related Products",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR216": {
+        "title": "Import Price Index (End Use): Scientific, Hospital and Medical Machinery",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21600": {
+        "title": "Import Price Index (End Use): Laboratory Testing Instruments",
+        "start": "2016-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2016=100",
+        "popularity": 1
+    },
+    "IR21610": {
+        "title": "Import Price Index (End Use): Medical Equipment",
+        "start": "1992-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR21EXCOM": {
+        "title": "Import Price Index (End Use): Non-Electrical Machinery Excluding Computers, Peripherals, and Semiconductors",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR22": {
+        "title": "Import Price Index (End Use): Transportation Equipment and Spacecraft, Except Automotive",
+        "start": "2001-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2001=100",
+        "popularity": 1
+    },
+    "IR22010": {
+        "title": "Import Price Index (End Use): Parts - Civilian Aircraft",
+        "start": "2012-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2012=100",
+        "popularity": 1
+    },
+    "IR22020": {
+        "title": "Import Price Index (End Use): Engines - Civilian Aircraft",
+        "start": "1998-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR2EXCOM": {
+        "title": "Import Price Index (End Use): Capital Goods, Excluding Computers, Peripherals, and Semiconductors",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR3": {
+        "title": "Import Price Index (End Use): Automotive Vehicles, Parts and Engines",
+        "start": "1981-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 5
+    },
+    "IR300": {
+        "title": "Import Price Index (End Use): Passenger Cars, New and Used",
+        "start": "1981-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR301": {
+        "title": "Import Price Index (End Use): Vehicles designed to transport goods",
+        "start": "2013-12-01",
+        "end": "2019-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2013=100",
+        "popularity": 1
+    },
+    "IR302": {
+        "title": "Import Price Index (End Use): Parts, Engines, Bodies, and Chassis",
+        "start": "1992-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR30200": {
+        "title": "Import Price Index (End Use): Engines and Engine Parts (Carburetors, Pistons, Rings, and Valves)",
+        "start": "2004-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2004=100",
+        "popularity": 1
+    },
+    "IR30220": {
+        "title": "Import Price Index (End Use): Automotive Tires and Tubes",
+        "start": "2004-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2004=100",
+        "popularity": 1
+    },
+    "IR30230": {
+        "title": "Import Price Index (End Use): Other Auto Parts and Accessories",
+        "start": "2003-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2003=100",
+        "popularity": 1
+    },
+    "IR302NAPT": {
+        "title": "Import Price Index (End Use): Automotive Parts and Accessories (Including Engines and Parts), Excluding Canadian",
+        "start": "1982-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR4": {
+        "title": "Import Price Index (End Use): Consumer Goods, Excluding Automotives",
+        "start": "1982-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 4
+    },
+    "IR40": {
+        "title": "Import Price Index (End Use): Nondurables, Manufactured - Except Rugs",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR400": {
+        "title": "Import Price Index (End Use): Apparel, Footwear, and Household Goods",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR40000": {
+        "title": "Import Price Index (End Use): Apparel, Household Goods - Cotton",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 6
+    },
+    "IR40020": {
+        "title": "Import Price Index (End Use): Apparel, Textiles, Nonwool or Cotton",
+        "start": "1980-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 3
+    },
+    "IR40030": {
+        "title": "Import Price Index (End Use): Apparel, Household Goods - Nontextile",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR40040": {
+        "title": "Import Price Index (End Use): Footwear",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR40050": {
+        "title": "Import Price Index (End Use): Camping Apparel and Gear",
+        "start": "1996-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR401": {
+        "title": "Import Price Index (End Use): Other Consumer Nondurables",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR40100": {
+        "title": "Import Price Index (End Use): Pharmaceutical Preparations",
+        "start": "1992-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR40110": {
+        "title": "Import Price Index (End Use): Books, magazines and other printed materials",
+        "start": "2016-12-01",
+        "end": "2018-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR40120": {
+        "title": "Import Price Index (End Use): Toiletries and cosmetics (DISCONTINUED)",
+        "start": "1984-12-01",
+        "end": "2014-12-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR40140": {
+        "title": "Import Price Index (End Use): Writing and Art Supplies",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR41": {
+        "title": "Import Price Index (End Use): Durables, Manufactured - Except Automotive",
+        "start": "1979-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR410": {
+        "title": "Import Price Index (End Use): Household Goods",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR41000": {
+        "title": "Import Price Index (End Use): Furniture, Household Goods",
+        "start": "1980-03-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 5
+    },
+    "IR41010": {
+        "title": "Import Price Index (End Use): Glassware and ceramics",
+        "start": "2007-12-01",
+        "end": "2019-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2007=100",
+        "popularity": 1
+    },
+    "IR41020": {
+        "title": "Import Price Index (End Use): Cookware, Chinaware, Cutlery for the House and Garden",
+        "start": "1980-06-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR41030": {
+        "title": "Import Price Index (End Use): Household Appliances",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR41050": {
+        "title": "Import Price Index (End Use): Other Household Goods",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR411": {
+        "title": "Import Price Index (End Use): Recreational Equipment and Materials",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR41100": {
+        "title": "Import Price Index (End Use): Motorcycles and Parts",
+        "start": "2001-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2001=100",
+        "popularity": 1
+    },
+    "IR41110": {
+        "title": "Import Price Index (End Use): Pleasure boats and motors (DISCONTINUED)",
+        "start": "2007-12-01",
+        "end": "2011-12-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2007=100",
+        "popularity": 1
+    },
+    "IR41120": {
+        "title": "Import Price Index (End Use): Toys, Games, and Sporting Goods",
+        "start": "1981-03-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR41130": {
+        "title": "Import Price Index (End Use): Photo Equipment",
+        "start": "2011-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2011=100",
+        "popularity": 1
+    },
+    "IR41140": {
+        "title": "Import Price Index (End Use): Musical Instruments",
+        "start": "2010-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2010=100",
+        "popularity": 1
+    },
+    "IR412": {
+        "title": "Import Price Index (End Use): Home Entertainment Equipment",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR41200": {
+        "title": "Import Price Index (End Use): Television and Video Receivers",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR41210": {
+        "title": "Import Price Index (End Use): Stereo Equipment",
+        "start": "2012-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2012=100",
+        "popularity": 1
+    },
+    "IR41220": {
+        "title": "Import Price Index (End Use): Records, tapes and disks (DISCONTINUED)",
+        "start": "2009-12-01",
+        "end": "2017-07-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2009=100",
+        "popularity": 1
+    },
+    "IR413": {
+        "title": "Import Price Index (End Use): Coins, Gems, Jewelry, and Collectibles",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 2
+    },
+    "IR41310": {
+        "title": "Import Price Index (End Use): Jewelry",
+        "start": "1987-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR42": {
+        "title": "Import Price Index (End Use): Consumer Durables and Nondurables - Nonmanufactured",
+        "start": "1984-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR421": {
+        "title": "Import Price Index (End Use): Durables - Nonmanufactured",
+        "start": "1992-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 1
+    },
+    "IR42100": {
+        "title": "Import Price Index (End Use): Gem Diamonds",
+        "start": "2007-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2007=100",
+        "popularity": 7
+    },
+    "IREXFDFLS": {
+        "title": "Import Price Index (End Use): All Imports Excluding Food and Fuels",
+        "start": "2010-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2010=100",
+        "popularity": 8
+    },
+    "IREXFUELCO": {
+        "title": "Import Price Index (End Use): All Commodities, Excluding Computers, Peripherals, Semiconductors and Fuels",
+        "start": "2003-03-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Mar 2003=100",
+        "popularity": 1
+    },
+    "IREXFUELS": {
+        "title": "Import Price Index (End Use): All Imports Excluding Fuels",
+        "start": "2001-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2001=100",
+        "popularity": 6
+    },
+    "IREXPET": {
+        "title": "Import Price Index (End Use): All Imports Excluding Petroleum",
+        "start": "1985-03-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index 2000=100",
+        "popularity": 14
+    },
+    "IREXPETCOM": {
+        "title": "Import Price Index (End Use): All Commodities, Excluding Computers, Peripherals, Semiconductors, and Petroleum",
+        "start": "2001-12-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index Dec 2001=100",
+        "popularity": 1
+    }
+}

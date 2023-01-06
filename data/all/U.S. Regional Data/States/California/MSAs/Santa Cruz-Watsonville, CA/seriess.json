@@ -1,0 +1,1546 @@
+{
+    "ACTLISCOU42100": {
+        "title": "Housing Inventory: Active Listing Count in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 2
+    },
+    "ACTLISCOUMM42100": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ACTLISCOUYY42100": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ATNHPIUS42100Q": {
+        "title": "All-Transactions House Price Index for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1978-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index 1995:Q1=100",
+        "popularity": 11
+    },
+    "AVELISPRI42100": {
+        "title": "Housing Inventory: Average Listing Price in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "AVELISPRIMM42100": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "AVELISPRIYY42100": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "DESCMSA42100": {
+        "title": "Market Hotness: Demand Score in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "ENUC421030010": {
+        "title": "Total Quarterly Wages in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "ENUC421030010SA": {
+        "title": "Total Quarterly Wages in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC421040010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC421040010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC421040110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC421040110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC421040210": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC421040210SA": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC421040310": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC421040310SA": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC421040510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC421040510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "HORAMMMSA42100": {
+        "title": "Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change",
+        "popularity": 1
+    },
+    "HORAMSA42100": {
+        "title": "Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "HORAYYMSA42100": {
+        "title": "Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change from Year Ago",
+        "popularity": 1
+    },
+    "HOSCMSA42100": {
+        "title": "Market Hotness: Hotness Score in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "IRPD42100": {
+        "title": "Implicit Regional Price Deflator for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "LAUMT064210000000003A": {
+        "title": "Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "LAUMT064210000000004": {
+        "title": "Unemployed Persons in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT064210000000004A": {
+        "title": "Unemployed Persons in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUMT064210000000005": {
+        "title": "Employed Persons in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT064210000000005A": {
+        "title": "Employed Persons in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUMT064210000000006A": {
+        "title": "Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LDPEPRMMMSA42100": {
+        "title": "Market Hotness: Listing Views per Property in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "LDPEPRVSUSMSA42100": {
+        "title": "Market Hotness: Listing Views per Property Versus the United States in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "LDPEPRYYMSA42100": {
+        "title": "Market Hotness: Listing Views per Property in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDAONMAMMMSA42100": {
+        "title": "Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 0
+    },
+    "MEDAONMAMSA42100": {
+        "title": "Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Days",
+        "popularity": 1
+    },
+    "MEDAONMAYYMSA42100": {
+        "title": "Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDDAYONMAR42100": {
+        "title": "Housing Inventory: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDDAYONMARMM42100": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDDAYONMARYY42100": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI42100": {
+        "title": "Housing Inventory: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIMM42100": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE42100": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEMM42100": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY42100": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIYY42100": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "MEDOMMDAMSA42100": {
+        "title": "Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDOVSUSMSA42100": {
+        "title": "Market Hotness: Median Days on Market Versus the United States in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MEDOYYDAMSA42100": {
+        "title": "Market Hotness: Median Days on Market Day in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDSQUFEE42100": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDSQUFEEMM42100": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEEYY42100": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MELIPRMMMSA42100": {
+        "title": "Market Hotness: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MELIPRMSA42100": {
+        "title": "Market Hotness: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MELIPRVSUSMSA42100": {
+        "title": "Market Hotness: Median Listing Price Versus the United States in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MELIPRYYMSA42100": {
+        "title": "Market Hotness: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "NEWLISCOU42100": {
+        "title": "Housing Inventory: New Listing Count in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "NEWLISCOUMM42100": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWLISCOUYY42100": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NGMP42100": {
+        "title": "Total Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 3
+    },
+    "NIHHRAMSA42100": {
+        "title": "Market Hotness: Nielsen Household Rank in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "PATENTCBSA142100": {
+        "title": "U.S. Granted Utility Patents Originating in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 1
+    },
+    "PCRGMP42100": {
+        "title": "Total Per Capita Real Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 1
+    },
+    "PENLISCOU42100": {
+        "title": "Housing Inventory: Pending Listing Count in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM42100": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY42100": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU42100": {
+        "title": "Housing Inventory: Price Increased Count in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 0
+    },
+    "PRIINCCOUMM42100": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-07-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOUYY42100": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PRIREDCOU42100": {
+        "title": "Housing Inventory: Price Reduced Count in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM42100": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY42100": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "QGMP42100": {
+        "title": "Total Quantity Indexes for Real GDP for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP42100": {
+        "title": "Total Real Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPI42100": {
+        "title": "Real Personal Income for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC42100": {
+        "title": "Real Per Capita Personal Income for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPPALL42100": {
+        "title": "Regional Price Parities: All Items for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD42100": {
+        "title": "Regional Price Parities: Goods for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVEOTH42100": {
+        "title": "Regional Price Parities: Services: Other for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVERENT42100": {
+        "title": "Regional Price Parities: Services: Rents for Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SANT106EDUH": {
+        "title": "All Employees: Education and Health Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106EDUHN": {
+        "title": "All Employees: Education and Health Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106FIRE": {
+        "title": "All Employees: Financial Activities in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106FIREN": {
+        "title": "All Employees: Financial Activities in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106GOVT": {
+        "title": "All Employees: Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106GOVTN": {
+        "title": "All Employees: Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106INFO": {
+        "title": "All Employees: Information in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106INFON": {
+        "title": "All Employees: Information in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106LEIH": {
+        "title": "All Employees: Leisure and Hospitality in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106LEIHN": {
+        "title": "All Employees: Leisure and Hospitality in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SANT106LF": {
+        "title": "Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "SANT106LFN": {
+        "title": "Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "SANT106MFG": {
+        "title": "All Employees: Manufacturing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106MFGN": {
+        "title": "All Employees: Manufacturing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106NA": {
+        "title": "All Employees: Total Nonfarm in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106NAN": {
+        "title": "All Employees: Total Nonfarm in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106NRMN": {
+        "title": "All Employees: Mining, Logging, and Construction in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106NRMNN": {
+        "title": "All Employees: Mining, Logging, and Construction in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106PBSV": {
+        "title": "All Employees: Professional and Business Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106PBSVN": {
+        "title": "All Employees: Professional and Business Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106PCPI": {
+        "title": "Per Capita Personal Income in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1969-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "SANT106SRVO": {
+        "title": "All Employees: Other Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106SRVON": {
+        "title": "All Employees: Other Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106TRAD": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106TRADN": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SANT106UR": {
+        "title": "Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "SANT106URN": {
+        "title": "Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "SCZPOP": {
+        "title": "Resident Population in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMS06421000000000026": {
+        "title": "All Employees: Total Nonfarm in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-04-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "3-Month Average Change, Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421000000000001A": {
+        "title": "All Employees: Total Nonfarm in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421000500000001": {
+        "title": "All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421000500000001A": {
+        "title": "All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421000500000001SA": {
+        "title": "All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421000500000002": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU06421000500000002A": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 0
+    },
+    "SMU06421000500000002SA": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU06421000500000003": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU06421000500000003A": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 0
+    },
+    "SMU06421000500000003SA": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU06421000500000011": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU06421000500000011A": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU06421000500000011SA": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU06421000600000001": {
+        "title": "All Employees: Goods Producing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421000600000001A": {
+        "title": "All Employees: Goods Producing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421000600000001SA": {
+        "title": "All Employees: Goods Producing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421000700000001": {
+        "title": "All Employees: Service-Providing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421000700000001A": {
+        "title": "All Employees: Service-Providing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421000700000001SA": {
+        "title": "All Employees: Service-Providing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421000800000001": {
+        "title": "All Employees: Private Service Providing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421000800000001A": {
+        "title": "All Employees: Private Service Providing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421000800000001SA": {
+        "title": "All Employees: Private Service Providing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421001500000001A": {
+        "title": "All Employees: Mining, Logging, and Construction in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421003000000001A": {
+        "title": "All Employees: Manufacturing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421003100000001": {
+        "title": "All Employees: Manufacturing: Durable Goods in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421003100000001A": {
+        "title": "All Employees: Manufacturing: Durable Goods in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421003100000001SA": {
+        "title": "All Employees: Manufacturing: Durable Goods in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421003200000001": {
+        "title": "All Employees: Manufacturing: Non-Durable Goods in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421003200000001A": {
+        "title": "All Employees: Manufacturing: Non-Durable Goods in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421003200000001SA": {
+        "title": "All Employees: Manufacturing: Non-Durable Goods in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421004000000001A": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421004100000001": {
+        "title": "All Employees: Wholesale Trade in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421004100000001A": {
+        "title": "All Employees: Wholesale Trade in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421004100000001SA": {
+        "title": "All Employees: Wholesale Trade in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421004200000001": {
+        "title": "All Employees: Retail Trade in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421004200000001A": {
+        "title": "All Employees: Retail Trade in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421004200000001SA": {
+        "title": "All Employees: Retail Trade in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421004300000001": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421004300000001A": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421004300000001SA": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421005000000001A": {
+        "title": "All Employees: Information in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421005500000001A": {
+        "title": "All Employees: Financial Activities in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421005552000001": {
+        "title": "All Employees: Financial Activities: Finance and Insurance in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421005552000001A": {
+        "title": "All Employees: Financial Activities: Finance and Insurance in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421005552000001SA": {
+        "title": "All Employees: Financial Activities: Finance and Insurance in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421005553000001": {
+        "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421005553000001A": {
+        "title": "All Employees: Real Estate and Rental and Leasing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421005553000001SA": {
+        "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421006000000001A": {
+        "title": "All Employees: Professional and Business Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421006500000001A": {
+        "title": "All Employees: Education and Health Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421007000000001A": {
+        "title": "All Employees: Leisure and Hospitality in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421007071000001": {
+        "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421007071000001A": {
+        "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421007071000001SA": {
+        "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421007072000001": {
+        "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421007072000001A": {
+        "title": "All Employees: Accommodation and Food Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421007072000001SA": {
+        "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421007072200001": {
+        "title": "All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421007072200001A": {
+        "title": "All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2012-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421007072200001SA": {
+        "title": "All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2013-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421008000000001A": {
+        "title": "All Employees: Other Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421009000000001A": {
+        "title": "All Employees: Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421009091000001": {
+        "title": "All Employees: Government: Federal Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009091000001A": {
+        "title": "All Employees: Federal Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009091000001SA": {
+        "title": "All Employees: Government: Federal Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009092000001": {
+        "title": "All Employees: Government: State Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009092000001A": {
+        "title": "All Employees: State Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009092000001SA": {
+        "title": "All Employees: Government: State Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009092161101": {
+        "title": "All Employees: Government: State Government Educational Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421009092161101A": {
+        "title": "All Employees: State Government Educational Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421009092161101SA": {
+        "title": "All Employees: Government: State Government Educational Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009092200001": {
+        "title": "All Employees: Government: State Government Excluding Education in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1992-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421009092200001A": {
+        "title": "All Employees: Government: State Government Excluding Education in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1992-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421009092200001SA": {
+        "title": "All Employees: Government: State Government Excluding Education in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1992-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009093000001": {
+        "title": "All Employees: Government: Local Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421009093000001A": {
+        "title": "All Employees: Local Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009093000001SA": {
+        "title": "All Employees: Government: Local Government in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009093161101": {
+        "title": "All Employees: Government: Local Government Educational Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009093161101A": {
+        "title": "All Employees: Local Government Educational Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009093161101SA": {
+        "title": "All Employees: Government: Local Government Educational Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU06421009093200001": {
+        "title": "All Employees: Government: Local Government Excluding Educational Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009093200001A": {
+        "title": "All Employees: Local Government Excluding Educational Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU06421009093200001SA": {
+        "title": "All Employees: Government: Local Government Excluding Educational Services in Santa Cruz-Watsonville, CA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SUSCMSA42100": {
+        "title": "Market Hotness: Supply Score in Santa Cruz-Watsonville, CA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    }
+}

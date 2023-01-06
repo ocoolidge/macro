@@ -1,0 +1,602 @@
+{
+    "RCCCBACTDPD30P": {
+        "title": "Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Accounts Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 16
+    },
+    "RCCCBACTDPD60P": {
+        "title": "Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Accounts Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "RCCCBACTDPD90P": {
+        "title": "Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Accounts Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "RCCCBACTIVEBALPCT50": {
+        "title": "Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 2
+    },
+    "RCCCBACTIVEBALPCT75": {
+        "title": "Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCCCBACTIVEBALPCT90": {
+        "title": "Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCCCBACTIVEUTILPCT50": {
+        "title": "Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "RCCCBACTIVEUTILPCT75": {
+        "title": "Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "RCCCBACTIVEUTILPCT90": {
+        "title": "Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "RCCCBBALDPD30P": {
+        "title": "Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Balances Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "RCCCBBALDPD60P": {
+        "title": "Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Balances Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "RCCCBBALDPD90P": {
+        "title": "Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Balances Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "RCCCBBALREV": {
+        "title": "Large Bank Consumer Credit Card Balances: Revolving Balances Only",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Billions of U.S. Dollars",
+        "popularity": 6
+    },
+    "RCCCBBALTOT": {
+        "title": "Large Bank Consumer Credit Card Balances: Total Balances",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Billions of U.S. Dollars",
+        "popularity": 29
+    },
+    "RCCCBCOMTOT": {
+        "title": "Large Bank Consumer Credit Card Balances: Total Commitments",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Billions of U.S. Dollars",
+        "popularity": 4
+    },
+    "RCCCBLIMPCT50": {
+        "title": "Large Bank Consumer Credit Card Balances: Current Credit Limit: 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 2
+    },
+    "RCCCBLIMPCT75": {
+        "title": "Large Bank Consumer Credit Card Balances: Current Credit Limit: 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCCCBLIMPCT90": {
+        "title": "Large Bank Consumer Credit Card Balances: Current Credit Limit: 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCCCBNUMACT": {
+        "title": "Large Bank Consumer Credit Card Balances: Number of Accounts",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Millions",
+        "popularity": 3
+    },
+    "RCCCBPCTCLDEC": {
+        "title": "Large Bank Consumer Credit Card Balances: Accounts with Credit Line Decrease",
+        "start": "2012-10-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "RCCCBPCTCLINC": {
+        "title": "Large Bank Consumer Credit Card Balances: Accounts with Credit Line Increase",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "RCCCBSCOREPCT10": {
+        "title": "Large Bank Consumer Credit Card Balances: Current Credit Score: 10th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 2
+    },
+    "RCCCBSCOREPCT25": {
+        "title": "Large Bank Consumer Credit Card Balances: Current Credit Score: 25th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 4
+    },
+    "RCCCBSCOREPCT50": {
+        "title": "Large Bank Consumer Credit Card Balances: Current Credit Score: 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 1
+    },
+    "RCCCBSHRFULL": {
+        "title": "Large Bank Consumer Credit Card Balances: Share of Accounts Making Full Balance Payment",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "RCCCBSHRGTMINLTMAX": {
+        "title": "Large Bank Consumer Credit Card Balances: Share of Accounts Making Greater Than the Minimum Payment but Less Than the Full Balance",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 5
+    },
+    "RCCCBSHRMIN": {
+        "title": "Large Bank Consumer Credit Card Balances: Share of Accounts Making the Minimum Payment",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 20
+    },
+    "RCCCOLIMPCT50": {
+        "title": "Large Bank Consumer Credit Card Originations: Original Credit Limit: 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 2
+    },
+    "RCCCOLIMPCT75": {
+        "title": "Large Bank Consumer Credit Card Originations: Original Credit Limit: 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCCCOLIMPCT90": {
+        "title": "Large Bank Consumer Credit Card Originations: Original Credit Limit: 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 2
+    },
+    "RCCCONUMACT": {
+        "title": "Large Bank Consumer Credit Card Originations: Number of New Accounts",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, Sum",
+        "units": "Millions",
+        "popularity": 10
+    },
+    "RCCCOORG": {
+        "title": "Large Bank Consumer Credit Card Originations: New Originations",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, Sum",
+        "units": "Billions of U.S. Dollars",
+        "popularity": 10
+    },
+    "RCCCOSCOREPCT10": {
+        "title": "Large Bank Consumer Credit Card Originations: Original Credit Score: 10th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 7
+    },
+    "RCCCOSCOREPCT25": {
+        "title": "Large Bank Consumer Credit Card Originations: Original Credit Score: 25th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 3
+    },
+    "RCCCOSCOREPCT50": {
+        "title": "Large Bank Consumer Credit Card Originations: Original Credit Score: 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 4
+    },
+    "RCMFLBACTBALPCT50": {
+        "title": "Large Bank Consumer Mortgage Balances: Account Balance: 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCMFLBACTBALPCT75": {
+        "title": "Large Bank Consumer Mortgage Balances: Account Balance: 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCMFLBACTBALPCT90": {
+        "title": "Large Bank Consumer Mortgage Balances: Account Balance: 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCMFLBACTDPDPCT30P": {
+        "title": "Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Accounts Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 19
+    },
+    "RCMFLBACTDPDPCT60P": {
+        "title": "Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Accounts Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 3
+    },
+    "RCMFLBACTDPDPCT90P": {
+        "title": "Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Accounts Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 12
+    },
+    "RCMFLBACTNUM": {
+        "title": "Large Bank Consumer Mortgage Balances: Number of Accounts",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Millions",
+        "popularity": 2
+    },
+    "RCMFLBBALDPDPCT30P": {
+        "title": "Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Balances Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 6
+    },
+    "RCMFLBBALDPDPCT60P": {
+        "title": "Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Balances Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 10
+    },
+    "RCMFLBBALDPDPCT90P": {
+        "title": "Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Balances Based",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Percent",
+        "popularity": 7
+    },
+    "RCMFLBBALTOT": {
+        "title": "Large Bank Consumer Mortgage Balances: Total Balances",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Billions of U.S. Dollars",
+        "popularity": 2
+    },
+    "RCMFLBBEDTIPCT50": {
+        "title": "Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 2
+    },
+    "RCMFLBBEDTIPCT75": {
+        "title": "Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "RCMFLBBEDTIPCT90": {
+        "title": "Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 5
+    },
+    "RCMFLBFEDTIPCT50": {
+        "title": "Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "RCMFLBFEDTIPCT75": {
+        "title": "Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "RCMFLBFEDTIPCT90": {
+        "title": "Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "RCMFLBOLTVPCT50": {
+        "title": "Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 9
+    },
+    "RCMFLBOLTVPCT75": {
+        "title": "Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "RCMFLBOLTVPCT90": {
+        "title": "Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 3
+    },
+    "RCMFLBSCOREPCT10": {
+        "title": "Large Bank Consumer Mortgage Balances: Current Credit Score: 10th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 2
+    },
+    "RCMFLBSCOREPCT25": {
+        "title": "Large Bank Consumer Mortgage Balances: Current Credit Score: 25th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 1
+    },
+    "RCMFLBSCOREPCT50": {
+        "title": "Large Bank Consumer Mortgage Balances: Current Credit Score: 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 2
+    },
+    "RCMFLOACT": {
+        "title": "Large Bank Consumer Mortgage Originations: Number of New Accounts",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, Sum",
+        "units": "Number",
+        "popularity": 7
+    },
+    "RCMFLOBEDTIPCT50": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 10
+    },
+    "RCMFLOBEDTIPCT75": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "RCMFLOBEDTIPCT90": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "RCMFLOFEDTIPCT50": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 2
+    },
+    "RCMFLOFEDTIPCT75": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "RCMFLOFEDTIPCT90": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 3
+    },
+    "RCMFLOLTVPCT50": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 5
+    },
+    "RCMFLOLTVPCT75": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 3
+    },
+    "RCMFLOLTVPCT90": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Ratio",
+        "popularity": 4
+    },
+    "RCMFLOORIG": {
+        "title": "Large Bank Consumer Mortgage Originations: New Originations",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, Sum",
+        "units": "Billions of U.S. Dollars",
+        "popularity": 24
+    },
+    "RCMFLOORIGLOANSIZEPCT50": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Loan Size: 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCMFLOORIGLOANSIZEPCT75": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Loan Size: 75th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCMFLOORIGLOANSIZEPCT90": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Loan Size: 90th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "RCMFLOSCOREPCT10": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Credit Score: 10th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 2
+    },
+    "RCMFLOSCOREPCT25": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Credit Score: 25th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 2
+    },
+    "RCMFLOSCOREPCT50": {
+        "title": "Large Bank Consumer Mortgage Originations: Original Credit Score: 50th Percentile",
+        "start": "2012-07-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly, End of Quarter",
+        "units": "Credit Score",
+        "popularity": 6
+    }
+}

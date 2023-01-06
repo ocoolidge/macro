@@ -1,0 +1,954 @@
+{
+    "CFSBCACTIVITY": {
+        "title": "Chicago Fed Survey of Business Conditions: Activity Index in Federal Reserve District 7: Chicago",
+        "start": "2013-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 5
+    },
+    "CFSBCACTIVITYMFG": {
+        "title": "Chicago Fed Survey of Business Conditions: Manufacturing Activity Index in Federal Reserve District 7: Chicago",
+        "start": "2013-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 12
+    },
+    "CFSBCACTIVITYNMFG": {
+        "title": "Chicago Fed Survey of Business Conditions: Nonmanufacturing Activity Index in Federal Reserve District 7: Chicago",
+        "start": "2013-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 7
+    },
+    "CFSBCCAPX": {
+        "title": "Chicago Fed Survey of Business Conditions: Current Capital Spending Index in Federal Reserve District 7: Chicago",
+        "start": "2013-02-01",
+        "end": "2019-09-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 4
+    },
+    "CFSBCCAPXEXP": {
+        "title": "Chicago Fed Survey of Business Conditions: Capital Spending Expectations in the next 12 Months in Federal Reserve District 7: Chicago",
+        "start": "2013-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 17
+    },
+    "CFSBCHIRING": {
+        "title": "Chicago Fed Survey of Business Conditions: Current Hiring Index in Federal Reserve District 7: Chicago",
+        "start": "2013-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "CFSBCHIRINGEXP": {
+        "title": "Chicago Fed Survey of Business Conditions: Hiring Expectations in the next 12 Months in Federal Reserve District 7: Chicago",
+        "start": "2013-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 4
+    },
+    "CFSBCLABORCOSTS": {
+        "title": "Chicago Fed Survey of Business Conditions: Labor Costs Index in Federal Reserve District 7: Chicago",
+        "start": "2013-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "CFSBCNONLABORCOSTS": {
+        "title": "Chicago Fed Survey of Business Conditions: Nonlabor Costs Index in Federal Reserve District 7: Chicago",
+        "start": "2013-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "CFSBCNWAGECOSTS": {
+        "title": "Chicago Fed Survey of Business Conditions: Nonwage Costs Index in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2013-02-01",
+        "end": "2019-09-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "CFSBCOUTLOOK": {
+        "title": "Chicago Fed Survey of Business Conditions: 12 month Outlook for the US Economy in Federal Reserve District 7: Chicago",
+        "start": "2013-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 7
+    },
+    "CFSBCWAGECOSTS": {
+        "title": "Chicago Fed Survey of Business Conditions: Wage Costs Index in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2013-02-01",
+        "end": "2019-09-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "D7ALLL": {
+        "title": "Allowance for Loan and Lease Losses for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7ATRR": {
+        "title": "Allocated Transfer Risk Reserves for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7COALLL": {
+        "title": "Charge-offs on Allowance for Loan and Lease Losses for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7FFSSP": {
+        "title": "Federal Funds Sold and Securities Purchased Under Agreements to Resell in Domestic Offices of the Bank and of Its Edge and Agreement Subsidiaries, and in IBFs for Commercial Banks Geographically Located in FRB-Chicago District (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2001-10-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7IBB": {
+        "title": "Interest-Bearing Balances for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7IBTEIOA": {
+        "title": "Income (Loss) before Income Taxes and Extraordinary Items and Other Adjustments for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7LFN": {
+        "title": "Civilian Labor Force in FRB-Chicago District (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2015-11-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "D7LLR": {
+        "title": "Loan Loss Reserves for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7LLRTL": {
+        "title": "Loan Loss Reserve to Total Loans for Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Period",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "D7LSTL": {
+        "title": "Net Loan Losses to Average Total Loans for Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Period",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "D7NII": {
+        "title": "Net Interest Income for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7NIM": {
+        "title": "Net Interest Margin for Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Period",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "D7NINC": {
+        "title": "Net Income for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7NP": {
+        "title": "Total Nonperforming Loans for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7NPTL": {
+        "title": "Nonperforming Loans (past due 90+ days plus nonaccrual) to Total Loans for Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Period",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "D7NUM": {
+        "title": "Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Period",
+        "units": "Number",
+        "popularity": 1
+    },
+    "D7POP": {
+        "title": "Resident Population in Federal Reserve District 7: Chicago",
+        "start": "1970-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "D7QATA": {
+        "title": "Quarterly Average of Total Assets for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7QWATA": {
+        "title": "Quarterly Weighted Average of Total Assets for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7QWATEC": {
+        "title": "Quarterly Weighted Average of Total Equity Capital for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7QWATLLNUI": {
+        "title": "Quarterly Weighted Average of Total Loans and Leases, Net of Unearned Income for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7RALLL": {
+        "title": "Recoveries on Allowance for Loan and Lease Losses for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7ROA": {
+        "title": "Return on Average Assets for Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Period",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "D7ROE": {
+        "title": "Return on Average Equity for Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly, End of Period",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "D7TACAFSS": {
+        "title": "Total Amortized Cost of Available-For-Sale Securities for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1994-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7TAHTA": {
+        "title": "Total Assets Held in Trading Accounts for Commercial Banks Geographically Located in FRB-Chicago District (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "1993-10-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7TAST": {
+        "title": "Total Assets for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7TEQC": {
+        "title": "Total Equity Capital for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7THTMS": {
+        "title": "Total Held-to-Maturity Securities for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1994-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7TISBV": {
+        "title": "Total Investment Securities at Book Value for Commercial Banks Geographically Located in FRB-Chicago District (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "1993-10-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7TLLFRN": {
+        "title": "Total Loan and Lease Finance Receivables, Nonaccrual for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7TLLFRPD90": {
+        "title": "Total Loan and Lease Finance Receivables, Past Due 90 Days or More and Still Accruing for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7TLLNUI": {
+        "title": "Total Loans and Leases, Net of Unearned Income for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7TNC": {
+        "title": "Total Net Charge-offs for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "D7TTAST": {
+        "title": "Total Trading Assets for Commercial Banks Geographically Located in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1994-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 0
+    },
+    "D7URN": {
+        "title": "Unemployment Rate in FRB-Chicago District (DISCONTINUED)",
+        "start": "1990-01-01",
+        "end": "2015-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "D7WABPL": {
+        "title": "Assets: Other: Bank Premises: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WACBS": {
+        "title": "Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WACL": {
+        "title": "Assets: Other: Coin: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WACPFFL": {
+        "title": "Assets: Net Portfolio Holdings of Commercial Paper Funding Facility LLC in FRB - Chicago District (DISCONTINUED)",
+        "start": "2008-10-29",
+        "end": "2010-08-25",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "D7WAIAL": {
+        "title": "Assets: Preferred Interests in AIA Aurora LLC and ALICO Holdings LLC in FRB - Chicago District (DISCONTINUED)",
+        "start": "2009-12-02",
+        "end": "2011-01-12",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "D7WAISAL": {
+        "title": "Assets: Other: Interdistrict Settlement Account: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WALL": {
+        "title": "Assets: Liquidity and Credit Facilities: Loans: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WAML1L": {
+        "title": "Assets: Net Portfolio Holdings of Maiden Lane LLCs: Net Portfolio Holdings of Maiden Lane LLC: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WAML2L": {
+        "title": "Assets: Net Portfolio Holdings of Maiden Lane LLCs: Net Portfolio Holdings of Maiden Lane II LLC: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WAML3L": {
+        "title": "Assets: Net Portfolio Holdings of Maiden Lane LLCs: Net Portfolio Holdings of Maiden Lane III LLC: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WAOAL": {
+        "title": "Assets: Other: Other Assets, Consolidated Table: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WARAL": {
+        "title": "Assets: Other: Repurchase Agreements: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WASDRAL": {
+        "title": "Assets: Other: Special Drawing Rights Certificate Account: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WATAL": {
+        "title": "Assets: Total Assets: Total Assets: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WATALFL": {
+        "title": "Assets: Net Portfolio Holdings of TALF LLC in FRB - Chicago District (DISCONTINUED)",
+        "start": "2009-11-18",
+        "end": "2014-11-05",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "D7WCPCA": {
+        "title": "Liabilities and Capital: Capital: Other Capital: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WCPIL": {
+        "title": "Liabilities and Capital: Capital: Capital Paid in: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WCSL": {
+        "title": "Liabilities and Capital: Capital: Surplus: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WFCDA": {
+        "title": "Assets: Other Factors Supplying Reserve Balances: Foreign Currency Denominated Assets: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WGCAL": {
+        "title": "Assets: Other: Gold Certificate Account: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLAD": {
+        "title": "Liabilities and Capital: Liabilities: Other Liabilities and Accrued Dividends: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLDACI": {
+        "title": "Liabilities and Capital: Liabilities: Deferred Availability Cash Items: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLDEP": {
+        "title": "Liabilities and Capital: Liabilities: Deposits: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLFOL": {
+        "title": "Liabilities and Capital: Liabilities: Deposits: Foreign Official: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLFRNOL": {
+        "title": "Liabilities and Capital: Liabilities: Federal Reserve Notes Outstanding: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLINT": {
+        "title": "Liabilities and Capital: Liabilities: Earnings Remittances Due to the U.S. Treasury: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLNNBH": {
+        "title": "Liabilities and Capital: Liabilities: Federal Reserve Notes, Net: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLNOLNHL": {
+        "title": "Liabilities and Capital: Liabilities: Notes Held by F.R. Banks (Netted from Federal Reserve Notes Outstanding): Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLOCL": {
+        "title": "Liabilities and Capital: Liabilities: Deposits: Other: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 11
+    },
+    "D7WLODL": {
+        "title": "Liabilities and Capital: Liabilities: Deposits: Other Deposits Held by Depository Institutions: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLRRA": {
+        "title": "Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLSFAL": {
+        "title": "Liabilities: Deposits, Other Than Reserve Balances: U.S. Treasury, Supplementary Financing Account in FRB - Chicago District (DISCONTINUED)",
+        "start": "2008-09-24",
+        "end": "2012-11-07",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "D7WLTDHBFI": {
+        "title": "Liabilities and Capital: Liabilities: Deposits: Term Deposits Held by Depository Institutions: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLTGAL": {
+        "title": "Liabilities and Capital: Liabilities: Deposits: U.S. Treasury General Account: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WLTOTL": {
+        "title": "Liabilities and Capital: Liabilities: Total Liabilities: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WPCL": {
+        "title": "Assets: Other: Items in Process of Collection: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WSHOBL": {
+        "title": "Assets: Securities Held Outright: U.S. Treasury Securities: Bills: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WSHOFDSL": {
+        "title": "Assets: Securities Held Outright: Federal Agency Debt Securities: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WSHOL": {
+        "title": "Assets: Securities Held Outright: Securities Held Outright: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WSHOMCB": {
+        "title": "Assets: Securities Held Outright: Mortgage-Backed Securities: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WSHOSNB": {
+        "title": "Assets: Securities Held Outright: U.S. Treasury Securities: Notes and Bonds: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WSHOTSL": {
+        "title": "Assets: Securities Held Outright: U.S. Treasury Securities: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WSRLL": {
+        "title": "Assets: Other: Securities, Premiums, Discounts, Repurchase Agreements, and Loans: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WTLAC": {
+        "title": "Liabilities and Capital: Total Liabilities and Capital: Total Liabilities and Capital: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WUDSHO": {
+        "title": "Assets: Unamortized Discounts on Securities Held Outright: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "D7WUPSHO": {
+        "title": "Assets: Unamortized Premiums on Securities Held Outright: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "DR7NUM": {
+        "title": "Commercial Banks Supervised in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Number",
+        "popularity": 1
+    },
+    "DR7TAST": {
+        "title": "Total Assets for Commercial Banks Supervised in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "1984-01-01",
+        "end": "2020-07-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Dollars",
+        "popularity": 1
+    },
+    "H0RESPPAAAAAIF07NWW": {
+        "title": "Assets: Preferred Interests: Preferred Interests in AIA Aurora LLC and ALICO Holdings LLC: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2011-01-12",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H0RESPPAACHF07NWW": {
+        "title": "Assets: Liquidity and Credit Facilities: Net Portfolio Holdings of Commercial Paper Funding Facility LLC: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2010-08-25",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H0RESPPAAMMIHF07NWW": {
+        "title": "Assets: Liquidity and Credit Facilities: Net Portfolio Holdings of LLCs Funded Through the Money Market Investor Funding Facility: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2009-10-28",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H0RESPPAATALHF07NWW": {
+        "title": "Assets: Net Portfolio Holdings of TALF LLC: Net Portfolio Holdings of TALF LLC: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2014-11-05",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H0RESPPLLDSF07NWW": {
+        "title": "Liabilities and Capital: Liabilities: Deposits: U.S. Treasury, Supplementary Financing Account: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2012-07-25",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESH4EF07NWW": {
+        "title": "Liabilities and Capital: Other Factors Draining Reserve Balances: Treasury Contribution to Credit Facilities: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESPPAABF07NWW": {
+        "title": "Assets: Liquidity and Credit Facilities: Net Portfolio Holdings of Corporate Credit Facility LLC: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESPPAAC2HF07NWW": {
+        "title": "Assets: Liquidity and Credit Facilities: Net Portfolio Holdings of Commercial Paper Funding Facility II LLC: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2022-07-20",
+        "frequency": "Weekly",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESPPAADF07NWW": {
+        "title": "Assets: Liquidity and Credit Facilities: Municipal Liquidity Facility LLC: District 7: Chicago: Wednesday Level (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-06-03",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESPPAADHF07NWW": {
+        "title": "Assets: Liquidity and Credit Facilities: Net Portfolio Holdings of Municipal Liquidity Facility LLC: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESPPAAEF07NWW": {
+        "title": "Assets: Liquidity and Credit Facilities: Net Portfolio Holdings of MS Facilities LLC (Main Street Lending Program): Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESPPAATAL2HF07NWW": {
+        "title": "Assets: Liquidity and Credit Facilities: Net Portfolio Holdings of TALF II LLC: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESPPAEF07NWW": {
+        "title": "Assets: Other: Other Assets, Reserve Bank Table: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESPPARF07NWW": {
+        "title": "Assets: Other: Gold Certificate and SDR Certificate Account: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESPPLLDEF07NWW": {
+        "title": "Liabilities and Capital: Liabilities: Deposits: Deposits Held by Depository Institutions: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "H41RESPPLLEF07NWW": {
+        "title": "Liabilities and Capital: Liabilities: Other Liabilities and Accrued Dividends and Total Deferred Credit Items: Wednesday Level in Federal Reserve District 7: Chicago",
+        "start": "2002-12-18",
+        "end": "2022-12-21",
+        "frequency": "Weekly",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "RESPPALDVF07NWW": {
+        "title": "Assets: Liquidity and Credit Facilities: Loans (Calculated): Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2020-03-11",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "RESPPALTF07NWW": {
+        "title": "Assets: Liquidity and Credit Facilities: Term Auction Credit: Wednesday Level in Federal Reserve District 7: Chicago (DISCONTINUED)",
+        "start": "2002-12-18",
+        "end": "2011-04-13",
+        "frequency": "Weekly, As of Wednesday",
+        "units": "Millions of U.S. Dollars",
+        "popularity": 1
+    },
+    "X15CIDTPL": {
+        "title": "Total Number of Banks on Par List in Federal Reserve District 7: Chicago",
+        "start": "1916-01-01",
+        "end": "1941-01-01",
+        "frequency": "Annual, End of Period",
+        "units": "Number",
+        "popularity": 1
+    },
+    "X15CIDTPLNB": {
+        "title": "National Banks in Federal Reserve District 7: Chicago",
+        "start": "1916-01-01",
+        "end": "1941-01-01",
+        "frequency": "Annual, End of Period",
+        "units": "Number",
+        "popularity": 1
+    },
+    "X15CIDTPLNBNPL": {
+        "title": "Number of Nonmember Banks not on Par List in Federal Reserve District 7: Chicago",
+        "start": "1918-01-01",
+        "end": "1941-01-01",
+        "frequency": "Annual, End of Period",
+        "units": "Number",
+        "popularity": 1
+    },
+    "X15CIDTPLNMB": {
+        "title": "Nonmember Banks in Federal Reserve District 7: Chicago",
+        "start": "1916-01-01",
+        "end": "1941-01-01",
+        "frequency": "Annual, End of Period",
+        "units": "Number",
+        "popularity": 1
+    },
+    "X15CIDTPLSMB": {
+        "title": "State Member Banks in Federal Reserve District 7: Chicago",
+        "start": "1916-01-01",
+        "end": "1941-01-01",
+        "frequency": "Annual, End of Period",
+        "units": "Number",
+        "popularity": 1
+    }
+}

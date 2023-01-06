@@ -1,0 +1,610 @@
+{
+    "ACTLISCOU31700": {
+        "title": "Housing Inventory: Active Listing Count in Manchester-Nashua, NH (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "ACTLISCOUMM31700": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "ACTLISCOUYY31700": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "ATNHPIUS31700Q": {
+        "title": "All-Transactions House Price Index for Manchester-Nashua, NH (MSA)",
+        "start": "1980-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index 1995:Q1=100",
+        "popularity": 5
+    },
+    "AVELISPRI31700": {
+        "title": "Housing Inventory: Average Listing Price in Manchester-Nashua, NH (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "AVELISPRIMM31700": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRIYY31700": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "DESCMSA31700": {
+        "title": "Market Hotness: Demand Score in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "ENUC317030010": {
+        "title": "Total Quarterly Wages in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "ENUC317030010SA": {
+        "title": "Total Quarterly Wages in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC317040010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC317040010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC317040110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC317040110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC317040210": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC317040210SA": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC317040310": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC317040310SA": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC317040510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC317040510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Manchester-Nashua, NH (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "HORAMMMSA31700": {
+        "title": "Market Hotness: Hotness Rank in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change",
+        "popularity": 1
+    },
+    "HORAMSA31700": {
+        "title": "Market Hotness: Hotness Rank in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "HORAYYMSA31700": {
+        "title": "Market Hotness: Hotness Rank in Manchester-Nashua, NH (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change from Year Ago",
+        "popularity": 1
+    },
+    "HOSCMSA31700": {
+        "title": "Market Hotness: Hotness Score in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "IRPD31700": {
+        "title": "Implicit Regional Price Deflator for Manchester-Nashua, NH (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "LDPEPRMMMSA31700": {
+        "title": "Market Hotness: Listing Views per Property in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "LDPEPRVSUSMSA31700": {
+        "title": "Market Hotness: Listing Views per Property Versus the United States in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "LDPEPRYYMSA31700": {
+        "title": "Market Hotness: Listing Views per Property in Manchester-Nashua, NH (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDAONMAMMMSA31700": {
+        "title": "Market Hotness: Median Days on Market in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MEDAONMAMSA31700": {
+        "title": "Market Hotness: Median Days on Market in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Days",
+        "popularity": 1
+    },
+    "MEDAONMAYYMSA31700": {
+        "title": "Market Hotness: Median Days on Market in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 0
+    },
+    "MEDDAYONMAR31700": {
+        "title": "Housing Inventory: Median Days on Market in Manchester-Nashua, NH (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDDAYONMARMM31700": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDDAYONMARYY31700": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI31700": {
+        "title": "Housing Inventory: Median Listing Price in Manchester-Nashua, NH (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIMM31700": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE31700": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in Manchester-Nashua, NH (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEMM31700": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY31700": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIYY31700": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDOMMDAMSA31700": {
+        "title": "Market Hotness: Median Days on Market in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDOVSUSMSA31700": {
+        "title": "Market Hotness: Median Days on Market Versus the United States in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MEDOYYDAMSA31700": {
+        "title": "Market Hotness: Median Days on Market Day in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 0
+    },
+    "MEDSQUFEE31700": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in Manchester-Nashua, NH (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDSQUFEEMM31700": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEEYY31700": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MELIPRMMMSA31700": {
+        "title": "Market Hotness: Median Listing Price in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MELIPRMSA31700": {
+        "title": "Market Hotness: Median Listing Price in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MELIPRVSUSMSA31700": {
+        "title": "Market Hotness: Median Listing Price Versus the United States in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MELIPRYYMSA31700": {
+        "title": "Market Hotness: Median Listing Price in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MNHPOP": {
+        "title": "Resident Population in Manchester-Nashua, NH (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 7
+    },
+    "NEWLISCOU31700": {
+        "title": "Housing Inventory: New Listing Count in Manchester-Nashua, NH (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "NEWLISCOUMM31700": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "NEWLISCOUYY31700": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NGMP31700": {
+        "title": "Total Gross Domestic Product for Manchester-Nashua, NH (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 3
+    },
+    "NIHHRAMSA31700": {
+        "title": "Market Hotness: Nielsen Household Rank in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "PATENTCBSA131700": {
+        "title": "U.S. Granted Utility Patents Originating in Manchester-Nashua, NH (MSA)",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 1
+    },
+    "PCRGMP31700": {
+        "title": "Total Per Capita Real Gross Domestic Product for Manchester-Nashua, NH (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 1
+    },
+    "PENLISCOU31700": {
+        "title": "Housing Inventory: Pending Listing Count in Manchester-Nashua, NH (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM31700": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY31700": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU31700": {
+        "title": "Housing Inventory: Price Increased Count in Manchester-Nashua, NH (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIINCCOUMM31700": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOUYY31700": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOU31700": {
+        "title": "Housing Inventory: Price Reduced Count in Manchester-Nashua, NH (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM31700": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY31700": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "QGMP31700": {
+        "title": "Total Quantity Indexes for Real GDP for Manchester-Nashua, NH (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP31700": {
+        "title": "Total Real Gross Domestic Product for Manchester-Nashua, NH (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 2
+    },
+    "RPI31700": {
+        "title": "Real Personal Income for Manchester-Nashua, NH (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC31700": {
+        "title": "Real Per Capita Personal Income for Manchester-Nashua, NH (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPPALL31700": {
+        "title": "Regional Price Parities: All Items for Manchester-Nashua, NH (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD31700": {
+        "title": "Regional Price Parities: Goods for Manchester-Nashua, NH (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVEOTH31700": {
+        "title": "Regional Price Parities: Services: Other for Manchester-Nashua, NH (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVERENT31700": {
+        "title": "Regional Price Parities: Services: Rents for Manchester-Nashua, NH (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SUSCMSA31700": {
+        "title": "Market Hotness: Supply Score in Manchester-Nashua, NH (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 0
+    }
+}

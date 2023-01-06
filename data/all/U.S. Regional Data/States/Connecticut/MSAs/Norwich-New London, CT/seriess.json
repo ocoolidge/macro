@@ -1,0 +1,610 @@
+{
+    "ACTLISCOU35980": {
+        "title": "Housing Inventory: Active Listing Count in Norwich-New London, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "ACTLISCOUMM35980": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ACTLISCOUYY35980": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ATNHPIUS35980Q": {
+        "title": "All-Transactions House Price Index for Norwich-New London, CT (MSA)",
+        "start": "1985-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index 1995:Q1=100",
+        "popularity": 2
+    },
+    "AVELISPRI35980": {
+        "title": "Housing Inventory: Average Listing Price in Norwich-New London, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "AVELISPRIMM35980": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "AVELISPRIYY35980": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "DESCMSA35980": {
+        "title": "Market Hotness: Demand Score in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "ENUC359830010": {
+        "title": "Total Quarterly Wages in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "ENUC359830010SA": {
+        "title": "Total Quarterly Wages in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC359840010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC359840010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC359840110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC359840110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC359840210": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC359840210SA": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC359840310": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC359840310SA": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC359840510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC359840510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Norwich-New London, CT (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "HORAMMMSA35980": {
+        "title": "Market Hotness: Hotness Rank in Norwich-New London, CT (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change",
+        "popularity": 1
+    },
+    "HORAMSA35980": {
+        "title": "Market Hotness: Hotness Rank in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "HORAYYMSA35980": {
+        "title": "Market Hotness: Hotness Rank in Norwich-New London, CT (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change from Year Ago",
+        "popularity": 1
+    },
+    "HOSCMSA35980": {
+        "title": "Market Hotness: Hotness Score in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "IRPD35980": {
+        "title": "Implicit Regional Price Deflator for Norwich-New London, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "LDPEPRMMMSA35980": {
+        "title": "Market Hotness: Listing Views per Property in Norwich-New London, CT (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "LDPEPRVSUSMSA35980": {
+        "title": "Market Hotness: Listing Views per Property Versus the United States in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "LDPEPRYYMSA35980": {
+        "title": "Market Hotness: Listing Views per Property in Norwich-New London, CT (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDAONMAMMMSA35980": {
+        "title": "Market Hotness: Median Days on Market in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MEDAONMAMSA35980": {
+        "title": "Market Hotness: Median Days on Market in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Days",
+        "popularity": 1
+    },
+    "MEDAONMAYYMSA35980": {
+        "title": "Market Hotness: Median Days on Market in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDDAYONMAR35980": {
+        "title": "Housing Inventory: Median Days on Market in Norwich-New London, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDDAYONMARMM35980": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "MEDDAYONMARYY35980": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI35980": {
+        "title": "Housing Inventory: Median Listing Price in Norwich-New London, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIMM35980": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE35980": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in Norwich-New London, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEMM35980": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY35980": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIYY35980": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDOMMDAMSA35980": {
+        "title": "Market Hotness: Median Days on Market in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDOVSUSMSA35980": {
+        "title": "Market Hotness: Median Days on Market Versus the United States in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MEDOYYDAMSA35980": {
+        "title": "Market Hotness: Median Days on Market Day in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDSQUFEE35980": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in Norwich-New London, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDSQUFEEMM35980": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEEYY35980": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MELIPRMMMSA35980": {
+        "title": "Market Hotness: Median Listing Price in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MELIPRMSA35980": {
+        "title": "Market Hotness: Median Listing Price in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MELIPRVSUSMSA35980": {
+        "title": "Market Hotness: Median Listing Price Versus the United States in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MELIPRYYMSA35980": {
+        "title": "Market Hotness: Median Listing Price in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "NEWLISCOU35980": {
+        "title": "Housing Inventory: New Listing Count in Norwich-New London, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "NEWLISCOUMM35980": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWLISCOUYY35980": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NGMP35980": {
+        "title": "Total Gross Domestic Product for Norwich-New London, CT (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "NIHHRAMSA35980": {
+        "title": "Market Hotness: Nielsen Household Rank in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "NLOPOP": {
+        "title": "Resident Population in Norwich-New London, CT (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 2
+    },
+    "PATENTCBSA135980": {
+        "title": "U.S. Granted Utility Patents Originating in Norwich-New London, CT (MSA)",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 1
+    },
+    "PCRGMP35980": {
+        "title": "Total Per Capita Real Gross Domestic Product for Norwich-New London, CT (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 1
+    },
+    "PENLISCOU35980": {
+        "title": "Housing Inventory: Pending Listing Count in Norwich-New London, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM35980": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY35980": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU35980": {
+        "title": "Housing Inventory: Price Increased Count in Norwich-New London, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIINCCOUMM35980": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOUYY35980": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOU35980": {
+        "title": "Housing Inventory: Price Reduced Count in Norwich-New London, CT (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM35980": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY35980": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in Norwich-New London, CT (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "QGMP35980": {
+        "title": "Total Quantity Indexes for Real GDP for Norwich-New London, CT (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP35980": {
+        "title": "Total Real Gross Domestic Product for Norwich-New London, CT (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 2
+    },
+    "RPI35980": {
+        "title": "Real Personal Income for Norwich-New London, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC35980": {
+        "title": "Real Per Capita Personal Income for Norwich-New London, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPPALL35980": {
+        "title": "Regional Price Parities: All Items for Norwich-New London, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD35980": {
+        "title": "Regional Price Parities: Goods for Norwich-New London, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVEOTH35980": {
+        "title": "Regional Price Parities: Services: Other for Norwich-New London, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVERENT35980": {
+        "title": "Regional Price Parities: Services: Rents for Norwich-New London, CT (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SUSCMSA35980": {
+        "title": "Market Hotness: Supply Score in Norwich-New London, CT (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    }
+}

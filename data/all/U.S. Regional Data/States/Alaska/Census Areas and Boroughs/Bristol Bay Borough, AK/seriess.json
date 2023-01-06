@@ -1,0 +1,666 @@
+{
+    "2020RATIO002060": {
+        "title": "Income Inequality in Bristol Bay Borough, AK",
+        "start": "2010-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "AKBRIS0LFN": {
+        "title": "Civilian Labor Force in Bristol Bay Borough, AK",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "AKBRIS0POP": {
+        "title": "Resident Population in Bristol Bay Borough, AK",
+        "start": "1970-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "AKBRIS0URN": {
+        "title": "Unemployment Rate in Bristol Bay Borough, AK",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "B01002001E002060": {
+        "title": "Estimate, Median Age by Sex, Total Population (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Years of Age",
+        "popularity": 1
+    },
+    "B03002001E002060": {
+        "title": "Population Estimate, Total (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002002E002060": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002003E002060": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, White Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002004E002060": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Black or African American Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002005E002060": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, American Indian and Alaska Native Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002006E002060": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Asian Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002007E002060": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Native Hawaiian and Other Pacific Islander Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002008E002060": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Some Other Race Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002009E002060": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Two or More Races (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002010E002060": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Two or More Races, Two Races Including Some Other Race (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002011E002060": {
+        "title": "Population Estimate, Total, Not Hispanic or Latino, Two or More Races, Two Races Excluding Some Other Race, and Three or More Races (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002012E002060": {
+        "title": "Population Estimate, Total, Hispanic or Latino (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002013E002060": {
+        "title": "Population Estimate, Total, Hispanic or Latino, White Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "B03002014E002060": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Black or African American Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002015E002060": {
+        "title": "Population Estimate, Total, Hispanic or Latino, American Indian and Alaska Native Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002016E002060": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Asian Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002017E002060": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Native Hawaiian and Other Pacific Islander Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002018E002060": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Some Other Race Alone (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002019E002060": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Two or More Races (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002020E002060": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Two or More Races, Two Races Including Some Other Race (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B03002021E002060": {
+        "title": "Population Estimate, Total, Hispanic or Latino, Two or More Races, Two Races Excluding Some Other Race, and Three or More Races (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "B080ACS002060": {
+        "title": "Mean Commuting Time for Workers (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Minutes",
+        "popularity": 1
+    },
+    "B14005DCYACS002060": {
+        "title": "Disconnected Youth (5-year estimate) for Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "BPPRIV002060": {
+        "title": "New Private Housing Structures Authorized by Building Permits for Bristol Bay Borough, AK",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Units",
+        "popularity": 1
+    },
+    "CBR02060AKA647NCEN": {
+        "title": "SNAP Benefits Recipients in Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2020-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "CDC20N2U002060": {
+        "title": "Premature Death Rate for Bristol Bay Borough, AK",
+        "start": "2013-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Rate per 100,000",
+        "popularity": 1
+    },
+    "CDC20N2UAA002060": {
+        "title": "Age-Adjusted Premature Death Rate for Bristol Bay Borough, AK",
+        "start": "2013-01-01",
+        "end": "2013-01-01",
+        "frequency": "Annual",
+        "units": "Rate per 100,000",
+        "popularity": 1
+    },
+    "DP04ACS002060": {
+        "title": "Burdened Households (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2010-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ENU0206020510": {
+        "title": "Number of Private Establishments for All Industries in Bristol Bay Borough, AK",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Establishments",
+        "popularity": 1
+    },
+    "EQFXSUBPRIME002060": {
+        "title": "Equifax Subprime Credit Population for Bristol Bay Borough, AK",
+        "start": "2014-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "GDPALL02060": {
+        "title": "Gross Domestic Product: All Industries in Bristol Bay Borough County, AK",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of U.S. Dollars",
+        "popularity": 1
+    },
+    "GDPGOODS02060": {
+        "title": "Gross Domestic Product: Private Goods-Producing Industries in Bristol Bay Borough County, AK",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of U.S. Dollars",
+        "popularity": 0
+    },
+    "GDPGOVT02060": {
+        "title": "Gross Domestic Product: Government and Government Enterprises in Bristol Bay Borough County, AK",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of U.S. Dollars",
+        "popularity": 0
+    },
+    "GDPSERV02060": {
+        "title": "Gross Domestic Product: Private Services-Providing Industries in Bristol Bay Borough County, AK",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of U.S. Dollars",
+        "popularity": 1
+    },
+    "HC01ESTVC1602060": {
+        "title": "High School Graduate or Higher (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2010-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "HC01ESTVC1702060": {
+        "title": "Bachelor's Degree or Higher (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2010-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "HOWNRATEACS002060": {
+        "title": "Homeownership Rate (5-year estimate) for Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "LAUCN020600000000003A": {
+        "title": "Unemployment Rate in Bristol Bay Borough, AK",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "LAUCN020600000000004": {
+        "title": "Unemployed Persons in Bristol Bay Borough, AK",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUCN020600000000004A": {
+        "title": "Unemployed Persons in Bristol Bay Borough, AK",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUCN020600000000005": {
+        "title": "Employed Persons in Bristol Bay Borough, AK",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUCN020600000000005A": {
+        "title": "Employed Persons in Bristol Bay Borough, AK",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUCN020600000000006A": {
+        "title": "Civilian Labor Force in Bristol Bay Borough, AK",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "MHIAK02060A052NCEN": {
+        "title": "Estimate of Median Household Income for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "MHICILBAK02060A052NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of Median Household Income for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "MHICIUBAK02060A052NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of Median Household Income for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "NETMIGNACS002060": {
+        "title": "Net County-to-County Migration Flow (5-year estimate) for Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2019-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PCPI02060": {
+        "title": "Per Capita Personal Income in Bristol Bay Borough, AK",
+        "start": "1969-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "PE5T17AK02060A647NCEN": {
+        "title": "Estimate of Related Children Age 5-17 in Families in Poverty for Bristol Bay Borough, AK",
+        "start": "1993-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PEAAAK02060A647NCEN": {
+        "title": "Estimate of People of All Ages in Poverty in Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PECILB5T17AK02060A647NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of Related Children Age 5-17 in Families in Poverty for Bristol Bay Borough, AK",
+        "start": "1993-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "PECILBAAAK02060A647NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of People of All Ages in Poverty for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "PECILBU18AK02060A647NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of People Age 0-17 in Poverty for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PECIUB5T17AK02060A647NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of Related Children Age 5-17 in Families in Poverty for Bristol Bay Borough, AK",
+        "start": "1993-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "PECIUBAAAK02060A647NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of People of All Ages in Poverty for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "PECIUBU18AK02060A647NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of People Age 0-17 in Poverty for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "PEU18AK02060A647NCEN": {
+        "title": "Estimate of People Age 0-17 in Poverty in Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "PI02060": {
+        "title": "Personal Income in Bristol Bay Borough, AK",
+        "start": "1969-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Dollars",
+        "popularity": 0
+    },
+    "PP5T17AK02060A156NCEN": {
+        "title": "Estimated Percent of Related Children Age 5-17 in Families in Poverty for Bristol Bay Borough, AK",
+        "start": "1993-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPAAAK02060A156NCEN": {
+        "title": "Estimated Percent of People of All Ages in Poverty for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPCILB5T17AK02060A156NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of Percent of Related Children Age 5-17 in Families in Poverty for Bristol Bay Borough, AK",
+        "start": "1993-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPCILBAAAK02060A156NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of Percent of People of All Ages in Poverty for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPCILBU18AK02060A156NCEN": {
+        "title": "90% Confidence Interval Lower Bound of Estimate of Percent of People Age 0-17 in Poverty for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPCIUB5T17AK02060A156NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of Percent of Related Children Age 5-17 in Families in Poverty for Bristol Bay Borough, AK",
+        "start": "1993-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPCIUBAAAK02060A156NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of Percent of People of All Ages in Poverty for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPCIUBU18AK02060A156NCEN": {
+        "title": "90% Confidence Interval Upper Bound of Estimate of Percent of People Age 0-17 in Poverty for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PPU18AK02060A156NCEN": {
+        "title": "Estimated Percent of People Age 0-17 in Poverty for Bristol Bay Borough, AK",
+        "start": "1989-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PUA0T17AK02060A647NCEN": {
+        "title": "Poverty Universe, Age 0-17 for Bristol Bay Borough, AK",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "PUA5T17RAK02060A647NCEN": {
+        "title": "Poverty Universe, Age 5-17 related for Bristol Bay Borough, AK",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "PUAAAK02060A647NCEN": {
+        "title": "Poverty Universe, All Ages for Bristol Bay Borough, AK",
+        "start": "1998-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "RACEDISPARITY002060": {
+        "title": "White to Non-White Racial Dissimilarity (5-year estimate) Index for Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "REALGDPALL02060": {
+        "title": "Real Gross Domestic Product: All Industries in Bristol Bay Borough County, AK",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 U.S. Dollars",
+        "popularity": 0
+    },
+    "REALGDPGOODS02060": {
+        "title": "Real Gross Domestic Product: Private Goods-Producing Industries in Bristol Bay Borough County, AK",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 U.S. Dollars",
+        "popularity": 0
+    },
+    "REALGDPGOVT02060": {
+        "title": "Real Gross Domestic Product: Government and Government Enterprises in Bristol Bay Borough County, AK",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 U.S. Dollars",
+        "popularity": 0
+    },
+    "REALGDPSERV02060": {
+        "title": "Real Gross Domestic Product: Private Services-Providing Industries in Bristol Bay Borough County, AK",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 U.S. Dollars",
+        "popularity": 0
+    },
+    "S1101SPHOUSE002060": {
+        "title": "Single-Parent Households with Children as a Percentage of Households with Children (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "S1501ACSTOTAL002060": {
+        "title": "People 25 Years and Over Who Have Completed an Associate's Degree or Higher (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2009-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "S1701ACS002060": {
+        "title": "Percent of Population Below the Poverty Level (5-year estimate) in Bristol Bay Borough, AK",
+        "start": "2012-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    }
+}

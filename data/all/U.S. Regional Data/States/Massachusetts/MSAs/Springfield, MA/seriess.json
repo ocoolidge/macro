@@ -1,0 +1,618 @@
+{
+    "ACTLISCOU44140": {
+        "title": "Housing Inventory: Active Listing Count in Springfield, MA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "ACTLISCOUMM44140": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "ACTLISCOUYY44140": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "ATNHPIUS44140Q": {
+        "title": "All-Transactions House Price Index for Springfield, MA (MSA)",
+        "start": "1979-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index 1995:Q1=100",
+        "popularity": 3
+    },
+    "AVELISPRI44140": {
+        "title": "Housing Inventory: Average Listing Price in Springfield, MA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 0
+    },
+    "AVELISPRIMM44140": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRIYY44140": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "DESCMSA44140": {
+        "title": "Market Hotness: Demand Score in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "ENUC441430010": {
+        "title": "Total Quarterly Wages in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "ENUC441430010SA": {
+        "title": "Total Quarterly Wages in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC441440010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC441440010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC441440110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC441440110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC441440210": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC441440210SA": {
+        "title": "Average Weekly Wages for Employees in State Government Establishments in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC441440310": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC441440310SA": {
+        "title": "Average Weekly Wages for Employees in Local Government Establishments in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC441440510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC441440510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Springfield, MA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "HORAMMMSA44140": {
+        "title": "Market Hotness: Hotness Rank in Springfield, MA (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change",
+        "popularity": 1
+    },
+    "HORAMSA44140": {
+        "title": "Market Hotness: Hotness Rank in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "HORAYYMSA44140": {
+        "title": "Market Hotness: Hotness Rank in Springfield, MA (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change from Year Ago",
+        "popularity": 1
+    },
+    "HOSCMSA44140": {
+        "title": "Market Hotness: Hotness Score in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "IHLCHG44140": {
+        "title": "Job Postings on Indeed in Springfield, MA (MSA)",
+        "start": "2020-02-01",
+        "end": "2022-11-25",
+        "frequency": "Daily, 7-Day",
+        "units": "Percent Change from Feb 01, 2020",
+        "popularity": 1
+    },
+    "IRPD44140": {
+        "title": "Implicit Regional Price Deflator for Springfield, MA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "LDPEPRMMMSA44140": {
+        "title": "Market Hotness: Listing Views per Property in Springfield, MA (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "LDPEPRVSUSMSA44140": {
+        "title": "Market Hotness: Listing Views per Property Versus the United States in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "LDPEPRYYMSA44140": {
+        "title": "Market Hotness: Listing Views per Property in Springfield, MA (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDAONMAMMMSA44140": {
+        "title": "Market Hotness: Median Days on Market in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MEDAONMAMSA44140": {
+        "title": "Market Hotness: Median Days on Market in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Days",
+        "popularity": 1
+    },
+    "MEDAONMAYYMSA44140": {
+        "title": "Market Hotness: Median Days on Market in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDDAYONMAR44140": {
+        "title": "Housing Inventory: Median Days on Market in Springfield, MA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDDAYONMARMM44140": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "MEDDAYONMARYY44140": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI44140": {
+        "title": "Housing Inventory: Median Listing Price in Springfield, MA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIMM44140": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE44140": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in Springfield, MA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEMM44140": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY44140": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIYY44140": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDOMMDAMSA44140": {
+        "title": "Market Hotness: Median Days on Market in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDOVSUSMSA44140": {
+        "title": "Market Hotness: Median Days on Market Versus the United States in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MEDOYYDAMSA44140": {
+        "title": "Market Hotness: Median Days on Market Day in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDSQUFEE44140": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in Springfield, MA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDSQUFEEMM44140": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEEYY44140": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MELIPRMMMSA44140": {
+        "title": "Market Hotness: Median Listing Price in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MELIPRMSA44140": {
+        "title": "Market Hotness: Median Listing Price in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MELIPRVSUSMSA44140": {
+        "title": "Market Hotness: Median Listing Price Versus the United States in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MELIPRYYMSA44140": {
+        "title": "Market Hotness: Median Listing Price in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "NEWLISCOU44140": {
+        "title": "Housing Inventory: New Listing Count in Springfield, MA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "NEWLISCOUMM44140": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWLISCOUYY44140": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NGMP44140": {
+        "title": "Total Gross Domestic Product for Springfield, MA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "NIHHRAMSA44140": {
+        "title": "Market Hotness: Nielsen Household Rank in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "PATENTCBSA144140": {
+        "title": "U.S. Granted Utility Patents Originating in Springfield, MA (MSA)",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 1
+    },
+    "PCRGMP44140": {
+        "title": "Total Per Capita Real Gross Domestic Product for Springfield, MA (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 1
+    },
+    "PENLISCOU44140": {
+        "title": "Housing Inventory: Pending Listing Count in Springfield, MA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM44140": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY44140": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU44140": {
+        "title": "Housing Inventory: Price Increased Count in Springfield, MA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIINCCOUMM44140": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOUYY44140": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOU44140": {
+        "title": "Housing Inventory: Price Reduced Count in Springfield, MA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM44140": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY44140": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in Springfield, MA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "QGMP44140": {
+        "title": "Total Quantity Indexes for Real GDP for Springfield, MA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP44140": {
+        "title": "Total Real Gross Domestic Product for Springfield, MA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 3
+    },
+    "RPI44140": {
+        "title": "Real Personal Income for Springfield, MA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC44140": {
+        "title": "Real Per Capita Personal Income for Springfield, MA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPPALL44140": {
+        "title": "Regional Price Parities: All Items for Springfield, MA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD44140": {
+        "title": "Regional Price Parities: Goods for Springfield, MA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVEOTH44140": {
+        "title": "Regional Price Parities: Services: Other for Springfield, MA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 0
+    },
+    "RPPSERVERENT44140": {
+        "title": "Regional Price Parities: Services: Rents for Springfield, MA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SPDPOP": {
+        "title": "Resident Population in Springfield, MA (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 2
+    },
+    "SUSCMSA44140": {
+        "title": "Market Hotness: Supply Score in Springfield, MA (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    }
+}

@@ -1,0 +1,618 @@
+{
+    "A08004GBA156NNBR": {
+        "title": "Employment in the Amalgamated Society of Carpenters and Joiners for Great Britain",
+        "start": "1860-01-01",
+        "end": "1914-01-01",
+        "frequency": "Annual",
+        "units": "Percentage",
+        "popularity": 1
+    },
+    "M07001USM144NNBR": {
+        "title": "Domestic Exports of Crude Foodstuffs for United States",
+        "start": "1905-07-01",
+        "end": "1956-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "M07002USM144NNBR": {
+        "title": "Domestic Exports of Manufactured Foodstuffs for United States",
+        "start": "1905-07-01",
+        "end": "1956-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "M07003USM144NNBR": {
+        "title": "Domestic Exports of Crude Materials for United States",
+        "start": "1905-07-01",
+        "end": "1956-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "M07004USM144NNBR": {
+        "title": "Domestic Exports of Semi-Manufactures for United States",
+        "start": "1905-07-01",
+        "end": "1956-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "M07005USM144NNBR": {
+        "title": "Domestic Exports of Finished Manufactures for United States",
+        "start": "1905-07-01",
+        "end": "1956-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "M07009FRM410NNBR": {
+        "title": "Exports, Food for France",
+        "start": "1880-08-01",
+        "end": "1939-07-01",
+        "frequency": "Monthly",
+        "units": "Millions of Francs",
+        "popularity": 1
+    },
+    "M07010FRM410NNBR": {
+        "title": "Raw Materials, Exports for France",
+        "start": "1880-08-01",
+        "end": "1939-07-01",
+        "frequency": "Monthly",
+        "units": "Millions of Francs",
+        "popularity": 1
+    },
+    "M07011FRM410NNBR": {
+        "title": "Exports, Manufactured Goods for France",
+        "start": "1878-01-01",
+        "end": "1939-07-01",
+        "frequency": "Monthly",
+        "units": "Millions of Francs",
+        "popularity": 1
+    },
+    "M07012USM144NNBR": {
+        "title": "Imports for Consumption of Crude Food Stuffs for United States",
+        "start": "1905-07-01",
+        "end": "1956-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "M07013USM144NNBR": {
+        "title": "Imports of Manufactured Foodstuffs for United States",
+        "start": "1905-07-01",
+        "end": "1956-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "M07014USM144NNBR": {
+        "title": "Imports for Consumption of Crude Materials for United States",
+        "start": "1905-07-01",
+        "end": "1956-05-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "M07015USM144NNBR": {
+        "title": "Imports for Consumption of Semi-Manufactures for United States",
+        "start": "1905-07-01",
+        "end": "1956-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "M07016USM144NNBR": {
+        "title": "Imports for Consumption of Finished Manufactures for United States",
+        "start": "1905-07-01",
+        "end": "1956-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 2
+    },
+    "M07020FRM410NNBR": {
+        "title": "Foodstuffs, Imports, Value for France",
+        "start": "1878-01-01",
+        "end": "1887-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Francs",
+        "popularity": 1
+    },
+    "M07023USM144NNBR": {
+        "title": "Total Exports for United States",
+        "start": "1866-07-01",
+        "end": "1969-10-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 10
+    },
+    "M07024GBM149NNBR": {
+        "title": "Total Exports of Produce and Manufactures for Great Britain",
+        "start": "1854-12-01",
+        "end": "1953-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds",
+        "popularity": 1
+    },
+    "M07025DEM580NNBR": {
+        "title": "Exports, Total, Weight for Germany",
+        "start": "1891-03-01",
+        "end": "1935-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Metric Tons",
+        "popularity": 1
+    },
+    "M07026DEM421NNBR": {
+        "title": "Value of Exports for Germany",
+        "start": "1909-01-01",
+        "end": "1935-11-01",
+        "frequency": "Monthly",
+        "units": "Millions of Marks",
+        "popularity": 1
+    },
+    "M07027FRM410NNBR": {
+        "title": "Exports, Total for France",
+        "start": "1878-01-01",
+        "end": "1939-07-01",
+        "frequency": "Monthly",
+        "units": "Millions of Francs",
+        "popularity": 2
+    },
+    "M07028USM144NNBR": {
+        "title": "Total Imports for United States",
+        "start": "1866-07-01",
+        "end": "1969-10-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 4
+    },
+    "M07029GBM440NNBR": {
+        "title": "Total Imports, Value for Great Britain",
+        "start": "1856-01-01",
+        "end": "1950-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds Sterling",
+        "popularity": 2
+    },
+    "M07030DEM580NNBR": {
+        "title": "Total Imports - Weight for Germany",
+        "start": "1891-03-01",
+        "end": "1935-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Metric Tons",
+        "popularity": 1
+    },
+    "M07031DEM421NNBR": {
+        "title": "Value of Imports (Einfahr) for Germany",
+        "start": "1909-01-01",
+        "end": "1935-11-01",
+        "frequency": "Monthly",
+        "units": "Millions of Marks",
+        "popularity": 1
+    },
+    "M07032FRM410NNBR": {
+        "title": "Imports - Total Value for France",
+        "start": "1878-01-01",
+        "end": "1939-07-01",
+        "frequency": "Monthly",
+        "units": "Millions of Francs",
+        "popularity": 1
+    },
+    "M07034GBM149NNBR": {
+        "title": "Total Exports of Cotton Yarn for Great Britain",
+        "start": "1851-12-01",
+        "end": "1937-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds",
+        "popularity": 1
+    },
+    "M07038USM149NNBR": {
+        "title": "Coffee Imports for United States",
+        "start": "1867-01-01",
+        "end": "1941-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds",
+        "popularity": 6
+    },
+    "M07039USM540NNBR": {
+        "title": "Banana Imports for United States",
+        "start": "1907-07-01",
+        "end": "1941-06-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Bunches",
+        "popularity": 2
+    },
+    "M07040USM149NNBR": {
+        "title": "Tea Imports for United States",
+        "start": "1867-01-01",
+        "end": "1941-09-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds",
+        "popularity": 1
+    },
+    "M07042USM366NNBR": {
+        "title": "Tin Imports for United States",
+        "start": "1867-01-01",
+        "end": "1941-06-01",
+        "frequency": "Monthly",
+        "units": "Long Tons",
+        "popularity": 1
+    },
+    "M07045USM149NNBR": {
+        "title": "Imports of Lead for United States",
+        "start": "1894-03-01",
+        "end": "1941-06-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds",
+        "popularity": 1
+    },
+    "M07046USM565NNBR": {
+        "title": "Raw Cattle Hides Imports for United States",
+        "start": "1920-01-01",
+        "end": "1955-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Hides",
+        "popularity": 1
+    },
+    "M07047USM144NNBR": {
+        "title": "Merchandise Trade Balance: Excess of Total Exports Over General Imports for United States",
+        "start": "1866-07-01",
+        "end": "1969-10-01",
+        "frequency": "Monthly",
+        "units": "Millions of Dollars",
+        "popularity": 10
+    },
+    "M07048USM345NNBR": {
+        "title": "Quantity Index of Exports of Domestic Merchandise for United States",
+        "start": "1933-07-01",
+        "end": "1953-04-01",
+        "frequency": "Monthly",
+        "units": "Index 1936-1938=100",
+        "popularity": 1
+    },
+    "M07049USM345NNBR": {
+        "title": "Value Index of Exports of Domestic Merchandise for United States",
+        "start": "1933-07-01",
+        "end": "1953-04-01",
+        "frequency": "Monthly",
+        "units": "Index 1936-1938=100",
+        "popularity": 1
+    },
+    "M07050USM345NNBR": {
+        "title": "Quality Index of Imports for Consumption for United States",
+        "start": "1933-07-01",
+        "end": "1953-04-01",
+        "frequency": "Monthly",
+        "units": "Index 1936-1938=100",
+        "popularity": 1
+    },
+    "M07051USM345NNBR": {
+        "title": "Value Index of Imports for Consumption for United States",
+        "start": "1933-07-01",
+        "end": "1953-04-01",
+        "frequency": "Monthly",
+        "units": "Index 1936-1938=100",
+        "popularity": 1
+    },
+    "M0706AGBM590NNBR": {
+        "title": "Value of Exports of Foodstuffs for Great Britain",
+        "start": "1882-01-01",
+        "end": "1901-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Pounds Sterling",
+        "popularity": 1
+    },
+    "M0706BGBM590NNBR": {
+        "title": "Value of Exports of Foodstuffs for Great Britain",
+        "start": "1901-01-01",
+        "end": "1940-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Pounds Sterling",
+        "popularity": 1
+    },
+    "M0707AGBM589NNBR": {
+        "title": "Exports of Raw Materials, Value for United Kingdom",
+        "start": "1882-01-01",
+        "end": "1902-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Pounds",
+        "popularity": 1
+    },
+    "M0707BGBM589NNBR": {
+        "title": "Exports of Raw Materials and Articles Mainly Unmanufactured for United Kingdom",
+        "start": "1901-01-01",
+        "end": "1940-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Pounds",
+        "popularity": 1
+    },
+    "M0708AGBM440NNBR": {
+        "title": "Value of Exports of Finished Goods for Great Britain",
+        "start": "1882-01-01",
+        "end": "1902-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds Sterling",
+        "popularity": 1
+    },
+    "M0708BGBM440NNBR": {
+        "title": "Value of Exports of Finished Goods for Great Britain",
+        "start": "1901-01-01",
+        "end": "1940-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds Sterling",
+        "popularity": 1
+    },
+    "M0717AGBM440NNBR": {
+        "title": "Imports of Foodstuffs, Value for Great Britain",
+        "start": "1882-01-01",
+        "end": "1902-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds Sterling",
+        "popularity": 1
+    },
+    "M0717BGBM440NNBR": {
+        "title": "Imports of Foodstuffs, Value for Great Britain",
+        "start": "1901-01-01",
+        "end": "1935-03-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds Sterling",
+        "popularity": 1
+    },
+    "M0718AGBM440NNBR": {
+        "title": "Imports of Raw Materials, Value for United Kingdom",
+        "start": "1882-02-01",
+        "end": "1902-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds Sterling",
+        "popularity": 1
+    },
+    "M0718BGBM440NNBR": {
+        "title": "Imports of Raw Materials, Value for United Kingdom",
+        "start": "1901-01-01",
+        "end": "1935-03-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds Sterling",
+        "popularity": 1
+    },
+    "M0719AGBM149NNBR": {
+        "title": "Value of Imports of Finished Goods for Great Britain",
+        "start": "1882-01-01",
+        "end": "1902-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds",
+        "popularity": 1
+    },
+    "M0719BGBM149NNBR": {
+        "title": "Value of Imports of Finished Goods for Great Britain",
+        "start": "1901-01-01",
+        "end": "1935-03-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds",
+        "popularity": 1
+    },
+    "M0721AFRM410NNBR": {
+        "title": "Raw Materials - Imports, Value for France",
+        "start": "1878-01-01",
+        "end": "1887-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Francs",
+        "popularity": 1
+    },
+    "M0721BFRM410NNBR": {
+        "title": "Raw Materials - Imports, Value for France",
+        "start": "1885-01-01",
+        "end": "1939-07-01",
+        "frequency": "Monthly",
+        "units": "Millions of Francs",
+        "popularity": 1
+    },
+    "M0722AFRM410NNBR": {
+        "title": "Manufactured Goods, Imports for France",
+        "start": "1878-01-01",
+        "end": "1887-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Francs",
+        "popularity": 1
+    },
+    "M0722BFRM410NNBR": {
+        "title": "Foodstuffs, Imports, Value for France",
+        "start": "1885-01-01",
+        "end": "1939-07-01",
+        "frequency": "Monthly",
+        "units": "Millions of Francs",
+        "popularity": 1
+    },
+    "M0733AGBM605NNBR": {
+        "title": "Total Exports of Railway Materials for Great Britain",
+        "start": "1857-01-01",
+        "end": "1936-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Tons",
+        "popularity": 1
+    },
+    "M0733BGBM605NNBR": {
+        "title": "Total Exports of Railway Materials for Great Britain",
+        "start": "1920-01-01",
+        "end": "1937-06-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Tons",
+        "popularity": 1
+    },
+    "M0736AGBM416NNBR": {
+        "title": "Total Exports of Cotton Piece Goods for Great Britain",
+        "start": "1851-01-01",
+        "end": "1921-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Linear Yards",
+        "popularity": 1
+    },
+    "M0736BGBM451NNBR": {
+        "title": "Total Exports of Cotton Piece Goods for Great Britain",
+        "start": "1921-01-01",
+        "end": "1936-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Square Yards",
+        "popularity": 1
+    },
+    "M0737AUSM589NNBR": {
+        "title": "Raw Silk Imports for United States",
+        "start": "1867-01-01",
+        "end": "1886-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Pounds",
+        "popularity": 1
+    },
+    "M0737BUSM589NNBR": {
+        "title": "Raw Silk Imports for United States",
+        "start": "1882-07-01",
+        "end": "1924-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Pounds",
+        "popularity": 1
+    },
+    "M0737CUSM589NNBR": {
+        "title": "Raw Silk Imports for United States",
+        "start": "1919-01-01",
+        "end": "1940-02-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Pounds",
+        "popularity": 1
+    },
+    "M0743AUSM149NNBR": {
+        "title": "Raw Cotton Exports for United States",
+        "start": "1867-01-01",
+        "end": "1941-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds",
+        "popularity": 2
+    },
+    "M0743BUSM596NNBR": {
+        "title": "Raw Cotton Exports for United States",
+        "start": "1938-01-01",
+        "end": "1955-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Running Bales",
+        "popularity": 1
+    },
+    "M0744AUSM589NNBR": {
+        "title": "Crude Rubber Imports for United States",
+        "start": "1868-07-01",
+        "end": "1892-12-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Pounds",
+        "popularity": 1
+    },
+    "M0744BUSM149NNBR": {
+        "title": "Crude Rubber Imports for United States",
+        "start": "1890-10-01",
+        "end": "1912-12-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds",
+        "popularity": 1
+    },
+    "M0744CUSM149NNBR": {
+        "title": "Crude Rubber Imports for United States",
+        "start": "1910-07-01",
+        "end": "1957-01-01",
+        "frequency": "Monthly",
+        "units": "Millions of Pounds",
+        "popularity": 2
+    },
+    "Q07026DEQ421NNBR": {
+        "title": "Value of Exports for Germany",
+        "start": "1892-01-01",
+        "end": "1914-04-01",
+        "frequency": "Quarterly",
+        "units": "Millions of Marks",
+        "popularity": 1
+    },
+    "Q07031DEQ421NNBR": {
+        "title": "Value of Imports (Einfahr) for Germany",
+        "start": "1892-01-01",
+        "end": "1914-04-01",
+        "frequency": "Quarterly",
+        "units": "Millions of Marks",
+        "popularity": 1
+    },
+    "Q07041GBQ570NNBR": {
+        "title": "Net Imports of Raw Cotton for Great Britain",
+        "start": "1861-01-01",
+        "end": "1939-04-01",
+        "frequency": "Quarterly",
+        "units": "Thousands of Hundredweights",
+        "popularity": 1
+    },
+    "Q07048USQ345NNBR": {
+        "title": "Quantity Index of Exports of Domestic Merchandise for United States",
+        "start": "1929-01-01",
+        "end": "1933-04-01",
+        "frequency": "Quarterly",
+        "units": "Index 1936-1938=100",
+        "popularity": 1
+    },
+    "Q07049USQ345NNBR": {
+        "title": "Value Index of Exports of Domestic Merchandise for United States",
+        "start": "1929-01-01",
+        "end": "1933-04-01",
+        "frequency": "Quarterly",
+        "units": "Index 1936-1938=100",
+        "popularity": 0
+    },
+    "Q07050USQ345NNBR": {
+        "title": "Quality Index of Imports for Consumption for United States",
+        "start": "1929-01-01",
+        "end": "1933-04-01",
+        "frequency": "Quarterly",
+        "units": "Index 1936-1938=100",
+        "popularity": 0
+    },
+    "Q07051USQ345NNBR": {
+        "title": "Value Index of Imports for Consumption for United States",
+        "start": "1929-01-01",
+        "end": "1933-04-01",
+        "frequency": "Quarterly",
+        "units": "Index 1936-1938=100",
+        "popularity": 1
+    },
+    "Q07052USQ144NNBR": {
+        "title": "Excess of Receipts or Payments in Balance of Payments for the United States",
+        "start": "1945-01-01",
+        "end": "1966-10-01",
+        "frequency": "Quarterly",
+        "units": "Millions of Dollars",
+        "popularity": 1
+    },
+    "Q07053USQ027NNBR": {
+        "title": "Net Exports of Goods and Services for United States",
+        "start": "1939-01-01",
+        "end": "1967-10-01",
+        "frequency": "Quarterly",
+        "units": "Billions of Dollars",
+        "popularity": 3
+    },
+    "Q07054USQ324NNBR": {
+        "title": "Quantity Index of Exports of Cotton for United States",
+        "start": "1879-01-01",
+        "end": "1923-10-01",
+        "frequency": "Quarterly",
+        "units": "Index 1913=100",
+        "popularity": 1
+    },
+    "Q07055USQ324NNBR": {
+        "title": "Quantity Index of Exports of Petroleum for United States",
+        "start": "1879-01-01",
+        "end": "1923-10-01",
+        "frequency": "Quarterly",
+        "units": "Index 1913=100",
+        "popularity": 1
+    },
+    "Q07056USQ324NNBR": {
+        "title": "Quantity Index of Exports of Iron and Steel for United States",
+        "start": "1879-01-01",
+        "end": "1923-10-01",
+        "frequency": "Quarterly",
+        "units": "Index 1913=100",
+        "popularity": 1
+    }
+}

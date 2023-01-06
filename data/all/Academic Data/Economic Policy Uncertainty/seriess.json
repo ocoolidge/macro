@@ -1,0 +1,5346 @@
+{
+    "CANEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for Canada",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 9
+    },
+    "CATEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Overall",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "CHIEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for China",
+        "start": "1995-01-01",
+        "end": "2019-04-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 17
+    },
+    "CHNMAINLANDEPU": {
+        "title": "Economic Policy Uncertainty Index: Mainland Papers for China",
+        "start": "1949-10-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 24
+    },
+    "CHNMAINLANDTPU": {
+        "title": "Trade Policy Uncertainty Index: Mainland Papers for China",
+        "start": "2000-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 7
+    },
+    "DEEPUFEARINDX": {
+        "title": "Migration Fear Index for Germany",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "DEEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for Germany",
+        "start": "1993-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 12
+    },
+    "DEEPUMIGINDX": {
+        "title": "Migration Policy Uncertainty Index for Germany",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMNLABORREG": {
+        "title": "Equity Market Volatility Tracker: Labor Regulations",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVAGRPOLICY": {
+        "title": "Equity Market Volatility Tracker: Agricultural Policy",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVCOMMMKT": {
+        "title": "Equity Market Volatility Tracker: Commodity Markets",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 15
+    },
+    "EMVCOMPMAT": {
+        "title": "Equity Market Volatility Tracker: Competition Matters",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVCOMPPOL": {
+        "title": "Equity Market Volatility Tracker: Competition Policy",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVELECTGOVRN": {
+        "title": "Equity Market Volatility Tracker: Elections And Political Governance",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 8
+    },
+    "EMVENRGYENVREG": {
+        "title": "Equity Market Volatility Tracker: Energy And Environmental Regulation",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 10
+    },
+    "EMVEXRATES": {
+        "title": "Equity Market Volatility Tracker: Exchange Rates",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 18
+    },
+    "EMVFINCRISES": {
+        "title": "Equity Market Volatility Tracker: Financial Crises",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 9
+    },
+    "EMVFINREG": {
+        "title": "Equity Market Volatility Tracker: Financial Regulation",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVFISCALPOL": {
+        "title": "Equity Market Volatility Tracker: Fiscal Policy",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 9
+    },
+    "EMVFOODDRUG": {
+        "title": "Equity Market Volatility Tracker: Food And Drug Policy",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVGOVTSPEND": {
+        "title": "Equity Market Volatility Tracker: Government Spending Deficits And Debt",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 7
+    },
+    "EMVGOVTSPENT": {
+        "title": "Equity Market Volatility Tracker: Government Sponsored Enterprises",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVHEALTHCAREMAT": {
+        "title": "Equity Market Volatility Tracker: Healthcare Matters",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 4
+    },
+    "EMVHEALTHCAREPOL": {
+        "title": "Equity Market Volatility Tracker: Healthcare Policy",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVHOUSELANDMGMT": {
+        "title": "Equity Market Volatility Tracker: Housing And Land Management",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 7
+    },
+    "EMVIMMIGRATION": {
+        "title": "Equity Market Volatility Tracker: Immigration",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 19
+    },
+    "EMVIPMAT": {
+        "title": "Equity Market Volatility Tracker: Intellectual Property Matters",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVIPPOL": {
+        "title": "Equity Market Volatility Tracker: Intellectual Property Policy",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVLABORDISPUTES": {
+        "title": "Equity Market Volatility Tracker: Labor Disputes",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVLAWTORT": {
+        "title": "Equity Market Volatility Tracker: Lawsuit And Tort Reform Supreme Court Decisions",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVLITGMAT": {
+        "title": "Equity Market Volatility Tracker: Litigation Matters",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVMACROBROAD": {
+        "title": "Equity Market Volatility Tracker: Macroeconomic News and Outlook: Broad Quantity Indicators",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVMACROBUS": {
+        "title": "Equity Market Volatility Tracker: Macroeconomic News and Outlook: Business Investment And Sentiment",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 30
+    },
+    "EMVMACROCONSUME": {
+        "title": "Equity Market Volatility Tracker: Macroeconomic News and Outlook: Consumer Spending And Sentiment",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 9
+    },
+    "EMVMACROFININD": {
+        "title": "Equity Market Volatility Tracker: Macroeconomic News and Outlook: Other Financial Indicators",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVMACROINFLATION": {
+        "title": "Equity Market Volatility Tracker: Macroeconomic News and Outlook: Inflation",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 10
+    },
+    "EMVMACROINTEREST": {
+        "title": "Equity Market Volatility Tracker: Macroeconomic News and Outlook: Interest Rates",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 12
+    },
+    "EMVMACROLABORMKT": {
+        "title": "Equity Market Volatility Tracker: Macroeconomic News and Outlook: Labor Markets",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVMACRONEWS": {
+        "title": "Equity Market Volatility Tracker: Macroeconomic News And Outlook",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVMACRORE": {
+        "title": "Equity Market Volatility Tracker: Macroeconomic News and Outlook: Real Estate Markets",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 10
+    },
+    "EMVMACROTRADE": {
+        "title": "Equity Market Volatility Tracker: Macroeconomic News and Outlook: Trade",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVMONETARYPOL": {
+        "title": "Equity Market Volatility Tracker: Monetary Policy",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 13
+    },
+    "EMVNATSEC": {
+        "title": "Equity Market Volatility Tracker: National Security Policy",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVOTHERREG": {
+        "title": "Equity Market Volatility Tracker: Other Regulation",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVOVERALLEMV": {
+        "title": "Equity Market Volatility Tracker: Overall",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 35
+    },
+    "EMVPOLRLTDEMV": {
+        "title": "Equity Market Volatility Tracker: Policy Related",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVREGEMV": {
+        "title": "Equity Market Volatility Tracker: Regulation",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVTAXESEMV": {
+        "title": "Equity Market Volatility Tracker: Taxes",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EMVTRADEPOLEMV": {
+        "title": "Equity Market Volatility Tracker: Trade Policy",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EMVTRADEPUBUTEMV": {
+        "title": "Equity Market Volatility Tracker: Transportation, Infrastructure, and Public Utilities",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 4
+    },
+    "EMVWELFARE": {
+        "title": "Equity Market Volatility Tracker: Entitlement And Welfare Programs",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EPUENTITLE": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Entitlement programs",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "EPUFINREG": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Financial Regulation",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 7
+    },
+    "EPUFISCAL": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Fiscal Policy (Taxes OR Spending)",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 21
+    },
+    "EPUGOVTSPEND": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Government spending",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 4
+    },
+    "EPUHEALTHCARE": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Health care",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 6
+    },
+    "EPUMONETARY": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Monetary policy",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 24
+    },
+    "EPUNATSEC": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: National security",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EPUREG": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Regulation",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "EPUSOVDEBT": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Sovereign debt, currency crises",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 6
+    },
+    "EPUTAXES": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Taxes",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "EPUTRADE": {
+        "title": "Economic Policy Uncertainty Index: Categorical Index: Trade policy",
+        "start": "1985-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 12
+    },
+    "EUEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for Europe",
+        "start": "1987-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 24
+    },
+    "FREEPUFEARINDX": {
+        "title": "Migration Fear Index for France",
+        "start": "1990-01-01",
+        "end": "2019-10-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "FREEPUMIGINDX": {
+        "title": "Migration Policy Uncertainty Index for France",
+        "start": "1990-01-01",
+        "end": "2019-10-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "FREUINDXM": {
+        "title": "Economic Policy Uncertainty Index for France",
+        "start": "1987-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 7
+    },
+    "GEPUCURRENT": {
+        "title": "Global Economic Policy Uncertainty Index: Current Price Adjusted GDP",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 51
+    },
+    "GEPUPPP": {
+        "title": "Global Economic Policy Uncertainty Index: PPP-Adjusted GDP",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 26
+    },
+    "INDEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for India",
+        "start": "2003-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 16
+    },
+    "INFECTDISEMVTRACK": {
+        "title": "Equity Market Volatility: Infectious Disease Tracker",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 7
+    },
+    "INFECTDISEMVTRACKD": {
+        "title": "Equity Market Volatility: Infectious Disease Tracker",
+        "start": "1985-01-01",
+        "end": "2022-12-27",
+        "frequency": "Daily, 7-Day",
+        "units": "Index",
+        "popularity": 28
+    },
+    "ITEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for Italy",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 7
+    },
+    "JPNEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for Japan (DISCONTINUED)",
+        "start": "1988-06-01",
+        "end": "2016-04-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "KOREAEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for South Korea",
+        "start": "1990-01-01",
+        "end": "2020-12-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 4
+    },
+    "SPEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for Spain",
+        "start": "2001-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "UKEPUFEARINDX": {
+        "title": "Migration Fear Index for the United Kingdom",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "UKEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for United Kingdom",
+        "start": "1997-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 13
+    },
+    "UKEPUMIGINDX": {
+        "title": "Migration Policy Uncertainty Index for the United Kingdom",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "USEPUFEARINDX": {
+        "title": "Migration Fear Index for the United States",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 22
+    },
+    "USEPUINDXD": {
+        "title": "Economic Policy Uncertainty Index for United States",
+        "start": "1985-01-01",
+        "end": "2022-12-27",
+        "frequency": "Daily, 7-Day",
+        "units": "Index",
+        "popularity": 59
+    },
+    "USEPUINDXM": {
+        "title": "Economic Policy Uncertainty Index for United States",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 21
+    },
+    "USEPUMIGINDX": {
+        "title": "Migration Policy Uncertainty Index for the United States",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "USEPUNEWSINDXM": {
+        "title": "Economic Policy Uncertainty Index: News-Based Index for the United States",
+        "start": "1985-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Index",
+        "popularity": 8
+    },
+    "WLEMUINDXD": {
+        "title": "Equity Market-related Economic Uncertainty Index",
+        "start": "1985-01-01",
+        "end": "2022-12-27",
+        "frequency": "Daily, 7-Day",
+        "units": "Index",
+        "popularity": 38
+    },
+    "WPDI": {
+        "title": "World Discussion About Pandemics Index",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WPDIAFG": {
+        "title": "Discussion About Pandemics Index for Afghanistan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIAGO": {
+        "title": "Discussion About Pandemics Index for Angola",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIALB": {
+        "title": "Discussion About Pandemics Index for Albania",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIARE": {
+        "title": "Discussion About Pandemics Index for United Arab Emirates",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIARG": {
+        "title": "Discussion About Pandemics Index for Argentina",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIARM": {
+        "title": "Discussion About Pandemics Index for Armenia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIAUS": {
+        "title": "Discussion About Pandemics Index for Australia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIAUT": {
+        "title": "Discussion About Pandemics Index for Austria",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIAZE": {
+        "title": "Discussion About Pandemics Index for Azerbaijan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIBDI": {
+        "title": "Discussion About Pandemics Index for Burundi",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIBEL": {
+        "title": "Discussion About Pandemics Index for Belgium",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WPDIBEN": {
+        "title": "Discussion About Pandemics Index for Benin",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIBFA": {
+        "title": "Discussion About Pandemics Index for Burkina Faso",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIBGD": {
+        "title": "Discussion About Pandemics Index for Bangladesh",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIBGR": {
+        "title": "Discussion About Pandemics Index for Bulgaria",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIBIH": {
+        "title": "Discussion About Pandemics Index for Bosnia and Herzegovina",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIBLR": {
+        "title": "Discussion About Pandemics Index for Belarus",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIBOL": {
+        "title": "Discussion About Pandemics Index for Bolivia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIBRA": {
+        "title": "Discussion About Pandemics Index for Brazil",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIBWA": {
+        "title": "Discussion About Pandemics Index for Botswana",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICAF": {
+        "title": "Discussion About Pandemics Index for Central African Republic",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICAN": {
+        "title": "Discussion About Pandemics Index for Canada",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICHE": {
+        "title": "Discussion About Pandemics Index for Switzerland",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICHL": {
+        "title": "Discussion About Pandemics Index for Chile",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICHN": {
+        "title": "Discussion About Pandemics Index for China",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICIV": {
+        "title": "Discussion About Pandemics Index for Côte d'Ivoire",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICMR": {
+        "title": "Discussion About Pandemics Index for Cameroon",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICOD": {
+        "title": "Discussion About Pandemics Index for Democratic Republic of the Congo",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICOG": {
+        "title": "Discussion About Pandemics Index for Republic of Congo",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICOL": {
+        "title": "Discussion About Pandemics Index for Colombia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICRI": {
+        "title": "Discussion About Pandemics Index for Costa Rica",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDICZE": {
+        "title": "Discussion About Pandemics Index for Czech Republic",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIDEU": {
+        "title": "Discussion About Pandemics Index for Germany",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIDNK": {
+        "title": "Discussion About Pandemics Index for Denmark",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WPDIDOM": {
+        "title": "Discussion About Pandemics Index for Dominican Republic",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIDZA": {
+        "title": "Discussion About Pandemics Index for Algeria",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIECU": {
+        "title": "Discussion About Pandemics Index for Ecuador",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIEGY": {
+        "title": "Discussion About Pandemics Index for Egypt",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIERI": {
+        "title": "Discussion About Pandemics Index for Eritrea",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIESP": {
+        "title": "Discussion About Pandemics Index for Spain",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIETH": {
+        "title": "Discussion About Pandemics Index for Ethiopia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIFIN": {
+        "title": "Discussion About Pandemics Index for Finland",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIFRA": {
+        "title": "Discussion About Pandemics Index for France",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIGAB": {
+        "title": "Discussion About Pandemics Index for Gabon",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIGBR": {
+        "title": "Discussion About Pandemics Index for United Kingdom",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIGEO": {
+        "title": "Discussion About Pandemics Index for Georgia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIGHA": {
+        "title": "Discussion About Pandemics Index for Ghana",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIGIN": {
+        "title": "Discussion About Pandemics Index for Guinea",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIGMB": {
+        "title": "Discussion About Pandemics Index for The Gambia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIGNB": {
+        "title": "Discussion About Pandemics Index for Guinea-Bissau",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIGRC": {
+        "title": "Discussion About Pandemics Index for Greece",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIGTM": {
+        "title": "Discussion About Pandemics Index for Guatemala",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIHKG": {
+        "title": "Discussion About Pandemics Index for Hong Kong SAR",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIHND": {
+        "title": "Discussion About Pandemics Index for Honduras",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIHRV": {
+        "title": "Discussion About Pandemics Index for Croatia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIHTI": {
+        "title": "Discussion About Pandemics Index for Haiti",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIHUN": {
+        "title": "Discussion About Pandemics Index for Hungary",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIIDN": {
+        "title": "Discussion About Pandemics Index for Indonesia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIIND": {
+        "title": "Discussion About Pandemics Index for India",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIIRL": {
+        "title": "Discussion About Pandemics Index for Ireland",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIIRN": {
+        "title": "Discussion About Pandemics Index for Islamic Republic of Iran",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIIRQ": {
+        "title": "Discussion About Pandemics Index for Iraq",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIISR": {
+        "title": "Discussion About Pandemics Index for Israel",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIITA": {
+        "title": "Discussion About Pandemics Index for Italy",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIJAM": {
+        "title": "Discussion About Pandemics Index for Jamaica",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIJOR": {
+        "title": "Discussion About Pandemics Index for Jordan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIJPN": {
+        "title": "Discussion About Pandemics Index for Japan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIKAZ": {
+        "title": "Discussion About Pandemics Index for Kazakhstan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIKEN": {
+        "title": "Discussion About Pandemics Index for Kenya",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIKGZ": {
+        "title": "Discussion About Pandemics Index for Kyrgyz Republic",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIKHM": {
+        "title": "Discussion About Pandemics Index for Cambodia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIKOR": {
+        "title": "Discussion About Pandemics Index for Korea",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIKWT": {
+        "title": "Discussion About Pandemics Index for Kuwait",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDILAO": {
+        "title": "Discussion About Pandemics Index for Lao P.D.R.",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDILBN": {
+        "title": "Discussion About Pandemics Index for Lebanon",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDILBR": {
+        "title": "Discussion About Pandemics Index for Liberia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDILBY": {
+        "title": "Discussion About Pandemics Index for Libya",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDILKA": {
+        "title": "Discussion About Pandemics Index for Sri Lanka",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDILSO": {
+        "title": "Discussion About Pandemics Index for Lesotho",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDILTU": {
+        "title": "Discussion About Pandemics Index for Lithuania",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDILVA": {
+        "title": "Discussion About Pandemics Index for Latvia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMAR": {
+        "title": "Discussion About Pandemics Index for Morocco",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMDA": {
+        "title": "Discussion About Pandemics Index for Moldova",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMDG": {
+        "title": "Discussion About Pandemics Index for Madagascar",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMEX": {
+        "title": "Discussion About Pandemics Index for Mexico",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMKD": {
+        "title": "Discussion About Pandemics Index for FYR Macedonia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMLI": {
+        "title": "Discussion About Pandemics Index for Mali",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMMR": {
+        "title": "Discussion About Pandemics Index for Myanmar",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMNG": {
+        "title": "Discussion About Pandemics Index for Mongolia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMOZ": {
+        "title": "Discussion About Pandemics Index for Mozambique",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMRT": {
+        "title": "Discussion About Pandemics Index for Mauritania",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMWI": {
+        "title": "Discussion About Pandemics Index for Malawi",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIMYS": {
+        "title": "Discussion About Pandemics Index for Malaysia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDINAM": {
+        "title": "Discussion About Pandemics Index for Namibia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDINER": {
+        "title": "Discussion About Pandemics Index for Niger",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDINGA": {
+        "title": "Discussion About Pandemics Index for Nigeria",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDINIC": {
+        "title": "Discussion About Pandemics Index for Nicaragua",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDINLD": {
+        "title": "Discussion About Pandemics Index for Netherlands",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDINOR": {
+        "title": "Discussion About Pandemics Index for Norway",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDINPL": {
+        "title": "Discussion About Pandemics Index for Nepal",
+        "start": "1996-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDINZL": {
+        "title": "Discussion About Pandemics Index for New Zealand",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIOMN": {
+        "title": "Discussion About Pandemics Index for Oman",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIPAK": {
+        "title": "Discussion About Pandemics Index for Pakistan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIPAN": {
+        "title": "Discussion About Pandemics Index for Panama",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIPER": {
+        "title": "Discussion About Pandemics Index for Peru",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIPHL": {
+        "title": "Discussion About Pandemics Index for Philippines",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIPNG": {
+        "title": "Discussion About Pandemics Index for Papua New Guinea",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WPDIPOL": {
+        "title": "Discussion About Pandemics Index for Poland",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIPRT": {
+        "title": "Discussion About Pandemics Index for Portugal",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIPRY": {
+        "title": "Discussion About Pandemics Index for Paraguay",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIQAT": {
+        "title": "Discussion About Pandemics Index for Qatar",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIROU": {
+        "title": "Discussion About Pandemics Index for Romania",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIRUS": {
+        "title": "Discussion About Pandemics Index for Russia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIRWA": {
+        "title": "Discussion About Pandemics Index for Rwanda",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDISAU": {
+        "title": "Discussion About Pandemics Index for Saudi Arabia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDISDN": {
+        "title": "Discussion About Pandemics Index for Sudan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDISEN": {
+        "title": "Discussion About Pandemics Index for Senegal",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDISGP": {
+        "title": "Discussion About Pandemics Index for Singapore",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDISLE": {
+        "title": "Discussion About Pandemics Index for Sierra Leone",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDISLV": {
+        "title": "Discussion About Pandemics Index for El Salvador",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDISVK": {
+        "title": "Discussion About Pandemics Index for Slovak Republic",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDISVN": {
+        "title": "Discussion About Pandemics Index for Slovenia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDISWE": {
+        "title": "Discussion About Pandemics Index for Sweden",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDITCD": {
+        "title": "Discussion About Pandemics Index for Chad",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDITGO": {
+        "title": "Discussion About Pandemics Index for Togo",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDITHA": {
+        "title": "Discussion About Pandemics Index for Thailand",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDITJK": {
+        "title": "Discussion About Pandemics Index for Tajikistan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDITKM": {
+        "title": "Discussion About Pandemics Index for Turkmenistan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDITUN": {
+        "title": "Discussion About Pandemics Index for Tunisia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDITUR": {
+        "title": "Discussion About Pandemics Index for Turkey",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDITWN": {
+        "title": "Discussion About Pandemics Index for Taiwan Province of China",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDITZA": {
+        "title": "Discussion About Pandemics Index for Tanzania",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIUGA": {
+        "title": "Discussion About Pandemics Index for Uganda",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIUKR": {
+        "title": "Discussion About Pandemics Index for Ukraine",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIURY": {
+        "title": "Discussion About Pandemics Index for Uruguay",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIUSA": {
+        "title": "Discussion About Pandemics Index for United States",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIUZB": {
+        "title": "Discussion About Pandemics Index for Uzbekistan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIVEN": {
+        "title": "Discussion About Pandemics Index for Venezuela",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIVNM": {
+        "title": "Discussion About Pandemics Index for Vietnam",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIYEM": {
+        "title": "Discussion About Pandemics Index for Yemen",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIZAF": {
+        "title": "Discussion About Pandemics Index for South Africa",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WPDIZMB": {
+        "title": "Discussion About Pandemics Index for Zambia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WPDIZWE": {
+        "title": "Discussion About Pandemics Index for Zimbabwe",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIADVECON": {
+        "title": "World Uncertainty Index: Advanced Economies",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIAFG": {
+        "title": "World Uncertainty Index for Afghanistan",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIAFRICA": {
+        "title": "World Uncertainty Index: Africa",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIAGO": {
+        "title": "World Uncertainty Index for Angola",
+        "start": "1974-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIALB": {
+        "title": "World Uncertainty Index for Albania",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIARE": {
+        "title": "World Uncertainty Index for United Arab Emirates",
+        "start": "1971-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIARG": {
+        "title": "World Uncertainty Index for Argentina",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WUIARM": {
+        "title": "World Uncertainty Index for Armenia",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIASIAPACIFIC": {
+        "title": "World Uncertainty Index: Asia and the Pacific",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIAUS": {
+        "title": "World Uncertainty Index for Australia",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WUIAUT": {
+        "title": "World Uncertainty Index for Austria",
+        "start": "1963-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIAZE": {
+        "title": "World Uncertainty Index for Azerbaijan",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIBDI": {
+        "title": "World Uncertainty Index for Burundi",
+        "start": "1965-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIBEL": {
+        "title": "World Uncertainty Index for Belgium",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIBEN": {
+        "title": "World Uncertainty Index for Benin",
+        "start": "1962-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIBFA": {
+        "title": "World Uncertainty Index for Burkina Faso",
+        "start": "1962-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIBGD": {
+        "title": "World Uncertainty Index for Bangladesh",
+        "start": "1972-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WUIBGR": {
+        "title": "World Uncertainty Index for Bulgaria",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIBIH": {
+        "title": "World Uncertainty Index for Bosnia and Herzegovina",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIBLR": {
+        "title": "World Uncertainty Index for Belarus",
+        "start": "1992-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIBOL": {
+        "title": "World Uncertainty Index for Bolivia",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIBRA": {
+        "title": "World Uncertainty Index for Brazil",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 4
+    },
+    "WUIBWA": {
+        "title": "World Uncertainty Index for Botswana",
+        "start": "1966-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUICAF": {
+        "title": "World Uncertainty Index for Central African Republic",
+        "start": "1963-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUICAN": {
+        "title": "World Uncertainty Index for Canada",
+        "start": "1952-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUICHE": {
+        "title": "World Uncertainty Index for Switzerland",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUICHL": {
+        "title": "World Uncertainty Index for Chile",
+        "start": "1952-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUICHN": {
+        "title": "World Uncertainty Index for China",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 9
+    },
+    "WUICIV": {
+        "title": "World Uncertainty Index for Côte d'Ivoire",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUICMR": {
+        "title": "World Uncertainty Index for Cameroon",
+        "start": "1962-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUICOD": {
+        "title": "World Uncertainty Index for Democratic Republic of the Congo",
+        "start": "1963-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUICOG": {
+        "title": "World Uncertainty Index for Republic of Congo",
+        "start": "1963-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUICOL": {
+        "title": "World Uncertainty Index for Colombia",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUICRI": {
+        "title": "World Uncertainty Index for Costa Rica",
+        "start": "1954-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUICZE": {
+        "title": "World Uncertainty Index for Czech Republic",
+        "start": "1993-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIDEU": {
+        "title": "World Uncertainty Index for Germany",
+        "start": "1952-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIDNK": {
+        "title": "World Uncertainty Index for Denmark",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIDOM": {
+        "title": "World Uncertainty Index for Dominican Republic",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIDZA": {
+        "title": "World Uncertainty Index for Algeria",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIECU": {
+        "title": "World Uncertainty Index for Ecuador",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIEGY": {
+        "title": "World Uncertainty Index for Egypt",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 5
+    },
+    "WUIEMERGE": {
+        "title": "World Uncertainty Index: Emerging Economies",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIERI": {
+        "title": "World Uncertainty Index for Eritrea",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIESP": {
+        "title": "World Uncertainty Index for Spain",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIETH": {
+        "title": "World Uncertainty Index for Ethiopia",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIEUROPE": {
+        "title": "World Uncertainty Index: Europe",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 6
+    },
+    "WUIFIN": {
+        "title": "World Uncertainty Index for Finland",
+        "start": "1952-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIFRA": {
+        "title": "World Uncertainty Index for France",
+        "start": "1952-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIGAB": {
+        "title": "World Uncertainty Index for Gabon",
+        "start": "1962-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIGBR": {
+        "title": "World Uncertainty Index for United Kingdom",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 6
+    },
+    "WUIGEO": {
+        "title": "World Uncertainty Index for Georgia",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIGHA": {
+        "title": "World Uncertainty Index for Ghana",
+        "start": "1957-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIGIN": {
+        "title": "World Uncertainty Index for Guinea",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIGLOBALSMPAVG": {
+        "title": "World Uncertainty Index: Global: Simple Average",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 17
+    },
+    "WUIGLOBALWEIGHTAVG": {
+        "title": "World Uncertainty Index: Global: GDP Weighted Average",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 27
+    },
+    "WUIGMB": {
+        "title": "World Uncertainty Index for The Gambia",
+        "start": "1957-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIGNB": {
+        "title": "World Uncertainty Index for Guinea-Bissau",
+        "start": "1978-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIGRC": {
+        "title": "World Uncertainty Index for Greece",
+        "start": "1953-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIGTM": {
+        "title": "World Uncertainty Index for Guatemala",
+        "start": "1954-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIHKG": {
+        "title": "World Uncertainty Index for Hong Kong SAR",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIHND": {
+        "title": "World Uncertainty Index for Honduras",
+        "start": "1954-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIHRV": {
+        "title": "World Uncertainty Index for Croatia",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIHTI": {
+        "title": "World Uncertainty Index for Haiti",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIHUN": {
+        "title": "World Uncertainty Index for Hungary",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIIDN": {
+        "title": "World Uncertainty Index for Indonesia",
+        "start": "1952-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 12
+    },
+    "WUIIND": {
+        "title": "World Uncertainty Index for India",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 8
+    },
+    "WUIIRL": {
+        "title": "World Uncertainty Index for Ireland",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIIRN": {
+        "title": "World Uncertainty Index for Islamic Republic of Iran",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 5
+    },
+    "WUIIRQ": {
+        "title": "World Uncertainty Index for Iraq",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIISR": {
+        "title": "World Uncertainty Index for Israel",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIITA": {
+        "title": "World Uncertainty Index for Italy",
+        "start": "1952-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIJAM": {
+        "title": "World Uncertainty Index for Jamaica",
+        "start": "1963-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIJOR": {
+        "title": "World Uncertainty Index for Jordan",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIJPN": {
+        "title": "World Uncertainty Index for Japan",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WUIKAZ": {
+        "title": "World Uncertainty Index for Kazakhstan",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIKEN": {
+        "title": "World Uncertainty Index for Kenya",
+        "start": "1966-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIKGZ": {
+        "title": "World Uncertainty Index for Kyrgyz Republic",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIKHM": {
+        "title": "World Uncertainty Index for Cambodia",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIKOR": {
+        "title": "World Uncertainty Index for Korea",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIKWT": {
+        "title": "World Uncertainty Index for Kuwait",
+        "start": "1968-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUILAO": {
+        "title": "World Uncertainty Index for Lao P.D.R.",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUILBN": {
+        "title": "World Uncertainty Index for Lebanon",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUILBR": {
+        "title": "World Uncertainty Index for Liberia",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUILBY": {
+        "title": "World Uncertainty Index for Libya",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUILKA": {
+        "title": "World Uncertainty Index for Sri Lanka",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WUILOWINCOME": {
+        "title": "World Uncertainty Index: Low Income Economies",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUILSO": {
+        "title": "World Uncertainty Index for Lesotho",
+        "start": "1966-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUILTU": {
+        "title": "World Uncertainty Index for Lithuania",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUILVA": {
+        "title": "World Uncertainty Index for Latvia",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAAFG": {
+        "title": "Smoothed World Uncertainty Index for Afghanistan",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAAGO": {
+        "title": "Smoothed World Uncertainty Index for Angola",
+        "start": "1974-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAALB": {
+        "title": "Smoothed World Uncertainty Index for Albania",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAARE": {
+        "title": "Smoothed World Uncertainty Index for United Arab Emirates",
+        "start": "1971-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAARG": {
+        "title": "Smoothed World Uncertainty Index for Argentina",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAARM": {
+        "title": "Smoothed World Uncertainty Index for Armenia",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAAUS": {
+        "title": "Smoothed World Uncertainty Index for Australia",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAAUT": {
+        "title": "Smoothed World Uncertainty Index for Austria",
+        "start": "1964-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAAZE": {
+        "title": "Smoothed World Uncertainty Index for Azerbaijan",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABDI": {
+        "title": "Smoothed World Uncertainty Index for Burundi",
+        "start": "1965-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABEL": {
+        "title": "Smoothed World Uncertainty Index for Belgium",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABEN": {
+        "title": "Smoothed World Uncertainty Index for Benin",
+        "start": "1962-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABFA": {
+        "title": "Smoothed World Uncertainty Index for Burkina Faso",
+        "start": "1963-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABGD": {
+        "title": "Smoothed World Uncertainty Index for Bangladesh",
+        "start": "1972-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABGR": {
+        "title": "Smoothed World Uncertainty Index for Bulgaria",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABIH": {
+        "title": "Smoothed World Uncertainty Index for Bosnia and Herzegovina",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABLR": {
+        "title": "Smoothed World Uncertainty Index for Belarus",
+        "start": "1992-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABOL": {
+        "title": "Smoothed World Uncertainty Index for Bolivia",
+        "start": "1954-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABRA": {
+        "title": "Smoothed World Uncertainty Index for Brazil",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMABWA": {
+        "title": "Smoothed World Uncertainty Index for Botswana",
+        "start": "1967-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACAF": {
+        "title": "Smoothed World Uncertainty Index for Central African Republic",
+        "start": "1963-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACAN": {
+        "title": "Smoothed World Uncertainty Index for Canada",
+        "start": "1952-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACHE": {
+        "title": "Smoothed World Uncertainty Index for Switzerland",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACHL": {
+        "title": "Smoothed World Uncertainty Index for Chile",
+        "start": "1953-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACHN": {
+        "title": "Smoothed World Uncertainty Index for China",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACIV": {
+        "title": "Smoothed World Uncertainty Index for Côte d'Ivoire",
+        "start": "1960-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACMR": {
+        "title": "Smoothed World Uncertainty Index for Cameroon",
+        "start": "1962-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACOD": {
+        "title": "Smoothed World Uncertainty Index for Democratic Republic of the Congo",
+        "start": "1963-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACOG": {
+        "title": "Smoothed World Uncertainty Index for Republic of Congo",
+        "start": "1963-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACOL": {
+        "title": "Smoothed World Uncertainty Index for Colombia",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACRI": {
+        "title": "Smoothed World Uncertainty Index for Costa Rica",
+        "start": "1954-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMACZE": {
+        "title": "Smoothed World Uncertainty Index for Czech Republic",
+        "start": "1993-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMADEU": {
+        "title": "Smoothed World Uncertainty Index for Germany",
+        "start": "1952-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMADNK": {
+        "title": "Smoothed World Uncertainty Index for Denmark",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMADOM": {
+        "title": "Smoothed World Uncertainty Index for Dominican Republic",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMADZA": {
+        "title": "Smoothed World Uncertainty Index for Algeria",
+        "start": "1960-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAECU": {
+        "title": "Smoothed World Uncertainty Index for Ecuador",
+        "start": "1954-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAEGY": {
+        "title": "Smoothed World Uncertainty Index for Egypt",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAERI": {
+        "title": "Smoothed World Uncertainty Index for Eritrea",
+        "start": "1994-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAESP": {
+        "title": "Smoothed World Uncertainty Index for Spain",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAETH": {
+        "title": "Smoothed World Uncertainty Index for Ethiopia",
+        "start": "1960-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAFIN": {
+        "title": "Smoothed World Uncertainty Index for Finland",
+        "start": "1952-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAFRA": {
+        "title": "Smoothed World Uncertainty Index for France",
+        "start": "1952-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAGAB": {
+        "title": "Smoothed World Uncertainty Index for Gabon",
+        "start": "1962-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAGBR": {
+        "title": "Smoothed World Uncertainty Index for United Kingdom",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAGEO": {
+        "title": "Smoothed World Uncertainty Index for Georgia",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAGHA": {
+        "title": "Smoothed World Uncertainty Index for Ghana",
+        "start": "1957-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAGIN": {
+        "title": "Smoothed World Uncertainty Index for Guinea",
+        "start": "1960-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAGMB": {
+        "title": "Smoothed World Uncertainty Index for The Gambia",
+        "start": "1957-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAGNB": {
+        "title": "Smoothed World Uncertainty Index for Guinea-Bissau",
+        "start": "1978-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAGRC": {
+        "title": "Smoothed World Uncertainty Index for Greece",
+        "start": "1953-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAGTM": {
+        "title": "Smoothed World Uncertainty Index for Guatemala",
+        "start": "1954-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAHKG": {
+        "title": "Smoothed World Uncertainty Index for Hong Kong SAR",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAHND": {
+        "title": "Smoothed World Uncertainty Index for Honduras",
+        "start": "1954-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAHRV": {
+        "title": "Smoothed World Uncertainty Index for Croatia",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAHTI": {
+        "title": "Smoothed World Uncertainty Index for Haiti",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAHUN": {
+        "title": "Smoothed World Uncertainty Index for Hungary",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAIDN": {
+        "title": "Smoothed World Uncertainty Index for Indonesia",
+        "start": "1952-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAIND": {
+        "title": "Smoothed World Uncertainty Index for India",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAIRL": {
+        "title": "Smoothed World Uncertainty Index for Ireland",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAIRN": {
+        "title": "Smoothed World Uncertainty Index for Islamic Republic of Iran",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAIRQ": {
+        "title": "Smoothed World Uncertainty Index for Iraq",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAISR": {
+        "title": "Smoothed World Uncertainty Index for Israel",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAITA": {
+        "title": "Smoothed World Uncertainty Index for Italy",
+        "start": "1952-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAJAM": {
+        "title": "Smoothed World Uncertainty Index for Jamaica",
+        "start": "1964-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAJOR": {
+        "title": "Smoothed World Uncertainty Index for Jordan",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAJPN": {
+        "title": "Smoothed World Uncertainty Index for Japan",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAKAZ": {
+        "title": "Smoothed World Uncertainty Index for Kazakhstan",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAKEN": {
+        "title": "Smoothed World Uncertainty Index for Kenya",
+        "start": "1967-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAKGZ": {
+        "title": "Smoothed World Uncertainty Index for Kyrgyz Republic",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAKHM": {
+        "title": "Smoothed World Uncertainty Index for Cambodia",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAKOR": {
+        "title": "Smoothed World Uncertainty Index for Korea",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAKWT": {
+        "title": "Smoothed World Uncertainty Index for Kuwait",
+        "start": "1968-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMALAO": {
+        "title": "Smoothed World Uncertainty Index for Lao P.D.R.",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMALBN": {
+        "title": "Smoothed World Uncertainty Index for Lebanon",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMALBR": {
+        "title": "Smoothed World Uncertainty Index for Liberia",
+        "start": "1957-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMALBY": {
+        "title": "Smoothed World Uncertainty Index for Libya",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMALKA": {
+        "title": "Smoothed World Uncertainty Index for Sri Lanka",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMALSO": {
+        "title": "Smoothed World Uncertainty Index for Lesotho",
+        "start": "1967-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMALTU": {
+        "title": "Smoothed World Uncertainty Index for Lithuania",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMALVA": {
+        "title": "Smoothed World Uncertainty Index for Latvia",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMAR": {
+        "title": "Smoothed World Uncertainty Index for Morocco",
+        "start": "1957-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMDA": {
+        "title": "Smoothed World Uncertainty Index for Moldova",
+        "start": "1992-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMDG": {
+        "title": "Smoothed World Uncertainty Index for Madagascar",
+        "start": "1962-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMEX": {
+        "title": "Smoothed World Uncertainty Index for Mexico",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMKD": {
+        "title": "Smoothed World Uncertainty Index for FYR Macedonia",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMLI": {
+        "title": "Smoothed World Uncertainty Index for Mali",
+        "start": "1960-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMMR": {
+        "title": "Smoothed World Uncertainty Index for Myanmar",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMNG": {
+        "title": "Smoothed World Uncertainty Index for Mongolia",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMOZ": {
+        "title": "Smoothed World Uncertainty Index for Mozambique",
+        "start": "1974-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMRT": {
+        "title": "Smoothed World Uncertainty Index for Mauritania",
+        "start": "1967-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMWI": {
+        "title": "Smoothed World Uncertainty Index for Malawi",
+        "start": "1967-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAMYS": {
+        "title": "Smoothed World Uncertainty Index for Malaysia",
+        "start": "1954-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMANAM": {
+        "title": "Smoothed World Uncertainty Index for Namibia",
+        "start": "1979-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMANER": {
+        "title": "Smoothed World Uncertainty Index for Niger",
+        "start": "1962-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMANGA": {
+        "title": "Smoothed World Uncertainty Index for Nigeria",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMANIC": {
+        "title": "Smoothed World Uncertainty Index for Nicaragua",
+        "start": "1954-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMANLD": {
+        "title": "Smoothed World Uncertainty Index for Netherlands",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMANOR": {
+        "title": "Smoothed World Uncertainty Index for Norway",
+        "start": "1955-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMANPL": {
+        "title": "Smoothed World Uncertainty Index for Nepal",
+        "start": "1967-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMANZL": {
+        "title": "Smoothed World Uncertainty Index for New Zealand",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAOMN": {
+        "title": "Smoothed World Uncertainty Index for Oman",
+        "start": "1971-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAPAK": {
+        "title": "Smoothed World Uncertainty Index for Pakistan",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAPAN": {
+        "title": "Smoothed World Uncertainty Index for Panama",
+        "start": "1954-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WUIMAPER": {
+        "title": "Smoothed World Uncertainty Index for Peru",
+        "start": "1954-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAPHL": {
+        "title": "Smoothed World Uncertainty Index for Philippines",
+        "start": "1952-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAPNG": {
+        "title": "Smoothed World Uncertainty Index for Papua New Guinea",
+        "start": "1970-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAPOL": {
+        "title": "Smoothed World Uncertainty Index for Poland",
+        "start": "1971-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAPRT": {
+        "title": "Smoothed World Uncertainty Index for Portugal",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAPRY": {
+        "title": "Smoothed World Uncertainty Index for Paraguay",
+        "start": "1955-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WUIMAQAT": {
+        "title": "Smoothed World Uncertainty Index for Qatar",
+        "start": "1971-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAR": {
+        "title": "World Uncertainty Index for Morocco",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAROU": {
+        "title": "Smoothed World Uncertainty Index for Romania",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMARUS": {
+        "title": "Smoothed World Uncertainty Index for Russia",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMARWA": {
+        "title": "Smoothed World Uncertainty Index for Rwanda",
+        "start": "1965-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMASAU": {
+        "title": "Smoothed World Uncertainty Index for Saudi Arabia",
+        "start": "1968-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMASDN": {
+        "title": "Smoothed World Uncertainty Index for Sudan",
+        "start": "1954-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMASEN": {
+        "title": "Smoothed World Uncertainty Index for Senegal",
+        "start": "1963-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMASGP": {
+        "title": "Smoothed World Uncertainty Index for Singapore",
+        "start": "1958-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIMASLE": {
+        "title": "Smoothed World Uncertainty Index for Sierra Leone",
+        "start": "1957-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WUIMASLV": {
+        "title": "Smoothed World Uncertainty Index for El Salvador",
+        "start": "1954-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMASVK": {
+        "title": "Smoothed World Uncertainty Index for Slovak Republic",
+        "start": "1993-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMASVN": {
+        "title": "Smoothed World Uncertainty Index for Slovenia",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMASWE": {
+        "title": "Smoothed World Uncertainty Index for Sweden",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMATCD": {
+        "title": "Smoothed World Uncertainty Index for Chad",
+        "start": "1963-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMATGO": {
+        "title": "Smoothed World Uncertainty Index for Togo",
+        "start": "1962-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMATHA": {
+        "title": "Smoothed World Uncertainty Index for Thailand",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMATJK": {
+        "title": "Smoothed World Uncertainty Index for Tajikistan",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMATKM": {
+        "title": "Smoothed World Uncertainty Index for Turkmenistan",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMATUN": {
+        "title": "Smoothed World Uncertainty Index for Tunisia",
+        "start": "1957-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMATUR": {
+        "title": "Smoothed World Uncertainty Index for Turkey",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIMATWN": {
+        "title": "Smoothed World Uncertainty Index for Taiwan Province of China",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMATZA": {
+        "title": "Smoothed World Uncertainty Index for Tanzania",
+        "start": "1967-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAUGA": {
+        "title": "Smoothed World Uncertainty Index for Uganda",
+        "start": "1967-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAUKR": {
+        "title": "Smoothed World Uncertainty Index for Ukraine",
+        "start": "1992-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAURY": {
+        "title": "Smoothed World Uncertainty Index for Uruguay",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAUSA": {
+        "title": "Smoothed World Uncertainty Index for United States",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAUZB": {
+        "title": "Smoothed World Uncertainty Index for Uzbekistan",
+        "start": "1993-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WUIMAVEN": {
+        "title": "Smoothed World Uncertainty Index for Venezuela",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAVNM": {
+        "title": "Smoothed World Uncertainty Index for Vietnam",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAYEM": {
+        "title": "Smoothed World Uncertainty Index for Yemen",
+        "start": "1971-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WUIMAZAF": {
+        "title": "Smoothed World Uncertainty Index for South Africa",
+        "start": "1962-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAZMB": {
+        "title": "Smoothed World Uncertainty Index for Zambia",
+        "start": "1967-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMAZWE": {
+        "title": "Smoothed World Uncertainty Index for Zimbabwe",
+        "start": "1966-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMDA": {
+        "title": "World Uncertainty Index for Moldova",
+        "start": "1992-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMDG": {
+        "title": "World Uncertainty Index for Madagascar",
+        "start": "1962-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMEX": {
+        "title": "World Uncertainty Index for Mexico",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIMIDEAST": {
+        "title": "World Uncertainty Index: Middle East and Central Asia",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMKD": {
+        "title": "World Uncertainty Index for FYR Macedonia",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMLI": {
+        "title": "World Uncertainty Index for Mali",
+        "start": "1960-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMMR": {
+        "title": "World Uncertainty Index for Myanmar",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMNG": {
+        "title": "World Uncertainty Index for Mongolia",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMOZ": {
+        "title": "World Uncertainty Index for Mozambique",
+        "start": "1974-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMRT": {
+        "title": "World Uncertainty Index for Mauritania",
+        "start": "1967-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMWI": {
+        "title": "World Uncertainty Index for Malawi",
+        "start": "1966-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIMYS": {
+        "title": "World Uncertainty Index for Malaysia",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 4
+    },
+    "WUINAM": {
+        "title": "World Uncertainty Index for Namibia",
+        "start": "1978-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUINER": {
+        "title": "World Uncertainty Index for Niger",
+        "start": "1962-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUINGA": {
+        "title": "World Uncertainty Index for Nigeria",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 6
+    },
+    "WUINIC": {
+        "title": "World Uncertainty Index for Nicaragua",
+        "start": "1954-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUINLD": {
+        "title": "World Uncertainty Index for Netherlands",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUINOR": {
+        "title": "World Uncertainty Index for Norway",
+        "start": "1955-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUINPL": {
+        "title": "World Uncertainty Index for Nepal",
+        "start": "1966-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUINZL": {
+        "title": "World Uncertainty Index for New Zealand",
+        "start": "1955-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIOMN": {
+        "title": "World Uncertainty Index for Oman",
+        "start": "1971-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIPAK": {
+        "title": "World Uncertainty Index for Pakistan",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 10
+    },
+    "WUIPAN": {
+        "title": "World Uncertainty Index for Panama",
+        "start": "1954-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIPER": {
+        "title": "World Uncertainty Index for Peru",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WUIPHL": {
+        "title": "World Uncertainty Index for Philippines",
+        "start": "1952-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIPNG": {
+        "title": "World Uncertainty Index for Papua New Guinea",
+        "start": "1970-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIPOL": {
+        "title": "World Uncertainty Index for Poland",
+        "start": "1971-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WUIPRT": {
+        "title": "World Uncertainty Index for Portugal",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIPRY": {
+        "title": "World Uncertainty Index for Paraguay",
+        "start": "1955-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIQAT": {
+        "title": "World Uncertainty Index for Qatar",
+        "start": "1971-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUIROU": {
+        "title": "World Uncertainty Index for Romania",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIRUS": {
+        "title": "World Uncertainty Index for Russia",
+        "start": "1953-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WUIRWA": {
+        "title": "World Uncertainty Index for Rwanda",
+        "start": "1965-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUISAU": {
+        "title": "World Uncertainty Index for Saudi Arabia",
+        "start": "1968-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 5
+    },
+    "WUISDN": {
+        "title": "World Uncertainty Index for Sudan",
+        "start": "1954-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUISEN": {
+        "title": "World Uncertainty Index for Senegal",
+        "start": "1963-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUISGP": {
+        "title": "World Uncertainty Index for Singapore",
+        "start": "1957-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WUISLE": {
+        "title": "World Uncertainty Index for Sierra Leone",
+        "start": "1957-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUISLV": {
+        "title": "World Uncertainty Index for El Salvador",
+        "start": "1954-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUISVK": {
+        "title": "World Uncertainty Index for Slovak Republic",
+        "start": "1993-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUISVN": {
+        "title": "World Uncertainty Index for Slovenia",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUISWE": {
+        "title": "World Uncertainty Index for Sweden",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUITCD": {
+        "title": "World Uncertainty Index for Chad",
+        "start": "1963-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUITGO": {
+        "title": "World Uncertainty Index for Togo",
+        "start": "1962-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUITHA": {
+        "title": "World Uncertainty Index for Thailand",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 5
+    },
+    "WUITJK": {
+        "title": "World Uncertainty Index for Tajikistan",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUITKM": {
+        "title": "World Uncertainty Index for Turkmenistan",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUITUN": {
+        "title": "World Uncertainty Index for Tunisia",
+        "start": "1956-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 4
+    },
+    "WUITUR": {
+        "title": "World Uncertainty Index for Turkey",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 11
+    },
+    "WUITWN": {
+        "title": "World Uncertainty Index for Taiwan Province of China",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 6
+    },
+    "WUITZA": {
+        "title": "World Uncertainty Index for Tanzania",
+        "start": "1966-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIUGA": {
+        "title": "World Uncertainty Index for Uganda",
+        "start": "1966-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIUKR": {
+        "title": "World Uncertainty Index for Ukraine",
+        "start": "1992-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 5
+    },
+    "WUIURY": {
+        "title": "World Uncertainty Index for Uruguay",
+        "start": "1952-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIUSA": {
+        "title": "World Uncertainty Index for United States",
+        "start": "1952-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 12
+    },
+    "WUIUZB": {
+        "title": "World Uncertainty Index for Uzbekistan",
+        "start": "1993-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIVEN": {
+        "title": "World Uncertainty Index for Venezuela",
+        "start": "1953-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIVNM": {
+        "title": "World Uncertainty Index for Vietnam",
+        "start": "1956-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 12
+    },
+    "WUIWEST": {
+        "title": "World Uncertainty Index: Western Hemisphere",
+        "start": "1990-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIYEM": {
+        "title": "World Uncertainty Index for Yemen",
+        "start": "1971-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIZAF": {
+        "title": "World Uncertainty Index for South Africa",
+        "start": "1961-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 10
+    },
+    "WUIZMB": {
+        "title": "World Uncertainty Index for Zambia",
+        "start": "1966-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUIZWE": {
+        "title": "World Uncertainty Index for Zimbabwe",
+        "start": "1966-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPI": {
+        "title": "World Pandemic Uncertainty Index",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 32
+    },
+    "WUPIAFG": {
+        "title": "World Pandemic Uncertainty Index for Afghanistan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIAGO": {
+        "title": "World Pandemic Uncertainty Index for Angola",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIALB": {
+        "title": "World Pandemic Uncertainty Index for Albania",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIARE": {
+        "title": "World Pandemic Uncertainty Index for United Arab Emirates",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIARG": {
+        "title": "World Pandemic Uncertainty Index for Argentina",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIARM": {
+        "title": "World Pandemic Uncertainty Index for Armenia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIAUS": {
+        "title": "World Pandemic Uncertainty Index for Australia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIAUT": {
+        "title": "World Pandemic Uncertainty Index for Austria",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIAZE": {
+        "title": "World Pandemic Uncertainty Index for Azerbaijan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIBDI": {
+        "title": "World Pandemic Uncertainty Index for Burundi",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WUPIBEL": {
+        "title": "World Pandemic Uncertainty Index for Belgium",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIBEN": {
+        "title": "World Pandemic Uncertainty Index for Benin",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIBFA": {
+        "title": "World Pandemic Uncertainty Index for Burkina Faso",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIBGD": {
+        "title": "World Pandemic Uncertainty Index for Bangladesh",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIBGR": {
+        "title": "World Pandemic Uncertainty Index for Bulgaria",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIBIH": {
+        "title": "World Pandemic Uncertainty Index for Bosnia and Herzegovina",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIBLR": {
+        "title": "World Pandemic Uncertainty Index for Belarus",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIBOL": {
+        "title": "World Pandemic Uncertainty Index for Bolivia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIBRA": {
+        "title": "World Pandemic Uncertainty Index for Brazil",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIBWA": {
+        "title": "World Pandemic Uncertainty Index for Botswana",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPICAF": {
+        "title": "World Pandemic Uncertainty Index for Central African Republic",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPICAN": {
+        "title": "World Pandemic Uncertainty Index for Canada",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPICHE": {
+        "title": "World Pandemic Uncertainty Index for Switzerland",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPICHL": {
+        "title": "World Pandemic Uncertainty Index for Chile",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPICHN": {
+        "title": "World Pandemic Uncertainty Index for China",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 3
+    },
+    "WUPICIV": {
+        "title": "World Pandemic Uncertainty Index for Côte d'Ivoire",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPICMR": {
+        "title": "World Pandemic Uncertainty Index for Cameroon",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPICOD": {
+        "title": "World Pandemic Uncertainty Index for Democratic Republic of the Congo",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPICOG": {
+        "title": "World Pandemic Uncertainty Index for Republic of Congo",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WUPICOL": {
+        "title": "World Pandemic Uncertainty Index for Colombia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPICRI": {
+        "title": "World Pandemic Uncertainty Index for Costa Rica",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPICZE": {
+        "title": "World Pandemic Uncertainty Index for Czech Republic",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIDEU": {
+        "title": "World Pandemic Uncertainty Index for Germany",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIDNK": {
+        "title": "World Pandemic Uncertainty Index for Denmark",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIDOM": {
+        "title": "World Pandemic Uncertainty Index for Dominican Republic",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIDZA": {
+        "title": "World Pandemic Uncertainty Index for Algeria",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIECU": {
+        "title": "World Pandemic Uncertainty Index for Ecuador",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIEGY": {
+        "title": "World Pandemic Uncertainty Index for Egypt",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIERI": {
+        "title": "World Pandemic Uncertainty Index for Eritrea",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 0
+    },
+    "WUPIESP": {
+        "title": "World Pandemic Uncertainty Index for Spain",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIETH": {
+        "title": "World Pandemic Uncertainty Index for Ethiopia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIFIN": {
+        "title": "World Pandemic Uncertainty Index for Finland",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIFRA": {
+        "title": "World Pandemic Uncertainty Index for France",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIGAB": {
+        "title": "World Pandemic Uncertainty Index for Gabon",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIGBR": {
+        "title": "World Pandemic Uncertainty Index for United Kingdom",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIGEO": {
+        "title": "World Pandemic Uncertainty Index for Georgia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIGHA": {
+        "title": "World Pandemic Uncertainty Index for Ghana",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIGIN": {
+        "title": "World Pandemic Uncertainty Index for Guinea",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIGMB": {
+        "title": "World Pandemic Uncertainty Index for The Gambia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIGNB": {
+        "title": "World Pandemic Uncertainty Index for Guinea-Bissau",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIGRC": {
+        "title": "World Pandemic Uncertainty Index for Greece",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIGTM": {
+        "title": "World Pandemic Uncertainty Index for Guatemala",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIHKG": {
+        "title": "World Pandemic Uncertainty Index for Hong Kong SAR",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIHND": {
+        "title": "World Pandemic Uncertainty Index for Honduras",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIHRV": {
+        "title": "World Pandemic Uncertainty Index for Croatia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIHTI": {
+        "title": "World Pandemic Uncertainty Index for Haiti",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIHUN": {
+        "title": "World Pandemic Uncertainty Index for Hungary",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIIDN": {
+        "title": "World Pandemic Uncertainty Index for Indonesia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUPIIND": {
+        "title": "World Pandemic Uncertainty Index for India",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIIRL": {
+        "title": "World Pandemic Uncertainty Index for Ireland",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIIRN": {
+        "title": "World Pandemic Uncertainty Index for Islamic Republic of Iran",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIIRQ": {
+        "title": "World Pandemic Uncertainty Index for Iraq",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIISR": {
+        "title": "World Pandemic Uncertainty Index for Israel",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIITA": {
+        "title": "World Pandemic Uncertainty Index for Italy",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIJAM": {
+        "title": "World Pandemic Uncertainty Index for Jamaica",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIJOR": {
+        "title": "World Pandemic Uncertainty Index for Jordan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIJPN": {
+        "title": "World Pandemic Uncertainty Index for Japan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIKAZ": {
+        "title": "World Pandemic Uncertainty Index for Kazakhstan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIKEN": {
+        "title": "World Pandemic Uncertainty Index for Kenya",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIKGZ": {
+        "title": "World Pandemic Uncertainty Index for Kyrgyz Republic",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIKHM": {
+        "title": "World Pandemic Uncertainty Index for Cambodia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIKOR": {
+        "title": "World Pandemic Uncertainty Index for Korea",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIKWT": {
+        "title": "World Pandemic Uncertainty Index for Kuwait",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPILAO": {
+        "title": "World Pandemic Uncertainty Index for Lao P.D.R.",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPILBN": {
+        "title": "World Pandemic Uncertainty Index for Lebanon",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPILBR": {
+        "title": "World Pandemic Uncertainty Index for Liberia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPILBY": {
+        "title": "World Pandemic Uncertainty Index for Libya",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPILKA": {
+        "title": "World Pandemic Uncertainty Index for Sri Lanka",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPILSO": {
+        "title": "World Pandemic Uncertainty Index for Lesotho",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPILTU": {
+        "title": "World Pandemic Uncertainty Index for Lithuania",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPILVA": {
+        "title": "World Pandemic Uncertainty Index for Latvia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMAR": {
+        "title": "World Pandemic Uncertainty Index for Morocco",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMDA": {
+        "title": "World Pandemic Uncertainty Index for Moldova",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMDG": {
+        "title": "World Pandemic Uncertainty Index for Madagascar",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMEX": {
+        "title": "World Pandemic Uncertainty Index for Mexico",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMKD": {
+        "title": "World Pandemic Uncertainty Index for FYR Macedonia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMLI": {
+        "title": "World Pandemic Uncertainty Index for Mali",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMMR": {
+        "title": "World Pandemic Uncertainty Index for Myanmar",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMNG": {
+        "title": "World Pandemic Uncertainty Index for Mongolia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMOZ": {
+        "title": "World Pandemic Uncertainty Index for Mozambique",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMRT": {
+        "title": "World Pandemic Uncertainty Index for Mauritania",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMWI": {
+        "title": "World Pandemic Uncertainty Index for Malawi",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIMYS": {
+        "title": "World Pandemic Uncertainty Index for Malaysia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPINAM": {
+        "title": "World Pandemic Uncertainty Index for Namibia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPINER": {
+        "title": "World Pandemic Uncertainty Index for Niger",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPINGA": {
+        "title": "World Pandemic Uncertainty Index for Nigeria",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPINIC": {
+        "title": "World Pandemic Uncertainty Index for Nicaragua",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPINLD": {
+        "title": "World Pandemic Uncertainty Index for Netherlands",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPINOR": {
+        "title": "World Pandemic Uncertainty Index for Norway",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPINPL": {
+        "title": "World Pandemic Uncertainty Index for Nepal",
+        "start": "1996-04-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPINZL": {
+        "title": "World Pandemic Uncertainty Index for New Zealand",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIOMN": {
+        "title": "World Pandemic Uncertainty Index for Oman",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIPAK": {
+        "title": "World Pandemic Uncertainty Index for Pakistan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIPAN": {
+        "title": "World Pandemic Uncertainty Index for Panama",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIPER": {
+        "title": "World Pandemic Uncertainty Index for Peru",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIPHL": {
+        "title": "World Pandemic Uncertainty Index for Philippines",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIPNG": {
+        "title": "World Pandemic Uncertainty Index for Papua New Guinea",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIPOL": {
+        "title": "World Pandemic Uncertainty Index for Poland",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIPRT": {
+        "title": "World Pandemic Uncertainty Index for Portugal",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIPRY": {
+        "title": "World Pandemic Uncertainty Index for Paraguay",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIQAT": {
+        "title": "World Pandemic Uncertainty Index for Qatar",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIROU": {
+        "title": "World Pandemic Uncertainty Index for Romania",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIRUS": {
+        "title": "World Pandemic Uncertainty Index for Russia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIRWA": {
+        "title": "World Pandemic Uncertainty Index for Rwanda",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPISAU": {
+        "title": "World Pandemic Uncertainty Index for Saudi Arabia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPISDN": {
+        "title": "World Pandemic Uncertainty Index for Sudan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPISEN": {
+        "title": "World Pandemic Uncertainty Index for Senegal",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPISGP": {
+        "title": "World Pandemic Uncertainty Index for Singapore",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPISLE": {
+        "title": "World Pandemic Uncertainty Index for Sierra Leone",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPISLV": {
+        "title": "World Pandemic Uncertainty Index for El Salvador",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPISVK": {
+        "title": "World Pandemic Uncertainty Index for Slovak Republic",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPISVN": {
+        "title": "World Pandemic Uncertainty Index for Slovenia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPISWE": {
+        "title": "World Pandemic Uncertainty Index for Sweden",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPITCD": {
+        "title": "World Pandemic Uncertainty Index for Chad",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPITGO": {
+        "title": "World Pandemic Uncertainty Index for Togo",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPITHA": {
+        "title": "World Pandemic Uncertainty Index for Thailand",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPITJK": {
+        "title": "World Pandemic Uncertainty Index for Tajikistan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPITKM": {
+        "title": "World Pandemic Uncertainty Index for Turkmenistan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPITUN": {
+        "title": "World Pandemic Uncertainty Index for Tunisia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPITUR": {
+        "title": "World Pandemic Uncertainty Index for Turkey",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPITWN": {
+        "title": "World Pandemic Uncertainty Index for Taiwan Province of China",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPITZA": {
+        "title": "World Pandemic Uncertainty Index for Tanzania",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIUGA": {
+        "title": "World Pandemic Uncertainty Index for Uganda",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIUKR": {
+        "title": "World Pandemic Uncertainty Index for Ukraine",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIURY": {
+        "title": "World Pandemic Uncertainty Index for Uruguay",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIUSA": {
+        "title": "World Pandemic Uncertainty Index for United States",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIUZB": {
+        "title": "World Pandemic Uncertainty Index for Uzbekistan",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIVEN": {
+        "title": "World Pandemic Uncertainty Index for Venezuela",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIVNM": {
+        "title": "World Pandemic Uncertainty Index for Vietnam",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 2
+    },
+    "WUPIYEM": {
+        "title": "World Pandemic Uncertainty Index for Yemen",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIZAF": {
+        "title": "World Pandemic Uncertainty Index for South Africa",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIZMB": {
+        "title": "World Pandemic Uncertainty Index for Zambia",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    },
+    "WUPIZWE": {
+        "title": "World Pandemic Uncertainty Index for Zimbabwe",
+        "start": "1996-01-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index",
+        "popularity": 1
+    }
+}

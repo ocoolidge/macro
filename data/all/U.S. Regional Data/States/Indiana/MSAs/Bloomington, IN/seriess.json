@@ -1,0 +1,1394 @@
+{
+    "ACTLISCOU14020": {
+        "title": "Housing Inventory: Active Listing Count in Bloomington, IN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "ACTLISCOUMM14020": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ACTLISCOUYY14020": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ATNHPIUS14020Q": {
+        "title": "All-Transactions House Price Index for Bloomington, IN (MSA)",
+        "start": "1986-07-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index 1995:Q1=100",
+        "popularity": 5
+    },
+    "AVELISPRI14020": {
+        "title": "Housing Inventory: Average Listing Price in Bloomington, IN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "AVELISPRIMM14020": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRIYY14020": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "BLMPOP": {
+        "title": "Resident Population in Bloomington, IN (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 3
+    },
+    "BLOO017PCPI": {
+        "title": "Per Capita Personal Income in Bloomington-Normal, IL (MSA) (DISCONTINUED)",
+        "start": "1969-01-01",
+        "end": "2011-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "BLOO018EDUH": {
+        "title": "All Employees: Education and Health Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018EDUHN": {
+        "title": "All Employees: Education and Health Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018FIRE": {
+        "title": "All Employees: Financial Activities in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018FIREN": {
+        "title": "All Employees: Financial Activities in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018GOVT": {
+        "title": "All Employees: Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018GOVTN": {
+        "title": "All Employees: Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018INFO": {
+        "title": "All Employees: Information in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018INFON": {
+        "title": "All Employees: Information in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018LEIH": {
+        "title": "All Employees: Leisure and Hospitality in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018LEIHN": {
+        "title": "All Employees: Leisure and Hospitality in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018LF": {
+        "title": "Civilian Labor Force in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "BLOO018LFN": {
+        "title": "Civilian Labor Force in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "BLOO018MFG": {
+        "title": "All Employees: Manufacturing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018MFGN": {
+        "title": "All Employees: Manufacturing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018NA": {
+        "title": "All Employees: Total Nonfarm in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018NAN": {
+        "title": "All Employees: Total Nonfarm in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018NRMN": {
+        "title": "All Employees: Mining, Logging, and Construction in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018NRMNN": {
+        "title": "All Employees: Mining, Logging, and Construction in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018PBSV": {
+        "title": "All Employees: Professional and Business Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018PBSVN": {
+        "title": "All Employees: Professional and Business Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018PCPI": {
+        "title": "Per Capita Personal Income in Bloomington, IN (MSA)",
+        "start": "1969-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "BLOO018SRVO": {
+        "title": "All Employees: Other Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018SRVON": {
+        "title": "All Employees: Other Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018TRAD": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "BLOO018TRADN": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "BLOO018UR": {
+        "title": "Unemployment Rate in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "BLOO018URN": {
+        "title": "Unemployment Rate in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "DESCMSA14020": {
+        "title": "Market Hotness: Demand Score in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "ENUC140230010": {
+        "title": "Total Quarterly Wages in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC140230010SA": {
+        "title": "Total Quarterly Wages in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC140240010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC140240010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC140240110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC140240110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC140240510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC140240510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "HORAMMMSA14020": {
+        "title": "Market Hotness: Hotness Rank in Bloomington, IN (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change",
+        "popularity": 1
+    },
+    "HORAMSA14020": {
+        "title": "Market Hotness: Hotness Rank in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "HORAYYMSA14020": {
+        "title": "Market Hotness: Hotness Rank in Bloomington, IN (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank Change from Year Ago",
+        "popularity": 1
+    },
+    "HOSCMSA14020": {
+        "title": "Market Hotness: Hotness Score in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    },
+    "IRPD14010": {
+        "title": "Implicit Regional Price Deflator for Bloomington, IL (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "IRPD14020": {
+        "title": "Implicit Regional Price Deflator for Bloomington, IN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "LAUMT181402000000003A": {
+        "title": "Unemployment Rate in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "LAUMT181402000000004": {
+        "title": "Unemployed Persons in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT181402000000004A": {
+        "title": "Unemployed Persons in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUMT181402000000005": {
+        "title": "Employed Persons in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT181402000000005A": {
+        "title": "Employed Persons in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT181402000000006A": {
+        "title": "Civilian Labor Force in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LDPEPRMMMSA14020": {
+        "title": "Market Hotness: Listing Views per Property in Bloomington, IN (CBSA)",
+        "start": "2017-09-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "LDPEPRVSUSMSA14020": {
+        "title": "Market Hotness: Listing Views per Property Versus the United States in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "LDPEPRYYMSA14020": {
+        "title": "Market Hotness: Listing Views per Property in Bloomington, IN (CBSA)",
+        "start": "2018-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 0
+    },
+    "MEDAONMAMMMSA14020": {
+        "title": "Market Hotness: Median Days on Market in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MEDAONMAMSA14020": {
+        "title": "Market Hotness: Median Days on Market in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Days",
+        "popularity": 1
+    },
+    "MEDAONMAYYMSA14020": {
+        "title": "Market Hotness: Median Days on Market in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "MEDDAYONMAR14020": {
+        "title": "Housing Inventory: Median Days on Market in Bloomington, IN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDDAYONMARMM14020": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDDAYONMARYY14020": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI14020": {
+        "title": "Housing Inventory: Median Listing Price in Bloomington, IN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIMM14020": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE14020": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in Bloomington, IN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEMM14020": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY14020": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIYY14020": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDOMMDAMSA14020": {
+        "title": "Market Hotness: Median Days on Market in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDOVSUSMSA14020": {
+        "title": "Market Hotness: Median Days on Market Versus the United States in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MEDOYYDAMSA14020": {
+        "title": "Market Hotness: Median Days on Market Day in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Change",
+        "popularity": 1
+    },
+    "MEDSQUFEE14020": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in Bloomington, IN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDSQUFEEMM14020": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEEYY14020": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MELIPRMMMSA14020": {
+        "title": "Market Hotness: Median Listing Price in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change",
+        "popularity": 1
+    },
+    "MELIPRMSA14020": {
+        "title": "Market Hotness: Median Listing Price in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 0
+    },
+    "MELIPRVSUSMSA14020": {
+        "title": "Market Hotness: Median Listing Price Versus the United States in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Ratio",
+        "popularity": 1
+    },
+    "MELIPRYYMSA14020": {
+        "title": "Market Hotness: Median Listing Price in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent Change from Year Ago",
+        "popularity": 1
+    },
+    "NEWLISCOU14020": {
+        "title": "Housing Inventory: New Listing Count in Bloomington, IN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "NEWLISCOUMM14020": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWLISCOUYY14020": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "NGMP14020": {
+        "title": "Total Gross Domestic Product for Bloomington, IN (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 5
+    },
+    "NIHHRAMSA14020": {
+        "title": "Market Hotness: Nielsen Household Rank in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Rank",
+        "popularity": 1
+    },
+    "PATENTCBSA114020": {
+        "title": "U.S. Granted Utility Patents Originating in Bloomington, IN (MSA)",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 1
+    },
+    "PCRGMP14020": {
+        "title": "Total Per Capita Real Gross Domestic Product for Bloomington, IN (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 1
+    },
+    "PENLISCOU14020": {
+        "title": "Housing Inventory: Pending Listing Count in Bloomington, IN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM14020": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY14020": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU14020": {
+        "title": "Housing Inventory: Price Increased Count in Bloomington, IN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIINCCOUMM14020": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-09-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOUYY14020": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOU14020": {
+        "title": "Housing Inventory: Price Reduced Count in Bloomington, IN (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM14020": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY14020": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in Bloomington, IN (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "QGMP14020": {
+        "title": "Total Quantity Indexes for Real GDP for Bloomington, IN (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP14020": {
+        "title": "Total Real Gross Domestic Product for Bloomington, IN (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPI14010": {
+        "title": "Real Personal Income for Bloomington, IL (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPI14020": {
+        "title": "Real Personal Income for Bloomington, IN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC14010": {
+        "title": "Real Per Capita Personal Income for Bloomington, IL (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC14020": {
+        "title": "Real Per Capita Personal Income for Bloomington, IN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPPALL14010": {
+        "title": "Regional Price Parities: All Items for Bloomington, IL (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPALL14020": {
+        "title": "Regional Price Parities: All Items for Bloomington, IN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD14010": {
+        "title": "Regional Price Parities: Goods for Bloomington, IL (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD14020": {
+        "title": "Regional Price Parities: Goods for Bloomington, IN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVEOTH14010": {
+        "title": "Regional Price Parities: Services: Other for Bloomington, IL (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 0
+    },
+    "RPPSERVEOTH14020": {
+        "title": "Regional Price Parities: Services: Other for Bloomington, IN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVERENT14010": {
+        "title": "Regional Price Parities: Services: Rents for Bloomington, IL (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVERENT14020": {
+        "title": "Regional Price Parities: Services: Rents for Bloomington, IN (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SMS18140200000000001": {
+        "title": "All Employees: Total Nonfarm in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2018-02-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMS18140200000000026": {
+        "title": "All Employees: Total Nonfarm in Bloomington, IN (MSA)",
+        "start": "1990-04-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "3-Month Average Change, Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140200000000001A": {
+        "title": "All Employees: Total Nonfarm in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140200500000001": {
+        "title": "All Employees: Total Private in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140200500000001A": {
+        "title": "All Employees: Total Private in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140200500000001SA": {
+        "title": "All Employees: Total Private in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140200500000002": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Bloomington, IN (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU18140200500000002A": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Bloomington, IN (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 0
+    },
+    "SMU18140200500000002SA": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Bloomington, IN (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU18140200500000003": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Bloomington, IN (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU18140200500000003A": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Bloomington, IN (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU18140200500000003SA": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Bloomington, IN (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU18140200500000011": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Bloomington, IN (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU18140200500000011A": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Bloomington, IN (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "SMU18140200500000011SA": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Bloomington, IN (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU18140200600000001": {
+        "title": "All Employees: Goods Producing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140200600000001A": {
+        "title": "All Employees: Goods Producing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140200600000001SA": {
+        "title": "All Employees: Goods Producing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140200700000001": {
+        "title": "All Employees: Service-Providing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140200700000001A": {
+        "title": "All Employees: Service-Providing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140200700000001SA": {
+        "title": "All Employees: Service-Providing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140200800000001": {
+        "title": "All Employees: Private Service Providing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140200800000001A": {
+        "title": "All Employees: Private Service Providing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140200800000001SA": {
+        "title": "All Employees: Private Service Providing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140201500000001A": {
+        "title": "All Employees: Mining, Logging, and Construction in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140203000000001A": {
+        "title": "All Employees: Manufacturing in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140203100000001": {
+        "title": "All Employees: Manufacturing: Durable Goods in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140203100000001A": {
+        "title": "All Employees: Manufacturing: Durable Goods in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140203100000001SA": {
+        "title": "All Employees: Manufacturing: Durable Goods in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140204000000001A": {
+        "title": "All Employees: Trade, Transportation, and Utilities in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140204100000001": {
+        "title": "All Employees: Wholesale Trade in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140204100000001A": {
+        "title": "All Employees: Wholesale Trade in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140204100000001SA": {
+        "title": "All Employees: Wholesale Trade in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140204200000001": {
+        "title": "All Employees: Retail Trade in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140204200000001A": {
+        "title": "All Employees: Retail Trade in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140204200000001SA": {
+        "title": "All Employees: Retail Trade in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140204300000001": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140204300000001A": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140204300000001SA": {
+        "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140205000000001A": {
+        "title": "All Employees: Information in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140205500000001A": {
+        "title": "All Employees: Financial Activities in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140206000000001A": {
+        "title": "All Employees: Professional and Business Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140206500000001A": {
+        "title": "All Employees: Education and Health Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140207000000001A": {
+        "title": "All Employees: Leisure and Hospitality in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140208000000001A": {
+        "title": "All Employees: Other Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140209000000001A": {
+        "title": "All Employees: Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140209091000001": {
+        "title": "All Employees: Government: Federal Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140209091000001A": {
+        "title": "All Employees: Federal Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140209091000001SA": {
+        "title": "All Employees: Government: Federal Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140209092000001": {
+        "title": "All Employees: Government: State Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140209092000001A": {
+        "title": "All Employees: State Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140209092000001SA": {
+        "title": "All Employees: Government: State Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140209093000001": {
+        "title": "All Employees: Government: Local Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140209093000001A": {
+        "title": "All Employees: Local Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140209093000001SA": {
+        "title": "All Employees: Government: Local Government in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140209093161101": {
+        "title": "All Employees: Government: Local Government Educational Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140209093161101A": {
+        "title": "All Employees: Local Government Educational Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140209093161101SA": {
+        "title": "All Employees: Government: Local Government Educational Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140209093200001": {
+        "title": "All Employees: Government: Local Government Excluding Educational Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU18140209093200001A": {
+        "title": "All Employees: Local Government Excluding Educational Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU18140209093200001SA": {
+        "title": "All Employees: Government: Local Government Excluding Educational Services in Bloomington, IN (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SUSCMSA14020": {
+        "title": "Market Hotness: Supply Score in Bloomington, IN (CBSA)",
+        "start": "2017-08-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Score",
+        "popularity": 1
+    }
+}

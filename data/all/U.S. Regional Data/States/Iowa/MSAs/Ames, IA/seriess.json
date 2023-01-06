@@ -1,0 +1,802 @@
+{
+    "ACTLISCOU11180": {
+        "title": "Housing Inventory: Active Listing Count in Ames, IA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "ACTLISCOUMM11180": {
+        "title": "Housing Inventory: Active Listing Count Month-Over-Month in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ACTLISCOUYY11180": {
+        "title": "Housing Inventory: Active Listing Count Year-Over-Year in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AMEPOP": {
+        "title": "Resident Population in Ames, IA (MSA)",
+        "start": "2000-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 2
+    },
+    "AMES119GOVT": {
+        "title": "All Employees: Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "AMES119GOVTN": {
+        "title": "All Employees: Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "AMES119LF": {
+        "title": "Civilian Labor Force in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "AMES119LFN": {
+        "title": "Civilian Labor Force in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "AMES119NA": {
+        "title": "All Employees: Total Nonfarm in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "AMES119NAN": {
+        "title": "All Employees: Total Nonfarm in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "AMES119PCPI": {
+        "title": "Per Capita Personal Income in Ames, IA (MSA)",
+        "start": "1969-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "AMES119UR": {
+        "title": "Unemployment Rate in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AMES119URN": {
+        "title": "Unemployment Rate in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 2
+    },
+    "ATNHPIUS11180Q": {
+        "title": "All-Transactions House Price Index for Ames, IA (MSA)",
+        "start": "1986-10-01",
+        "end": "2022-07-01",
+        "frequency": "Quarterly",
+        "units": "Index 1995:Q1=100",
+        "popularity": 5
+    },
+    "AVELISPRI11180": {
+        "title": "Housing Inventory: Average Listing Price in Ames, IA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "AVELISPRIMM11180": {
+        "title": "Housing Inventory: Average Listing Price Month-Over-Month in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "AVELISPRIYY11180": {
+        "title": "Housing Inventory: Average Listing Price Year-Over-Year in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "ENUC111830010": {
+        "title": "Total Quarterly Wages in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 0
+    },
+    "ENUC111830010SA": {
+        "title": "Total Quarterly Wages in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars",
+        "popularity": 1
+    },
+    "ENUC111840010": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "ENUC111840010SA": {
+        "title": "Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC111840110": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC111840110SA": {
+        "title": "Average Weekly Wages for Employees in Federal Government Establishments in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC111840510": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "ENUC111840510SA": {
+        "title": "Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-04-01",
+        "frequency": "Quarterly",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "IRPD11180": {
+        "title": "Implicit Regional Price Deflator for Ames, IA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "US PCE Index 2012=100",
+        "popularity": 1
+    },
+    "LAUMT191118000000003A": {
+        "title": "Unemployment Rate in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "LAUMT191118000000004": {
+        "title": "Unemployed Persons in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT191118000000004A": {
+        "title": "Unemployed Persons in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "LAUMT191118000000005": {
+        "title": "Employed Persons in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT191118000000005A": {
+        "title": "Employed Persons in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 1
+    },
+    "LAUMT191118000000006A": {
+        "title": "Civilian Labor Force in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Persons",
+        "popularity": 0
+    },
+    "MEDDAYONMAR11180": {
+        "title": "Housing Inventory: Median Days on Market in Ames, IA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDDAYONMARMM11180": {
+        "title": "Housing Inventory: Median Days on Market Month-Over-Month in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDDAYONMARYY11180": {
+        "title": "Housing Inventory: Median Days on Market Year-Over-Year in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRI11180": {
+        "title": "Housing Inventory: Median Listing Price in Ames, IA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIMM11180": {
+        "title": "Housing Inventory: Median Listing Price Month-Over-Month in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEE11180": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet in Ames, IA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "U.S. Dollars",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEMM11180": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIPERSQUFEEYY11180": {
+        "title": "Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDLISPRIYY11180": {
+        "title": "Housing Inventory: Median Listing Price Year-Over-Year in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEE11180": {
+        "title": "Housing Inventory: Median Home Size in Square Feet in Ames, IA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "MEDSQUFEEMM11180": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "MEDSQUFEEYY11180": {
+        "title": "Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "NEWLISCOU11180": {
+        "title": "Housing Inventory: New Listing Count in Ames, IA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "NEWLISCOUMM11180": {
+        "title": "Housing Inventory: New Listing Count Month-Over-Month in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NEWLISCOUYY11180": {
+        "title": "Housing Inventory: New Listing Count Year-Over-Year in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "NGMP11180": {
+        "title": "Total Gross Domestic Product for Ames, IA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Dollars",
+        "popularity": 2
+    },
+    "PATENTCBSA111180": {
+        "title": "U.S. Granted Utility Patents Originating in Ames, IA (MSA)",
+        "start": "2000-01-01",
+        "end": "2015-01-01",
+        "frequency": "Annual",
+        "units": "Number",
+        "popularity": 1
+    },
+    "PCRGMP11180": {
+        "title": "Total Per Capita Real Gross Domestic Product for Ames, IA (MSA) (DISCONTINUED)",
+        "start": "2001-01-01",
+        "end": "2017-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2009 Dollars",
+        "popularity": 1
+    },
+    "PENLISCOU11180": {
+        "title": "Housing Inventory: Pending Listing Count in Ames, IA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PENLISCOUMM11180": {
+        "title": "Housing Inventory: Pending Listing Count Month-Over-Month in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PENLISCOUYY11180": {
+        "title": "Housing Inventory: Pending Listing Count Year-Over-Year in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIINCCOU11180": {
+        "title": "Housing Inventory: Price Increased Count in Ames, IA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIINCCOUMM11180": {
+        "title": "Housing Inventory: Price Increased Count Month-Over-Month in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PRIINCCOUYY11180": {
+        "title": "Housing Inventory: Price Increased Count Year-Over-Year in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 0
+    },
+    "PRIREDCOU11180": {
+        "title": "Housing Inventory: Price Reduced Count in Ames, IA (CBSA)",
+        "start": "2016-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Level",
+        "popularity": 1
+    },
+    "PRIREDCOUMM11180": {
+        "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "PRIREDCOUYY11180": {
+        "title": "Housing Inventory: Price Reduced Count Year-Over-Year in Ames, IA (CBSA)",
+        "start": "2017-07-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Percent",
+        "popularity": 1
+    },
+    "QGMP11180": {
+        "title": "Total Quantity Indexes for Real GDP for Ames, IA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index 2009=100",
+        "popularity": 1
+    },
+    "RGMP11180": {
+        "title": "Total Real Gross Domestic Product for Ames, IA (MSA)",
+        "start": "2001-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Millions of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPI11180": {
+        "title": "Real Personal Income for Ames, IA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPIPC11180": {
+        "title": "Real Per Capita Personal Income for Ames, IA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Chained 2012 Dollars",
+        "popularity": 1
+    },
+    "RPPALL11180": {
+        "title": "Regional Price Parities: All Items for Ames, IA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPGOOD11180": {
+        "title": "Regional Price Parities: Goods for Ames, IA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVEOTH11180": {
+        "title": "Regional Price Parities: Services: Other for Ames, IA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "RPPSERVERENT11180": {
+        "title": "Regional Price Parities: Services: Rents for Ames, IA (MSA)",
+        "start": "2008-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Index",
+        "popularity": 1
+    },
+    "SMS19111800000000026": {
+        "title": "All Employees: Total Nonfarm in Ames, IA (MSA)",
+        "start": "1990-04-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "3-Month Average Change, Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111800000000001A": {
+        "title": "All Employees: Total Nonfarm in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU19111800500000001": {
+        "title": "All Employees: Total Private in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111800500000001A": {
+        "title": "All Employees: Total Private in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111800500000001SA": {
+        "title": "All Employees: Total Private in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111800500000002": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Ames, IA (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU19111800500000002A": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Ames, IA (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Hours per Week",
+        "popularity": 0
+    },
+    "SMU19111800500000002SA": {
+        "title": "Average Weekly Hours of All Employees: Total Private in Ames, IA (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Hours per Week",
+        "popularity": 1
+    },
+    "SMU19111800500000003": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Ames, IA (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU19111800500000003A": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Ames, IA (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Hour",
+        "popularity": 0
+    },
+    "SMU19111800500000003SA": {
+        "title": "Average Hourly Earnings of All Employees: Total Private in Ames, IA (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Hour",
+        "popularity": 1
+    },
+    "SMU19111800500000011": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Ames, IA (MSA)",
+        "start": "2007-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU19111800500000011A": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Ames, IA (MSA)",
+        "start": "2007-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Dollars per Week",
+        "popularity": 0
+    },
+    "SMU19111800500000011SA": {
+        "title": "Average Weekly Earnings of All Employees: Total Private in Ames, IA (MSA) (DISCONTINUED)",
+        "start": "2007-01-01",
+        "end": "2022-03-01",
+        "frequency": "Monthly",
+        "units": "Dollars per Week",
+        "popularity": 1
+    },
+    "SMU19111800600000001": {
+        "title": "All Employees: Goods Producing in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111800600000001A": {
+        "title": "All Employees: Goods Producing in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU19111800600000001SA": {
+        "title": "All Employees: Goods Producing in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111800700000001": {
+        "title": "All Employees: Service-Providing in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU19111800700000001A": {
+        "title": "All Employees: Service-Providing in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111800700000001SA": {
+        "title": "All Employees: Service-Providing in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111800800000001": {
+        "title": "All Employees: Private Service Providing in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111800800000001A": {
+        "title": "All Employees: Private Service Providing in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU19111800800000001SA": {
+        "title": "All Employees: Private Service Providing in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU19111809000000001A": {
+        "title": "All Employees: Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    },
+    "SMU19111809091000001": {
+        "title": "All Employees: Government: Federal Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111809091000001A": {
+        "title": "All Employees: Federal Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111809091000001SA": {
+        "title": "All Employees: Government: Federal Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111809092000001": {
+        "title": "All Employees: Government: State Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111809092000001A": {
+        "title": "All Employees: State Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111809092000001SA": {
+        "title": "All Employees: Government: State Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111809093000001": {
+        "title": "All Employees: Government: Local Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111809093000001A": {
+        "title": "All Employees: Local Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2021-01-01",
+        "frequency": "Annual",
+        "units": "Thousands of Persons",
+        "popularity": 1
+    },
+    "SMU19111809093000001SA": {
+        "title": "All Employees: Government: Local Government in Ames, IA (MSA)",
+        "start": "1990-01-01",
+        "end": "2022-11-01",
+        "frequency": "Monthly",
+        "units": "Thousands of Persons",
+        "popularity": 0
+    }
+}

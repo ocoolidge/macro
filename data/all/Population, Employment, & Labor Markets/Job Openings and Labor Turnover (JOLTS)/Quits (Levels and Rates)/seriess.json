@@ -1,0 +1,682 @@
+{
+    "JTS1000QUL": {
+        "title": "Quits: Total Private",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 15
+    },
+    "JTS1000QUR": {
+        "title": "Quits: Total Private",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 32
+    },
+    "JTS2300QUL": {
+        "title": "Quits: Construction",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 10
+    },
+    "JTS2300QUR": {
+        "title": "Quits: Construction",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 8
+    },
+    "JTS3000QUL": {
+        "title": "Quits: Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 7
+    },
+    "JTS3000QUR": {
+        "title": "Quits: Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 18
+    },
+    "JTS3200QUL": {
+        "title": "Quits: Durable Goods Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTS3200QUR": {
+        "title": "Quits: Durable Goods Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 3
+    },
+    "JTS3400QUL": {
+        "title": "Quits: Nondurable Goods Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTS3400QUR": {
+        "title": "Quits: Nondurable Goods Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 3
+    },
+    "JTS4000QUL": {
+        "title": "Quits: Trade, Transportation, and Utilities",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 5
+    },
+    "JTS4000QUR": {
+        "title": "Quits: Trade, Transportation, and Utilities",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 4
+    },
+    "JTS4400QUL": {
+        "title": "Quits: Retail Trade",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 6
+    },
+    "JTS4400QUR": {
+        "title": "Quits: Retail Trade",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 10
+    },
+    "JTS540099QUL": {
+        "title": "Quits: Professional and Business Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 7
+    },
+    "JTS540099QUR": {
+        "title": "Quits: Professional and Business Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 12
+    },
+    "JTS6000QUL": {
+        "title": "Quits: Education and Health Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 6
+    },
+    "JTS6000QUR": {
+        "title": "Quits: Education and Health Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 5
+    },
+    "JTS6200QUL": {
+        "title": "Quits: Health Care and Social Assistance",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 13
+    },
+    "JTS6200QUR": {
+        "title": "Quits: Health Care and Social Assistance",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 12
+    },
+    "JTS7000QUL": {
+        "title": "Quits: Leisure and Hospitality",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 11
+    },
+    "JTS7000QUR": {
+        "title": "Quits: Leisure and Hospitality",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 17
+    },
+    "JTS7100QUL": {
+        "title": "Quits: Arts, Entertainment, and Recreation",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTS7100QUR": {
+        "title": "Quits: Arts, Entertainment, and Recreation",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 2
+    },
+    "JTS7200QUL": {
+        "title": "Quits: Accommodation and Food Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 8
+    },
+    "JTS7200QUR": {
+        "title": "Quits: Accommodation and Food Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 16
+    },
+    "JTS9000QUL": {
+        "title": "Quits: Government",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTS9000QUR": {
+        "title": "Quits: Government",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 3
+    },
+    "JTS9200QUL": {
+        "title": "Quits: State and Local",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 3
+    },
+    "JTS9200QUR": {
+        "title": "Quits: State and Local",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 3
+    },
+    "JTSQUL": {
+        "title": "Quits: Total Nonfarm",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 50
+    },
+    "JTSQUR": {
+        "title": "Quits: Total Nonfarm",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 60
+    },
+    "JTU00WEQUR": {
+        "title": "Quits: Total Nonfarm in West Census Region",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU1000QUL": {
+        "title": "Quits: Total Private",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 4
+    },
+    "JTU1000QUR": {
+        "title": "Quits: Total Private",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 3
+    },
+    "JTU110099QUL": {
+        "title": "Quits: Mining and Logging",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTU110099QUR": {
+        "title": "Quits: Mining and Logging",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU2300QUL": {
+        "title": "Quits: Construction",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU2300QUR": {
+        "title": "Quits: Construction",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU3000QUL": {
+        "title": "Quits: Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU3000QUR": {
+        "title": "Quits: Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU3200QUL": {
+        "title": "Quits: Durable Goods Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU3200QUR": {
+        "title": "Quits: Durable Goods Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU3400QUL": {
+        "title": "Quits: Nondurable Goods Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU3400QUR": {
+        "title": "Quits: Nondurable Goods Manufacturing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU4000QUL": {
+        "title": "Quits: Trade, Transportation, and Utilities",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU4000QUR": {
+        "title": "Quits: Trade, Transportation, and Utilities",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU4200QUL": {
+        "title": "Quits: Wholesale Trade",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU4200QUR": {
+        "title": "Quits: Wholesale Trade",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU4400QUL": {
+        "title": "Quits: Retail Trade",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU4400QUR": {
+        "title": "Quits: Retail Trade",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU480099QUL": {
+        "title": "Quits: Transportation, Warehousing, and Utilities",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 7
+    },
+    "JTU480099QUR": {
+        "title": "Quits: Transportation, Warehousing, and Utilities",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 5
+    },
+    "JTU510099QUL": {
+        "title": "Quits: Financial Activities",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTU510099QUR": {
+        "title": "Quits: Financial Activities",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 2
+    },
+    "JTU5100QUL": {
+        "title": "Quits: Information",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 4
+    },
+    "JTU5100QUR": {
+        "title": "Quits: Information",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 5
+    },
+    "JTU5200QUL": {
+        "title": "Quits: Finance and Insurance",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 4
+    },
+    "JTU5200QUR": {
+        "title": "Quits: Finance and Insurance",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 8
+    },
+    "JTU5300QUL": {
+        "title": "Quits: Real Estate and Rental and Leasing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU5300QUR": {
+        "title": "Quits: Real Estate and Rental and Leasing",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 2
+    },
+    "JTU540099QUR": {
+        "title": "Quits: Professional and Business Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU540099UL": {
+        "title": "Quits: Professional and Business Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTU6000QUL": {
+        "title": "Quits: Education and Health Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU6000QUR": {
+        "title": "Quits: Education and Health Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU6100QUL": {
+        "title": "Quits: Educational Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTU6100QUR": {
+        "title": "Quits: Educational Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 2
+    },
+    "JTU6200QUL": {
+        "title": "Quits: Health Care and Social Assistance",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTU6200QUR": {
+        "title": "Quits: Health Care and Social Assistance",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 5
+    },
+    "JTU7000QUL": {
+        "title": "Quits: Leisure and Hospitality",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTU7000QUR": {
+        "title": "Quits: Leisure and Hospitality",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 2
+    },
+    "JTU7100QUL": {
+        "title": "Quits: Arts, Entertainment, and Recreation",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU7100QUR": {
+        "title": "Quits: Arts, Entertainment, and Recreation",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU7200QUL": {
+        "title": "Quits: Accommodation and Food Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 2
+    },
+    "JTU7200QUR": {
+        "title": "Quits: Accommodation and Food Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU8100QUL": {
+        "title": "Quits: Other Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU8100QUR": {
+        "title": "Quits: Other Services",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU9000QUL": {
+        "title": "Quits: Government",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU9000QUR": {
+        "title": "Quits: Government",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 1
+    },
+    "JTU9100QUL": {
+        "title": "Quits: Federal",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU9100QUR": {
+        "title": "Quits: Federal",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 2
+    },
+    "JTU9200QUL": {
+        "title": "Quits: State and Local",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 1
+    },
+    "JTU9200QUR": {
+        "title": "Quits: State and Local",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 3
+    },
+    "JTUQUL": {
+        "title": "Quits: Total Nonfarm",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Level in Thousands",
+        "popularity": 12
+    },
+    "JTUQUR": {
+        "title": "Quits: Total Nonfarm",
+        "start": "2000-12-01",
+        "end": "2022-10-01",
+        "frequency": "Monthly",
+        "units": "Rate",
+        "popularity": 9
+    }
+}
