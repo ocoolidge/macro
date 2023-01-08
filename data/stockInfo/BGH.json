@@ -1,0 +1,221 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BGH",
+        "Security_Name": "Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BGH",
+        "NASDAQ_Symbol": "BGH",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 12.8,
+        "open": 12.9,
+        "dayLow": 12.9,
+        "dayHigh": 13.1,
+        "regularMarketPreviousClose": 12.8,
+        "regularMarketOpen": 12.9,
+        "regularMarketDayLow": 12.9,
+        "regularMarketDayHigh": 13.1,
+        "dividendRate": 1.27,
+        "dividendYield": 0.1018,
+        "exDividendDate": "2022-11-18T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 9.75,
+        "volume": 29585,
+        "regularMarketVolume": 29585,
+        "averageVolume": 70511,
+        "averageVolume10days": 85140,
+        "averageDailyVolume10Day": 85140,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 1400,
+        "marketCap": 262842336,
+        "fiftyTwoWeekLow": 11.91,
+        "fiftyTwoWeekHigh": 17.34,
+        "fiftyDayAverage": 12.9356,
+        "twoHundredDayAverage": 13.54095,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2009",
+                    "actual": 0.66,
+                    "estimate": 0.45
+                },
+                {
+                    "date": "1Q2010",
+                    "actual": 0.4,
+                    "estimate": 0.4
+                },
+                {
+                    "date": "2Q2010",
+                    "actual": 0.41,
+                    "estimate": 0.42
+                },
+                {
+                    "date": "3Q2010",
+                    "actual": 0.42,
+                    "estimate": 0.44
+                }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2010,
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [],
+            "quarterly": []
+        }
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [],
+            "revenueAverage": 609860000,
+            "revenueLow": 609860000,
+            "revenueHigh": 609860000
+        },
+        "exDividendDate": "2022-11-18T00:00:00.000Z",
+        "dividendDate": "2018-03-01T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.023437515,
+        "regularMarketChange": 0.3000002,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 13.1,
+        "regularMarketDayHigh": 13.1,
+        "regularMarketDayLow": 12.9,
+        "regularMarketVolume": 29585,
+        "averageDailyVolume10Day": 85140,
+        "averageDailyVolume3Month": 70511,
+        "regularMarketPreviousClose": 12.8,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 12.9,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BGH",
+        "underlyingSymbol": null,
+        "shortName": "Barings Global Short Duration H",
+        "longName": "Barings Global Short Duration High Yield Fund",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 262842336
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "profitMargins": 0,
+        "sharesOutstanding": 20064300,
+        "sharesShort": 16026,
+        "sharesShortPriorMonth": 14677,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0008,
+        "heldPercentInsiders": 0.0008,
+        "heldPercentInstitutions": 0.35068,
+        "shortRatio": 0.25,
+        "shortPercentOfFloat": 0.00090000004,
+        "category": null,
+        "fundFamily": null,
+        "legalType": null,
+        "lastSplitFactor": "1:10",
+        "lastSplitDate": "2014-04-29T00:00:00.000Z"
+    },
+    "summaryProfile": {
+        "address1": "300 South Tryon Street",
+        "address2": "Suite 2500",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28202",
+        "country": "United States",
+        "phone": "704 805 7200",
+        "website": "https://www.babsoncapital.com/Strategies/Trusts/BGH/Default.aspx",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Babson Capital Global Short Duration High Yield Fund is a closed ended fixed income mutual fund launched and managed by Barings LLC. The fund is co-managed by Babson Capital Global Advisors Limited. It invests in fixed income markets across the globe. The fund primarily invests in global high-yield bonds, loans, and other income-producing instruments that are, at the time of purchase, rated below Baa3 by Moody's Investors Service, Inc. or below BBB- by Standard & Poor's Rating Services. It seeks to invest in securities with a weighted average portfolio duration of three years or less. The fund employs bottom-up fundamental analysis to create its portfolio. It benchmarks the performance of its portfolio against the Bank of America/Merrill Lynch Global Non-Financial High Yield Constrained Index. The fund was formerly known as Babson Capital Global Short Duration High Yield Fund. Babson Capital Global Short Duration High Yield Fund was formed on October 25, 2012 and is domiciled in the United States.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 13.1,
+        "targetHighPrice": 48,
+        "targetLowPrice": 30,
+        "targetMeanPrice": 40.92,
+        "targetMedianPrice": 42.5,
+        "recommendationMean": 3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 6,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": null
+    }
+}

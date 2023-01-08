@@ -1,0 +1,874 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BHF",
+        "Security_Name": "Brighthouse Financial, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BHF",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 11,
+                "sell": 0,
+                "strongSell": 1
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 10,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 10,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 9,
+                "sell": 1,
+                "strongSell": 1
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 51.75,
+        "open": 52.73,
+        "dayLow": 52.51,
+        "dayHigh": 53.265,
+        "regularMarketPreviousClose": 51.75,
+        "regularMarketOpen": 52.73,
+        "regularMarketDayLow": 52.51,
+        "regularMarketDayHigh": 53.265,
+        "payoutRatio": 0,
+        "beta": 1.27745,
+        "forwardPE": 3.9984963,
+        "volume": 325592,
+        "regularMarketVolume": 325592,
+        "averageVolume": 496090,
+        "averageVolume10days": 321720,
+        "averageDailyVolume10Day": 321720,
+        "bid": 53.15,
+        "ask": 53.17,
+        "bidSize": 900,
+        "askSize": 1000,
+        "marketCap": 4244774400,
+        "fiftyTwoWeekLow": 38.38,
+        "fiftyTwoWeekHigh": 62.33,
+        "priceToSalesTrailing12Months": 0.38393402,
+        "fiftyDayAverage": 53.3222,
+        "twoHundredDayAverage": 48.88415,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 6.17,
+                    "estimate": 3.68
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 5.18,
+                    "estimate": 3.61
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 3.79,
+                    "estimate": 3.5
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.33,
+                    "estimate": 2.28
+                }
+            ],
+            "currentQuarterEstimate": 1.32,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675814400,
+                1676246400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 8864000000,
+                    "earnings": 865000000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 6520000000,
+                    "earnings": -740000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 8498000000,
+                    "earnings": -1061000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 7137000000,
+                    "earnings": -108000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 2511000000,
+                    "earnings": 383000000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 2015000000,
+                    "earnings": 63000000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 2738000000,
+                    "earnings": 640000000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 3793000000,
+                    "earnings": 983000000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675814400,
+                1676246400
+            ],
+            "earningsAverage": 1.32,
+            "earningsLow": -0.32,
+            "earningsHigh": 2.72,
+            "revenueAverage": 1896660000,
+            "revenueLow": 1742890000,
+            "revenueHigh": 2022000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-14T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-12T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-17T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-08T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-14T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-08T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-06T00:00:00.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-06T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-27T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-10T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-12T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-12T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-04-08T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-06T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-05T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-22T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-11T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-21T00:00:00.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-01-11T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-01-07T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-05T00:00:00.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "In-Line",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-11-09T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-08T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-14T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-09T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-09T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-09T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-15T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-19T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-11T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-01T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-31T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-03-17T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-25T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-11T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-15T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-18T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-06T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-06T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-20T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-10T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-06T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-02T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-18T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-04-27T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-01T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-17T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-10T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-14T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-23T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-08T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-06T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-01-03T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-09-13T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-20T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-06T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-07-10T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-06-25T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-06-25T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-04-09T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-04-04T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-06T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-15T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-10T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-16T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-11T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-09T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-06-29T00:00:00.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "Outperform",
+                "fromGrade": "In-Line",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-06-21T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-06-14T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "Underperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-06-13T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "Underperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-25T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-03-02T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-22T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Sell",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-01-02T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-10-18T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-09-21T00:00:00.000Z",
+                "firm": "Argus Research",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-09-08T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-08-14T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-08-09T00:00:00.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-08-08T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:01:18.000Z",
+        "postMarketPrice": 53.18,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.027632857,
+        "regularMarketChange": 1.4300003,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 53.18,
+        "regularMarketDayHigh": 53.265,
+        "regularMarketDayLow": 52.51,
+        "regularMarketVolume": 325592,
+        "averageDailyVolume10Day": 321720,
+        "averageDailyVolume3Month": 496090,
+        "regularMarketPreviousClose": 51.75,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 52.73,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BHF",
+        "underlyingSymbol": null,
+        "shortName": "Brighthouse Financial, Inc.",
+        "longName": "Brighthouse Financial, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 4244774400
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 9156019200,
+        "forwardPE": 3.6625342,
+        "profitMargins": 0.18714,
+        "floatShares": 71150903,
+        "sharesOutstanding": 79819000,
+        "sharesShort": 2155758,
+        "sharesShortPriorMonth": 2224099,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.03,
+        "heldPercentInsiders": 0.00877,
+        "heldPercentInstitutions": 0.83362997,
+        "shortRatio": 3.59,
+        "shortPercentOfFloat": 0.0468,
+        "beta": 1.27745,
+        "category": null,
+        "bookValue": 204.315,
+        "priceToBook": 0.26028436,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 30.71,
+        "netIncomeToCommon": 1972999936,
+        "trailingEps": -11.589,
+        "forwardEps": 13.3,
+        "pegRatio": 0.17,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.828
+    },
+    "summaryProfile": {
+        "address1": "11225 North Community House Road",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28277",
+        "country": "United States",
+        "phone": "980 365 7100",
+        "website": "https://www.brighthousefinancial.com",
+        "industry": "Insurance—Life",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Brighthouse Financial, Inc. provides annuity and life insurance products in the United States. It operates through three segments: Annuities, Life, and Run-off. The Annuities segment offers variable, fixed, index-linked, and income annuities for contract holders' needs for protected wealth accumulation on a tax-deferred basis, wealth transfer, and income security. The Life segment provides term, universal, whole, and variable life policies for policyholders' needs for financial security and protected wealth transfer. The Run-off segment manages structured settlements, pension risk transfer contracts, certain company-owned life insurance policies, funding agreements, and universal life with secondary guarantees. The company was incorporated in 2016 and is based in Charlotte, North Carolina.",
+        "fullTimeEmployees": 1500,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 53.18,
+        "targetHighPrice": 65,
+        "targetLowPrice": 47,
+        "targetMeanPrice": 52.6,
+        "targetMedianPrice": 50,
+        "recommendationMean": 3.1,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 6407000064,
+        "totalCashPerShare": 89.212,
+        "totalDebt": 11589000192,
+        "quickRatio": 0.441,
+        "currentRatio": 0.691,
+        "totalRevenue": 11056000000,
+        "debtToEquity": 112.997,
+        "revenuePerShare": 141.095,
+        "returnOnAssets": 0.00703,
+        "returnOnEquity": 0.15691,
+        "grossProfits": 2238000000,
+        "freeCashflow": 14264875008,
+        "operatingCashflow": 695000000,
+        "earningsGrowth": 115.091,
+        "revenueGrowth": 1.264,
+        "grossMargins": 0.44609,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.24530001,
+        "profitMargins": 0.18714,
+        "financialCurrency": "USD"
+    }
+}

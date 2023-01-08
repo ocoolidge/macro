@@ -1,0 +1,583 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMRX",
+        "Security_Name": "Amneal Pharmaceuticals, Inc. Class A Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AMRX",
+        "NASDAQ_Symbol": "AMRX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 6,
+                "sell": 2,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 2.19,
+        "open": 2.21,
+        "dayLow": 2.17,
+        "dayHigh": 2.29,
+        "regularMarketPreviousClose": 2.19,
+        "regularMarketOpen": 2.21,
+        "regularMarketDayLow": 2.17,
+        "regularMarketDayHigh": 2.29,
+        "payoutRatio": 0,
+        "beta": 1.26006,
+        "trailingPE": 3.6229508,
+        "forwardPE": 2.5113637,
+        "volume": 756872,
+        "regularMarketVolume": 756872,
+        "averageVolume": 1163127,
+        "averageVolume10days": 1092040,
+        "averageDailyVolume10Day": 1092040,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 3200,
+        "askSize": 1400,
+        "marketCap": 330109920,
+        "fiftyTwoWeekLow": 1.95,
+        "fiftyTwoWeekHigh": 4.98,
+        "priceToSalesTrailing12Months": 0.1555305,
+        "fiftyDayAverage": 2.2774,
+        "twoHundredDayAverage": 2.9142,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.21,
+                    "estimate": 0.2
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.18,
+                    "estimate": 0.2
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.12,
+                    "estimate": 0.13
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.19,
+                    "estimate": 0.19
+                }
+            ],
+            "currentQuarterEstimate": 0.18,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677542400,
+                1678060800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1662991000,
+                    "earnings": -169726000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1626373000,
+                    "earnings": -361917000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1992523000,
+                    "earnings": 91059000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 2093669000,
+                    "earnings": 10624000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 528593000,
+                    "earnings": -4237000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 536896000,
+                    "earnings": -6377000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 497633000,
+                    "earnings": -2156000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 559355000,
+                    "earnings": -120808000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677542400,
+                1678060800
+            ],
+            "earningsAverage": 0.18,
+            "earningsLow": 0.14,
+            "earningsHigh": 0.2,
+            "revenueAverage": 562150000,
+            "revenueLow": 555820000,
+            "revenueHigh": 571500000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-08T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-12T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-08T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-12-14T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-09T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-09T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-27T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-13T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-12T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-12T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-02T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-27T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-02T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-12T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-11-12T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-11-11T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-07T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-07T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-09-12T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-08-06T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-07-22T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-07-11T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-07-11T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-07-10T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-07-08T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-06-11T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-05-21T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-05-10T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-03-20T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-12-14T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-10-16T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-10-03T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-22T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-14T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Hold",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-13T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-10T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Perform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-23T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-22T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-05-18T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.00452488,
+        "postMarketChange": 0.00999999,
+        "postMarketTime": "2023-01-06T23:49:10.000Z",
+        "postMarketPrice": 2.22,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.009132411,
+        "regularMarketChange": 0.01999998,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 2.21,
+        "regularMarketDayHigh": 2.29,
+        "regularMarketDayLow": 2.17,
+        "regularMarketVolume": 756872,
+        "averageDailyVolume10Day": 1092040,
+        "averageDailyVolume3Month": 1163127,
+        "regularMarketPreviousClose": 2.19,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 2.21,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMRX",
+        "underlyingSymbol": null,
+        "shortName": "Amneal Pharmaceuticals, Inc.",
+        "longName": "Amneal Pharmaceuticals, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 330109920
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 3065357824,
+        "forwardPE": 2.695122,
+        "profitMargins": -0.06293,
+        "floatShares": 97289068,
+        "sharesOutstanding": 149371008,
+        "sharesShort": 4817161,
+        "sharesShortPriorMonth": 4598455,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0318,
+        "heldPercentInsiders": 0.108219996,
+        "heldPercentInstitutions": 0.67136,
+        "shortRatio": 5.54,
+        "shortPercentOfFloat": 0.0469,
+        "beta": 1.26006,
+        "category": null,
+        "bookValue": 2.054,
+        "priceToBook": 1.0759494,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -133578000,
+        "trailingEps": 0.61,
+        "forwardEps": 0.88,
+        "pegRatio": -0.27,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.444,
+        "enterpriseToEbitda": 7.387
+    },
+    "summaryProfile": {
+        "address1": "400 Crossing Boulevard",
+        "address2": "3rd Floor",
+        "city": "Bridgewater",
+        "state": "NJ",
+        "zip": "08807",
+        "country": "United States",
+        "phone": "908 947 3120",
+        "fax": "908 947 3146",
+        "website": "https://www.amneal.com",
+        "industry": "Drug Manufacturers—Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Amneal Pharmaceuticals, Inc., together with its subsidiaries, develops, licenses, manufactures, markets, and distributes generic and specialty pharmaceutical products for various dosage forms and therapeutic areas. The company operates through three segments: Generics, Specialty, and AvKARE. The Generics segment develops, manufactures, and commercializes complex oral solids, injectables, ophthalmics, liquids, topicals, softgels, inhalation products, and transdermals across a range of therapeutic categories. The Specialty segment is involved in the development, promotion, distribution, and sale of branded pharmaceutical products with focus on central nervous system disorders, endocrinology, parasitic infections, and other therapeutic areas. It also offers Emverm, a chewable tablet for the treatment of pinworm, whipworm, common roundworm, common hookworm, and American hookworm in single or mixed infections; Rytary to treat Parkinson's disease; and Unithroid for the treatment of hypothyroidism. The AvKARE segment provides pharmaceuticals, medical and surgical products, and services primarily to governmental agencies, the Department of Defense, and the Department of Veterans Affairs. It is also involved in the wholesale distribution of bottle and unit dose pharmaceuticals under the AvKARE and AvPAK names, as well as medical and surgical products; and packaging and wholesale distribution of pharmaceuticals and vitamins to its retail and institutional customers. The company sells its products through wholesalers, distributors, hospitals, chain pharmacies, and individual pharmacies. It operates in the United States, India, Ireland, and internationally. The company was formerly known as Atlas Holdings, Inc. and changed its name to Amneal Pharmaceuticals, Inc. in 2018. Amneal Pharmaceuticals, Inc. was founded in 2002 and is headquartered in Bridgewater, New Jersey.",
+        "fullTimeEmployees": 7000,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 2.21,
+        "targetHighPrice": 7,
+        "targetLowPrice": 4,
+        "targetMeanPrice": 6,
+        "targetMedianPrice": 6.5,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 93673000,
+        "totalCashPerShare": 0.619,
+        "ebitda": 414980000,
+        "totalDebt": 2898727936,
+        "quickRatio": 0.826,
+        "currentRatio": 1.564,
+        "totalRevenue": 2122477056,
+        "debtToEquity": 1518.645,
+        "revenuePerShare": 14.16,
+        "returnOnAssets": 0.027290002,
+        "returnOnEquity": -0.91754997,
+        "grossProfits": 783949000,
+        "freeCashflow": 300046624,
+        "operatingCashflow": 140447008,
+        "revenueGrowth": 0.045,
+        "grossMargins": 0.35970002,
+        "ebitdaMargins": 0.19552,
+        "operatingMargins": 0.08297,
+        "profitMargins": -0.06293,
+        "financialCurrency": "USD"
+    }
+}

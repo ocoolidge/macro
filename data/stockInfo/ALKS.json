@@ -1,0 +1,957 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ALKS",
+        "Security_Name": "Alkermes plc - Ordinary Shares",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ALKS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 7,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 6,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 6,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 8,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 25.31,
+        "open": 26.35,
+        "dayLow": 26.09,
+        "dayHigh": 27.65,
+        "regularMarketPreviousClose": 25.31,
+        "regularMarketOpen": 26.35,
+        "regularMarketDayLow": 26.09,
+        "regularMarketDayHigh": 27.65,
+        "payoutRatio": 0,
+        "beta": 0.608695,
+        "forwardPE": 28.239584,
+        "volume": 2139017,
+        "regularMarketVolume": 2139017,
+        "averageVolume": 1686508,
+        "averageVolume10days": 1128370,
+        "averageDailyVolume10Day": 1128370,
+        "bid": 27.1,
+        "ask": 27.11,
+        "bidSize": 800,
+        "askSize": 1200,
+        "marketCap": 4383822336,
+        "fiftyTwoWeekLow": 21.75,
+        "fiftyTwoWeekHigh": 32.79,
+        "priceToSalesTrailing12Months": 3.7361016,
+        "fiftyDayAverage": 24.539,
+        "twoHundredDayAverage": 26.2254,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.14,
+                    "estimate": 0.06
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.23,
+                    "estimate": 0.08
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.12,
+                    "estimate": 0.01
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.06,
+                    "estimate": 0.01
+                }
+            ],
+            "currentQuarterEstimate": 0.03,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1667347200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1094274000,
+                    "earnings": -139311000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1170947000,
+                    "earnings": -196620000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1038756000,
+                    "earnings": -110861000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1173751000,
+                    "earnings": -48169000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 294141000,
+                    "earnings": -28988000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 324463000,
+                    "earnings": 873000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 278545000,
+                    "earnings": -35903000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 276219000,
+                    "earnings": -30136000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1667347200
+            ],
+            "earningsAverage": 0.03,
+            "earningsLow": -0.05,
+            "earningsHigh": 0.14,
+            "revenueAverage": 271400000,
+            "revenueLow": 263790000,
+            "revenueHigh": 283870000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-14T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-08-16T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-07-28T00:00:00.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-28T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-28T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-21T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-20T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-03-22T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-27T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-12-01T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-11-09T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-28T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-07T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-09-02T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-07-29T00:00:00.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-29T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-02T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-29T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-11T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-15T00:00:00.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-09-30T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-30T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-04-02T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-23T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-14T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-14T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-02-06T00:00:00.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-09-05T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-07-15T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-05-31T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-05-01T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-12-19T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-12-13T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-15T00:00:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-11-13T00:00:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-11-06T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-05T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-08-07T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-07-27T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-27T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-06-21T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-06-06T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-05-16T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-11T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-23T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-22T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-10-27T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-27T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-16T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-06-13T00:00:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-12-16T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-21T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-09-27T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-29T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-29T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-26T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-07-13T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-05-26T00:00:00.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-01-22T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-01-21T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-11-06T00:00:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-30T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-07T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-01T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-05-21T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-03-27T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-03-12T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-03-10T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-02-25T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-01-14T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-12-17T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-12-08T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-10T00:00:00.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-04-02T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-01-05T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-12-05T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-10-01T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-05-29T00:00:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-05-24T00:00:00.000Z",
+                "firm": "MKM Partners",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-04-26T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-04-22T00:00:00.000Z",
+                "firm": "Lazard",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-04-18T00:00:00.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-02-01T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-31T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-23T00:00:00.000Z",
+                "firm": "MKM Partners",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-17T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-01-15T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-10T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-11-27T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-11-16T00:00:00.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-11-01T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-31T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-18T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:25:44.000Z",
+        "postMarketPrice": 27.11,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.07111818,
+        "regularMarketChange": 1.8000011,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 27.11,
+        "regularMarketDayHigh": 27.65,
+        "regularMarketDayLow": 26.09,
+        "regularMarketVolume": 2139017,
+        "averageDailyVolume10Day": 1128370,
+        "averageDailyVolume3Month": 1686508,
+        "regularMarketPreviousClose": 25.31,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 26.35,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ALKS",
+        "underlyingSymbol": null,
+        "shortName": "Alkermes plc",
+        "longName": "Alkermes plc",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 4383822336
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 3564488192,
+        "forwardPE": 61.61364,
+        "profitMargins": -0.080240004,
+        "floatShares": 148117935,
+        "sharesOutstanding": 161704992,
+        "sharesShort": 9088530,
+        "sharesShortPriorMonth": 8734973,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0553,
+        "heldPercentInsiders": 0.012949999,
+        "heldPercentInstitutions": 0.99744004,
+        "shortRatio": 5.85,
+        "shortPercentOfFloat": 0.0732,
+        "beta": 0.608695,
+        "category": null,
+        "bookValue": 6.562,
+        "priceToBook": 4.1313624,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -94154000,
+        "trailingEps": -0.594,
+        "forwardEps": 0.96,
+        "pegRatio": 5.36,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "2000-05-15T00:00:00.000Z",
+        "enterpriseToRevenue": 3.038,
+        "enterpriseToEbitda": 4438.964
+    },
+    "summaryProfile": {
+        "address1": "Connaught House",
+        "address2": "1 Burlington Road",
+        "city": "Dublin",
+        "zip": "4",
+        "country": "Ireland",
+        "phone": "353 1 772 8000",
+        "website": "https://www.alkermes.com",
+        "industry": "Drug Manufacturers—Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Alkermes plc, a biopharmaceutical company, researches, develops, and commercializes pharmaceutical products to address unmet medical needs of patients in various therapeutic areas in the United States, Ireland, and internationally. Its marketed products include ARISTADA, an intramuscular injectable suspension for the treatment of schizophrenia; VIVITROL for the treatment of alcohol and prevention of opioid dependence; RISPERDAL CONSTA for the treatment of schizophrenia and bipolar I disorder; INVEGA SUSTENNA for the treatment of schizophrenia and schizoaffective disorder; XEPLION, INVEGA TRINZA, and TREVICTA to treat schizophrenia and schizoaffective; and VUMERITY for the treatment of relapsing forms of multiple sclerosis in adults, including clinically isolated syndrome, relapsing-remitting and active secondary progressive diseases. The company is also developing LYBALVI, an oral atypical antipsychotic drug candidate for the treatment of adults with schizophrenia and bipolar I disorder; and nemvaleukin alfa, an engineered fusion protein to expand tumor-killing immune cells and to avoid the activation of immunosuppressive cells. It has collaboration agreements primarily with Janssen Pharmaceutica N.V., Janssen Pharmaceutica Inc, and Janssen Pharmaceutica International. Alkermes plc was founded in 1987 and is headquartered in Dublin, Ireland.",
+        "fullTimeEmployees": 2211,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 27.11,
+        "targetHighPrice": 35,
+        "targetLowPrice": 25,
+        "targetMeanPrice": 30.8,
+        "targetMedianPrice": 32.5,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 580966976,
+        "totalCashPerShare": 3.537,
+        "ebitda": 803000,
+        "totalDebt": 410312992,
+        "quickRatio": 1.923,
+        "currentRatio": 2.385,
+        "totalRevenue": 1173368064,
+        "debtToEquity": 37.91,
+        "revenuePerShare": 7.225,
+        "returnOnAssets": -0.02513,
+        "returnOnEquity": -0.08637,
+        "grossProfits": 976364000,
+        "freeCashflow": 168676624,
+        "operatingCashflow": 133170000,
+        "revenueGrowth": -0.091,
+        "grossMargins": 0.81526,
+        "ebitdaMargins": 0.00068000006,
+        "operatingMargins": -0.066750005,
+        "profitMargins": -0.080240004,
+        "financialCurrency": "USD"
+    }
+}

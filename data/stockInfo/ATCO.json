@@ -1,0 +1,458 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATCO",
+        "Security_Name": "Atlas Corp. Common Shares",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ATCO",
+        "NASDAQ_Symbol": "ATCO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 15.33,
+        "open": 15.35,
+        "dayLow": 15.35,
+        "dayHigh": 15.37,
+        "regularMarketPreviousClose": 15.33,
+        "regularMarketOpen": 15.35,
+        "regularMarketDayLow": 15.35,
+        "regularMarketDayHigh": 15.37,
+        "dividendRate": 0.5,
+        "dividendYield": 0.0337,
+        "exDividendDate": "2022-10-19T00:00:00.000Z",
+        "payoutRatio": 0.2841,
+        "fiveYearAvgDividendYield": 5.25,
+        "beta": 1.029108,
+        "trailingPE": 24.678457,
+        "forwardPE": 9.534162,
+        "volume": 1180988,
+        "regularMarketVolume": 1180988,
+        "averageVolume": 2092533,
+        "averageVolume10days": 802430,
+        "averageDailyVolume10Day": 802430,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 3200,
+        "askSize": 3100,
+        "marketCap": 3791572992,
+        "fiftyTwoWeekLow": 10.13,
+        "fiftyTwoWeekHigh": 16.23,
+        "priceToSalesTrailing12Months": 2.4859514,
+        "fiftyDayAverage": 15.2814,
+        "twoHundredDayAverage": 13.6583,
+        "trailingAnnualDividendRate": 0.5,
+        "trailingAnnualDividendYield": 0.032615785,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.56,
+                    "estimate": 0.32
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.42,
+                    "estimate": 0.45
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.39,
+                    "estimate": 0.4
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.35,
+                    "estimate": 0.38
+                }
+            ],
+            "currentQuarterEstimate": 0.4,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676332800,
+                1676851200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1096300000,
+                    "earnings": 278800000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1131500000,
+                    "earnings": 439100000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1230800000,
+                    "earnings": 313400000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1470300000,
+                    "earnings": 394500000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 451900000,
+                    "earnings": 94600000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 251900000,
+                    "earnings": 136300000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 408100000,
+                    "earnings": 169400000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 413300000,
+                    "earnings": 140000000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676332800,
+                1676851200
+            ],
+            "earningsAverage": 0.4,
+            "earningsLow": 0.36,
+            "earningsHigh": 0.44,
+            "revenueAverage": 430520000,
+            "revenueLow": 417000000,
+            "revenueHigh": 456650000
+        },
+        "exDividendDate": "2022-10-19T00:00:00.000Z",
+        "dividendDate": "2022-10-31T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-27T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-11T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-19T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-13T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-17T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-05-04T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-09T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-04T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-11T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-19T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-15T00:00:00.000Z",
+                "firm": "Fearnleys",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-12T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-12T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-19T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-06T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-04-21T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-13T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-12T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "Underweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-11-01T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-03-02T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.0013029601,
+        "postMarketChange": -0.0200005,
+        "postMarketTime": "2023-01-06T21:23:57.000Z",
+        "postMarketPrice": 15.33,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.0013046614,
+        "regularMarketChange": 0.020000458,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 15.35,
+        "regularMarketDayHigh": 15.37,
+        "regularMarketDayLow": 15.35,
+        "regularMarketVolume": 1180988,
+        "averageDailyVolume10Day": 802430,
+        "averageDailyVolume3Month": 2092533,
+        "regularMarketPreviousClose": 15.33,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 15.35,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATCO",
+        "underlyingSymbol": null,
+        "shortName": "Atlas Corp.",
+        "longName": "Atlas Corp.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 3791572992
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 10269838336,
+        "forwardPE": 9.71519,
+        "profitMargins": 0.35424998,
+        "floatShares": 73211129,
+        "sharesOutstanding": 247008000,
+        "sharesShort": 4164897,
+        "sharesShortPriorMonth": 4527275,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0148,
+        "heldPercentInsiders": 0.25337,
+        "heldPercentInstitutions": 0.61427,
+        "shortRatio": 1.98,
+        "shortPercentOfFloat": 0.0363,
+        "beta": 1.029108,
+        "category": null,
+        "bookValue": 13.869,
+        "priceToBook": 1.1067849,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 1.121,
+        "netIncomeToCommon": 544600000,
+        "trailingEps": 0.622,
+        "forwardEps": 1.61,
+        "pegRatio": 0.46,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 6.733,
+        "enterpriseToEbitda": 10.135
+    },
+    "summaryProfile": {
+        "address1": "23 Berkeley Square",
+        "city": "London",
+        "zip": "W1J 6HE",
+        "country": "United Kingdom",
+        "phone": "44 20 7788 7819",
+        "fax": "44 84 3320 5270",
+        "website": "https://www.atlascorporation.com",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Atlas Corp. operates as an asset manager and operator of containerships. The company, through its subsidiaries, operates as an independent charter owner and manager of containerships. The company charters its containerships under long-term and fixed-rate time charters to various container liner companies. It also provides electricity to oil and gas, mining, and other industries, as well as government backed and private utilities; and power solutions comprising plant design, fast-tracked installation of generating equipment and balance of plant, plant operation, and service and maintenance. As of March 10, 2022, the company operated a fleet of 132 vessels, 30 gas turbines, and 414 diesel generators. Atlas Corp. was incorporated in 2019 and is based in London, the United Kingdom.",
+        "fullTimeEmployees": 6200,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 15.35,
+        "targetHighPrice": 21,
+        "targetLowPrice": 12.5,
+        "targetMeanPrice": 16.29,
+        "targetMedianPrice": 15.5,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 400700000,
+        "totalCashPerShare": 1.428,
+        "ebitda": 1013299968,
+        "totalDebt": 6230000128,
+        "quickRatio": 0.394,
+        "currentRatio": 0.55,
+        "totalRevenue": 1525200000,
+        "debtToEquity": 148.298,
+        "revenuePerShare": 6.035,
+        "returnOnAssets": 0.04242,
+        "returnOnEquity": 0.13179,
+        "grossProfits": 1038000000,
+        "freeCashflow": -636462528,
+        "operatingCashflow": 864000000,
+        "earningsGrowth": 1.408,
+        "revenueGrowth": 0.049,
+        "grossMargins": 0.71852994,
+        "ebitdaMargins": 0.66436994,
+        "operatingMargins": 0.46814,
+        "profitMargins": 0.35424998,
+        "financialCurrency": "USD"
+    }
+}

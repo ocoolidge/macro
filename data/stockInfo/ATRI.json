@@ -1,0 +1,286 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATRI",
+        "Security_Name": "Atrion Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ATRI",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 582.3,
+        "open": 579.79,
+        "dayLow": 579.79,
+        "dayHigh": 588.21,
+        "regularMarketPreviousClose": 582.3,
+        "regularMarketOpen": 579.79,
+        "regularMarketDayLow": 579.79,
+        "regularMarketDayHigh": 588.21,
+        "dividendRate": 8.6,
+        "dividendYield": 0.0134000005,
+        "exDividendDate": "2022-09-14T00:00:00.000Z",
+        "payoutRatio": 0.4107,
+        "fiveYearAvgDividendYield": 0.9,
+        "beta": 0.263817,
+        "trailingPE": 33.24484,
+        "volume": 1846,
+        "regularMarketVolume": 1846,
+        "averageVolume": 5806,
+        "averageVolume10days": 4390,
+        "averageDailyVolume10Day": 4390,
+        "bid": 233.44,
+        "ask": 690,
+        "bidSize": 800,
+        "askSize": 1000,
+        "marketCap": 1044039424,
+        "fiftyTwoWeekLow": 534.99,
+        "fiftyTwoWeekHigh": 783.8,
+        "priceToSalesTrailing12Months": 5.8271856,
+        "fiftyDayAverage": 602.5504,
+        "twoHundredDayAverage": 628.4325,
+        "trailingAnnualDividendRate": 6.6,
+        "trailingAnnualDividendYield": 0.011334363,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1677110400,
+                1677456000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 152448000,
+                    "earnings": 34255000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 155066000,
+                    "earnings": 36761000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 147591000,
+                    "earnings": 32115000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 165009000,
+                    "earnings": 33055000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 42855000,
+                    "earnings": 8277000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 40293000,
+                    "earnings": 8127000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 47138000,
+                    "earnings": 8499000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 48882000,
+                    "earnings": 9348000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677110400,
+                1677456000
+            ]
+        },
+        "exDividendDate": "2022-09-14T00:00:00.000Z",
+        "dividendDate": "2022-12-15T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2016-04-25T00:00:00.000Z",
+                "firm": "BWS Financial",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:01:37.000Z",
+        "postMarketPrice": 579.79,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.0043105097,
+        "regularMarketChange": -2.5100098,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 579.79,
+        "regularMarketDayHigh": 588.21,
+        "regularMarketDayLow": 579.79,
+        "regularMarketVolume": 1846,
+        "averageDailyVolume10Day": 4390,
+        "averageDailyVolume3Month": 5806,
+        "regularMarketPreviousClose": 582.3,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 579.79,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATRI",
+        "underlyingSymbol": null,
+        "shortName": "Atrion Corporation",
+        "longName": "Atrion Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1044039424
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1091949824,
+        "profitMargins": 0.19117,
+        "floatShares": 1361120,
+        "sharesOutstanding": 1800720,
+        "sharesShort": 54242,
+        "sharesShortPriorMonth": 61442,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0304,
+        "heldPercentInsiders": 0.22531,
+        "heldPercentInstitutions": 0.70899004,
+        "shortRatio": 8.63,
+        "shortPercentOfFloat": 0.056199998,
+        "beta": 0.263817,
+        "category": null,
+        "bookValue": 131.677,
+        "priceToBook": 4.4031224,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.047,
+        "netIncomeToCommon": 34251000,
+        "trailingEps": 17.44,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": "1996-12-03T00:00:00.000Z",
+        "enterpriseToRevenue": 6.095,
+        "enterpriseToEbitda": 20.944
+    },
+    "summaryProfile": {
+        "address1": "One Allentown Parkway",
+        "city": "Allen",
+        "state": "TX",
+        "zip": "75002-4211",
+        "country": "United States",
+        "phone": "972 390 9800",
+        "fax": "972 396 7581",
+        "website": "https://www.atrioncorp.com",
+        "industry": "Medical Instruments & Supplies",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Atrion Corporation, together with its subsidiaries, develops, manufactures, and sells products for fluid delivery, cardiovascular, and ophthalmology applications in the United States, Canada, Europe, and internationally. Its fluid delivery products include valves that fill, hold, and release controlled amounts of fluids or gasses for use in various intubation, intravenous, catheter, and other applications in the anesthesia and oncology fields, as well as promote infection control in hospital and home healthcare environments. The company's cardiovascular products comprise Myocardial Protection System that delivers fluids and medications and mixes critical drugs, as well as controls temperature, pressure, and other variables; cardiac surgery vacuum relief valves; silicone vessel loops for retracting and occluding vessels; and inflation devices for balloon catheter dilation, stent deployment, and fluid dispensing, as well as products for use in heart bypass surgery. Its ophthalmic products include specialized medical devices that disinfect contact lenses; and a line of balloon catheters, which are used for the treatment of nasolacrimal duct obstruction in children and adults. The company also manufactures instrumentation and associated disposables that measure the activated clotting time of blood; and products for safe needle and scalpel blade containment. In addition, it manufactures inflation systems and valves used in marine and aviation safety products; components used in inflatable survival products and structures; and one-way and two-way pressure relief valves that protect sensitive electronics and other products during transport in other medical and non-medical applications. The company sells its products to physicians, hospitals, clinics, and other treatment centers; and other equipment manufacturers through direct sales force, independent sales representatives, and distributors. Atrion Corporation was founded in 1944 and is headquartered in Allen, Texas.",
+        "fullTimeEmployees": 667,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 579.79,
+        "recommendationKey": "none",
+        "totalCash": 50583000,
+        "totalCashPerShare": 28.322,
+        "ebitda": 52136000,
+        "totalDebt": 0,
+        "quickRatio": 4.053,
+        "currentRatio": 7.138,
+        "totalRevenue": 179167008,
+        "revenuePerShare": 99.593,
+        "returnOnAssets": 0.08885,
+        "returnOnEquity": 0.14061,
+        "grossProfits": 69372000,
+        "freeCashflow": 14027875,
+        "operatingCashflow": 41107000,
+        "earningsGrowth": 0.066,
+        "revenueGrowth": 0.145,
+        "grossMargins": 0.41996,
+        "ebitdaMargins": 0.29099,
+        "operatingMargins": 0.21541001,
+        "profitMargins": 0.19117,
+        "financialCurrency": "USD"
+    }
+}

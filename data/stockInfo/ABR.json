@@ -1,0 +1,633 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ABR",
+        "Security_Name": "Arbor Realty Trust Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ABR",
+        "NASDAQ_Symbol": "ABR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 4,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 4,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 13.66,
+        "open": 13.75,
+        "dayLow": 13.66,
+        "dayHigh": 13.94,
+        "regularMarketPreviousClose": 13.66,
+        "regularMarketOpen": 13.75,
+        "regularMarketDayLow": 13.66,
+        "regularMarketDayHigh": 13.94,
+        "dividendRate": 1.6,
+        "dividendYield": 0.121300004,
+        "exDividendDate": "2022-11-17T00:00:00.000Z",
+        "payoutRatio": 0.7895,
+        "fiveYearAvgDividendYield": 9.17,
+        "beta": 1.878232,
+        "trailingPE": 7.0717945,
+        "forwardPE": 9.711267,
+        "volume": 2174449,
+        "regularMarketVolume": 2174449,
+        "averageVolume": 1906733,
+        "averageVolume10days": 1410490,
+        "averageDailyVolume10Day": 1410490,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1100,
+        "askSize": 900,
+        "marketCap": 2365315840,
+        "fiftyTwoWeekLow": 11.16,
+        "fiftyTwoWeekHigh": 18.87,
+        "priceToSalesTrailing12Months": 3.6429996,
+        "fiftyDayAverage": 14.0308,
+        "twoHundredDayAverage": 14.8417,
+        "trailingAnnualDividendRate": 1.54,
+        "trailingAnnualDividendYield": 0.11273792,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.71,
+                    "estimate": 0.48
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.4,
+                    "estimate": 0.47
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.41,
+                    "estimate": 0.35
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.36,
+                    "estimate": 0.36
+                }
+            ],
+            "currentQuarterEstimate": 0.35,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676554200,
+                1676899800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 347786000,
+                    "earnings": 115866000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 371811000,
+                    "earnings": 128628000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 426577000,
+                    "earnings": 170949000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 661499000,
+                    "earnings": 339300000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 197623000,
+                    "earnings": 114675000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 122213000,
+                    "earnings": 73115000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 182000000,
+                    "earnings": 81123000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 147441000,
+                    "earnings": 73052000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676554200,
+                1676899800
+            ],
+            "earningsAverage": 0.35,
+            "earningsLow": 0.34,
+            "earningsHigh": 0.36,
+            "revenueAverage": 91930000,
+            "revenueLow": 82500000,
+            "revenueHigh": 105130000
+        },
+        "exDividendDate": "2022-11-17T00:00:00.000Z",
+        "dividendDate": "2022-11-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-01T11:31:13.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-24T12:30:46.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-18T14:10:33.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-03T11:42:14.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-01T11:41:48.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-18T12:05:35.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-28T12:05:57.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-25T09:07:19.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-12-10T12:14:57.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-08T12:27:19.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-01T10:55:35.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-03T11:10:05.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-10T13:55:01.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-22T13:15:39.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-02T13:10:21.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-04T13:43:56.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-03T12:23:52.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-28T10:09:50.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-06-11T11:48:03.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-14T14:17:47.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-13T11:59:37.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-29T11:18:41.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-11-05T12:26:37.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-04T13:31:27.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-06T12:13:40.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-08-21T10:34:49.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-02-20T12:05:05.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-05T15:55:53.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Hold",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-10-24T11:58:11.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-10-09T10:30:08.000Z",
+                "firm": "BTIG Research",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-07-31T11:40:01.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-07-24T11:51:11.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-23T12:39:38.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-23T11:50:46.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "Market Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-12-21T17:29:49.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-08-23T07:29:29.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-08-16T06:55:04.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-03-01T12:26:52.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-11-09T09:31:32.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-02-19T09:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-06-11T06:50:56.000Z",
+                "firm": "MLV & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-02-20T07:58:26.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-12-21T06:30:49.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-08-09T08:49:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.00435101,
+        "postMarketChange": 0.0600004,
+        "postMarketTime": "2023-01-07T00:59:20.000Z",
+        "postMarketPrice": 13.85,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.009516846,
+        "regularMarketChange": 0.13000011,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 13.79,
+        "regularMarketDayHigh": 13.94,
+        "regularMarketDayLow": 13.66,
+        "regularMarketVolume": 2174449,
+        "averageDailyVolume10Day": 1410490,
+        "averageDailyVolume3Month": 1906733,
+        "regularMarketPreviousClose": 13.66,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 13.75,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ABR",
+        "underlyingSymbol": null,
+        "shortName": "Arbor Realty Trust",
+        "longName": "Arbor Realty Trust, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2365315840
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 17212116992,
+        "forwardPE": 9.711267,
+        "profitMargins": 0.52669,
+        "floatShares": 165364180,
+        "sharesOutstanding": 171524000,
+        "sharesShort": 7003869,
+        "sharesShortPriorMonth": 7154024,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.040799998,
+        "heldPercentInsiders": 0.022330001,
+        "heldPercentInstitutions": 0.44292,
+        "shortRatio": 4.05,
+        "shortPercentOfFloat": 0.0423,
+        "beta": 1.878232,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 12.751,
+        "priceToBook": 1.0814837,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.06,
+        "netIncomeToCommon": 302680992,
+        "trailingEps": 1.95,
+        "forwardEps": 1.42,
+        "pegRatio": 1.12,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 26.51,
+        "52WeekChange": -0.26335472,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.4,
+        "lastDividendDate": 1668643200
+    },
+    "summaryProfile": {
+        "address1": "333 Earle Ovington Boulevard",
+        "address2": "Suite 900",
+        "city": "Uniondale",
+        "state": "NY",
+        "zip": "11553",
+        "country": "United States",
+        "phone": "516 506 4200",
+        "fax": "516 506 4345",
+        "website": "https://arbor.com",
+        "industry": "REIT—Mortgage",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Arbor Realty Trust, Inc. invests in a diversified portfolio of structured finance assets in the multifamily, single-family rental, and commercial real estate markets in the United States. The company operates in two segments, Structured Business and Agency Business. It primarily invests in bridge and mezzanine loans, including junior participating interests in first mortgages, and preferred and direct equity, as well as real estate-related joint ventures, real estate-related notes, and various mortgage-related securities. The company offers bridge financing products to borrowers who seek short-term capital to be used in an acquisition of property; financing by making preferred equity investments in entities that directly or indirectly own real property; mezzanine financing in the form of loans that are subordinate to a conventional first mortgage loan and senior to the borrower's equity in a transaction; junior participation financing in the form of a junior participating interest in the senior debt; and financing products to borrowers who are looking to acquire conventional, workforce, and affordable single-family housing. Further, it underwrites, originates, sells, and services multifamily mortgage loans through conduit/commercial mortgage-backed securities programs. The company qualifies as a real estate investment trust for federal income tax purposes. It generally would not be subject to federal corporate income taxes if it distributes at least 90% of its taxable income to its stockholders. Arbor Realty Trust, Inc. was incorporated in 2003 and is headquartered in Uniondale, New York.",
+        "fullTimeEmployees": 579,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 13.79,
+        "targetHighPrice": 18.5,
+        "targetLowPrice": 14.5,
+        "targetMeanPrice": 16.5,
+        "targetMedianPrice": 17,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 393856992,
+        "totalCashPerShare": 2.296,
+        "totalDebt": 14470382592,
+        "quickRatio": 3.573,
+        "currentRatio": 3.918,
+        "totalRevenue": 649276992,
+        "debtToEquity": 489.856,
+        "revenuePerShare": 4.091,
+        "returnOnAssets": 0.02495,
+        "returnOnEquity": 0.14677,
+        "grossProfits": 615206000,
+        "operatingCashflow": 1028355008,
+        "earningsGrowth": -0.285,
+        "revenueGrowth": -0.054,
+        "grossMargins": 0.91626,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.66914004,
+        "profitMargins": 0.52669,
+        "financialCurrency": "USD"
+    }
+}

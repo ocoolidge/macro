@@ -1,0 +1,726 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BCS",
+        "Security_Name": "Barclays PLC Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BCS",
+        "NASDAQ_Symbol": "BCS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 8.38,
+        "open": 8.32,
+        "dayLow": 8.29,
+        "dayHigh": 8.47,
+        "regularMarketPreviousClose": 8.38,
+        "regularMarketOpen": 8.32,
+        "regularMarketDayLow": 8.29,
+        "regularMarketDayHigh": 8.47,
+        "dividendRate": 0.31,
+        "dividendYield": 0.0448,
+        "exDividendDate": "2022-08-11T00:00:00.000Z",
+        "payoutRatio": 0.19950001,
+        "beta": 1.331193,
+        "trailingPE": 10.317073,
+        "forwardPE": 7.6216216,
+        "volume": 4278115,
+        "regularMarketVolume": 4278115,
+        "averageVolume": 6883135,
+        "averageVolume10days": 4039560,
+        "averageDailyVolume10Day": 4039560,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 27000,
+        "askSize": 29200,
+        "marketCap": 35431411712,
+        "fiftyTwoWeekLow": 5.89,
+        "fiftyTwoWeekHigh": 12.2,
+        "priceToSalesTrailing12Months": 1.4998058,
+        "fiftyDayAverage": 7.612,
+        "twoHundredDayAverage": 7.65945,
+        "trailingAnnualDividendRate": 0.01,
+        "trailingAnnualDividendYield": 0.0011933174,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 19668000000,
+                    "earnings": 2349000000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 19730000000,
+                    "earnings": 3274000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 17060000000,
+                    "earnings": 2383000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 22593000000,
+                    "earnings": 7009000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 5191000000,
+                    "earnings": 1165000000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 6355000000,
+                    "earnings": 1619000000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 6508000000,
+                    "earnings": 1270000000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 5570000000,
+                    "earnings": 1718000000
+                }
+            ]
+        },
+        "financialCurrency": "GBP"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": []
+        },
+        "exDividendDate": "2022-08-11T00:00:00.000Z",
+        "dividendDate": "2022-09-16T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-03-29T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-01-28T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-09-30T00:00:00.000Z",
+                "firm": "Redburn Partners",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-03-16T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-03-12T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-07-10T00:00:00.000Z",
+                "firm": "Investec",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-02-11T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-11-26T00:00:00.000Z",
+                "firm": "Exane BNP Paribas",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-10-22T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-09-05T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-08-21T00:00:00.000Z",
+                "firm": "Exane BNP Paribas",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-11-09T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-10-01T00:00:00.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-06-19T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-04-16T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-03-08T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-11-20T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-03-17T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-01-30T00:00:00.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-01-09T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-12-08T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-09-21T00:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-08-08T00:00:00.000Z",
+                "firm": "Exane BNP Paribas",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-07-20T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-06-28T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-06-27T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-06-27T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-06-27T00:00:00.000Z",
+                "firm": "Exane BNP Paribas",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-06-27T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-05-26T00:00:00.000Z",
+                "firm": "Exane BNP Paribas",
+                "toGrade": "Positive",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-05-12T00:00:00.000Z",
+                "firm": "Exane BNP Paribas",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-03-22T00:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-16T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-04T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-01-22T00:00:00.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-11-20T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-08-25T00:00:00.000Z",
+                "firm": "Investec",
+                "toGrade": "Buy",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-05-01T00:00:00.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-07-07T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-06-23T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-05-15T00:00:00.000Z",
+                "firm": "Redburn Partners",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-05-01T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-03-13T00:00:00.000Z",
+                "firm": "Numis Securities",
+                "toGrade": "Add",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-10-04T00:00:00.000Z",
+                "firm": "Investec",
+                "toGrade": "",
+                "fromGrade": "Add",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-10-02T00:00:00.000Z",
+                "firm": "Societe Generale",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-09-16T00:00:00.000Z",
+                "firm": "Nomura",
+                "toGrade": "Buy",
+                "fromGrade": "Reduce",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-09-13T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-09-13T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-09-12T00:00:00.000Z",
+                "firm": "Investec",
+                "toGrade": "Add",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-31T00:00:00.000Z",
+                "firm": "Bernstein",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-31T00:00:00.000Z",
+                "firm": "Societe Generale",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-03-14T00:00:00.000Z",
+                "firm": "Oriel",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-02-27T00:00:00.000Z",
+                "firm": "Numis Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Add",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-02-21T00:00:00.000Z",
+                "firm": "Bernstein",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-02-20T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-02-14T00:00:00.000Z",
+                "firm": "Investec",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-02-08T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-01-10T00:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-11-19T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-10-19T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-09-07T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-09-06T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-07-30T00:00:00.000Z",
+                "firm": "Societe Generale",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-07-06T00:00:00.000Z",
+                "firm": "Bernstein",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-07-02T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.007092248,
+        "postMarketChange": -0.06000042,
+        "postMarketTime": "2023-01-06T23:58:56.000Z",
+        "postMarketPrice": 8.4,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.00954653,
+        "regularMarketChange": 0.07999992,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 8.46,
+        "regularMarketDayHigh": 8.47,
+        "regularMarketDayLow": 8.29,
+        "regularMarketVolume": 4278115,
+        "averageDailyVolume10Day": 4039560,
+        "averageDailyVolume3Month": 6883135,
+        "regularMarketPreviousClose": 8.38,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 8.32,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BCS",
+        "underlyingSymbol": null,
+        "shortName": "Barclays PLC",
+        "longName": "Barclays PLC",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 35431411712
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 62763397120,
+        "profitMargins": 0.24991,
+        "floatShares": 3668082602,
+        "sharesOutstanding": 4188110080,
+        "sharesShort": 11165784,
+        "sharesShortPriorMonth": 15356902,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0028,
+        "heldPercentInsiders": 0,
+        "heldPercentInstitutions": 0.03474,
+        "shortRatio": 0.91,
+        "beta": 1.331193,
+        "category": null,
+        "bookValue": 15.132,
+        "priceToBook": 0.5590801,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.094,
+        "netIncomeToCommon": 5065999872,
+        "trailingEps": 0.82,
+        "forwardEps": 1.11,
+        "lastSplitFactor": "74:73",
+        "lastSplitDate": "2014-02-19T00:00:00.000Z",
+        "enterpriseToRevenue": 2.657
+    },
+    "summaryProfile": {
+        "address1": "1 Churchill Place",
+        "city": "London",
+        "zip": "E14 5HP",
+        "country": "United Kingdom",
+        "phone": "44 20 7116 1000",
+        "website": "https://www.home.barclays",
+        "industry": "Banks—Diversified",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Barclays PLC, through its subsidiaries, provides various financial products and services in the United Kingdom, Europe, the Americas, Africa, the Middle East, and Asia. The company operates through Barclays UK and Barclays International divisions. It offers financial services, such as retail banking, credit cards, wholesale banking, investment banking, wealth management, and investment management services. The company also engages in securities dealing activities; and issues credit cards. The company was formerly known as Barclays Bank Limited and changed its name to Barclays PLC in January 1985. Barclays PLC was founded in 1690 and is headquartered in London, the United Kingdom.",
+        "fullTimeEmployees": 81600,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 8.46,
+        "targetHighPrice": 8.93,
+        "targetLowPrice": 8.93,
+        "targetMeanPrice": 8.93,
+        "targetMedianPrice": 8.93,
+        "recommendationMean": 3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 801637990400,
+        "totalCashPerShare": 198.659,
+        "totalDebt": 835225976832,
+        "totalRevenue": 23623999488,
+        "revenuePerShare": 5.704,
+        "returnOnAssets": 0.0038,
+        "returnOnEquity": 0.08644,
+        "grossProfits": 22593000000,
+        "earningsGrowth": 0.148,
+        "revenueGrowth": 0.042,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.38854998,
+        "profitMargins": 0.24991,
+        "financialCurrency": "GBP"
+    }
+}

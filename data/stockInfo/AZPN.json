@@ -1,0 +1,854 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AZPN",
+        "Security_Name": "Aspen Technology, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AZPN",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 5,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 200.01,
+        "open": 202.38,
+        "dayLow": 198.44,
+        "dayHigh": 202.38,
+        "regularMarketPreviousClose": 200.01,
+        "regularMarketOpen": 202.38,
+        "regularMarketDayLow": 198.44,
+        "regularMarketDayHigh": 202.38,
+        "payoutRatio": 0,
+        "beta": 0.978807,
+        "trailingPE": 61.510704,
+        "forwardPE": 26.22425,
+        "volume": 121110,
+        "regularMarketVolume": 121110,
+        "averageVolume": 252017,
+        "averageVolume10days": 132250,
+        "averageDailyVolume10Day": 132250,
+        "bid": 143,
+        "ask": 209,
+        "bidSize": 1100,
+        "askSize": 900,
+        "marketCap": 12981575680,
+        "fiftyTwoWeekLow": 135.48,
+        "fiftyTwoWeekHigh": 263.59,
+        "priceToSalesTrailing12Months": 18.176424,
+        "fiftyDayAverage": 224.0536,
+        "twoHundredDayAverage": 204.49776,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 1.2,
+                    "estimate": 1.29
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.38,
+                    "estimate": 1.37
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 2.43,
+                    "estimate": 2.15
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 2.2,
+                    "estimate": 1.25
+                }
+            ],
+            "currentQuarterEstimate": 1.32,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674557940,
+                1675080000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 194216000,
+                    "earnings": 5613000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 130495000,
+                    "earnings": -20317000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 300640000,
+                    "earnings": -20608000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 540394532,
+                    "earnings": 70861316
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 81775000,
+                    "earnings": -760000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 84601000,
+                    "earnings": -3280000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 238920000,
+                    "earnings": 57186000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 250819000,
+                    "earnings": -11244000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674557940,
+                1675080000
+            ],
+            "earningsAverage": 1.32,
+            "earningsLow": 1.05,
+            "earningsHigh": 1.5,
+            "revenueAverage": 273490000,
+            "revenueLow": 254380000,
+            "revenueHigh": 289000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-27T08:32:01.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-19T08:37:22.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-17T08:40:48.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Peer Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-07-08T09:03:08.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-07T11:13:56.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-06-28T08:29:50.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-15T11:57:29.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-06T11:14:48.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-17T08:19:56.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-17T12:06:02.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-11-19T09:57:27.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-10-28T08:29:18.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-19T08:41:11.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-15T09:00:52.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-08-12T11:21:23.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-12T09:22:24.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-12T08:29:31.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-16T16:03:27.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-03T10:54:32.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-01-28T09:57:10.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-09T08:37:44.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-13T08:49:59.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-07T10:06:14.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-01T10:07:34.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-24T15:48:11.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-02T13:49:40.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-16T08:47:33.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-14T13:04:30.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-10T11:17:35.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-12T11:30:50.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-12T12:09:07.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-08-08T12:18:58.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-08T10:08:31.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-04-25T12:27:10.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-04-25T11:17:40.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-04-23T15:24:31.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-04-23T12:10:55.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-01-04T12:42:09.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-11-28T12:41:27.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-17T12:09:28.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Hold",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-10T12:58:27.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-09T13:45:49.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-09T11:00:32.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-26T15:00:42.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-26T12:45:10.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-09T13:24:20.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-01-25T17:54:35.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Hold",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-01-25T12:37:43.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-11-06T13:22:14.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-10-27T18:07:45.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-08-23T15:30:31.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-05-10T20:40:03.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-11-22T18:21:50.000Z",
+                "firm": "Pacific Crest",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-08-12T08:06:12.000Z",
+                "firm": "Avondale Partners",
+                "toGrade": "Underperform",
+                "fromGrade": "Market Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-26T07:12:37.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-02-09T07:03:15.000Z",
+                "firm": "Avondale Partners",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-01-13T07:38:20.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-05-15T06:15:18.000Z",
+                "firm": "Pacific Crest",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-04-29T09:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-19T04:55:52.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-01-22T06:15:13.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-10-29T06:38:28.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-05-19T10:35:45.000Z",
+                "firm": "Summit Research Partners",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-04-30T16:00:00.000Z",
+                "firm": "Summit Research Partners",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-04-30T00:57:34.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-01-31T08:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-11-08T07:15:45.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-10-18T07:16:09.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-08-16T07:43:34.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-30T10:00:42.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-30T09:27:17.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-03T08:24:58.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-02T08:45:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-02T07:29:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-08-22T06:35:00.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-08-22T05:56:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-03T06:26:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.02659842,
+        "postMarketChange": -5.350006,
+        "postMarketTime": "2023-01-06T21:03:53.000Z",
+        "postMarketPrice": 195.79,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.0056497427,
+        "regularMarketChange": 1.1300049,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 201.14,
+        "regularMarketDayHigh": 202.38,
+        "regularMarketDayLow": 198.44,
+        "regularMarketVolume": 121110,
+        "averageDailyVolume10Day": 132250,
+        "averageDailyVolume3Month": 252017,
+        "regularMarketPreviousClose": 200.01,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 202.38,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AZPN",
+        "underlyingSymbol": null,
+        "shortName": "Aspen Technology, Inc.",
+        "longName": "Aspen Technology, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 12981575680
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 13273440256,
+        "forwardPE": 26.22425,
+        "profitMargins": 0.09916,
+        "floatShares": 28013603,
+        "sharesOutstanding": 64540000,
+        "sharesShort": 928657,
+        "sharesShortPriorMonth": 908585,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.014400001,
+        "heldPercentInsiders": 0.56435,
+        "heldPercentInstitutions": 0.49122003,
+        "shortRatio": 3.01,
+        "shortPercentOfFloat": 0.033,
+        "beta": 0.978807,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 204.099,
+        "priceToBook": 0.9855021,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-06-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-06-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": 70819312,
+        "trailingEps": 3.27,
+        "forwardEps": 7.67,
+        "pegRatio": 1.6,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "1997-03-03T00:00:00.000Z",
+        "enterpriseToRevenue": 18.585,
+        "enterpriseToEbitda": 50.488,
+        "52WeekChange": 0.36532712,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "20 Crosby Drive",
+        "city": "Bedford",
+        "state": "MA",
+        "zip": "01730",
+        "country": "United States",
+        "phone": "781 221 6400",
+        "fax": "781 221 6410",
+        "website": "https://www.aspentech.com",
+        "industry": "Software—Application",
+        "sector": "Technology",
+        "longBusinessSummary": "Aspen Technology, Inc. provides enterprise asset performance management, asset performance monitoring, and asset optimization solutions worldwide. The company's solutions address complex environments where it is critical to optimize the asset design, operation, and maintenance lifecycle. It offers artificial intelligence of things, aspen hybrid models, asset performance management, OSI digital grid management, and performance engineering; production optimization for commodity polymers, olefins, refining, and specialty chemicals; subsurface science and engineering; and value chain optimization for energy and polymers and specialty chemicals solutions. The company serves bulk chemicals, consumer packaged goods, downstream, food and beverage, metals and mining, midstream and LNG, pharmaceuticals, polymers, pulp and paper, specialty chemicals, transportation, upstream, and water and wastewater industries; power generation, transmission, and distribution industries; and engineering, procurement, and construction industries. Aspen Technology, Inc. was incorporated in 2021 and is headquartered in Bedford, Massachusetts.",
+        "fullTimeEmployees": 3574,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 201.14,
+        "targetHighPrice": 280,
+        "targetLowPrice": 240,
+        "targetMeanPrice": 259.4,
+        "targetMedianPrice": 255,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 382457984,
+        "totalCashPerShare": 5.926,
+        "ebitda": 262901952,
+        "totalDebt": 359360000,
+        "quickRatio": 2.96,
+        "currentRatio": 3.244,
+        "totalRevenue": 714198528,
+        "debtToEquity": 2.728,
+        "revenuePerShare": 14.889,
+        "grossProfits": 331866584,
+        "operatingCashflow": 52878992,
+        "revenueGrowth": 2.257,
+        "grossMargins": 0.64136004,
+        "ebitdaMargins": 0.36811,
+        "operatingMargins": 0.0152199995,
+        "profitMargins": 0.09916,
+        "financialCurrency": "USD"
+    }
+}

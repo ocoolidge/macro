@@ -1,0 +1,893 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ASND",
+        "Security_Name": "Ascendis Pharma A/S - American Depositary Shares",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ASND",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 7,
+                "buy": 6,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 7,
+                "buy": 5,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 7,
+                "buy": 6,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 124.2,
+        "open": 125.43,
+        "dayLow": 122.704,
+        "dayHigh": 127.77,
+        "regularMarketPreviousClose": 124.2,
+        "regularMarketOpen": 125.43,
+        "regularMarketDayLow": 122.704,
+        "regularMarketDayHigh": 127.77,
+        "payoutRatio": 0,
+        "beta": 0.52137,
+        "forwardPE": -16.859043,
+        "volume": 217322,
+        "regularMarketVolume": 217322,
+        "averageVolume": 485014,
+        "averageVolume10days": 255140,
+        "averageDailyVolume10Day": 255140,
+        "bid": 112.3,
+        "ask": 159.33,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 7217851392,
+        "fiftyTwoWeekLow": 61.579,
+        "fiftyTwoWeekHigh": 134.525,
+        "priceToSalesTrailing12Months": 379.90692,
+        "fiftyDayAverage": 118.8962,
+        "twoHundredDayAverage": 102.66025,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -1.67,
+                    "estimate": -2.6
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -1.97,
+                    "estimate": -2.47
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -2.25,
+                    "estimate": -2.04
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -1.44,
+                    "estimate": -2.1
+                }
+            ],
+            "currentQuarterEstimate": -2.51,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677542400,
+                1678060800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 10581000,
+                    "earnings": -130097000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 13375000,
+                    "earnings": -218016000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 6953000,
+                    "earnings": -418955000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 7778000,
+                    "earnings": -383577000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 1113000,
+                    "earnings": -80348000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 4897000,
+                    "earnings": -106062000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 6828000,
+                    "earnings": -125498000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 6160000,
+                    "earnings": -81319000
+                }
+            ]
+        },
+        "financialCurrency": "EUR"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677542400,
+                1678060800
+            ],
+            "earningsAverage": -2.51,
+            "earningsLow": -2.63,
+            "earningsHigh": -2.18,
+            "revenueAverage": 8960000,
+            "revenueLow": 6050000,
+            "revenueHigh": 11100000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-20T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-09-22T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-11T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-11T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-11T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-12T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-12T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-12T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-12T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-15T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-15T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-03-15T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-14T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-07T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-03T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-03T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-03T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-01T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-02-14T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-01-06T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-12-08T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-11-15T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-11T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-20T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-26T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-26T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-26T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-21T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-14T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-14T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-14T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-01T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-28T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-28T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-30T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-12T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-11T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-17T00:00:00.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-13T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-12T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-12T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-13T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-31T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-28T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-15T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-21T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-20T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-20T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-20T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-20T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-20T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-04-20T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-20T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-20T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-02T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-20T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-02-26T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-17T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-17T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-20T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-22T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-11T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-08-29T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-06-03T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-05-31T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-04-05T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-03-29T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-01-24T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-01-24T00:00:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-30T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-07T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-26T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-03-20T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-01-25T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-11-17T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-09-22T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-05-11T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-03-24T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2017-03-09T00:00:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-02-09T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-09-26T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-02-23T00:00:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-02-23T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-02-23T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:00:51.000Z",
+        "postMarketPrice": 126.78,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.020772962,
+        "regularMarketChange": 2.5800018,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 126.78,
+        "regularMarketDayHigh": 127.77,
+        "regularMarketDayLow": 122.704,
+        "regularMarketVolume": 217322,
+        "averageDailyVolume10Day": 255140,
+        "averageDailyVolume3Month": 485014,
+        "regularMarketPreviousClose": 124.2,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 125.43,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ASND",
+        "underlyingSymbol": null,
+        "shortName": "Ascendis Pharma A/S",
+        "longName": "Ascendis Pharma A/S",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 7217851392
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 5347923456,
+        "forwardPE": -13.810457,
+        "profitMargins": 0,
+        "floatShares": 42891829,
+        "sharesOutstanding": 56932100,
+        "sharesShort": 9070788,
+        "sharesShortPriorMonth": 8481221,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.1625,
+        "heldPercentInsiders": 0.00059,
+        "heldPercentInstitutions": 1.16036,
+        "shortRatio": 18.38,
+        "beta": 0.52137,
+        "category": null,
+        "bookValue": 15.604,
+        "priceToBook": 8.12484,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -393228992,
+        "trailingEps": -9.979,
+        "forwardEps": -7.52,
+        "pegRatio": 10.25,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 281.484,
+        "enterpriseToEbitda": -11.283
+    },
+    "summaryProfile": {
+        "address1": "Tuborg Boulevard 12",
+        "city": "Hellerup",
+        "zip": "2900",
+        "country": "Denmark",
+        "phone": "45 70 22 22 44",
+        "website": "https://ascendispharma.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Ascendis Pharma A/S, a biopharmaceutical company, focuses on developing therapeutics for unmet medical needs. The company offers SKYTROFA for treating patients with growth hormone deficiency (GHD). It also develops TransCon Growth Hormone (hGH) for pediatric GHD in Japan; TransCon hGH for adults with GHD; TransCon parathyroid hormone for adult hypoparathyroidism; and TransCon CNP for pediatric achondroplasia. In addition, the company develops TransCon toll like receptors 7/8 agonist for intratumoral delivery; and TransCon IL-2 ß/g for systemic delivery. The company was incorporated in 2006 and is headquartered in Hellerup, Denmark.",
+        "fullTimeEmployees": 639,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 126.78,
+        "targetHighPrice": 196.27,
+        "targetLowPrice": 84.77,
+        "targetMeanPrice": 150.72,
+        "targetMedianPrice": 150.21,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 15,
+        "totalCash": 955153984,
+        "totalCashPerShare": 17.114,
+        "ebitda": -473980000,
+        "totalDebt": 512208992,
+        "quickRatio": 8.475,
+        "currentRatio": 9.66,
+        "totalRevenue": 18999000,
+        "debtToEquity": 84.267,
+        "revenuePerShare": 0.339,
+        "returnOnAssets": -0.27507,
+        "returnOnEquity": -0.60715,
+        "grossProfits": 4255000,
+        "freeCashflow": -338497504,
+        "operatingCashflow": -476009984,
+        "revenueGrowth": 5.027,
+        "grossMargins": 0.53392,
+        "ebitdaMargins": 0,
+        "operatingMargins": -25.23475,
+        "profitMargins": 0,
+        "financialCurrency": "EUR"
+    }
+}

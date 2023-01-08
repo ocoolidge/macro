@@ -1,0 +1,516 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AIN",
+        "Security_Name": "Albany International Corporation Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AIN",
+        "NASDAQ_Symbol": "AIN",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 7,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 7,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 99.48,
+        "open": 100.64,
+        "dayLow": 99.765,
+        "dayHigh": 102.61,
+        "regularMarketPreviousClose": 99.48,
+        "regularMarketOpen": 100.64,
+        "regularMarketDayLow": 99.765,
+        "regularMarketDayHigh": 102.61,
+        "dividendRate": 1,
+        "dividendYield": 0.0099,
+        "exDividendDate": "2022-12-23T00:00:00.000Z",
+        "payoutRatio": 0.2515,
+        "fiveYearAvgDividendYield": 1.04,
+        "beta": 1.297872,
+        "trailingPE": 30.338326,
+        "forwardPE": 25.84949,
+        "volume": 59903,
+        "regularMarketVolume": 59903,
+        "averageVolume": 126229,
+        "averageVolume10days": 85950,
+        "averageDailyVolume10Day": 85950,
+        "bid": 40.02,
+        "ask": 127.75,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 3151363072,
+        "fiftyTwoWeekLow": 75.24,
+        "fiftyTwoWeekHigh": 106.58,
+        "priceToSalesTrailing12Months": 3.1325085,
+        "fiftyDayAverage": 99.4298,
+        "twoHundredDayAverage": 87.84435,
+        "trailingAnnualDividendRate": 0.84,
+        "trailingAnnualDividendYield": 0.008443908,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.86,
+                    "estimate": 0.64
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.91,
+                    "estimate": 0.77
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.06,
+                    "estimate": 0.82
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 1.15,
+                    "estimate": 0.86
+                }
+            ],
+            "currentQuarterEstimate": 0.67,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 982479000,
+                    "earnings": 82891000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1054132000,
+                    "earnings": 132398000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 900610000,
+                    "earnings": 98589000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 929240000,
+                    "earnings": 118478000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 239918000,
+                    "earnings": 28636000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 244169000,
+                    "earnings": 27737000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 261369000,
+                    "earnings": 39201000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 260563000,
+                    "earnings": 10694000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ],
+            "earningsAverage": 0.67,
+            "earningsLow": 0.43,
+            "earningsHigh": 0.78,
+            "revenueAverage": 242330000,
+            "revenueLow": 229000000,
+            "revenueHigh": 249000000
+        },
+        "exDividendDate": "2022-12-23T00:00:00.000Z",
+        "dividendDate": "2023-01-09T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-26T14:21:52.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-12T14:12:04.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-16T16:11:02.000Z",
+                "firm": "Alembic Global",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-02-22T13:09:58.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-01-07T14:27:01.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-10-15T13:18:55.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-30T10:25:44.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-06-28T10:57:33.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-03-08T12:39:46.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-01-11T10:48:06.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-06-04T13:31:29.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-27T09:11:50.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-03-16T12:59:59.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-13T13:39:36.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-12-18T15:12:12.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-22T10:05:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-09-12T11:00:47.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-08-19T12:38:56.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-06-28T12:17:44.000Z",
+                "firm": "Alembic Global",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-12-18T14:38:05.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-01-09T13:25:27.000Z",
+                "firm": "Noble Financial",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-12-09T09:47:19.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-29T09:12:53.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-09-17T07:15:47.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-04-04T08:08:00.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-04-03T16:53:41.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-11-02T09:44:00.000Z",
+                "firm": "CLSA",
+                "toGrade": "Underperform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:01:52.000Z",
+        "postMarketPrice": 101.33,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.018596686,
+        "regularMarketChange": 1.8499985,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 101.33,
+        "regularMarketDayHigh": 102.61,
+        "regularMarketDayLow": 99.765,
+        "regularMarketVolume": 59903,
+        "averageDailyVolume10Day": 85950,
+        "averageDailyVolume3Month": 126229,
+        "regularMarketPreviousClose": 99.48,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 100.64,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AIN",
+        "underlyingSymbol": null,
+        "shortName": "Albany International Corporatio",
+        "longName": "Albany International Corp.",
+        "currency": "USD",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 3151363072
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 3326063104,
+        "forwardPE": 25.84949,
+        "profitMargins": 0.105629995,
+        "floatShares": 30823832,
+        "sharesOutstanding": 31100000,
+        "sharesShort": 368579,
+        "sharesShortPriorMonth": 507112,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0119,
+        "heldPercentInsiders": 0.0088599995,
+        "heldPercentInstitutions": 1.03487,
+        "shortRatio": 3.36,
+        "shortPercentOfFloat": 0.0163,
+        "beta": 1.297872,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 26.229,
+        "priceToBook": 3.8632812,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.653,
+        "netIncomeToCommon": 106268000,
+        "trailingEps": 3.34,
+        "forwardEps": 3.92,
+        "pegRatio": -21.87,
+        "lastSplitFactor": "102:100",
+        "lastSplitDate": "1999-12-08T00:00:00.000Z",
+        "enterpriseToRevenue": 3.306,
+        "enterpriseToEbitda": 13.024,
+        "52WeekChange": 0.13624132,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.25,
+        "lastDividendDate": 1671753600
+    },
+    "summaryProfile": {
+        "address1": "216 Airport Drive",
+        "city": "Rochester",
+        "state": "NH",
+        "zip": "03867",
+        "country": "United States",
+        "phone": "603 330 5850",
+        "fax": "603 994 3835",
+        "website": "https://www.albint.com",
+        "industry": "Textile Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Albany International Corp., together with its subsidiaries, engages in the textile and materials processing business. The company operates in two segments, Machine Clothing (MC) and Albany Engineered Composites (AEC). The MC segment designs, manufactures, and markets paper machine clothing for use in the manufacturing of papers, paperboards, tissues, and towels. This segment offers forming, pressing, and drying fabrics, as well as process belts used in the manufacture of nonwovens, fiber cement and several other industrial applications; and engineered fabrics. The AEC segment 3D-woven and injected composite components for aircraft engines composite airframe and engine components for military and commercial aircraft. It operates in the United States, Switzerland, Brazil, China, France, Mexico, and internationally. Albany International Corp. was incorporated in 1895 and is headquartered in Rochester, New Hampshire.",
+        "fullTimeEmployees": 4100,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 101.33,
+        "targetHighPrice": 110,
+        "targetLowPrice": 80,
+        "targetMeanPrice": 94.5,
+        "targetMedianPrice": 95,
+        "recommendationMean": 3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 276481984,
+        "totalCashPerShare": 8.89,
+        "ebitda": 255380992,
+        "totalDebt": 447000000,
+        "quickRatio": 3.293,
+        "currentRatio": 4.267,
+        "totalRevenue": 1006019008,
+        "debtToEquity": 54.5,
+        "revenuePerShare": 31.803,
+        "returnOnAssets": 0.074889995,
+        "returnOnEquity": 0.12589,
+        "grossProfits": 378391000,
+        "freeCashflow": 55131500,
+        "operatingCashflow": 136283008,
+        "earningsGrowth": -0.642,
+        "revenueGrowth": 0.121,
+        "grossMargins": 0.38644,
+        "ebitdaMargins": 0.25385,
+        "operatingMargins": 0.18535,
+        "profitMargins": 0.105629995,
+        "financialCurrency": "USD"
+    }
+}

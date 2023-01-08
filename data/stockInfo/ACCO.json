@@ -1,0 +1,393 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ACCO",
+        "Security_Name": "Acco Brands Corporation Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ACCO",
+        "NASDAQ_Symbol": "ACCO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 5.85,
+        "open": 5.86,
+        "dayLow": 5.8,
+        "dayHigh": 5.97,
+        "regularMarketPreviousClose": 5.85,
+        "regularMarketOpen": 5.86,
+        "regularMarketDayLow": 5.8,
+        "regularMarketDayHigh": 5.97,
+        "dividendRate": 0.3,
+        "dividendYield": 0.0537,
+        "exDividendDate": "2022-11-23T00:00:00.000Z",
+        "payoutRatio": 1.3636,
+        "beta": 1.797772,
+        "trailingPE": 25.782608,
+        "forwardPE": 4.821138,
+        "volume": 315551,
+        "regularMarketVolume": 315551,
+        "averageVolume": 713295,
+        "averageVolume10days": 423890,
+        "averageDailyVolume10Day": 423890,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1300,
+        "askSize": 900,
+        "marketCap": 558967104,
+        "fiftyTwoWeekLow": 4.27,
+        "fiftyTwoWeekHigh": 9,
+        "priceToSalesTrailing12Months": 0.27692202,
+        "fiftyDayAverage": 5.3938,
+        "twoHundredDayAverage": 6.3244,
+        "trailingAnnualDividendRate": 0.3,
+        "trailingAnnualDividendYield": 0.051282056,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.54,
+                    "estimate": 0.48
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.11,
+                    "estimate": 0.09
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.37,
+                    "estimate": 0.42
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.25,
+                    "estimate": 0.22
+                }
+            ],
+            "currentQuarterEstimate": 0.34,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1941200000,
+                    "earnings": 106700000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1955700000,
+                    "earnings": 106800000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1655200000,
+                    "earnings": 62000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 2025300000,
+                    "earnings": 101900000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 570300000,
+                    "earnings": 53500000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 441600000,
+                    "earnings": -2700000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 521000000,
+                    "earnings": 39400000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 485600000,
+                    "earnings": -68700000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ],
+            "earningsAverage": 0.34,
+            "earningsLow": 0.32,
+            "earningsHigh": 0.35,
+            "revenueAverage": 507260000,
+            "revenueLow": 504100000,
+            "revenueHigh": 510000000
+        },
+        "exDividendDate": "2022-11-23T00:00:00.000Z",
+        "dividendDate": "2022-12-12T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2020-11-12T09:06:29.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "Sector Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-02-12T09:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-11-03T12:32:19.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-30T09:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-30T06:37:54.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-10-31T08:25:49.000Z",
+                "firm": "CJS Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-03T07:45:20.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-04-18T11:17:15.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-01-18T09:52:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-08-17T09:40:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.028667724,
+        "postMarketChange": -0.1699996,
+        "postMarketTime": "2023-01-06T22:43:31.000Z",
+        "postMarketPrice": 5.76,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.013675201,
+        "regularMarketChange": 0.07999992,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 5.93,
+        "regularMarketDayHigh": 5.97,
+        "regularMarketDayLow": 5.8,
+        "regularMarketVolume": 315551,
+        "averageDailyVolume10Day": 423890,
+        "averageDailyVolume3Month": 713295,
+        "regularMarketPreviousClose": 5.85,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 5.86,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ACCO",
+        "underlyingSymbol": null,
+        "shortName": "Acco Brands Corporation",
+        "longName": "ACCO Brands Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 558967104
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1649624704,
+        "forwardPE": 4.821138,
+        "profitMargins": 0.010650001,
+        "floatShares": 90831714,
+        "sharesOutstanding": 94260896,
+        "sharesShort": 1678194,
+        "sharesShortPriorMonth": 1626079,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0178,
+        "heldPercentInsiders": 0.03146,
+        "heldPercentInstitutions": 0.83691,
+        "shortRatio": 2.48,
+        "shortPercentOfFloat": 0.0208,
+        "beta": 1.797772,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 8.289,
+        "priceToBook": 0.715406,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": 21500000,
+        "trailingEps": 0.23,
+        "forwardEps": 1.23,
+        "pegRatio": 0.55,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.817,
+        "enterpriseToEbitda": 7.02,
+        "52WeekChange": -0.27771008,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.075,
+        "lastDividendDate": 1669161600
+    },
+    "summaryProfile": {
+        "address1": "Four Corporate Drive",
+        "city": "Lake Zurich",
+        "state": "IL",
+        "zip": "60047-2997",
+        "country": "United States",
+        "phone": "847 541 9500",
+        "website": "https://www.accobrands.com",
+        "industry": "Business Equipment & Supplies",
+        "sector": "Industrials",
+        "longBusinessSummary": "ACCO Brands Corporation designs, manufactures, and markets consumer, school, technology, and office products. It operates through three segments: ACCO Brands North America, ACCO Brands EMEA, and ACCO Brands International. The company provides computer and gaming accessories, calendars, planners, dry erase boards, school notebooks, and janitorial supplies; storage and organization products, such as lever-arch binders, sheet protectors, and indexes; laminating, binding, and shredding machines; writing instruments and art products; stapling and punching products; and do-it-yourself tools. It offers its products under the AT-A-GLANCE, Barrilito, Derwent, Esselte, Five Star, Foroni, GBC, Hilroy, Kensington, Leitz, Marbig, Mead, NOBO, PowerA, Quartet, Rapid, Rexel, Swingline, Tilibra, TruSens, and Spirax brand names. The company markets and sells its products through various channels, including mass retailers, e-tailers, discount, drug/grocery, and variety chains; warehouse clubs; hardware and specialty stores; independent office product dealers; office superstores; wholesalers; contract stationers; and technology specialty businesses, as well as sells products directly to commercial and consumer end-users through its e-commerce platform and direct sales organization. ACCO Brands Corporation was founded in 1893 and is headquartered in Lake Zurich, Illinois.",
+        "fullTimeEmployees": 6000,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 5.93,
+        "targetHighPrice": 15,
+        "targetLowPrice": 7,
+        "targetMeanPrice": 10.75,
+        "targetMedianPrice": 10.5,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 78000000,
+        "totalCashPerShare": 0.827,
+        "ebitda": 235000000,
+        "totalDebt": 1169600000,
+        "quickRatio": 0.852,
+        "currentRatio": 1.815,
+        "totalRevenue": 2018499968,
+        "debtToEquity": 149.699,
+        "revenuePerShare": 21.103,
+        "returnOnAssets": 0.03531,
+        "returnOnEquity": 0.027449999,
+        "grossProfits": 617900000,
+        "freeCashflow": 71275000,
+        "operatingCashflow": 106000000,
+        "revenueGrowth": -0.078,
+        "grossMargins": 0.28987,
+        "ebitdaMargins": 0.11642,
+        "operatingMargins": 0.08259,
+        "profitMargins": 0.010650001,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARKR",
+        "Security_Name": "Ark Restaurants Corp. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ARKR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 16.76,
+        "open": 17.13,
+        "dayLow": 16.696,
+        "dayHigh": 17.13,
+        "regularMarketPreviousClose": 16.76,
+        "regularMarketOpen": 17.13,
+        "regularMarketDayLow": 16.696,
+        "regularMarketDayHigh": 17.13,
+        "dividendRate": 0.5,
+        "dividendYield": 0.030199999,
+        "exDividendDate": "2022-11-29T00:00:00.000Z",
+        "payoutRatio": 0.09689999,
+        "beta": 0.992816,
+        "trailingPE": 6.2766914,
+        "volume": 5782,
+        "regularMarketVolume": 5782,
+        "averageVolume": 6674,
+        "averageVolume10days": 9040,
+        "averageDailyVolume10Day": 9040,
+        "bid": 16.57,
+        "ask": 16.92,
+        "bidSize": 800,
+        "askSize": 1000,
+        "marketCap": 60112444,
+        "fiftyTwoWeekLow": 15.38,
+        "fiftyTwoWeekHigh": 22.45,
+        "priceToSalesTrailing12Months": 0.32727793,
+        "fiftyDayAverage": 18.7416,
+        "twoHundredDayAverage": 18.68035,
+        "trailingAnnualDividendRate": 0.25,
+        "trailingAnnualDividendYield": 0.0149164675,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 162354000,
+                    "earnings": 2676000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 106490000,
+                    "earnings": -4688000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 131870000,
+                    "earnings": 12895000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 183674000,
+                    "earnings": 9281000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2022",
+                    "revenue": 43986000,
+                    "earnings": 2209000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 39586000,
+                    "earnings": 1055000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 53218000,
+                    "earnings": 5255000
+                },
+                {
+                    "date": "4Q2022",
+                    "revenue": 46885000,
+                    "earnings": 762000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ]
+        },
+        "exDividendDate": "2022-11-29T00:00:00.000Z",
+        "dividendDate": "2022-12-13T00:00:00.000Z"
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.0038186803,
+        "regularMarketChange": -0.06400108,
+        "regularMarketTime": "2023-01-06T19:38:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 16.696,
+        "regularMarketDayHigh": 17.13,
+        "regularMarketDayLow": 16.696,
+        "regularMarketVolume": 5782,
+        "averageDailyVolume10Day": 9040,
+        "averageDailyVolume3Month": 6674,
+        "regularMarketPreviousClose": 16.76,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 17.13,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARKR",
+        "underlyingSymbol": null,
+        "shortName": "Ark Restaurants Corp.",
+        "longName": "Ark Restaurants Corp.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 60112444
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 161666912,
+        "profitMargins": 0.05053,
+        "floatShares": 1718690,
+        "sharesOutstanding": 3600410,
+        "sharesShort": 14838,
+        "sharesShortPriorMonth": 11091,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0041,
+        "heldPercentInsiders": 0.47869,
+        "heldPercentInstitutions": 0.17063,
+        "shortRatio": 5.28,
+        "shortPercentOfFloat": 0.0066000004,
+        "beta": 0.992816,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 16.611,
+        "priceToBook": 1.005117,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-10-01T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-10-01T00:00:00.000Z",
+        "mostRecentQuarter": "2022-10-01T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.888,
+        "netIncomeToCommon": 9281000,
+        "trailingEps": 2.66,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.88,
+        "enterpriseToEbitda": 11.416,
+        "52WeekChange": -0.024532735,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.125,
+        "lastDividendDate": 1669680000
+    },
+    "summaryProfile": {
+        "address1": "85 5th Avenue",
+        "address2": "14th Floor",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10003",
+        "country": "United States",
+        "phone": "212 206 8800",
+        "fax": "212 206 8814",
+        "website": "https://arkrestaurants.com",
+        "industry": "Restaurants",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Ark Restaurants Corp., through its subsidiaries, owns and operates restaurants and bars in the United States. As of December 19, 2022, it owned and operated 17 restaurants and bars, including four restaurants located in New York City; one in Washington, D.C.; five in Las Vegas, Nevada; one in Atlantic City, New Jersey; four on the east coast of Florida; and two on the gulf coast of Alabama, as well as had 16 fast food concepts and catering operations. The company was incorporated in 1983 and is based in New York, New York.",
+        "fullTimeEmployees": 339,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 16.696,
+        "recommendationKey": "none",
+        "totalCash": 28460000,
+        "totalCashPerShare": 7.905,
+        "ebitda": 14161000,
+        "totalDebt": 128638000,
+        "quickRatio": 0.907,
+        "currentRatio": 1.121,
+        "totalRevenue": 183674000,
+        "debtToEquity": 213.976,
+        "revenuePerShare": 51.652,
+        "returnOnAssets": 0.03326,
+        "returnOnEquity": 0.18238,
+        "grossProfits": 48920000,
+        "freeCashflow": 14919000,
+        "operatingCashflow": 20347000,
+        "earningsGrowth": -0.888,
+        "revenueGrowth": 0.094,
+        "grossMargins": 0.26634002,
+        "ebitdaMargins": 0.0771,
+        "operatingMargins": 0.0537,
+        "profitMargins": 0.05053,
+        "financialCurrency": "USD"
+    }
+}

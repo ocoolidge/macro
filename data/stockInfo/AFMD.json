@@ -1,0 +1,532 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AFMD",
+        "Security_Name": "Affimed N.V. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AFMD",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 6,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 6,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 1.25,
+        "open": 1.25,
+        "dayLow": 1.155,
+        "dayHigh": 1.26,
+        "regularMarketPreviousClose": 1.25,
+        "regularMarketOpen": 1.25,
+        "regularMarketDayLow": 1.155,
+        "regularMarketDayHigh": 1.26,
+        "payoutRatio": 0,
+        "beta": 2.206896,
+        "forwardPE": -1.5384617,
+        "volume": 2787113,
+        "regularMarketVolume": 2787113,
+        "averageVolume": 2081730,
+        "averageVolume10days": 1058930,
+        "averageDailyVolume10Day": 1058930,
+        "bid": 1.18,
+        "ask": 1.21,
+        "bidSize": 2900,
+        "askSize": 1200,
+        "marketCap": 179206816,
+        "fiftyTwoWeekLow": 1.03,
+        "fiftyTwoWeekHigh": 5.1,
+        "priceToSalesTrailing12Months": 4.2770123,
+        "fiftyDayAverage": 1.733,
+        "twoHundredDayAverage": 2.68105,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.2,
+                    "estimate": -0.17
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.14,
+                    "estimate": -0.18
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.13,
+                    "estimate": -0.17
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.12,
+                    "estimate": -0.19
+                }
+            ],
+            "currentQuarterEstimate": -0.21,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1680093000,
+                1680525000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 23727000,
+                    "earnings": -19477000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 21430000,
+                    "earnings": -32365000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 28857000,
+                    "earnings": -41366000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 41801000,
+                    "earnings": -57523000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 11063000,
+                    "earnings": -23088000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 8290000,
+                    "earnings": -16665000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 7541000,
+                    "earnings": -19409000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 15006000,
+                    "earnings": -16490000
+                }
+            ]
+        },
+        "financialCurrency": "EUR"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1680093000,
+                1680525000
+            ],
+            "earningsAverage": -0.21,
+            "earningsLow": -0.28,
+            "earningsHigh": -0.16,
+            "revenueAverage": 7280000,
+            "revenueLow": 3680000,
+            "revenueHigh": 13030000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-12T15:30:47.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-12-12T11:25:39.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-12-12T11:21:58.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-12-12T11:20:48.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-10-10T11:26:35.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-06-23T16:22:31.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-31T08:44:36.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-02-23T12:53:04.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-10-21T11:49:10.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-10-12T11:09:33.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-30T08:52:31.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-03-31T12:19:24.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-03-24T10:48:57.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-11T12:30:12.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-11T09:13:44.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-24T10:30:48.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-03-28T11:17:54.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-08-28T16:00:41.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-28T11:50:06.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-09T12:16:13.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-14T13:13:46.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-08-12T07:32:02.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-05-19T13:52:41.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-05-19T08:40:18.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-12T05:55:15.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-12-04T07:51:12.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-10-15T10:56:15.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-09T05:44:31.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-06-22T08:49:16.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-06-01T08:32:52.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-10-07T08:30:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.033333298,
+        "postMarketChange": 0.04,
+        "postMarketTime": "2023-01-07T00:59:57.000Z",
+        "postMarketPrice": 1.24,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.03999996,
+        "regularMarketChange": -0.049999952,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 1.2,
+        "regularMarketDayHigh": 1.26,
+        "regularMarketDayLow": 1.155,
+        "regularMarketVolume": 2787113,
+        "averageDailyVolume10Day": 1058930,
+        "averageDailyVolume3Month": 2081730,
+        "regularMarketPreviousClose": 1.25,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 1.25,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AFMD",
+        "underlyingSymbol": null,
+        "shortName": "Affimed N.V.",
+        "longName": "Affimed N.V.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 179206816
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": -11519258,
+        "forwardPE": -1.5384617,
+        "profitMargins": -1.80554,
+        "floatShares": 123866525,
+        "sharesOutstanding": 149339008,
+        "sharesShort": 3722469,
+        "sharesShortPriorMonth": 3900419,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0249,
+        "heldPercentInsiders": 0.03403,
+        "heldPercentInstitutions": 0.66199994,
+        "shortRatio": 1.43,
+        "shortPercentOfFloat": 0.025799999,
+        "beta": 2.206896,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 1.213,
+        "priceToBook": 0.9892828,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -75652000,
+        "trailingEps": -0.659,
+        "forwardEps": -0.78,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": -0.275,
+        "enterpriseToEbitda": 0.142,
+        "52WeekChange": -0.7457627,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "Technologiepark",
+        "address2": "Im Neuenheimer Feld 582",
+        "city": "Heidelberg",
+        "zip": "69120",
+        "country": "Germany",
+        "phone": "49 6221 6743 60",
+        "fax": "49 6221 6743 649",
+        "website": "https://www.affimed.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Affimed N.V., a clinical-stage biopharmaceutical company, focuses on discovering and developing cancer immunotherapies in the United States, Germany, and rest of Europe. Its lead product candidate is AFM13, which has completed Phase II clinical study for peripheral T-cell lymphoma; in Phase IIa clinical trial for CD30-positive lymphoma; and in Phase I clinical trial for hodgkin lymphoma. The company is also developing AFM24, a tetravalent, bispecific epidermal growth factor receptor, and CD16A-binding innate cell engager, which is in Phase IIa clinical trial for the treatment of advanced cancers; AFM28, an innate cell engager (ICE), which is in preclinical development to treat acute myeloid leukemia; and AFM32, an ICE candidate that is in preclinical development for the treatment of solid tumors. Affimed N.V. has collaboration agreements with The University of Texas MD Anderson Cancer Center; Genentech, Inc.; Roivant Sciences Ltd.; and Artiva Biotherapeutics Inc., as well as research funding agreement with The Leukemia & Lymphoma Society. The company was formerly known as Affimed Therapeutics B.V. and changed its name to Affimed N.V. in October 2014. Affimed N.V. was founded in 2000 and is headquartered in Heidelberg, Germany.",
+        "fullTimeEmployees": 197,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 1.2,
+        "targetHighPrice": 12.91,
+        "targetLowPrice": 1.99,
+        "targetMeanPrice": 7.54,
+        "targetMedianPrice": 6.94,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 222895008,
+        "totalCashPerShare": 1.493,
+        "ebitda": -81228000,
+        "totalDebt": 18728000,
+        "quickRatio": 5.501,
+        "currentRatio": 5.647,
+        "totalRevenue": 41900000,
+        "debtToEquity": 10.341,
+        "revenuePerShare": 0.309,
+        "returnOnAssets": -0.22457,
+        "returnOnEquity": -0.48039,
+        "grossProfits": 41801000,
+        "freeCashflow": -68142248,
+        "operatingCashflow": -101566000,
+        "revenueGrowth": 0.687,
+        "grossMargins": 0.72537005,
+        "ebitdaMargins": -1.93862,
+        "operatingMargins": -1.95838,
+        "profitMargins": -1.80554,
+        "financialCurrency": "EUR"
+    }
+}

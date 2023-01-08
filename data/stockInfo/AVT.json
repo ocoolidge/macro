@@ -1,0 +1,943 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AVT",
+        "Security_Name": "Avnet, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AVT",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 5,
+                "sell": 2,
+                "strongSell": 1
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 4,
+                "sell": 3,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 4,
+                "sell": 3,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 4,
+                "sell": 3,
+                "strongSell": 2
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 41.56,
+        "open": 42.13,
+        "dayLow": 41.85,
+        "dayHigh": 42.929,
+        "regularMarketPreviousClose": 41.56,
+        "regularMarketOpen": 42.13,
+        "regularMarketDayLow": 41.85,
+        "regularMarketDayHigh": 42.929,
+        "dividendRate": 1.16,
+        "dividendYield": 0.0279,
+        "exDividendDate": "2022-12-06T00:00:00.000Z",
+        "payoutRatio": 0.1351,
+        "fiveYearAvgDividendYield": 2.22,
+        "beta": 1.354166,
+        "trailingPE": 5.5135136,
+        "forwardPE": 6.84345,
+        "volume": 579212,
+        "regularMarketVolume": 579212,
+        "averageVolume": 688611,
+        "averageVolume10days": 535980,
+        "averageDailyVolume10Day": 535980,
+        "bid": 42.12,
+        "ask": 42.89,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 3920601088,
+        "fiftyTwoWeekLow": 35.45,
+        "fiftyTwoWeekHigh": 50.19,
+        "priceToSalesTrailing12Months": 0.15389302,
+        "fiftyDayAverage": 42.714,
+        "twoHundredDayAverage": 42.6886,
+        "trailingAnnualDividendRate": 1.05,
+        "trailingAnnualDividendYield": 0.025264675,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 1.51,
+                    "estimate": 1.27
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 2.15,
+                    "estimate": 1.52
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 2.07,
+                    "estimate": 1.98
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 2,
+                    "estimate": 1.91
+                }
+            ],
+            "currentQuarterEstimate": 1.86,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674557940,
+                1675080000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 19518592000,
+                    "earnings": 176337000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 17634333000,
+                    "earnings": -31081000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 19534679000,
+                    "earnings": 193114000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 24310708000,
+                    "earnings": 692379000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2022",
+                    "revenue": 5865217000,
+                    "earnings": 150821000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 6488143000,
+                    "earnings": 183417000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 6372653000,
+                    "earnings": 246823000
+                },
+                {
+                    "date": "4Q2022",
+                    "revenue": 6750133000,
+                    "earnings": 184261000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674557940,
+                1675080000
+            ],
+            "earningsAverage": 1.86,
+            "earningsLow": 1.8,
+            "earningsHigh": 2,
+            "revenueAverage": 6535150000,
+            "revenueLow": 6496610000,
+            "revenueHigh": 6615100000
+        },
+        "exDividendDate": "2022-12-06T00:00:00.000Z",
+        "dividendDate": "2022-12-21T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-10T14:13:25.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-16T10:18:27.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-14T09:05:17.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-06-07T10:53:35.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-07T10:19:35.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-08T13:36:40.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-27T12:12:22.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-12T11:39:20.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-30T11:34:10.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-04-29T11:20:52.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-28T12:35:57.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-29T13:48:24.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-03T14:30:10.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-08-07T11:29:25.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-28T12:52:45.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-28T12:25:56.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-28T11:31:46.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-24T10:42:03.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-03-19T13:40:37.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-03-16T10:43:16.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-24T13:21:15.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-24T12:52:52.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-13T11:56:55.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-10-25T13:23:11.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-25T12:06:05.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-25T11:11:25.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-09T16:49:34.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-08-09T12:11:32.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-10-26T13:11:14.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-10T11:57:51.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-09T12:28:25.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Sell",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-17T13:03:50.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-15T16:59:54.000Z",
+                "firm": "Pivotal Research",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-16T12:35:25.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-04-25T13:26:38.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-01-19T11:43:50.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-01-05T11:44:24.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-10-27T12:40:58.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-27T12:12:11.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-08-10T17:52:50.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-14T17:18:41.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-04-28T12:25:55.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-04-28T12:24:41.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-03-01T13:34:35.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-21T10:45:19.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-10-04T10:57:54.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-09-22T08:18:37.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-09-20T07:24:02.000Z",
+                "firm": "Cross Research",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-09-20T06:04:57.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-08-11T11:29:55.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-06-07T04:17:59.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-05-02T06:20:41.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-29T06:47:58.000Z",
+                "firm": "Brean Capital",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-27T07:11:55.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-01-22T06:55:46.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-24T09:38:26.000Z",
+                "firm": "Cross Research",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-04-27T09:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-24T09:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-09T05:49:12.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-12-11T00:00:00.000Z",
+                "firm": "Brean Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-11-13T06:10:50.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-10-24T09:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-16T08:30:00.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-08-07T16:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-25T02:39:05.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-01-24T08:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-01-24T07:32:04.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-10-14T06:19:38.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-10-09T07:31:17.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-09-26T07:16:50.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-08-08T08:25:33.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-08-08T07:52:28.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-25T11:21:11.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-25T08:31:59.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-25T08:01:04.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-15T12:19:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-11T09:27:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-11T06:40:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-10T11:14:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-09-18T08:15:00.000Z",
+                "firm": "Miller Tabak",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-08-14T08:00:00.000Z",
+                "firm": "CLSA",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-08-09T10:16:00.000Z",
+                "firm": "UBS",
+                "toGrade": "buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-08-09T06:10:00.000Z",
+                "firm": "Brean Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-02T07:02:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-06-27T11:39:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-06-27T09:40:00.000Z",
+                "firm": "Miller Tabak",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-04-27T10:36:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-04-27T08:42:00.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T22:28:25.000Z",
+        "postMarketPrice": 42.84,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.030798815,
+        "regularMarketChange": 1.2799988,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 42.84,
+        "regularMarketDayHigh": 42.929,
+        "regularMarketDayLow": 41.85,
+        "regularMarketVolume": 579212,
+        "averageDailyVolume10Day": 535980,
+        "averageDailyVolume3Month": 688611,
+        "regularMarketPreviousClose": 41.56,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 42.13,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AVT",
+        "underlyingSymbol": null,
+        "shortName": "Avnet, Inc.",
+        "longName": "Avnet, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 3920601088
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 6354654208,
+        "forwardPE": 6.84345,
+        "profitMargins": 0.03004,
+        "floatShares": 91938405,
+        "sharesOutstanding": 91517296,
+        "sharesShort": 4171989,
+        "sharesShortPriorMonth": 4753490,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0456,
+        "heldPercentInsiders": 0.00677,
+        "heldPercentInstitutions": 1.0097001,
+        "shortRatio": 6.86,
+        "shortPercentOfFloat": 0.0713,
+        "beta": 1.354166,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 43.533,
+        "priceToBook": 0.98408103,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-07-02T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-07-02T00:00:00.000Z",
+        "mostRecentQuarter": "2022-10-01T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.655,
+        "netIncomeToCommon": 765321984,
+        "trailingEps": 7.77,
+        "forwardEps": 6.26,
+        "pegRatio": 0.57,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "2000-09-29T00:00:00.000Z",
+        "enterpriseToRevenue": 0.249,
+        "enterpriseToEbitda": 5.283,
+        "52WeekChange": 0.052838564,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.29,
+        "lastDividendDate": 1670284800
+    },
+    "summaryProfile": {
+        "address1": "2211 South 47th Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85034",
+        "country": "United States",
+        "phone": "480 643 2000",
+        "website": "https://www.avnet.com",
+        "industry": "Electronics & Computer Distribution",
+        "sector": "Technology",
+        "longBusinessSummary": "Avnet, Inc., a technology solutions company, markets, sells, and distributes electronic components. The company operates through two segments, Electronic Components and Farnell. The Electronic Components segment markets, sells, and distributes semiconductors; interconnect, passive, and electromechanical devices; and other integrated components from electronic component manufacturers. It also offers design chain support that provides engineers with technical design solutions; engineering and technical resources to support product design, bill of materials development, and technical education and training; and supply chain solutions that provide support and logistical services to original equipment manufacturers, electronic manufacturing service providers, and electronic component manufacturers. In addition, this segment provides integrated solutions, such as technical design, integration, and assembly of embedded products, and systems and solutions primarily for industrial applications, as well as for intelligent and innovative embedded display solutions comprising touch and passive displays. Further, it develops and manufactures standard board and industrial subsystems, and application-specific devices that enable it to produce systems tailored to specific customer requirements. This segment serves various markets, such as automotive, medical, defense, aerospace, telecommunications, industrial, and digital editing. The Farnell segment distributes kits, tools, and electronic and industrial automation components, as well as test and measurement products to engineers and entrepreneurs. It has operations in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. Avnet, Inc. was founded in 1921 and is headquartered in Phoenix, Arizona.",
+        "fullTimeEmployees": 15300,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 42.84,
+        "targetHighPrice": 57,
+        "targetLowPrice": 35,
+        "targetMeanPrice": 45,
+        "targetMedianPrice": 45,
+        "recommendationMean": 3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 80881000,
+        "totalCashPerShare": 0.876,
+        "ebitda": 1202909952,
+        "totalDebt": 2590033920,
+        "quickRatio": 1.003,
+        "currentRatio": 2.041,
+        "totalRevenue": 25476145152,
+        "debtToEquity": 64.439,
+        "revenuePerShare": 261.93,
+        "returnOnAssets": 0.06846,
+        "returnOnEquity": 0.18747,
+        "grossProfits": 2965391000,
+        "freeCashflow": -492085120,
+        "operatingCashflow": -833491008,
+        "earningsGrowth": 0.755,
+        "revenueGrowth": 0.209,
+        "grossMargins": 0.12066,
+        "ebitdaMargins": 0.047220003,
+        "operatingMargins": 0.04338,
+        "profitMargins": 0.03004,
+        "financialCurrency": "USD"
+    }
+}

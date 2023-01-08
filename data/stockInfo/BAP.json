@@ -1,0 +1,577 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BAP",
+        "Security_Name": "Credicorp Ltd. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BAP",
+        "NASDAQ_Symbol": "BAP",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 8,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 6,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 6,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 10,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 142.81,
+        "open": 143.49,
+        "dayLow": 142.88,
+        "dayHigh": 146.38,
+        "regularMarketPreviousClose": 142.81,
+        "regularMarketOpen": 143.49,
+        "regularMarketDayLow": 142.88,
+        "regularMarketDayHigh": 146.38,
+        "dividendRate": 3.99,
+        "dividendYield": 0.0279,
+        "exDividendDate": "2022-05-19T00:00:00.000Z",
+        "payoutRatio": 0.35599998,
+        "beta": 0.82277,
+        "trailingPE": 128.97527,
+        "forwardPE": 10.39886,
+        "volume": 253499,
+        "regularMarketVolume": 253499,
+        "averageVolume": 390095,
+        "averageVolume10days": 393560,
+        "averageDailyVolume10Day": 393560,
+        "bid": 101.15,
+        "ask": 171,
+        "bidSize": 1000,
+        "askSize": 800,
+        "marketCap": 11609335808,
+        "fiftyTwoWeekLow": 113.21,
+        "fiftyTwoWeekHigh": 182.11,
+        "priceToSalesTrailing12Months": 0.79186845,
+        "fiftyDayAverage": 145.3526,
+        "twoHundredDayAverage": 137.2236,
+        "trailingAnnualDividendRate": 5,
+        "trailingAnnualDividendYield": 0.035011556,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 14.59,
+                    "estimate": 11.99
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 13.3,
+                    "estimate": 13.24
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 14.25,
+                    "estimate": 13.91
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 14.06,
+                    "estimate": 14.31
+                }
+            ],
+            "currentQuarterEstimate": 14.8,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675900800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 11837176000,
+                    "earnings": 3983865000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 12640561000,
+                    "earnings": 4265304000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 7413856000,
+                    "earnings": 346894000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 13072902000,
+                    "earnings": 3584582000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 3595366000,
+                    "earnings": 1163699000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 3785853000,
+                    "earnings": 1060616000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 3512893000,
+                    "earnings": 1136826000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 3634019000,
+                    "earnings": 1121760000
+                }
+            ]
+        },
+        "financialCurrency": "PEN"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675900800
+            ],
+            "earningsAverage": 14.8,
+            "earningsLow": 14.8,
+            "earningsHigh": 14.8,
+            "revenueAverage": 4277000000,
+            "revenueLow": 4277000000,
+            "revenueHigh": 4277000000
+        },
+        "exDividendDate": "2022-05-19T00:00:00.000Z",
+        "dividendDate": "2022-06-10T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-04T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-07-19T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-08-27T00:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-06-09T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-06-09T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-05-17T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-04-21T00:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-20T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-13T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-24T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Sector Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-01-13T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-06-24T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Sector Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-06-23T00:00:00.000Z",
+                "firm": "Santander",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-06-09T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-01-07T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-11-15T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-05T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-08-13T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-08-13T00:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-04-09T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-02-11T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-12-07T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-25T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-09-21T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-08-11T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-03-24T00:00:00.000Z",
+                "firm": "Santander",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-15T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-03-15T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-02-11T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-15T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-05-12T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-05-02T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-26T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-03-15T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-02-04T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-03T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-08-20T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-08-17T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.00194333,
+        "postMarketChange": -0.283707,
+        "postMarketTime": "2023-01-06T21:02:56.000Z",
+        "postMarketPrice": 145.706,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.022337388,
+        "regularMarketChange": 3.1900024,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 146,
+        "regularMarketDayHigh": 146.38,
+        "regularMarketDayLow": 142.88,
+        "regularMarketVolume": 253499,
+        "averageDailyVolume10Day": 393560,
+        "averageDailyVolume3Month": 390095,
+        "regularMarketPreviousClose": 142.81,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 143.49,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BAP",
+        "underlyingSymbol": null,
+        "shortName": "Credicorp Ltd.",
+        "longName": "Credicorp Ltd.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 11609335808
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 13987138560,
+        "forwardPE": 2.23515,
+        "profitMargins": 0.30578,
+        "floatShares": 51310776,
+        "sharesOutstanding": 79516000,
+        "sharesShort": 548270,
+        "sharesShortPriorMonth": 483693,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0069,
+        "heldPercentInsiders": 0.35068,
+        "heldPercentInstitutions": 0.73946,
+        "shortRatio": 1.67,
+        "shortPercentOfFloat": 0.0081,
+        "beta": 0.82277,
+        "category": null,
+        "bookValue": 313.913,
+        "priceToBook": 0.46509704,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.604,
+        "netIncomeToCommon": 4482900992,
+        "trailingEps": 1.132,
+        "forwardEps": 14.04,
+        "pegRatio": 0.79,
+        "lastSplitFactor": "1039:1000",
+        "lastSplitDate": "2014-04-16T00:00:00.000Z",
+        "enterpriseToRevenue": 0.954
+    },
+    "summaryProfile": {
+        "address1": "Calle Centenario 156",
+        "address2": "La Molina",
+        "city": "Lima",
+        "zip": "12",
+        "country": "Peru",
+        "phone": "51 1 313 2000",
+        "fax": "51 1 313 2121",
+        "website": "https://www.grupocredicorp.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Credicorp Ltd., a financial service holding company, provides various financial, insurance, and health services and products primarily in Peru and internationally. The company's Universal Banking segment offers deposits and current accounts, and various credits and financial instruments to individuals and legal entities. Its Insurance and Pensions segment issues insurance policies to cover losses in commercial property, transportation, marine vessels, automobile, life, health, and pensions, as well as provides private pension fund management services. The company's Microfinance segment manages loans, credits, deposits, and current accounts of the small and microenterprises. Its Investment Banking and Wealth Management segment offers its services to corporations, institutional investors, governments, and foundations; engages in structuring and placement of issues in the primary market, as well as the execution and negotiation of operations in the secondary market; and structures securitization processes for corporate customers and manages mutual funds. The company was founded in 1889 and is headquartered in Lima, Peru.",
+        "fullTimeEmployees": 36358,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 146,
+        "targetHighPrice": 656.04,
+        "targetLowPrice": 520.06,
+        "targetMeanPrice": 606.74,
+        "targetMedianPrice": 644.11,
+        "recommendationMean": 3.3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 22327422976,
+        "totalCashPerShare": 280.731,
+        "totalDebt": 24389511168,
+        "totalRevenue": 14660687872,
+        "revenuePerShare": 182.384,
+        "returnOnAssets": 0.01907,
+        "returnOnEquity": 0.17562,
+        "grossProfits": 12896809000,
+        "operatingCashflow": -1580206976,
+        "earningsGrowth": 0.57,
+        "revenueGrowth": 0.237,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.45492,
+        "profitMargins": 0.30578,
+        "financialCurrency": "PEN"
+    }
+}

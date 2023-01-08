@@ -1,0 +1,531 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMWD",
+        "Security_Name": "American Woodmark Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AMWD",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 4,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 4,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 50.18,
+        "open": 50.88,
+        "dayLow": 50.015,
+        "dayHigh": 52.898,
+        "regularMarketPreviousClose": 50.18,
+        "regularMarketOpen": 50.88,
+        "regularMarketDayLow": 50.015,
+        "regularMarketDayHigh": 52.898,
+        "exDividendDate": "2011-06-09T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 1.826086,
+        "trailingPE": 12.727721,
+        "forwardPE": 6.6529036,
+        "volume": 79674,
+        "regularMarketVolume": 79674,
+        "averageVolume": 98574,
+        "averageVolume10days": 86330,
+        "averageDailyVolume10Day": 86330,
+        "bid": 36.96,
+        "ask": 57.4,
+        "bidSize": 1000,
+        "askSize": 1000,
+        "marketCap": 854328576,
+        "fiftyTwoWeekLow": 40.7,
+        "fiftyTwoWeekHigh": 66.65,
+        "priceToSalesTrailing12Months": 0.43643907,
+        "fiftyDayAverage": 51.254,
+        "twoHundredDayAverage": 49.0209,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.62,
+                    "estimate": 0.86
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.6,
+                    "estimate": 0.87
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.38,
+                    "estimate": 1.34
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 1.71,
+                    "estimate": 1.29
+                }
+            ],
+            "currentQuarterEstimate": 1.91,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677024000,
+                1677456000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 1645319000,
+                    "earnings": 83688000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1650333000,
+                    "earnings": 73653000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1744014000,
+                    "earnings": 61193000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 1857186000,
+                    "earnings": -29722000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 453163000,
+                    "earnings": 2030000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 459736000,
+                    "earnings": -49257000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 501706000,
+                    "earnings": 14524000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 542893000,
+                    "earnings": 20070000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677024000,
+                1677456000
+            ],
+            "earningsAverage": 1.91,
+            "earningsLow": 1.32,
+            "earningsHigh": 2.16,
+            "revenueAverage": 553040000,
+            "revenueLow": 542900000,
+            "revenueHigh": 580950000
+        },
+        "exDividendDate": "2011-06-09T00:00:00.000Z",
+        "dividendDate": "2011-06-27T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-20T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-31T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-18T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-03-23T00:00:00.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-11-17T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-06-22T00:00:00.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-03-17T00:00:00.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Peer Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-03-16T00:00:00.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-12-17T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-10-20T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-11T00:00:00.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-21T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-16T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-16T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-03T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-02-26T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-24T00:00:00.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-09-11T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-19T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-30T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-06-27T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-05-30T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-09T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-08-24T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-06-03T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-11-25T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-11-20T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-11-13T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-08-14T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-08-14T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-02-20T00:00:00.000Z",
+                "firm": "Griffin Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:01:44.000Z",
+        "postMarketPrice": 51.56,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.027501015,
+        "regularMarketChange": 1.3800011,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 51.56,
+        "regularMarketDayHigh": 52.898,
+        "regularMarketDayLow": 50.015,
+        "regularMarketVolume": 79674,
+        "averageDailyVolume10Day": 86330,
+        "averageDailyVolume3Month": 98574,
+        "regularMarketPreviousClose": 50.18,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 50.88,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMWD",
+        "underlyingSymbol": null,
+        "shortName": "American Woodmark Corporation",
+        "longName": "American Woodmark Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 854328576
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1312379136,
+        "forwardPE": 8.60768,
+        "profitMargins": -0.0064499998,
+        "floatShares": 16447630,
+        "sharesOutstanding": 16569600,
+        "sharesShort": 453068,
+        "sharesShortPriorMonth": 358938,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0273,
+        "heldPercentInsiders": 0.01165,
+        "heldPercentInstitutions": 0.93357,
+        "shortRatio": 4.26,
+        "shortPercentOfFloat": 0.032899998,
+        "beta": 1.826086,
+        "category": null,
+        "bookValue": 44.902,
+        "priceToBook": 1.1482785,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-04-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-04-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-07-31T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 5.733,
+        "netIncomeToCommon": -12633000,
+        "trailingEps": 4.051,
+        "forwardEps": 7.75,
+        "pegRatio": 0.83,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "2004-09-27T00:00:00.000Z",
+        "enterpriseToRevenue": 0.67,
+        "enterpriseToEbitda": 8.963
+    },
+    "summaryProfile": {
+        "address1": "561 Shady Elm Road",
+        "city": "Winchester",
+        "state": "VA",
+        "zip": "22602",
+        "country": "United States",
+        "phone": "540 665 9100",
+        "website": "https://www.americanwoodmark.com",
+        "industry": "Furnishings, Fixtures & Appliances",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "American Woodmark Corporation manufactures and distributes kitchen, bath, office, home organization, and hardware products for the remodelling and new home construction markets in the United States. The company offers made-to-order and cash and carry products. It also provides turnkey installation services to its direct builder customers through a network of eight service centers. The company sells its products under the American Woodmark, Timberlake, Shenandoah Cabinetry, Waypoint Living Spaces, Estate, Stor-It-All, and Professional Cabinet Solutions brands, as well as Hampton Bay, Glacier Bay, Style Selections, Allen + Roth, Home Decorators Collection, and Project Source. It markets its products directly to home centers and builders, as well as through independent dealers and distributors. The company was incorporated in 1980 and is based in Winchester, Virginia.",
+        "fullTimeEmployees": 10000,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 51.56,
+        "targetHighPrice": 75,
+        "targetLowPrice": 39,
+        "targetMeanPrice": 54.83,
+        "targetMedianPrice": 51.5,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 33696000,
+        "totalCashPerShare": 2.027,
+        "ebitda": 146430000,
+        "totalDebt": 602747008,
+        "quickRatio": 0.828,
+        "currentRatio": 1.96,
+        "totalRevenue": 1957497984,
+        "debtToEquity": 76.053,
+        "revenuePerShare": 118.113,
+        "returnOnAssets": 0.023340002,
+        "returnOnEquity": -0.01652,
+        "grossProfits": 226444000,
+        "freeCashflow": 29962750,
+        "operatingCashflow": 55152000,
+        "earningsGrowth": 5.763,
+        "revenueGrowth": 0.227,
+        "grossMargins": 0.13274,
+        "ebitdaMargins": 0.0748,
+        "operatingMargins": 0.030869998,
+        "profitMargins": -0.0064499998,
+        "financialCurrency": "USD"
+    }
+}

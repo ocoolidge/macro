@@ -1,0 +1,257 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BCV",
+        "Security_Name": "Bancroft Fund, Ltd.",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BCV",
+        "NASDAQ_Symbol": "BCV",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 16.57,
+        "open": 16.62,
+        "dayLow": 16.6199,
+        "dayHigh": 16.81,
+        "regularMarketPreviousClose": 16.57,
+        "regularMarketOpen": 16.62,
+        "regularMarketDayLow": 16.6199,
+        "regularMarketDayHigh": 16.81,
+        "dividendRate": 1.28,
+        "dividendYield": 0.0729,
+        "exDividendDate": "2022-09-15T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 10.53,
+        "beta": 0.966838,
+        "trailingPE": 3.509141,
+        "volume": 14213,
+        "regularMarketVolume": 14213,
+        "averageVolume": 16604,
+        "averageVolume10days": 17110,
+        "averageDailyVolume10Day": 17110,
+        "bid": 16.71,
+        "ask": 16.76,
+        "bidSize": 1000,
+        "askSize": 800,
+        "marketCap": 92147096,
+        "fiftyTwoWeekLow": 16.01,
+        "fiftyTwoWeekHigh": 25.75,
+        "priceToSalesTrailing12Months": 39.301674,
+        "fiftyDayAverage": 17.2308,
+        "twoHundredDayAverage": 18.7663,
+        "trailingAnnualDividendRate": 3.12,
+        "trailingAnnualDividendYield": 0.18829209,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 3158597,
+                    "earnings": 7293844
+                },
+                {
+                    "date": 2019,
+                    "revenue": 3945784,
+                    "earnings": 23720345
+                },
+                {
+                    "date": 2020,
+                    "revenue": 3980090,
+                    "earnings": 26951925
+                },
+                {
+                    "date": 2021,
+                    "revenue": 3229488,
+                    "earnings": 42238197
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 657220,
+                    "earnings": 2999429
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 657220,
+                    "earnings": 2999429
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 515085,
+                    "earnings": -17231102
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 515085,
+                    "earnings": -17231102
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": []
+        },
+        "exDividendDate": "2022-09-15T00:00:00.000Z",
+        "dividendDate": "2018-12-28T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.0078455685,
+        "regularMarketChange": 0.13000107,
+        "regularMarketTime": "2023-01-06T21:00:00.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 16.7,
+        "regularMarketDayHigh": 16.81,
+        "regularMarketDayLow": 16.6199,
+        "regularMarketVolume": 14213,
+        "averageDailyVolume10Day": 17110,
+        "averageDailyVolume3Month": 16604,
+        "regularMarketPreviousClose": 16.57,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 16.62,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BCV",
+        "underlyingSymbol": null,
+        "shortName": "12944",
+        "longName": "Bancroft Fund Ltd.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 92147096
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 132073192,
+        "profitMargins": 0,
+        "sharesOutstanding": 5517790,
+        "sharesShort": 5391,
+        "sharesShortPriorMonth": 4473,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.00090000004,
+        "heldPercentInsiders": 0.031400003,
+        "heldPercentInstitutions": 0.19579001,
+        "shortRatio": 0.47,
+        "shortPercentOfFloat": 0.001,
+        "beta": 0.966838,
+        "category": null,
+        "bookValue": 28.832,
+        "priceToBook": 0.57921755,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-10-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-10-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-04-30T00:00:00.000Z",
+        "netIncomeToCommon": -30075848,
+        "trailingEps": 4.759,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 56.331
+    },
+    "summaryProfile": {
+        "address1": "One Corporate Center",
+        "city": "Rye",
+        "state": "NY",
+        "zip": "10580-1422",
+        "country": "United States",
+        "phone": "914-921-5000",
+        "fax": "914-921-5118",
+        "website": "https://www.gabelli.com/Template/fundinfo.cfm?tid=NzZjZjM=&bid=OTA3YQ==&mid=NGNlN2E=&num=NWRhZWU=&kid=NTVhZGY=&fid=NTNiMDc=&rid=321-=edoc_dnuf",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Bancroft Fund Ltd. is a closed-ended equity mutual fund launched by GAMCO Investors, Inc. It is managed by Gabelli Funds, LLC. The fund invests in the public equity markets. It primarily invests in convertible securities including convertible debt and convertible preferred stocks. The fund invests in stocks of companies across market capitalization. It benchmarks the performance of its portfolio against S&P 500 Index, Bank of America Merrill Lynch All U.S. Convertibles Index, and Barclays Balanced U.S. Convertibles Index. The fund was formerly known as Bancroft Convertible Fund, Inc. Bancroft Fund Ltd. was formed on April 20, 1971 and is domiciled in the United States.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 16.7,
+        "recommendationKey": "none",
+        "totalCash": 4159,
+        "totalCashPerShare": 0.001,
+        "totalDebt": 0,
+        "quickRatio": 0.501,
+        "currentRatio": 0.503,
+        "totalRevenue": 2344610,
+        "revenuePerShare": 0.399,
+        "returnOnAssets": 0.00147,
+        "returnOnEquity": -0.1506,
+        "grossProfits": 3229488,
+        "revenueGrowth": -0.462,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.19163,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

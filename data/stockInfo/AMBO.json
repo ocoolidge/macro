@@ -1,0 +1,294 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMBO",
+        "Security_Name": "Ambow Education Holding Ltd. American Depository Shares, each representing two Class A ordinary shares",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AMBO",
+        "NASDAQ_Symbol": "AMBO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.29,
+        "open": 0.2701,
+        "dayLow": 0.2701,
+        "dayHigh": 0.3159,
+        "regularMarketPreviousClose": 0.29,
+        "regularMarketOpen": 0.2701,
+        "regularMarketDayLow": 0.2701,
+        "regularMarketDayHigh": 0.3159,
+        "payoutRatio": 0,
+        "beta": -4.354826,
+        "volume": 3485,
+        "regularMarketVolume": 3485,
+        "averageVolume": 46583,
+        "averageVolume10days": 22590,
+        "averageDailyVolume10Day": 22590,
+        "bid": 0.2834,
+        "ask": 0.3,
+        "bidSize": 1000,
+        "askSize": 800,
+        "marketCap": 6969766,
+        "fiftyTwoWeekLow": 0.231,
+        "fiftyTwoWeekHigh": 1.21,
+        "priceToSalesTrailing12Months": 0.017465284,
+        "fiftyDayAverage": 0.3116,
+        "twoHundredDayAverage": 0.44771,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1670889600,
+                1671408000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 531508000,
+                    "earnings": 44990000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 583909000,
+                    "earnings": -99941000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 531980000,
+                    "earnings": -62712000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 0,
+                    "earnings": 0
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 76164000,
+                    "earnings": 31892000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 118857000,
+                    "earnings": -37001000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 102021500,
+                    "earnings": -44509000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 109928000,
+                    "earnings": -71448000
+                }
+            ]
+        },
+        "financialCurrency": "CNY"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1670889600,
+                1671408000
+            ]
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2012-07-06T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-05T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "",
+                "fromGrade": "",
+                "action": ""
+            },
+            {
+                "epochGradeDate": "2012-07-05T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-06-07T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.00033349998,
+        "postMarketChange": 0.000100017,
+        "postMarketTime": "2023-01-06T21:40:42.000Z",
+        "postMarketPrice": 0.3,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.034137946,
+        "regularMarketChange": 0.009900004,
+        "regularMarketTime": "2023-01-06T20:52:57.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.2999,
+        "regularMarketDayHigh": 0.3159,
+        "regularMarketDayLow": 0.2701,
+        "regularMarketVolume": 3485,
+        "averageDailyVolume10Day": 22590,
+        "averageDailyVolume3Month": 46583,
+        "regularMarketPreviousClose": 0.29,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 0.2701,
+        "exchange": "ASE",
+        "exchangeName": "NYSE American",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMBO",
+        "underlyingSymbol": null,
+        "shortName": "Ambow Education Holding Ltd. Am",
+        "longName": "Ambow Education Holding Ltd.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 6969766
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 148018944,
+        "profitMargins": -0.23587,
+        "floatShares": 13673838,
+        "sharesOutstanding": 23240300,
+        "sharesShort": 1,
+        "sharesShortPriorMonth": 6214,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0,
+        "heldPercentInsiders": 0,
+        "heldPercentInstitutions": 0.01045,
+        "shortRatio": 0,
+        "beta": -4.354826,
+        "category": null,
+        "bookValue": 6.138,
+        "priceToBook": 0.048859563,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -94127000,
+        "trailingEps": -0.437,
+        "lastSplitFactor": "1:30",
+        "lastSplitDate": "2015-09-04T00:00:00.000Z",
+        "enterpriseToRevenue": 0.371,
+        "enterpriseToEbitda": -1.339
+    },
+    "summaryProfile": {
+        "address1": "Tower 1, Chang'an Center",
+        "address2": "12th Floor Financial Street Shijingshan District",
+        "city": "Beijing",
+        "zip": "100043",
+        "country": "China",
+        "phone": "86 10 6206 8000",
+        "website": "https://www.ambow.com",
+        "industry": "Education & Training Services",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Ambow Education Holding Ltd. provides a range of educational and career enhancement services and products to students, recent graduates, and corporate employees and management professionals in the People's Republic of China. The company operates through two segments, K-12 Schools and CP&CE Programs. The K-12 Schools segment provides educational services covering K-12 programs and tutoring services; and international education programs. The CP&CE Programs segment operates tutoring centers that provide classroom instruction, small class, and one-on-one tutoring services for students to perform better in school and prepare for important tests, primarily high school and university entrance exams; and educational curriculum through its web-based applications. This segment also offers educational software products include eBoPo, which offers full subjects, online practice tests, and instructions for K-12 level students; career enhancement services and products focusing on improving educational opportunities for primary and advanced degree school students, and employment opportunities for university graduates; and outbound and in-house management trainings for corporate clients. In addition, this segment provides students with training for professional skills, such as case studies, job environment simulation, and technical skills; soft skills, including time management, presentation, leadership, and interview techniques; and intellectualized operational services to corporate clients, colleges, and universities. As of December 31, 2021, the company had 18 centers and schools comprising 5 tutoring centers, 2 K-12 schools, 3 career enhancement centers, and 8 training offices. The company was founded in 2000 and is headquartered in Beijing, the People's Republic of China.",
+        "fullTimeEmployees": 1088,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.2999,
+        "recommendationKey": "none",
+        "totalCash": 140332992,
+        "totalCashPerShare": 5.386,
+        "ebitda": -110544000,
+        "totalDebt": 280943008,
+        "quickRatio": 0.399,
+        "currentRatio": 0.684,
+        "totalRevenue": 399064000,
+        "debtToEquity": 444.607,
+        "revenuePerShare": 17.086,
+        "returnOnAssets": -0.08161,
+        "returnOnEquity": -0.90275,
+        "freeCashflow": -185305744,
+        "operatingCashflow": -34605000,
+        "revenueGrowth": -0.362,
+        "grossMargins": 0.28299,
+        "ebitdaMargins": -0.27701,
+        "operatingMargins": -0.31457,
+        "profitMargins": -0.23587,
+        "financialCurrency": "CNY"
+    }
+}

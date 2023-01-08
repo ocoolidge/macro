@@ -1,0 +1,638 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ADPT",
+        "Security_Name": "Adaptive Biotechnologies Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ADPT",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 3,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 3,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 8.08,
+        "open": 8.14,
+        "dayLow": 7.51,
+        "dayHigh": 8.36,
+        "regularMarketPreviousClose": 8.08,
+        "regularMarketOpen": 8.14,
+        "regularMarketDayLow": 7.51,
+        "regularMarketDayHigh": 8.36,
+        "payoutRatio": 0,
+        "beta": 1.098859,
+        "forwardPE": -6.3740463,
+        "volume": 1421317,
+        "regularMarketVolume": 1421317,
+        "averageVolume": 1026188,
+        "averageVolume10days": 985180,
+        "averageDailyVolume10Day": 985180,
+        "bid": 7.72,
+        "ask": 8.35,
+        "bidSize": 1300,
+        "askSize": 900,
+        "marketCap": 1194150272,
+        "fiftyTwoWeekLow": 5.955,
+        "fiftyTwoWeekHigh": 23.06,
+        "priceToSalesTrailing12Months": 7.106345,
+        "fiftyDayAverage": 8.0946,
+        "twoHundredDayAverage": 8.82185,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.43,
+                    "estimate": -0.45
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.44,
+                    "estimate": -0.46
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.37,
+                    "estimate": -0.43
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.32,
+                    "estimate": -0.38
+                }
+            ],
+            "currentQuarterEstimate": -0.35,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 55663000,
+                    "earnings": -46447000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 85071000,
+                    "earnings": -68606000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 98382000,
+                    "earnings": -146227000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 154344000,
+                    "earnings": -207279000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 37930000,
+                    "earnings": -61433000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 38620000,
+                    "earnings": -62736000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 43660000,
+                    "earnings": -52046000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 47830000,
+                    "earnings": -45281000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ],
+            "earningsAverage": -0.35,
+            "earningsLow": -0.41,
+            "earningsHigh": -0.3,
+            "revenueAverage": 55270000,
+            "revenueLow": 52070000,
+            "revenueHigh": 58000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2023-01-05T09:56:56.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "Sector Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-12-21T10:56:08.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-11-07T13:56:46.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-26T12:17:09.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-25T13:36:58.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-08-18T10:36:02.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-03T13:38:10.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-05-24T11:14:34.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-06T11:57:30.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-16T14:16:05.000Z",
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-15T14:24:42.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-06T12:15:40.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-07T11:42:32.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-03T13:58:54.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-02-26T13:27:51.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-11T12:41:32.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-09T11:34:34.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-19T15:00:39.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-07-23T12:15:16.000Z",
+                "firm": "BTIG Research",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-22T13:18:11.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-22T12:55:56.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-22T12:25:25.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-22T12:24:05.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-22T11:52:54.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-22T11:44:58.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-11-04T08:30:42.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-11-02T13:38:32.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-11-02T11:26:46.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-11-02T10:44:15.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-09-08T07:23:27.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-08-31T07:28:36.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-11T21:30:37.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-18T08:45:33.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-08-13T14:16:25.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-08-03T07:51:46.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-06-23T07:46:16.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-06-17T06:43:46.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-06-10T07:53:01.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-06-05T06:26:40.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-02-20T09:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-11-13T06:45:48.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-10-30T09:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-15T16:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-10-01T05:52:42.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-07-21T08:15:49.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-07-21T07:40:23.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.05988029,
+        "postMarketChange": -0.5000005,
+        "postMarketTime": "2023-01-07T00:53:38.000Z",
+        "postMarketPrice": 7.85,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.0334159,
+        "regularMarketChange": 0.27000046,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 8.35,
+        "regularMarketDayHigh": 8.36,
+        "regularMarketDayLow": 7.51,
+        "regularMarketVolume": 1421317,
+        "averageDailyVolume10Day": 985180,
+        "averageDailyVolume3Month": 1026188,
+        "regularMarketPreviousClose": 8.08,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 8.14,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ADPT",
+        "underlyingSymbol": null,
+        "shortName": "Adaptive Biotechnologies Corpor",
+        "longName": "Adaptive Biotechnologies Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1194150272
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 756482240,
+        "forwardPE": -6.3740463,
+        "profitMargins": -1.31811,
+        "floatShares": 98229330,
+        "sharesOutstanding": 143012000,
+        "sharesShort": 4727025,
+        "sharesShortPriorMonth": 5147738,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.033099998,
+        "heldPercentInsiders": 0.01638,
+        "heldPercentInstitutions": 0.89361,
+        "shortRatio": 5.65,
+        "shortPercentOfFloat": 0.048699997,
+        "beta": 1.098859,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 3.412,
+        "priceToBook": 2.4472451,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -221496000,
+        "trailingEps": -1.626,
+        "forwardEps": -1.31,
+        "pegRatio": -0.66,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 4.502,
+        "enterpriseToEbitda": -3.743,
+        "52WeekChange": -0.61959,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "1165 Eastlake Avenue East",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98109",
+        "country": "United States",
+        "phone": "206 659 0067",
+        "fax": "206 659 0667",
+        "website": "https://www.adaptivebiotech.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Adaptive Biotechnologies Corporation, a commercial-stage company, develops an immune medicine platform for the diagnosis and treatment of various diseases. The company offers immunoSEQ, a platform and core immunosequencing product that is used to answer translational research questions, as well as to discover new prognostic and diagnostic signals; and T-Detect COVID for the confirmation of past COVID-19 infection. It also provides clonoSEQ, a clinical diagnostic product for the detection and monitoring of minimal residual disease in patients with multiple myeloma, B cell acute lymphoblastic leukemia, and chronic lymphocytic leukemia, as well as available as a CLIA-validated laboratory developed test for patients with other lymphoid cancers; and immunoSEQ T-MAP COVID for vaccine developers and researchers to measure the T-cell immune response to vaccines. In addition, the company offers a pipeline of clinical products and services that are used for the diagnosing, monitoring, and treatment of diseases, such as cancer, autoimmune conditions, and infectious diseases. It serves the life sciences research, clinical diagnostics, and drug discovery applications. Adaptive Biotechnologies Corporation has strategic collaborations with Genentech, Inc. for the development, manufacture, and commercialization of neoantigen directed T cell therapies for the treatment of a range of cancers; and Microsoft Corporation to develop diagnostic tests for the early detection of various diseases from a single blood test. The company was formerly known as Adaptive TCR Corporation and changed its name to Adaptive Biotechnologies Corporation in December 2011. Adaptive Biotechnologies Corporation was incorporated in 2009 and is headquartered in Seattle, Washington.",
+        "fullTimeEmployees": 858,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 8.35,
+        "targetHighPrice": 18,
+        "targetLowPrice": 7,
+        "targetMeanPrice": 13,
+        "targetMedianPrice": 13.5,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 508079008,
+        "totalCashPerShare": 3.553,
+        "ebitda": -202112992,
+        "totalDebt": 109049000,
+        "quickRatio": 5.149,
+        "currentRatio": 5.426,
+        "totalRevenue": 168040000,
+        "debtToEquity": 22.355,
+        "revenuePerShare": 1.183,
+        "returnOnAssets": -0.14825,
+        "returnOnEquity": -0.38891,
+        "grossProfits": 90982000,
+        "freeCashflow": -115139624,
+        "operatingCashflow": -207752000,
+        "revenueGrowth": 0.212,
+        "grossMargins": 0.5678,
+        "ebitdaMargins": -1.20277,
+        "operatingMargins": -1.3246601,
+        "profitMargins": -1.31811,
+        "financialCurrency": "USD"
+    }
+}

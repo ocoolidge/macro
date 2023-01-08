@@ -1,0 +1,330 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ACU",
+        "Security_Name": "Acme United Corporation. Common Stock",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ACU",
+        "NASDAQ_Symbol": "ACU",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 21.65,
+        "open": 21.97,
+        "dayLow": 22,
+        "dayHigh": 22.47,
+        "regularMarketPreviousClose": 21.65,
+        "regularMarketOpen": 21.97,
+        "regularMarketDayLow": 22,
+        "regularMarketDayHigh": 22.47,
+        "dividendRate": 0.56,
+        "dividendYield": 0.0256,
+        "exDividendDate": "2023-01-05T00:00:00.000Z",
+        "payoutRatio": 0.3462,
+        "fiveYearAvgDividendYield": 1.96,
+        "beta": 0.908405,
+        "trailingPE": 14.193549,
+        "forwardPE": 8.835341,
+        "volume": 2541,
+        "regularMarketVolume": 2541,
+        "averageVolume": 7745,
+        "averageVolume10days": 5070,
+        "averageDailyVolume10Day": 5070,
+        "bid": 21.27,
+        "ask": 24.75,
+        "bidSize": 900,
+        "askSize": 900,
+        "marketCap": 77764064,
+        "fiftyTwoWeekLow": 21.11,
+        "fiftyTwoWeekHigh": 35.59,
+        "priceToSalesTrailing12Months": 0.39748237,
+        "fiftyDayAverage": 23.5886,
+        "twoHundredDayAverage": 28.2869,
+        "trailingAnnualDividendRate": 0.54,
+        "trailingAnnualDividendYield": 0.024942264,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.6,
+                    "estimate": 0.6
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.22,
+                    "estimate": 0.65
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.71,
+                    "estimate": 0.82
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.02,
+                    "estimate": 0.55
+                }
+            ],
+            "currentQuarterEstimate": 0.13,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677506400,
+                1677852000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 137321395,
+                    "earnings": 4598350
+                },
+                {
+                    "date": 2019,
+                    "revenue": 142457342,
+                    "earnings": 5513608
+                },
+                {
+                    "date": 2020,
+                    "revenue": 164003040,
+                    "earnings": 8098766
+                },
+                {
+                    "date": 2021,
+                    "revenue": 182087559,
+                    "earnings": 13655679
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 45792559,
+                    "earnings": 2333679
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 43333000,
+                    "earnings": 830000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 56773000,
+                    "earnings": 2738000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 49744000,
+                    "earnings": 64000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677506400,
+                1677852000
+            ],
+            "earningsAverage": 0.13,
+            "earningsLow": 0.13,
+            "earningsHigh": 0.13,
+            "revenueAverage": 44420000,
+            "revenueLow": 44420000,
+            "revenueHigh": 44420000
+        },
+        "exDividendDate": "2023-01-05T00:00:00.000Z",
+        "dividendDate": "2023-01-27T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2016-07-01T07:44:25.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.0161663,
+        "regularMarketChange": 0.35,
+        "regularMarketTime": "2023-01-06T19:54:20.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 22,
+        "regularMarketDayHigh": 22.47,
+        "regularMarketDayLow": 22,
+        "regularMarketVolume": 2541,
+        "averageDailyVolume10Day": 5070,
+        "averageDailyVolume3Month": 7745,
+        "regularMarketPreviousClose": 21.65,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 21.97,
+        "exchange": "ASE",
+        "exchangeName": "NYSE American",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ACU",
+        "underlyingSymbol": null,
+        "shortName": "Acme",
+        "longName": "Acme United Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 77764064
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 144606560,
+        "forwardPE": 8.835341,
+        "profitMargins": 0.03049,
+        "floatShares": 3085995,
+        "sharesOutstanding": 3534730,
+        "sharesShort": 8432,
+        "sharesShortPriorMonth": 12404,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0023999999,
+        "heldPercentInsiders": 0.12457,
+        "heldPercentInstitutions": 0.62645,
+        "shortRatio": 0.96,
+        "shortPercentOfFloat": 0.0038,
+        "beta": 0.908405,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 22.344,
+        "priceToBook": 0.98460436,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.969,
+        "netIncomeToCommon": 5965679,
+        "trailingEps": 1.55,
+        "forwardEps": 2.49,
+        "pegRatio": 1.82,
+        "lastSplitFactor": "4:3",
+        "lastSplitDate": "1983-07-26T00:00:00.000Z",
+        "enterpriseToRevenue": 0.739,
+        "enterpriseToEbitda": 10.49,
+        "52WeekChange": -0.3125,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.14,
+        "lastDividendDate": 1672876800
+    },
+    "summaryProfile": {
+        "address1": "1 Waterview Drive",
+        "address2": "Suite 200",
+        "city": "Shelton",
+        "state": "CT",
+        "zip": "06484",
+        "country": "United States",
+        "phone": "203 254 6060",
+        "website": "https://www.acmeunited.com",
+        "industry": "Household & Personal Products",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Acme United Corporation supplies first aid and safety, cutting, sharpening, and measuring products to the school, home, office, hardware, sporting goods, and industrial markets in the United States, Canada, Europe, and internationally. The company offers scissors, shears, knives, rulers, pencil sharpeners, paper trimmers, safety cutters, lettering products, glue guns, and other craft products under the Westcott brand name; and cutting tools under the Clauss brand. It also provides fixed blades, folding knives, sight cutting tools, and tactical tools under the Camillus brand; fishing tools and knives, as well as cut and puncture resistant gloves, telescopic landing nets, net containment systems, and tools and fishing gaffs under the Cuda brand; and sharpening tools under the DMT brand. In addition, the company offers first aid kit and safety solutions under the First Aid Only brand; portable eyewash solution and over-the-counter medication, including active ingredients aspirin, acetaminophen, and ibuprofen under the PhysiciansCare brand; bodily fluid and spill clean-up solution under the Spill Magic brand; various first aid kit, refill, and safety supplies, including CPR kits, burn kits, and automotive and emergency first aid kits under the First Aid Central; and alcohol prep pads, alcohol wipes, benzalkonium chloride wipes, various antiseptic wipes, castile soaps, and lens cleaning wipes under the Med-Nap brand. It sells its products directly and through its independent manufacturer representatives to wholesale, contract, and retail stationery distributors; office supply super stores; school supply distributors; industrial distributors; wholesale florists; mass market and e-commerce retailers; and hardware chains, as well as sells a selection of products through its websites. The company was formerly known as Acme Shear Company and changed its name to Acme United Corporation in 1971. Acme United Corporation was founded in 1867 and is based in Shelton, Connecticut.",
+        "fullTimeEmployees": 654,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 22,
+        "targetHighPrice": 36,
+        "targetLowPrice": 36,
+        "targetMeanPrice": 36,
+        "targetMedianPrice": 36,
+        "recommendationMean": 1,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 4218000,
+        "totalCashPerShare": 1.193,
+        "ebitda": 13784561,
+        "totalDebt": 71414000,
+        "quickRatio": 1.815,
+        "currentRatio": 4.718,
+        "totalRevenue": 195641552,
+        "debtToEquity": 90.419,
+        "revenuePerShare": 55.448,
+        "returnOnAssets": 0.037,
+        "returnOnEquity": 0.07671,
+        "grossProfits": 64800357,
+        "freeCashflow": -12840144,
+        "operatingCashflow": -5445422,
+        "earningsGrowth": -0.964,
+        "revenueGrowth": 0.038,
+        "grossMargins": 0.33495,
+        "ebitdaMargins": 0.07046,
+        "operatingMargins": 0.0478,
+        "profitMargins": 0.03049,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,472 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AJRD",
+        "Security_Name": "Aerojet Rocketdyne Holdings, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AJRD",
+        "NASDAQ_Symbol": "AJRD",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 1,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 56.09,
+        "open": 56.06,
+        "dayLow": 55.86,
+        "dayHigh": 56.53,
+        "regularMarketPreviousClose": 56.09,
+        "regularMarketOpen": 56.06,
+        "regularMarketDayLow": 55.86,
+        "regularMarketDayHigh": 56.53,
+        "exDividendDate": "2021-03-09T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 0.560344,
+        "trailingPE": 48.18966,
+        "forwardPE": 27.67327,
+        "volume": 1128449,
+        "regularMarketVolume": 1128449,
+        "averageVolume": 1068301,
+        "averageVolume10days": 1504650,
+        "averageDailyVolume10Day": 1504650,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 900,
+        "askSize": 4000,
+        "marketCap": 4508323840,
+        "fiftyTwoWeekLow": 35.47,
+        "fiftyTwoWeekHigh": 56.53,
+        "priceToSalesTrailing12Months": 2.0688927,
+        "fiftyDayAverage": 52.4462,
+        "twoHundredDayAverage": 44.1672,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.43,
+                    "estimate": 0.49
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.44,
+                    "estimate": 0.42
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.2,
+                    "estimate": 0.48
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.45,
+                    "estimate": 0.44
+                }
+            ],
+            "currentQuarterEstimate": 0.6,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676458740,
+                1676894400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1895900000,
+                    "earnings": 137300000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1981500000,
+                    "earnings": 141000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 2072700000,
+                    "earnings": 137700000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 2188000000,
+                    "earnings": 143700000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 589700000,
+                    "earnings": 38000000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": 0
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 528500000,
+                    "earnings": 16400000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 549800000,
+                    "earnings": 13700000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676458740,
+                1676894400
+            ],
+            "earningsAverage": 0.6,
+            "earningsLow": 0.49,
+            "earningsHigh": 0.66,
+            "revenueAverage": 615730000,
+            "revenueLow": 610000000,
+            "revenueHigh": 618900000
+        },
+        "exDividendDate": "2021-03-09T00:00:00.000Z",
+        "dividendDate": "2021-03-24T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-20T13:41:31.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-12-19T10:59:46.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-04-07T09:04:47.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-02-08T12:27:01.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-04-27T14:24:52.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-07T11:03:51.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-12-22T13:45:26.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-10-27T14:57:57.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-04T09:37:59.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-07-28T12:27:25.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-21T09:31:03.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-04-29T16:26:29.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-20T15:53:19.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-07T12:26:38.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-09-10T11:12:19.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-06-28T11:55:18.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-01-14T13:02:04.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-21T11:29:56.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-23T10:32:07.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-03-31T13:39:50.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-01-19T13:23:50.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.00178895,
+        "postMarketChange": -0.100002,
+        "postMarketTime": "2023-01-06T23:37:41.000Z",
+        "postMarketPrice": 55.8,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.0033873885,
+        "regularMarketChange": -0.18999863,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 55.9,
+        "regularMarketDayHigh": 56.53,
+        "regularMarketDayLow": 55.86,
+        "regularMarketVolume": 1128449,
+        "averageDailyVolume10Day": 1504650,
+        "averageDailyVolume3Month": 1068301,
+        "regularMarketPreviousClose": 56.09,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 56.06,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AJRD",
+        "underlyingSymbol": null,
+        "shortName": "Aerojet Rocketdyne Holdings, In",
+        "longName": "Aerojet Rocketdyne Holdings, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 4508323840
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 4495472128,
+        "forwardPE": 27.67327,
+        "profitMargins": 0.04405,
+        "floatShares": 74857810,
+        "sharesOutstanding": 80649800,
+        "sharesShort": 2298666,
+        "sharesShortPriorMonth": 2358126,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.028499998,
+        "heldPercentInsiders": 0.03462,
+        "heldPercentInstitutions": 0.92821,
+        "shortRatio": 3.46,
+        "shortPercentOfFloat": 0.0388,
+        "beta": 0.560344,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 6.545,
+        "priceToBook": 8.540871,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.678,
+        "netIncomeToCommon": 95600000,
+        "trailingEps": 1.16,
+        "forwardEps": 2.02,
+        "pegRatio": 2.71,
+        "lastSplitFactor": "10000:5275",
+        "lastSplitDate": "1999-10-04T00:00:00.000Z",
+        "enterpriseToRevenue": 2.063,
+        "enterpriseToEbitda": 15.829,
+        "52WeekChange": 0.2149533,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 5,
+        "lastDividendDate": 1615248000
+    },
+    "summaryProfile": {
+        "address1": "222 North Pacific Coast Highway",
+        "address2": "Suite 500",
+        "city": "El Segundo",
+        "state": "CA",
+        "zip": "90245",
+        "country": "United States",
+        "phone": "310 252 8100",
+        "website": "https://www.aerojetrocketdyne.com",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "Aerojet Rocketdyne Holdings, Inc. designs, develops, manufactures, and sells aerospace and defense products and systems in the United States. It operates in two segments, Aerospace and Defense, and Real Estate. The Aerospace and Defense segment offers aerospace and defense products and systems for the United States government, including the Department of Defense, the National Aeronautics and Space Administration, and aerospace and defense prime contractors. This segment provides liquid and solid rocket propulsion systems, air-breathing hypersonic engines, and electric power and propulsion systems for space, defense, civil, and commercial applications; and armament systems. The Real Estate segment engages in the re-zoning, entitlement, sale, and leasing of the company's excess real estate assets. It owns 11,277 acres of land adjacent to the United States Highway 50 between Rancho Cordova and Folsom, California east of Sacramento. The company was formerly known as GenCorp Inc. and changed its name to Aerojet Rocketdyne Holdings, Inc. in April 2015. Aerojet Rocketdyne Holdings, Inc. was incorporated in 1915 and is headquartered in El Segundo, California.",
+        "fullTimeEmployees": 5000,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 55.9,
+        "targetHighPrice": 58,
+        "targetLowPrice": 45,
+        "targetMeanPrice": 53.75,
+        "targetMedianPrice": 56,
+        "recommendationMean": 3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 343700000,
+        "totalCashPerShare": 4.277,
+        "ebitda": 284000000,
+        "totalDebt": 346900000,
+        "quickRatio": 1.146,
+        "currentRatio": 1.248,
+        "totalRevenue": 2179099904,
+        "debtToEquity": 66.064,
+        "revenuePerShare": 27.179,
+        "returnOnAssets": 0.06066,
+        "returnOnEquity": 0.20748,
+        "grossProfits": 387900000,
+        "freeCashflow": 181387504,
+        "operatingCashflow": 30400000,
+        "earningsGrowth": -0.669,
+        "revenueGrowth": 0.008,
+        "grossMargins": 0.15387,
+        "ebitdaMargins": 0.13033,
+        "operatingMargins": 0.10325,
+        "profitMargins": 0.04405,
+        "financialCurrency": "USD"
+    }
+}

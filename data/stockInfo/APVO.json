@@ -1,0 +1,339 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "APVO",
+        "Security_Name": "Aptevo Therapeutics Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "D",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "APVO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 2.25,
+        "open": 2.24,
+        "dayLow": 2.13,
+        "dayHigh": 2.315,
+        "regularMarketPreviousClose": 2.25,
+        "regularMarketOpen": 2.24,
+        "regularMarketDayLow": 2.13,
+        "regularMarketDayHigh": 2.315,
+        "payoutRatio": 0,
+        "beta": 5.518054,
+        "forwardPE": -0.4152381,
+        "volume": 139586,
+        "regularMarketVolume": 139586,
+        "averageVolume": 767461,
+        "averageVolume10days": 154490,
+        "averageDailyVolume10Day": 154490,
+        "bid": 2.18,
+        "ask": 2.25,
+        "bidSize": 1200,
+        "askSize": 1000,
+        "marketCap": 10677706,
+        "fiftyTwoWeekLow": 1.94,
+        "fiftyTwoWeekHigh": 7.64,
+        "priceToSalesTrailing12Months": 1.0812867,
+        "fiftyDayAverage": 2.79526,
+        "twoHundredDayAverage": 3.78382,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -1.43,
+                    "estimate": -1.47
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -1.27,
+                    "estimate": -1.29
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -1.55,
+                    "estimate": -1.15
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 5.58,
+                    "estimate": -1.33
+                }
+            ],
+            "currentQuarterEstimate": -1.64,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1604966400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 23067000,
+                    "earnings": -53689000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -40448000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 4309000,
+                    "earnings": -17750000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 12292000,
+                    "earnings": -28457000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 3096000,
+                    "earnings": -6997000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 3665000,
+                    "earnings": -6272000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 3114000,
+                    "earnings": -7697000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": 28010000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1604966400
+            ],
+            "earningsAverage": -1.64,
+            "earningsLow": -1.76,
+            "earningsHigh": -1.52
+        },
+        "dividendDate": "2020-03-27T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-05-13T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-28T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-11T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-11T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-09-09T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.02752291,
+        "postMarketChange": 0.059999943,
+        "postMarketTime": "2023-01-07T00:59:11.000Z",
+        "postMarketPrice": 2.24,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.031111084,
+        "regularMarketChange": -0.06999993,
+        "regularMarketTime": "2023-01-06T20:59:32.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 2.18,
+        "regularMarketDayHigh": 2.315,
+        "regularMarketDayLow": 2.13,
+        "regularMarketVolume": 139586,
+        "averageDailyVolume10Day": 154490,
+        "averageDailyVolume3Month": 767461,
+        "regularMarketPreviousClose": 2.25,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 2.24,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "APVO",
+        "underlyingSymbol": null,
+        "shortName": "Aptevo Therapeutics Inc.",
+        "longName": "Aptevo Therapeutics Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 10677706
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": -3460974,
+        "forwardPE": -0.31142858,
+        "profitMargins": 0.71332,
+        "floatShares": 5031491,
+        "sharesOutstanding": 4898030,
+        "sharesShort": 56997,
+        "sharesShortPriorMonth": 42348,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0112,
+        "heldPercentInsiders": 0.01118,
+        "heldPercentInstitutions": 0.16007,
+        "shortRatio": 1.24,
+        "shortPercentOfFloat": 0.0113,
+        "beta": 5.518054,
+        "category": null,
+        "bookValue": 3.762,
+        "priceToBook": 0.579479,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": 6312000,
+        "trailingEps": -5.235,
+        "forwardEps": -5.25,
+        "lastSplitFactor": "1:14",
+        "lastSplitDate": "2020-03-27T00:00:00.000Z",
+        "enterpriseToRevenue": -0.35,
+        "enterpriseToEbitda": 0.166
+    },
+    "summaryProfile": {
+        "address1": "2401 4th Avenue",
+        "address2": "Suite 1050",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98121",
+        "country": "United States",
+        "phone": "206 838 0500",
+        "fax": "206 838 0503",
+        "website": "https://www.aptevotherapeutics.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Aptevo Therapeutics Inc., a clinical-stage biotechnology company, focuses on developing immunotherapeutic candidates for the treatment of various forms of cancer in the United States. Its lead clinical candidate is APVO436, a bispecific T-cell engaging antibody candidate that is in Phase 1b clinical trial for acute myelogenous leukemia and myelodysplastic syndrome. The company's preclinical candidates also include ALG.APV-527, an investigational bispecific ADAPTIR candidate that features a mechanism of action to target 4-1BB (CD137) and 5T4, a tumor antigen expressed in various types of cancers; and APVO603, a dual agonist bispecific antibody to target 4-1BB and OX40. It also develoes APVO442, a bispecific candidate based on the ADAPTIR-FLEX platform technology to enhance biodistribution of drugs to PSMA positive tumors for treatment of prostate cancer. The company has a collaboration and option agreement with Alligator Bioscience AB to develop ALG.APV-527. Aptevo Therapeutics Inc. was incorporated in 2016 and is headquartered in Seattle, Washington.",
+        "fullTimeEmployees": 54,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 2.18,
+        "targetHighPrice": 23,
+        "targetLowPrice": 13,
+        "targetMeanPrice": 18,
+        "targetMedianPrice": 18,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 29431000,
+        "totalCashPerShare": 5.781,
+        "ebitda": -20894000,
+        "totalDebt": 10749000,
+        "quickRatio": 4.203,
+        "currentRatio": 4.484,
+        "totalRevenue": 9875000,
+        "debtToEquity": 46.639,
+        "revenuePerShare": 1.999,
+        "returnOnAssets": -0.24896,
+        "returnOnEquity": 0.34185,
+        "grossProfits": 12292000,
+        "freeCashflow": -22035876,
+        "operatingCashflow": -17309000,
+        "grossMargins": 1.13701,
+        "ebitdaMargins": -2.11585,
+        "operatingMargins": -2.2241,
+        "profitMargins": 0.71332,
+        "financialCurrency": "USD"
+    }
+}

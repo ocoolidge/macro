@@ -1,0 +1,229 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ACV",
+        "Security_Name": "AllianzGI Diversified Income & Convertible Fund Common Shares of Beneficial Interest",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ACV",
+        "NASDAQ_Symbol": "ACV",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 18.61,
+        "open": 18.66,
+        "dayLow": 18.599,
+        "dayHigh": 19.12,
+        "regularMarketPreviousClose": 18.61,
+        "regularMarketOpen": 18.66,
+        "regularMarketDayLow": 18.599,
+        "regularMarketDayHigh": 19.12,
+        "dividendRate": 2.16,
+        "dividendYield": 0.113900006,
+        "exDividendDate": "2023-01-19T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 13.3,
+        "volume": 37522,
+        "regularMarketVolume": 37522,
+        "averageVolume": 37988,
+        "averageVolume10days": 42820,
+        "averageDailyVolume10Day": 42820,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 3200,
+        "askSize": 3100,
+        "marketCap": 196482464,
+        "fiftyTwoWeekLow": 17.43,
+        "fiftyTwoWeekHigh": 36.63,
+        "fiftyDayAverage": 19.8447,
+        "twoHundredDayAverage": 21.0178,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "2Q2010",
+                    "actual": 0.39,
+                    "estimate": 0.37
+                },
+                {
+                    "date": "3Q2010",
+                    "actual": 0.46,
+                    "estimate": 0.39
+                },
+                {
+                    "date": "4Q2010",
+                    "actual": 0.52,
+                    "estimate": 0.54
+                },
+                {
+                    "date": "1Q2011",
+                    "actual": 0.41,
+                    "estimate": 0.37
+                }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2011,
+            "earningsDate": [
+                1585699200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [],
+            "quarterly": []
+        }
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1585699200
+            ],
+            "revenueAverage": 441400000,
+            "revenueLow": 440150000,
+            "revenueHigh": 442640000
+        },
+        "exDividendDate": "2023-01-19T00:00:00.000Z",
+        "dividendDate": "2018-03-01T00:00:00.000Z"
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.018807,
+        "regularMarketChange": 0.349998,
+        "regularMarketTime": "2023-01-06T20:59:35.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 18.96,
+        "regularMarketDayHigh": 19.12,
+        "regularMarketDayLow": 18.599,
+        "regularMarketVolume": 37522,
+        "averageDailyVolume10Day": 42820,
+        "averageDailyVolume3Month": 37988,
+        "regularMarketPreviousClose": 18.61,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 18.66,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ACV",
+        "underlyingSymbol": null,
+        "shortName": "568516",
+        "longName": "Virtus Diversified Income & Convertible Fund",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 196482464
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "profitMargins": 0,
+        "sharesOutstanding": 10363000,
+        "sharesShort": 19125,
+        "sharesShortPriorMonth": 32039,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0018000001,
+        "heldPercentInsiders": 0.00041,
+        "heldPercentInstitutions": 0.23751,
+        "shortRatio": 0.51,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "fundFamily": null,
+        "legalType": null,
+        "lastSplitFactor": null,
+        "52WeekChange": -0.4543885,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.196,
+        "lastDividendDate": 1672272000
+    },
+    "summaryProfile": {
+        "address1": "1633 Broadway",
+        "address2": "43rd Floor",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10019",
+        "country": "United States",
+        "phone": "212 739 3000",
+        "fax": "212 739 3948",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Virtus Diversified Income & Convertible Fund is a closed-ended balanced mutual fund launched and managed by Allianz Global Investors Fund Management LLC. The fund is co-managed by Allianz Global Investors U.S. LLC. It invests in the public equity and fixed income markets. The fund primarily invests in diversified portfolio of convertible securities, income-producing equity securities, and income-producing debt and other instruments of varying maturities. It employs fundamental analysis along with bottom-up stock picking approach. Virtus Diversified Income & Convertible Fund was formed In May 27, 2015 and is domiciled in United States.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 18.96,
+        "targetHighPrice": 38,
+        "targetLowPrice": 33,
+        "targetMeanPrice": 36.93,
+        "targetMedianPrice": 37.5,
+        "recommendationMean": 3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 7,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": null
+    }
+}

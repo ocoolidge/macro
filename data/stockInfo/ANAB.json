@@ -1,0 +1,574 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ANAB",
+        "Security_Name": "AnaptysBio, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ANAB",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 4,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 5,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 4,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 30.21,
+        "open": 29,
+        "dayLow": 21.01,
+        "dayHigh": 29.25,
+        "regularMarketPreviousClose": 30.21,
+        "regularMarketOpen": 29,
+        "regularMarketDayLow": 21.01,
+        "regularMarketDayHigh": 29.25,
+        "payoutRatio": 0,
+        "beta": -0.033529,
+        "forwardPE": -7.9828176,
+        "volume": 2150260,
+        "regularMarketVolume": 2150260,
+        "averageVolume": 221090,
+        "averageVolume10days": 353550,
+        "averageDailyVolume10Day": 353550,
+        "bid": 22.5,
+        "ask": 23.1,
+        "bidSize": 800,
+        "askSize": 900,
+        "marketCap": 642186368,
+        "fiftyTwoWeekLow": 18.2,
+        "fiftyTwoWeekHigh": 35.695,
+        "priceToSalesTrailing12Months": 26.66112,
+        "fiftyDayAverage": 28.693,
+        "twoHundredDayAverage": 24.703,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.24,
+                    "estimate": -0.91
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -1.13,
+                    "estimate": 2.57
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -1.31,
+                    "estimate": -0.99
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -1.15,
+                    "estimate": -1.02
+                }
+            ],
+            "currentQuarterEstimate": -0.76,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678060800,
+                1678406400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 5000000,
+                    "earnings": -61656000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 8000000,
+                    "earnings": -97336000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 75000000,
+                    "earnings": -19931000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 63175000,
+                    "earnings": -57796000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 20890000,
+                    "earnings": -6666000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 1011000,
+                    "earnings": -32538000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 970000,
+                    "earnings": -36255000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 1216000,
+                    "earnings": -32554000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678060800,
+                1678406400
+            ],
+            "earningsAverage": -0.76,
+            "earningsLow": -1.18,
+            "earningsHigh": 0.82,
+            "revenueAverage": 10340000,
+            "revenueLow": 1200000,
+            "revenueHigh": 48640000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-13T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-09-01T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-03-22T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-03-08T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-22T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-05-21T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-03-16T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-03-09T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-02-11T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-10-27T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-10-14T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-07T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-03T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-08T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-10-03T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-09T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-06-24T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-06-21T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-02-22T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-12-20T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-11-21T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-09-27T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-28T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-08-15T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "Market Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-19T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-04-04T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-03-27T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-03-06T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-20T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-11-15T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-11-09T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-09-15T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-08-25T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-11T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-07-10T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-03-09T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2017-02-21T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-02-21T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.0314249,
+        "postMarketChange": -0.73,
+        "postMarketTime": "2023-01-07T00:59:57.000Z",
+        "postMarketPrice": 22.5,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.23104931,
+        "regularMarketChange": -6.9799995,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 23.23,
+        "regularMarketDayHigh": 29.25,
+        "regularMarketDayLow": 21.01,
+        "regularMarketVolume": 2150260,
+        "averageDailyVolume10Day": 353550,
+        "averageDailyVolume3Month": 221090,
+        "regularMarketPreviousClose": 30.21,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 29,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ANAB",
+        "underlyingSymbol": null,
+        "shortName": "AnaptysBio, Inc.",
+        "longName": "AnaptysBio, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 642186368
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 369616128,
+        "forwardPE": -6.278378,
+        "profitMargins": 0,
+        "floatShares": 14254307,
+        "sharesOutstanding": 27644700,
+        "sharesShort": 5492310,
+        "sharesShortPriorMonth": 5410174,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.19450001,
+        "heldPercentInsiders": 0.0034599998,
+        "heldPercentInstitutions": 1.2187101,
+        "shortRatio": 26.12,
+        "shortPercentOfFloat": 0.2783,
+        "beta": -0.033529,
+        "category": null,
+        "bookValue": 14.503,
+        "priceToBook": 1.6017375,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -108013000,
+        "trailingEps": -0.73,
+        "forwardEps": -2.91,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 15.345,
+        "enterpriseToEbitda": -3.949
+    },
+    "summaryProfile": {
+        "address1": "10770 Wateridge Circle",
+        "address2": "Suite 210",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92121-5801",
+        "country": "United States",
+        "phone": "858 362 6295",
+        "fax": "858 362 6296",
+        "website": "https://www.anaptysbio.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "AnaptysBio, Inc., a clinical stage biotechnology company, engages in developing therapeutic product candidates for inflammation and immuno-oncology indications. Its products include Imsidolimab, an antibody that inhibits the interleukin-36 receptor (IL-36R) for the treatment of various dermatological inflammatory diseases; Rosnilimab, an anti-PD-1 agonist antibody program designed to augment PD-1 signaling through rosnilimab treatment to suppress T-cell driven human inflammatory diseases; and ANB032, an anti-BTLA modulator antibody applicable to human inflammatory diseases associated with lymphoid and myeloid immune cell dysregulation. The company also focuses on developing various antibody programs that are advanced to preclinical and clinical milestones under its collaborations. It has a collaboration and license agreement with GlaxoSmithKline, Inc. and Bristol-Myers Squibb; and license agreements with United Kingdom Research and Innovation, as well as Millipore Corporation. The company was formerly known as Anaptys Biosciences, Inc. and changed its name to AnaptysBio, Inc. in July 2006. AnaptysBio, Inc. was incorporated in 2005 and is based in San Diego, California.",
+        "fullTimeEmployees": 102,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 23.23,
+        "targetHighPrice": 35,
+        "targetLowPrice": 21,
+        "targetMeanPrice": 27.71,
+        "targetMedianPrice": 28,
+        "recommendationMean": 2.9,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 442151008,
+        "totalCashPerShare": 15.657,
+        "ebitda": -93609000,
+        "totalDebt": 20222000,
+        "quickRatio": 22.303,
+        "currentRatio": 22.787,
+        "totalRevenue": 24087000,
+        "debtToEquity": 6.645,
+        "revenuePerShare": 0.869,
+        "returnOnAssets": -0.11436,
+        "returnOnEquity": -0.31306,
+        "grossProfits": -35321000,
+        "freeCashflow": -47112000,
+        "operatingCashflow": -77468000,
+        "revenueGrowth": -0.96,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": -3.9136498,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

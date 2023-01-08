@@ -1,0 +1,345 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMAL",
+        "Security_Name": "Amalgamated Bank - Class A Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AMAL",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 4,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 23.49,
+        "open": 23.54,
+        "dayLow": 23.54,
+        "dayHigh": 24.14,
+        "regularMarketPreviousClose": 23.49,
+        "regularMarketOpen": 23.54,
+        "regularMarketDayLow": 23.54,
+        "regularMarketDayHigh": 24.14,
+        "dividendRate": 0.4,
+        "dividendYield": 0.0167,
+        "exDividendDate": "2022-11-08T00:00:00.000Z",
+        "payoutRatio": 0.15689999,
+        "beta": 0.807296,
+        "trailingPE": 15.349872,
+        "forwardPE": 13.556179,
+        "volume": 133250,
+        "regularMarketVolume": 133250,
+        "averageVolume": 176514,
+        "averageVolume10days": 172890,
+        "averageDailyVolume10Day": 172890,
+        "bid": 23.99,
+        "ask": 24.12,
+        "bidSize": 1100,
+        "askSize": 800,
+        "marketCap": 750368192,
+        "fiftyTwoWeekLow": 15.58,
+        "fiftyTwoWeekHigh": 27.33,
+        "priceToSalesTrailing12Months": 3.1598308,
+        "fiftyDayAverage": 24.5482,
+        "twoHundredDayAverage": 21.8849,
+        "trailingAnnualDividendRate": 0.24,
+        "trailingAnnualDividendYield": 0.010217113,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.5,
+                    "estimate": 0.41
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.46,
+                    "estimate": 0.39
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.65,
+                    "estimate": 0.55
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.77,
+                    "estimate": 0.69
+                }
+            ],
+            "currentQuarterEstimate": 0.71,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674604800,
+                1675036800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 178323000,
+                    "earnings": 44654000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 192001000,
+                    "earnings": 47202000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 195829000,
+                    "earnings": 46188000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 202980000,
+                    "earnings": 52937000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 55874000,
+                    "earnings": 15924000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 53497000,
+                    "earnings": 14165000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 60832000,
+                    "earnings": 19613000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 67268000,
+                    "earnings": 22944000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674604800,
+                1675036800
+            ],
+            "earningsAverage": 0.71,
+            "earningsLow": 0.71,
+            "earningsHigh": 0.71,
+            "revenueAverage": 67380000,
+            "revenueLow": 66300000,
+            "revenueHigh": 68460000
+        },
+        "exDividendDate": "2022-11-08T00:00:00.000Z",
+        "dividendDate": "2022-11-28T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-07-01T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-02T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-01T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-23T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-23T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:10:01.000Z",
+        "postMarketPrice": 24.13,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.027245613,
+        "regularMarketChange": 0.6399994,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 24.13,
+        "regularMarketDayHigh": 24.14,
+        "regularMarketDayLow": 23.54,
+        "regularMarketVolume": 133250,
+        "averageDailyVolume10Day": 172890,
+        "averageDailyVolume3Month": 176514,
+        "regularMarketPreviousClose": 23.49,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 23.54,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMAL",
+        "underlyingSymbol": null,
+        "shortName": "Amalgamated Financial Corp.",
+        "longName": "Amalgamated Financial Corp.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 750368192
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 671585664,
+        "forwardPE": 8.152026,
+        "profitMargins": 0.30591,
+        "floatShares": 16132711,
+        "sharesOutstanding": 31096900,
+        "sharesShort": 967511,
+        "sharesShortPriorMonth": 651888,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0315,
+        "heldPercentInsiders": 0.00511,
+        "heldPercentInstitutions": 0.52514,
+        "shortRatio": 4.58,
+        "shortPercentOfFloat": 0.0695,
+        "beta": 0.807296,
+        "category": null,
+        "bookValue": 17.328,
+        "priceToBook": 1.3925439,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.592,
+        "netIncomeToCommon": 72624000,
+        "trailingEps": 1.572,
+        "forwardEps": 1.78,
+        "lastSplitFactor": "20:1",
+        "lastSplitDate": "2018-07-30T00:00:00.000Z",
+        "enterpriseToRevenue": 2.828
+    },
+    "summaryProfile": {
+        "address1": "275 Seventh Avenue",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "United States",
+        "phone": "212 255 6200",
+        "website": "https://www.amalgamatedbank.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Amalgamated Financial Corp. operates as the bank holding company for Amalgamated Bank that provides commercial and retail banking, investment management, and trust and custody services for commercial and retail customers in the United States. The company accepts various deposit products, including non-interest bearing accounts, interest-bearing demand products, savings accounts, money market accounts, NOW accounts, and certificates of deposit. It also provides various commercial loans comprising commercial and industrial, multifamily mortgage, and commercial real estate loans; and retail loans, such as residential real estate, and consumer and other loans. In addition, the company offers online banking, bill payment, online cash management, and safe deposit box rental services; debit and ATM cards; and trust, custody, and investment management services comprising asset safekeeping, corporate actions, income collections, proxy, account transition, asset transfers, and conversion management services. Further, it provides investment products, such as equity, fixed-income, real estate, and alternative investment products; and brokerage, asset management, and insurance products. The company operates through its three branch offices across New York City, one branch office in Washington, D.C., one branch office in San Francisco, one commercial office in Boston, and digital banking platform. Amalgamated Financial Corp. was founded in 1923 and is headquartered in New York, New York.",
+        "fullTimeEmployees": 375,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 24.13,
+        "targetHighPrice": 28,
+        "targetLowPrice": 26,
+        "targetMeanPrice": 27,
+        "targetMedianPrice": 27,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 259056992,
+        "totalCashPerShare": 8.446,
+        "totalDebt": 195908000,
+        "totalRevenue": 237471008,
+        "revenuePerShare": 7.7,
+        "returnOnAssets": 0.00987,
+        "returnOnEquity": 0.13915,
+        "grossProfits": 202980000,
+        "earningsGrowth": 0.609,
+        "revenueGrowth": 0.285,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.41489,
+        "profitMargins": 0.30591,
+        "financialCurrency": "USD"
+    }
+}

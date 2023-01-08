@@ -1,0 +1,370 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AAON",
+        "Security_Name": "AAON, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AAON",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 70.5,
+        "open": 71.27,
+        "dayLow": 71.18,
+        "dayHigh": 74.33,
+        "regularMarketPreviousClose": 70.5,
+        "regularMarketOpen": 71.27,
+        "regularMarketDayLow": 71.18,
+        "regularMarketDayHigh": 74.33,
+        "dividendRate": 0.48,
+        "dividendYield": 0.0064,
+        "exDividendDate": "2022-11-25T00:00:00.000Z",
+        "payoutRatio": 0.304,
+        "fiveYearAvgDividendYield": 0.66,
+        "beta": 0.80316,
+        "trailingPE": 59.830647,
+        "forwardPE": 30.405739,
+        "volume": 206967,
+        "regularMarketVolume": 206967,
+        "averageVolume": 188598,
+        "averageVolume10days": 178230,
+        "averageDailyVolume10Day": 178230,
+        "bid": 59.11,
+        "ask": 80,
+        "bidSize": 1200,
+        "askSize": 900,
+        "marketCap": 3946871040,
+        "fiftyTwoWeekLow": 47.5,
+        "fiftyTwoWeekHigh": 83,
+        "priceToSalesTrailing12Months": 5.1226664,
+        "fiftyDayAverage": 75.0596,
+        "twoHundredDayAverage": 60.1815,
+        "trailingAnnualDividendRate": 0.38,
+        "trailingAnnualDividendYield": 0.005390071,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.18,
+                    "estimate": 0.28
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.33,
+                    "estimate": 0.27
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.3,
+                    "estimate": 0.41
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.51,
+                    "estimate": 0.42
+                }
+            ],
+            "currentQuarterEstimate": 0.56,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677495540,
+                1677844800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 433947000,
+                    "earnings": 42329000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 469333000,
+                    "earnings": 53711000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 514551000,
+                    "earnings": 79009000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 534517000,
+                    "earnings": 58758000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 136282000,
+                    "earnings": 6186000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 182771000,
+                    "earnings": 18059000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 208814000,
+                    "earnings": 15946000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 242605000,
+                    "earnings": 27473000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677495540,
+                1677844800
+            ],
+            "earningsAverage": 0.56,
+            "earningsLow": 0.51,
+            "earningsHigh": 0.61,
+            "revenueAverage": 240280000,
+            "revenueLow": 238100000,
+            "revenueHigh": 242000000
+        },
+        "exDividendDate": "2022-11-25T00:00:00.000Z",
+        "dividendDate": "2022-12-16T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-15T16:29:18.000Z",
+                "firm": "CJS Securities",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-03-29T13:58:49.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-08-09T13:57:41.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-05-06T12:24:13.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-13T11:05:10.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-02-02T16:42:06.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.04987201,
+        "postMarketChange": -3.7000046,
+        "postMarketTime": "2023-01-06T23:58:50.000Z",
+        "postMarketPrice": 70.49,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.05234046,
+        "regularMarketChange": 3.6900024,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 74.19,
+        "regularMarketDayHigh": 74.33,
+        "regularMarketDayLow": 71.18,
+        "regularMarketVolume": 206967,
+        "averageDailyVolume10Day": 178230,
+        "averageDailyVolume3Month": 188598,
+        "regularMarketPreviousClose": 70.5,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 71.27,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AAON",
+        "underlyingSymbol": null,
+        "shortName": "AAON, Inc.",
+        "longName": "AAON, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 3946871040
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 3880038912,
+        "forwardPE": 30.405739,
+        "profitMargins": 0.08781999,
+        "floatShares": 42205321,
+        "sharesOutstanding": 53199500,
+        "sharesShort": 581175,
+        "sharesShortPriorMonth": 666129,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0109,
+        "heldPercentInsiders": 0.20545,
+        "heldPercentInstitutions": 0.71753,
+        "shortRatio": 3.35,
+        "shortPercentOfFloat": 0.0155,
+        "beta": 0.80316,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 9.844,
+        "priceToBook": 7.536571,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.763,
+        "netIncomeToCommon": 67664000,
+        "trailingEps": 1.24,
+        "forwardEps": 2.44,
+        "pegRatio": 3.46,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": "2014-07-17T00:00:00.000Z",
+        "enterpriseToRevenue": 5.036,
+        "enterpriseToEbitda": 32.398,
+        "52WeekChange": 0.00053942204,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.24,
+        "lastDividendDate": 1669334400
+    },
+    "summaryProfile": {
+        "address1": "2425 South Yukon Avenue",
+        "city": "Tulsa",
+        "state": "OK",
+        "zip": "74107",
+        "country": "United States",
+        "phone": "918 583 2266",
+        "fax": "918 583 6094",
+        "website": "https://www.aaon.com",
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials",
+        "longBusinessSummary": "AAON, Inc., together with its subsidiaries, engages in engineering, manufacturing, marketing, and selling air conditioning and heating equipment in the United States and Canada. The company operates through three segments: AAON Oklahoma, AAON Coil Products, and BasX. It offers rooftop units, data center cooling solutions, cleanroom systems, chillers, packaged outdoor mechanical rooms, air handling units, makeup air units, energy recovery units, condensing units, geothermal/water-source heat pumps, coils, and controls. The company markets and sells its products to retail, manufacturing, educational, lodging, supermarket, data centers, medical and pharmaceutical, and other commercial industries. It sells its products through a network of independent manufacturer representative organizations and internal sales force. The company was incorporated in 1987 and is based in Tulsa, Oklahoma.",
+        "fullTimeEmployees": 2881,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 74.19,
+        "targetHighPrice": 77,
+        "targetLowPrice": 75,
+        "targetMeanPrice": 75.67,
+        "targetMedianPrice": 75,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 10738000,
+        "totalCashPerShare": 0.202,
+        "ebitda": 119761000,
+        "totalDebt": 77966000,
+        "quickRatio": 1.1,
+        "currentRatio": 2.364,
+        "totalRevenue": 770472000,
+        "debtToEquity": 14.883,
+        "revenuePerShare": 14.57,
+        "returnOnAssets": 0.08286,
+        "returnOnEquity": 0.14644,
+        "grossProfits": 137830000,
+        "freeCashflow": -65560624,
+        "operatingCashflow": 29894000,
+        "earningsGrowth": 0.759,
+        "revenueGrowth": 0.751,
+        "grossMargins": 0.24086,
+        "ebitdaMargins": 0.15544,
+        "operatingMargins": 0.112040006,
+        "profitMargins": 0.08781999,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,681 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARNC",
+        "Security_Name": "Arconic Corporation Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ARNC",
+        "NASDAQ_Symbol": "ARNC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 21.63,
+        "open": 21.98,
+        "dayLow": 21.78,
+        "dayHigh": 22.78,
+        "regularMarketPreviousClose": 21.63,
+        "regularMarketOpen": 21.98,
+        "regularMarketDayLow": 21.78,
+        "regularMarketDayHigh": 22.78,
+        "payoutRatio": 0,
+        "beta": 2.001094,
+        "trailingPE": 44.82,
+        "forwardPE": 11.261307,
+        "volume": 413025,
+        "regularMarketVolume": 413025,
+        "averageVolume": 763917,
+        "averageVolume10days": 427110,
+        "averageDailyVolume10Day": 427110,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1100,
+        "askSize": 800,
+        "marketCap": 2274278912,
+        "fiftyTwoWeekLow": 16.33,
+        "fiftyTwoWeekHigh": 34.94,
+        "priceToSalesTrailing12Months": 0.24836506,
+        "fiftyDayAverage": 21.2776,
+        "twoHundredDayAverage": 24.5916,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.25,
+                    "estimate": 0.48
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.39,
+                    "estimate": 0.46
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.05,
+                    "estimate": 0.72
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.64,
+                    "estimate": 0.24
+                }
+            ],
+            "currentQuarterEstimate": 0.27,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676554200,
+                1676899800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 7442000000,
+                    "earnings": 187000000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 7277000000,
+                    "earnings": 177000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 5675000000,
+                    "earnings": -109000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 7504000000,
+                    "earnings": -397000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 2138000000,
+                    "earnings": -38000000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": 0
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 2548000000,
+                    "earnings": 114000000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 2280000000,
+                    "earnings": -65000000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676554200,
+                1676899800
+            ],
+            "earningsAverage": 0.27,
+            "earningsLow": 0.17,
+            "earningsHigh": 0.35,
+            "revenueAverage": 2081770000,
+            "revenueLow": 1983380000,
+            "revenueHigh": 2204000000
+        },
+        "dividendDate": "2020-02-25T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-04T09:01:08.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-10-13T13:38:01.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-15T12:09:54.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-15T12:01:19.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-08T11:06:01.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-05T11:11:55.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-24T14:07:57.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-10T12:49:24.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-11-17T10:29:31.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-09-10T09:11:37.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-04-23T13:05:45.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:23.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:19.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:15.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:14.000Z",
+                "firm": "Argus Research",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:13.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:13.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:11.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:10.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:10.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:10.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:10.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:10.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:08.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:07.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:07.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:06.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:04.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:03.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:01.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:59.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:58.000Z",
+                "firm": "Argus",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:57.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:57.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:57.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:57.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:57.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:57.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:57.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:56.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:56.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:55.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:53.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:49.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:48.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:48.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:47.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:46.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:46.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:44.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:44.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:44.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.003123592,
+        "postMarketChange": 0.069999695,
+        "postMarketTime": "2023-01-06T23:47:37.000Z",
+        "postMarketPrice": 22.48,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.03606106,
+        "regularMarketChange": 0.7800007,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 22.41,
+        "regularMarketDayHigh": 22.78,
+        "regularMarketDayLow": 21.78,
+        "regularMarketVolume": 413025,
+        "averageDailyVolume10Day": 427110,
+        "averageDailyVolume3Month": 763917,
+        "regularMarketPreviousClose": 21.63,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 21.98,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARNC",
+        "underlyingSymbol": null,
+        "shortName": "Arconic Corporation",
+        "longName": "Arconic Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2274278912
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 3755081984,
+        "forwardPE": 11.261307,
+        "profitMargins": 0.00579,
+        "floatShares": 100488011,
+        "sharesOutstanding": 101485000,
+        "sharesShort": 2430563,
+        "sharesShortPriorMonth": 2395302,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.024,
+        "heldPercentInsiders": 0.00952,
+        "heldPercentInstitutions": 0.98380995,
+        "shortRatio": 3.21,
+        "shortPercentOfFloat": 0.0344,
+        "beta": 2.001094,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 15.904,
+        "priceToBook": 1.4090794,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": 53000000,
+        "trailingEps": 0.5,
+        "forwardEps": 1.99,
+        "pegRatio": 1.51,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.41,
+        "enterpriseToEbitda": 6.354,
+        "52WeekChange": -0.33737433,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "201 Isabella Street",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15212-5872",
+        "country": "United States",
+        "phone": "412 992 2500",
+        "website": "https://www.arconic.com",
+        "industry": "Metal Fabrication",
+        "sector": "Industrials",
+        "longBusinessSummary": "Arconic Corporation manufactures and sells aluminum sheets, plates, extrusions, and architectural products in the United States, Canada, China, France, Germany, Hungary, Russia, the United Kingdom, and internationally. It operates through three segments: Rolled Products, Building and Construction Systems, and Extrusions. The Rolled Products segment provides a range of aluminum sheet and plate products for ground transportation, aerospace, industrial, and packaging markets; and roofing, architectural composite panels, ventilated facades and ceiling panels, spacers, culvert pipes, and gutters for building and construction markets. The Building and Construction Systems segment provides various products and building envelope solutions, such as entrances, curtain walls, windows, composite panels, and coil coated sheets for fabricators and glazing subcontractors under the Kawneer, Reynobond, and Reynolux brands. The Extrusions segment offers extruded products, including aerospace shapes, automotive shapes, seamless tubes, hollows, mortar fins, and high strength rods and bars for ground transportation, aerospace, and industrial markets. The company offers its products directly to customers, as well as through distributors. The company was formerly known as Arconic Rolled Products Corporation and changed its name to Arconic Corporation in April 2020. Arconic Corporation was founded in 1888 and is headquartered in Pittsburgh, Pennsylvania.",
+        "fullTimeEmployees": 13900,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 22.41,
+        "targetHighPrice": 26,
+        "targetLowPrice": 22,
+        "targetMeanPrice": 24,
+        "targetMedianPrice": 24,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 312000000,
+        "totalCashPerShare": 3.074,
+        "ebitda": 591000000,
+        "totalDebt": 1859000064,
+        "quickRatio": 0.664,
+        "currentRatio": 1.653,
+        "totalRevenue": 9157000192,
+        "debtToEquity": 114.119,
+        "revenuePerShare": 87.064,
+        "returnOnAssets": 0.03319,
+        "returnOnEquity": 0.03368,
+        "grossProfits": 931000000,
+        "freeCashflow": -206624992,
+        "operatingCashflow": 246000000,
+        "revenueGrowth": 0.206,
+        "grossMargins": 0.10593,
+        "ebitdaMargins": 0.06454,
+        "operatingMargins": 0.03746,
+        "profitMargins": 0.00579,
+        "financialCurrency": "USD"
+    }
+}

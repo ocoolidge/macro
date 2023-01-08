@@ -1,0 +1,354 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BCBP",
+        "Security_Name": "BCB Bancorp, Inc. (NJ) - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BCBP",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 17.84,
+        "open": 17.99,
+        "dayLow": 17.94,
+        "dayHigh": 18.29,
+        "regularMarketPreviousClose": 17.84,
+        "regularMarketOpen": 17.99,
+        "regularMarketDayLow": 17.94,
+        "regularMarketDayHigh": 18.29,
+        "dividendRate": 0.64,
+        "dividendYield": 0.0324,
+        "exDividendDate": "2022-10-31T00:00:00.000Z",
+        "payoutRatio": 0.256,
+        "fiveYearAvgDividendYield": 4.35,
+        "beta": 0.594325,
+        "trailingPE": 12.869258,
+        "forwardPE": 12.5586195,
+        "volume": 42300,
+        "regularMarketVolume": 42300,
+        "averageVolume": 57409,
+        "averageVolume10days": 51360,
+        "averageDailyVolume10Day": 51360,
+        "bid": 18.26,
+        "ask": 18.28,
+        "bidSize": 800,
+        "askSize": 1000,
+        "marketCap": 310172736,
+        "fiftyTwoWeekLow": 15.55,
+        "fiftyTwoWeekHigh": 20.71,
+        "priceToSalesTrailing12Months": 2.6827142,
+        "fiftyDayAverage": 18.9994,
+        "twoHundredDayAverage": 18.5357,
+        "trailingAnnualDividendRate": 0.56,
+        "trailingAnnualDividendYield": 0.031390134,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.61,
+                    "estimate": 0.49
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.56,
+                    "estimate": 0.5
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.58,
+                    "estimate": 0.56
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.76,
+                    "estimate": 0.67
+                }
+            ],
+            "currentQuarterEstimate": 0.75,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674518400,
+                1675036800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 78511000,
+                    "earnings": 16763000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 85926000,
+                    "earnings": 21034000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 83459000,
+                    "earnings": 20857000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 102233000,
+                    "earnings": 34240000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 28747000,
+                    "earnings": 10751000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 27047000,
+                    "earnings": 9952000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 27428000,
+                    "earnings": 10163000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 32397000,
+                    "earnings": 13392000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674518400,
+                1675036800
+            ],
+            "earningsAverage": 0.75,
+            "earningsLow": 0.73,
+            "earningsHigh": 0.77,
+            "revenueAverage": 34100000,
+            "revenueLow": 33420000,
+            "revenueHigh": 34790000
+        },
+        "exDividendDate": "2022-10-31T00:00:00.000Z",
+        "dividendDate": "2022-11-15T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2020-09-28T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-30T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-31T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-02-27T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-09-14T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-09-14T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:14.000Z",
+        "postMarketPrice": 18.21,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.020739848,
+        "regularMarketChange": 0.36999893,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 18.21,
+        "regularMarketDayHigh": 18.29,
+        "regularMarketDayLow": 17.94,
+        "regularMarketVolume": 42300,
+        "averageDailyVolume10Day": 51360,
+        "averageDailyVolume3Month": 57409,
+        "regularMarketPreviousClose": 17.84,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 17.99,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BCBP",
+        "underlyingSymbol": null,
+        "shortName": "BCB Bancorp, Inc. (NJ)",
+        "longName": "BCB Bancorp, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 310172736
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 396325248,
+        "forwardPE": 6.434629,
+        "profitMargins": 0.38279,
+        "floatShares": 13912400,
+        "sharesOutstanding": 17033100,
+        "sharesShort": 323537,
+        "sharesShortPriorMonth": 276939,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0191,
+        "heldPercentInsiders": 0.12023,
+        "heldPercentInstitutions": 0.40668,
+        "shortRatio": 6.8,
+        "shortPercentOfFloat": 0.0216,
+        "beta": 0.594325,
+        "category": null,
+        "bookValue": 13.301,
+        "priceToBook": 1.3690699,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.609,
+        "netIncomeToCommon": 43326000,
+        "trailingEps": 1.415,
+        "forwardEps": 1.45,
+        "pegRatio": 0.74,
+        "lastSplitFactor": "125:100",
+        "lastSplitDate": "2005-10-28T00:00:00.000Z",
+        "enterpriseToRevenue": 3.428
+    },
+    "summaryProfile": {
+        "address1": "104-110 Avenue C",
+        "city": "Bayonne",
+        "state": "NJ",
+        "zip": "07002",
+        "country": "United States",
+        "phone": "800 680 6872",
+        "website": "https://www.bcb.bank",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "BCB Bancorp, Inc. operates as a bank holding company for BCB Community Bank that provides banking products and services to businesses and individuals in the United States. The company offers deposit products, including savings and club accounts, interest and non-interest-bearing demand accounts, money market accounts, certificates of deposit, and individual retirement accounts. It also provides loans, such as commercial and multi-family real estate, one-to-four family mortgage, commercial business, small business administration, construction, home equity and lines of credit, and consumer loans, as well as residential loans secured by one-to-four family dwellings, condominiums, and cooperative units. In addition, the company offers retail and commercial banking services comprising wire transfers, money orders, safe deposit boxes, night depository services, debit cards, online and mobile banking services, fraud detection services, and automated teller services. As of December 31, 2021, it operated 29 branch offices in Bayonne, Carteret, Edison, Hoboken, Fairfield, Holmdel, Jersey City, Lyndhurst, Maplewood, Monroe Township, Newark, Parsippany, Plainsboro, River Edge, Rutherford, South Orange, Union, and Woodbridge, New Jersey, as well as three branches in Staten Island and Hicksville, New York. The company was founded in 2000 and is headquartered in Bayonne, New Jersey.",
+        "fullTimeEmployees": 302,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 18.21,
+        "targetHighPrice": 21,
+        "targetLowPrice": 19.5,
+        "targetMeanPrice": 20.17,
+        "targetMedianPrice": 20,
+        "recommendationMean": 3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 221759008,
+        "totalCashPerShare": 13.065,
+        "totalDebt": 261675008,
+        "totalRevenue": 115619000,
+        "revenuePerShare": 6.806,
+        "returnOnAssets": 0.01416,
+        "returnOnEquity": 0.16219,
+        "grossProfits": 102233000,
+        "earningsGrowth": 0.617,
+        "revenueGrowth": 0.283,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.55465,
+        "profitMargins": 0.38279,
+        "financialCurrency": "USD"
+    }
+}

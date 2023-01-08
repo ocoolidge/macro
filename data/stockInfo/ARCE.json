@@ -1,0 +1,421 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARCE",
+        "Security_Name": "Arco Platform Limited - Class A Common Shares",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ARCE",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 6,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 12.5,
+        "open": 12.89,
+        "dayLow": 12.1,
+        "dayHigh": 12.66,
+        "regularMarketPreviousClose": 12.5,
+        "regularMarketOpen": 12.89,
+        "regularMarketDayLow": 12.1,
+        "regularMarketDayHigh": 12.66,
+        "payoutRatio": 0,
+        "beta": 0.816635,
+        "trailingPE": 230,
+        "forwardPE": 11.096491,
+        "volume": 102206,
+        "regularMarketVolume": 102206,
+        "averageVolume": 288412,
+        "averageVolume10days": 143060,
+        "averageDailyVolume10Day": 143060,
+        "bid": 12.06,
+        "ask": 17.43,
+        "bidSize": 800,
+        "askSize": 1200,
+        "marketCap": 728657664,
+        "fiftyTwoWeekLow": 7.85,
+        "fiftyTwoWeekHigh": 22.74,
+        "priceToSalesTrailing12Months": 0.49025765,
+        "fiftyDayAverage": 11.3244,
+        "twoHundredDayAverage": 14.44505,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.47,
+                    "estimate": 0
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.02,
+                    "estimate": 0.31
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.36,
+                    "estimate": 0.13
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.05,
+                    "estimate": -0.03
+                }
+            ],
+            "currentQuarterEstimate": -0.28,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1669593600,
+                1669939200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 380981000,
+                    "earnings": -82380000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 572837000,
+                    "earnings": -9431000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1001710000,
+                    "earnings": 16780000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1232074000,
+                    "earnings": -158083000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 183267000,
+                    "earnings": -144060000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 460834000,
+                    "earnings": -5815000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 430037000,
+                    "earnings": 102659000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 412137000,
+                    "earnings": -13341000
+                }
+            ]
+        },
+        "financialCurrency": "BRL"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1669593600,
+                1669939200
+            ],
+            "earningsAverage": -0.28,
+            "earningsLow": -0.38,
+            "earningsHigh": -0.19,
+            "revenueAverage": 48510000,
+            "revenueLow": 47710000,
+            "revenueHigh": 50120000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-27T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-30T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-08-26T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-02-16T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-06-18T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-05-06T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-09-02T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-07-08T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-28T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-05-20T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-16T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-12-20T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-06-25T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-11-21T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-10-22T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-10-22T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:00:27.000Z",
+        "postMarketPrice": 12.65,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.011999969,
+        "regularMarketChange": 0.14999962,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 12.65,
+        "regularMarketDayHigh": 12.66,
+        "regularMarketDayLow": 12.1,
+        "regularMarketVolume": 102206,
+        "averageDailyVolume10Day": 143060,
+        "averageDailyVolume3Month": 288412,
+        "regularMarketPreviousClose": 12.5,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 12.89,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARCE",
+        "underlyingSymbol": null,
+        "shortName": "Arco Platform Limited",
+        "longName": "Arco Platform Limited",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 728657664
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1555589888,
+        "forwardPE": 22.999998,
+        "profitMargins": -0.04074,
+        "floatShares": 24140487,
+        "sharesOutstanding": 30200600,
+        "sharesShort": 1491628,
+        "sharesShortPriorMonth": 1327977,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.026199998,
+        "heldPercentInsiders": 0.012619999,
+        "heldPercentInstitutions": 1.06765,
+        "shortRatio": 8.14,
+        "shortPercentOfFloat": 0.051599998,
+        "beta": 0.816635,
+        "category": null,
+        "bookValue": 38.218,
+        "priceToBook": 0.33099586,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -60557000,
+        "trailingEps": 0.055,
+        "forwardEps": 1.14,
+        "pegRatio": 12.17,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.047,
+        "enterpriseToEbitda": 4.896
+    },
+    "summaryProfile": {
+        "address1": "Rua Augusta 2840",
+        "address2": "Suite 91 9th Floor ConsolaCAo",
+        "city": "São Paulo",
+        "state": "SP",
+        "zip": "01412-100",
+        "country": "Brazil",
+        "phone": "55 11 3047 2699",
+        "website": "https://www.arcoeducacao.com.br",
+        "industry": "Education & Training Services",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Arco Platform Limited, a technology company in the education sector, provides a pedagogical system with technology-enabled features to deliver educational content to private schools in Brazil. The company's curriculum solutions provide educational content from basic to secondary education K-12 curriculum in printed and digital formats delivered through its platform. As of March 31, 2022, it had a network consisted of 8,056 partner schools and 1,614,648 enrolled students. The company's activities also comprise editing, publishing, advertising, and sale of educational content for private schools. It serves students, teachers, administrators, and parents. Arco Platform Limited was founded in 1941 and is headquartered in Sao Paulo, Brazil.",
+        "fullTimeEmployees": 2986,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 12.65,
+        "targetHighPrice": 29.96,
+        "targetLowPrice": 11.98,
+        "targetMeanPrice": 20.75,
+        "targetMedianPrice": 18.48,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 753886976,
+        "totalCashPerShare": 13.482,
+        "ebitda": 317696000,
+        "totalDebt": 1684883968,
+        "quickRatio": 1.112,
+        "currentRatio": 1.326,
+        "totalRevenue": 1486274944,
+        "debtToEquity": 87.651,
+        "revenuePerShare": 30.272,
+        "returnOnAssets": 0.0219,
+        "returnOnEquity": -0.03014,
+        "grossProfits": 937667000,
+        "freeCashflow": -58947000,
+        "operatingCashflow": -82766000,
+        "revenueGrowth": 0.608,
+        "grossMargins": 0.7384,
+        "ebitdaMargins": 0.21375,
+        "operatingMargins": 0.118540004,
+        "profitMargins": -0.04074,
+        "financialCurrency": "BRL"
+    }
+}

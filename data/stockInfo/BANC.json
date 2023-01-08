@@ -1,0 +1,697 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BANC",
+        "Security_Name": "Banc of California, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BANC",
+        "NASDAQ_Symbol": "BANC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 16.46,
+        "open": 16.47,
+        "dayLow": 16.4,
+        "dayHigh": 16.91,
+        "regularMarketPreviousClose": 16.46,
+        "regularMarketOpen": 16.47,
+        "regularMarketDayLow": 16.4,
+        "regularMarketDayHigh": 16.91,
+        "dividendRate": 0.24,
+        "dividendYield": 0.014199999,
+        "exDividendDate": "2022-12-14T00:00:00.000Z",
+        "payoutRatio": 0.1529,
+        "fiveYearAvgDividendYield": 2.15,
+        "beta": 1.269271,
+        "trailingPE": 10.751592,
+        "forwardPE": 9.590909,
+        "volume": 391465,
+        "regularMarketVolume": 391465,
+        "averageVolume": 347537,
+        "averageVolume10days": 288730,
+        "averageDailyVolume10Day": 288730,
+        "bid": 6.49,
+        "ask": 25.93,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 1015485568,
+        "fiftyTwoWeekLow": 14.86,
+        "fiftyTwoWeekHigh": 22.01,
+        "priceToSalesTrailing12Months": 2.8937972,
+        "fiftyDayAverage": 16.256,
+        "twoHundredDayAverage": 17.39395,
+        "trailingAnnualDividendRate": 0.24,
+        "trailingAnnualDividendYield": 0.014580802,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.07,
+                    "estimate": 0.17
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.69,
+                    "estimate": 0.5
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.43,
+                    "estimate": 0.43
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.4,
+                    "estimate": 0.47
+                }
+            ],
+            "currentQuarterEstimate": 0.44,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674145800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 273826000,
+                    "earnings": 45472000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 222756000,
+                    "earnings": 23759000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 210558000,
+                    "earnings": 12574000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 266058000,
+                    "earnings": 62346000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 67857000,
+                    "earnings": 5751000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 113735000,
+                    "earnings": 48512000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 84442000,
+                    "earnings": 26712000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 84585000,
+                    "earnings": 24196000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674145800
+            ],
+            "earningsAverage": 0.44,
+            "earningsLow": 0.41,
+            "earningsHigh": 0.47,
+            "revenueAverage": 81940000,
+            "revenueLow": 77840000,
+            "revenueHigh": 87300000
+        },
+        "exDividendDate": "2022-12-14T00:00:00.000Z",
+        "dividendDate": "2023-01-03T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-15T13:14:12.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-21T11:50:49.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-25T12:37:49.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-06T11:19:12.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-01-26T12:26:13.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-07T11:48:53.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-23T09:20:39.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-07-08T09:26:49.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-10-01T13:20:30.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-13T11:12:20.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-03-30T14:32:14.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-25T13:15:59.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-24T12:48:42.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-24T11:30:22.000Z",
+                "firm": "B. Riley",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-10-24T11:40:07.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-16T11:26:30.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-03-06T12:34:37.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-12-18T14:02:51.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-12T17:50:16.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-06-19T12:36:50.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-06T15:47:51.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-05-05T14:00:39.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-12-21T17:29:50.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-05-04T12:42:47.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-04-11T13:27:26.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-01-26T15:06:34.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-11-14T14:24:57.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-20T10:36:38.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-07-01T06:19:19.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-05-23T08:38:32.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-05-04T07:08:39.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-05-02T07:14:18.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-04-22T04:24:54.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-11-09T06:56:01.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-05-28T06:38:54.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-05-01T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-02T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-12T06:22:25.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-11-20T07:07:22.000Z",
+                "firm": "Sterne Agee",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-08-01T02:31:01.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-05-29T06:11:51.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-04-08T21:07:25.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-03-20T08:00:00.000Z",
+                "firm": "Fig Partners",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-03-19T08:55:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-03-14T08:00:00.000Z",
+                "firm": "Sterne Agee",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-12-10T07:29:27.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-12-05T06:53:32.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-08-12T07:58:35.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-08-08T07:21:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-04T07:55:38.000Z",
+                "firm": "Baird",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-03-04T07:44:46.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-04T07:39:31.000Z",
+                "firm": "Sterne Agee",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-04T06:43:45.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-24T06:02:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.00029624702,
+        "postMarketChange": 0.00499916,
+        "postMarketTime": "2023-01-06T21:02:01.000Z",
+        "postMarketPrice": 16.88,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.02551641,
+        "regularMarketChange": 0.42000008,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 16.88,
+        "regularMarketDayHigh": 16.91,
+        "regularMarketDayLow": 16.4,
+        "regularMarketVolume": 391465,
+        "averageDailyVolume10Day": 288730,
+        "averageDailyVolume3Month": 347537,
+        "regularMarketPreviousClose": 16.46,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 16.47,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BANC",
+        "underlyingSymbol": null,
+        "shortName": "Banc of California, Inc.",
+        "longName": "Banc of California, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1015485568
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1806131328,
+        "forwardPE": 9.590909,
+        "profitMargins": 0.2997,
+        "floatShares": 52011737,
+        "sharesOutstanding": 59681800,
+        "sharesShort": 805123,
+        "sharesShortPriorMonth": 968497,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0134000005,
+        "heldPercentInsiders": 0.01551,
+        "heldPercentInstitutions": 0.96268,
+        "shortRatio": 3.1,
+        "shortPercentOfFloat": 0.0186,
+        "beta": 1.269271,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 15.825,
+        "priceToBook": 1.0666666,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.044,
+        "netIncomeToCommon": 98323000,
+        "trailingEps": 1.57,
+        "forwardEps": 1.76,
+        "pegRatio": 0.84,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 5.147,
+        "52WeekChange": -0.19924098,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.06,
+        "lastDividendDate": 1670976000
+    },
+    "summaryProfile": {
+        "address1": "3 MacArthur Place",
+        "city": "Santa Ana",
+        "state": "CA",
+        "zip": "92707",
+        "country": "United States",
+        "phone": "855 361 2262",
+        "fax": "855 661 8155",
+        "website": "https://bancofcal.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Banc of California, Inc. operates as the bank holding company for Banc of California, National Association that provides banking products and services in the United States. The company offers deposit products, including checking, savings, money market, retirement, and interest-bearing and noninterest-bearing demand accounts, as well as certificate of deposits. It also provides various commercial and consumer loan products, such as commercial and industrial loans; commercial real estate and multifamily loans; construction loans; single family residential mortgage loans; warehouse and indirect/direct leveraged lending; home equity lines of credit; small business administration loans; and other consumer loans. In addition, the company offers automated bill payment, cash and treasury management, foreign exchange, card payment, remote and mobile deposit capture, automated clearing house origination, wire transfer, direct deposit, and internet banking services; and master demand accounts, interest rate swaps, and safe deposit boxes. Further, it invests in collateralized loan obligations, agency securities, municipal bonds, agency residential mortgage-backed securities, and corporate debt securities. As of December 31, 2020, the company operated 29 full-service branches in Southern California. The company was formerly known as First PacTrust Bancorp, Inc. and changed its name to Banc of California, Inc. in July 2013. Banc of California, Inc. was founded in 1941 and is headquartered in Santa Ana, California.",
+        "fullTimeEmployees": 684,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 16.88,
+        "targetHighPrice": 23,
+        "targetLowPrice": 19,
+        "targetMeanPrice": 20.33,
+        "targetMedianPrice": 20,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 258686000,
+        "totalCashPerShare": 4.3,
+        "totalDebt": 1049331968,
+        "totalRevenue": 350918016,
+        "revenuePerShare": 5.742,
+        "returnOnAssets": 0.01192,
+        "returnOnEquity": 0.11707,
+        "grossProfits": 266058000,
+        "operatingCashflow": 140547008,
+        "earningsGrowth": -0.05,
+        "revenueGrowth": 0.184,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.47787997,
+        "profitMargins": 0.2997,
+        "financialCurrency": "USD"
+    }
+}

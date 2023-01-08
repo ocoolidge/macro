@@ -1,0 +1,366 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARCH",
+        "Security_Name": "Arch Coal, Inc. Class A Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ARCH",
+        "NASDAQ_Symbol": "ARCH",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 6,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 7,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 134.88,
+        "open": 137.26,
+        "dayLow": 136.4,
+        "dayHigh": 142.64,
+        "regularMarketPreviousClose": 134.88,
+        "regularMarketOpen": 137.26,
+        "regularMarketDayLow": 136.4,
+        "regularMarketDayHigh": 142.64,
+        "dividendRate": 1,
+        "dividendYield": 0.0066000004,
+        "exDividendDate": "2022-11-29T00:00:00.000Z",
+        "payoutRatio": 0.015,
+        "beta": 0.621223,
+        "forwardPE": 16.986795,
+        "volume": 447740,
+        "regularMarketVolume": 447740,
+        "averageVolume": 457503,
+        "averageVolume10days": 370820,
+        "averageDailyVolume10Day": 370820,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1100,
+        "askSize": 900,
+        "marketCap": 2167228160,
+        "fiftyTwoWeekLow": 86.5,
+        "fiftyTwoWeekHigh": 183.53,
+        "priceToSalesTrailing12Months": 0.59604305,
+        "fiftyDayAverage": 148.1508,
+        "twoHundredDayAverage": 147.34406,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 12.92,
+                    "estimate": 12.7
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 12.89,
+                    "estimate": 13.11
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 19.3,
+                    "estimate": 20.87
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 8.68,
+                    "estimate": 9.61
+                }
+            ],
+            "currentQuarterEstimate": 12.19,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676246400,
+                1676592000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 2451787000,
+                    "earnings": 312577000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 2294352000,
+                    "earnings": 233799000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1467592000,
+                    "earnings": -344615000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 2173242000,
+                    "earnings": 337573000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 770897000,
+                    "earnings": 226606000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 867936000,
+                    "earnings": 271872000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 1133358000,
+                    "earnings": 407563000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 863835000,
+                    "earnings": 181007000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676246400,
+                1676592000
+            ],
+            "earningsAverage": 12.19,
+            "earningsLow": 10.46,
+            "earningsHigh": 13.61,
+            "revenueAverage": 847720000,
+            "revenueLow": 807000000,
+            "revenueHigh": 920900000
+        },
+        "exDividendDate": "2022-11-29T00:00:00.000Z",
+        "dividendDate": "2022-12-15T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-06-07T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-04-27T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-09T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-04T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-29T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-09-02T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-23T00:00:00.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.0027561798,
+        "postMarketChange": 0.389999,
+        "postMarketTime": "2023-01-07T00:29:58.000Z",
+        "postMarketPrice": 141.89,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.049080625,
+        "regularMarketChange": 6.619995,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 141.5,
+        "regularMarketDayHigh": 142.64,
+        "regularMarketDayLow": 136.4,
+        "regularMarketVolume": 447740,
+        "averageDailyVolume10Day": 370820,
+        "averageDailyVolume3Month": 457503,
+        "regularMarketPreviousClose": 134.88,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 137.26,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARCH",
+        "underlyingSymbol": null,
+        "shortName": "Arch Resources, Inc.",
+        "longName": "Arch Resources, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2167228160
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 2468005376,
+        "forwardPE": 4.120559,
+        "profitMargins": 0.29896998,
+        "floatShares": 17993312,
+        "sharesOutstanding": 15316100,
+        "sharesShort": 3613728,
+        "sharesShortPriorMonth": 3222714,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.19479999,
+        "heldPercentInsiders": 0.01986,
+        "heldPercentInstitutions": 1.03139,
+        "shortRatio": 5.84,
+        "shortPercentOfFloat": 0.19870001,
+        "beta": 0.621223,
+        "category": null,
+        "bookValue": 18.402,
+        "priceToBook": 7.6893816,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 1.031,
+        "netIncomeToCommon": 1087048960,
+        "trailingEps": -21.424,
+        "forwardEps": 8.33,
+        "lastSplitFactor": "1:10",
+        "lastSplitDate": "2015-08-04T00:00:00.000Z",
+        "enterpriseToRevenue": 0.679,
+        "enterpriseToEbitda": 1.873
+    },
+    "summaryProfile": {
+        "address1": "1 CityPlace Drive",
+        "address2": "Suite 300",
+        "city": "Saint Louis",
+        "state": "MO",
+        "zip": "63141",
+        "country": "United States",
+        "phone": "314 994 2700",
+        "website": "https://www.archrsc.com",
+        "industry": "Thermal Coal",
+        "sector": "Energy",
+        "longBusinessSummary": "Arch Resources, Inc. produces and sells thermal and metallurgical coal from surface and underground mines. As of December 31, 2021, the company operated seven active mines. It also owned or controlled primarily through long-term leases approximately 28,292 acres of coal land in Ohio; 952 acres of coal land in Maryland; 10,095 acres of coal land in Virginia; 306,033 acres of coal land in West Virginia; 81,470 acres of coal land in Wyoming; 234,543 acres of coal land in Illinois; 33,047 acres of coal land in Kentucky; 362 acres of coal land in Montana; 248 acres of coal land in Pennsylvania; and 19,018 acres of coal land in Colorado, as well as smaller parcels of property in Alabama, Indiana, Washington, Arkansas, California, Utah, and Texas. The company sells its products to utility, industrial, and steel producers in the United States, Europe, Asia, Central and South America, and Africa. The company was formerly known as Arch Coal, Inc. and changed its name to Arch Resources, Inc. in May 2020. Arch Resources, Inc. was incorporated in 1969 and is headquartered in St. Louis, Missouri.",
+        "fullTimeEmployees": 3303,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 141.5,
+        "targetHighPrice": 214,
+        "targetLowPrice": 140,
+        "targetMeanPrice": 188.17,
+        "targetMedianPrice": 195,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 500992000,
+        "totalCashPerShare": 27.234,
+        "ebitda": 1317890048,
+        "totalDebt": 174092992,
+        "quickRatio": 1.818,
+        "currentRatio": 2.485,
+        "totalRevenue": 3636026112,
+        "debtToEquity": 14.678,
+        "revenuePerShare": 220.245,
+        "returnOnAssets": 0.34238,
+        "returnOnEquity": 1.35821,
+        "grossProfits": 628206000,
+        "freeCashflow": 766113472,
+        "operatingCashflow": 1161933056,
+        "earningsGrowth": 0.764,
+        "revenueGrowth": 0.453,
+        "grossMargins": 0.39110002,
+        "ebitdaMargins": 0.36245,
+        "operatingMargins": 0.32022,
+        "profitMargins": 0.29896998,
+        "financialCurrency": "USD"
+    }
+}

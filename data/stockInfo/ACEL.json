@@ -1,0 +1,402 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ACEL",
+        "Security_Name": "Accel Entertainment, Inc.",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ACEL",
+        "NASDAQ_Symbol": "ACEL",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 8.32,
+        "open": 8.36,
+        "dayLow": 8.35,
+        "dayHigh": 8.54,
+        "regularMarketPreviousClose": 8.32,
+        "regularMarketOpen": 8.36,
+        "regularMarketDayLow": 8.35,
+        "regularMarketDayHigh": 8.54,
+        "payoutRatio": 0,
+        "beta": 1.526345,
+        "trailingPE": 10.923078,
+        "forwardPE": 9.681819,
+        "volume": 158507,
+        "regularMarketVolume": 158507,
+        "averageVolume": 237685,
+        "averageVolume10days": 183220,
+        "averageDailyVolume10Day": 183220,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 1300,
+        "marketCap": 745219776,
+        "fiftyTwoWeekLow": 7.26,
+        "fiftyTwoWeekHigh": 14.04,
+        "priceToSalesTrailing12Months": 0.84297067,
+        "fiftyDayAverage": 8.5566,
+        "twoHundredDayAverage": 10.03575,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.18,
+                    "estimate": 0.19
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.19,
+                    "estimate": 0.21
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.24,
+                    "estimate": 0.24
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.21,
+                    "estimate": 0.24
+                }
+            ],
+            "currentQuarterEstimate": 0.23,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678222800,
+                1678741200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 335081000,
+                    "earnings": 10803000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 428696000,
+                    "earnings": -36764000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 316352000,
+                    "earnings": -410000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 734707000,
+                    "earnings": 31559000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 192313000,
+                    "earnings": 6806000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 196891000,
+                    "earnings": 15788000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 227869000,
+                    "earnings": 22464000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 266967000,
+                    "earnings": 22444000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678222800,
+                1678741200
+            ],
+            "earningsAverage": 0.23,
+            "earningsLow": 0.19,
+            "earningsHigh": 0.28,
+            "revenueAverage": 275420000,
+            "revenueLow": 270300000,
+            "revenueHigh": 283000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-09T11:07:41.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-19T11:25:41.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-09T13:35:49.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-06T11:11:55.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-12-03T12:54:59.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-11-08T12:14:37.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-04-08T13:18:03.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-03-16T10:59:32.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-08T13:11:52.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-09-15T12:16:19.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-08T11:19:01.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-12-16T11:24:28.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.000587212,
+        "postMarketChange": 0.00500011,
+        "postMarketTime": "2023-01-06T21:02:17.000Z",
+        "postMarketPrice": 8.52,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.024038553,
+        "regularMarketChange": 0.20000076,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 8.52,
+        "regularMarketDayHigh": 8.54,
+        "regularMarketDayLow": 8.35,
+        "regularMarketVolume": 158507,
+        "averageDailyVolume10Day": 183220,
+        "averageDailyVolume3Month": 237685,
+        "regularMarketPreviousClose": 8.32,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 8.36,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ACEL",
+        "underlyingSymbol": null,
+        "shortName": "Accel Entertainment, Inc.",
+        "longName": "Accel Entertainment, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 745219776
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 992021376,
+        "forwardPE": 9.681819,
+        "profitMargins": 0.07636,
+        "floatShares": 41176002,
+        "sharesOutstanding": 87467104,
+        "sharesShort": 1824618,
+        "sharesShortPriorMonth": 2068552,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0209,
+        "heldPercentInsiders": 0.19325,
+        "heldPercentInstitutions": 0.67796,
+        "shortRatio": 6.88,
+        "shortPercentOfFloat": 0.034,
+        "beta": 1.526345,
+        "impliedSharesOutstanding": 3403360,
+        "category": null,
+        "bookValue": 2.042,
+        "priceToBook": 4.17238,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 1.077,
+        "netIncomeToCommon": 67502000,
+        "trailingEps": 0.78,
+        "forwardEps": 0.88,
+        "pegRatio": 2.23,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.122,
+        "enterpriseToEbitda": 7.295,
+        "52WeekChange": -0.32434577,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "140 Tower Drive",
+        "city": "Burr Ridge",
+        "state": "IL",
+        "zip": "60527",
+        "country": "United States",
+        "phone": "630 972 2235",
+        "website": "https://www.accelentertainment.com",
+        "industry": "Gambling",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Accel Entertainment, Inc., together with its subsidiaries, operates as a distributed gaming operator in the United States. It is involved in the installation, maintenance, and operation of gaming terminals; redemption devices that disburse winnings and contain automated teller machine (ATM) functionality; and other amusement devices in authorized non-casino locations, such as restaurants, bars, taverns, convenience stores, liquor stores, truck stops, and grocery stores. The company also provides licensed establishment partners gaming solutions that appeal to players who patronize those businesses. In addition, it operates stand-alone ATMs in gaming and non-gaming locations, as well as amusement devices, including jukeboxes, dartboards, pool tables, pinball machines, and other related entertainment equipment. As of December 31, 2021, the company operated 13,639 video gaming terminals across 2,584 locations in Illinois. Accel Entertainment, Inc. is headquartered in Burr Ridge, Illinois.",
+        "fullTimeEmployees": 900,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 8.52,
+        "targetHighPrice": 14,
+        "targetLowPrice": 12,
+        "targetMeanPrice": 13,
+        "targetMedianPrice": 13,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 251020992,
+        "totalCashPerShare": 2.87,
+        "ebitda": 135988992,
+        "totalDebt": 521439008,
+        "quickRatio": 2.82,
+        "currentRatio": 3.061,
+        "totalRevenue": 884040000,
+        "debtToEquity": 288.276,
+        "revenuePerShare": 9.604,
+        "returnOnAssets": 0.08251,
+        "returnOnEquity": 0.39129,
+        "grossProfits": 240675000,
+        "freeCashflow": 63472500,
+        "operatingCashflow": 108743000,
+        "earningsGrowth": 1.267,
+        "revenueGrowth": 0.381,
+        "grossMargins": 0.3154,
+        "ebitdaMargins": 0.15383,
+        "operatingMargins": 0.10743,
+        "profitMargins": 0.07636,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,410 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ACA",
+        "Security_Name": "Arcosa, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ACA",
+        "NASDAQ_Symbol": "ACA",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 52.11,
+        "open": 52.96,
+        "dayLow": 52.705,
+        "dayHigh": 54.175,
+        "regularMarketPreviousClose": 52.11,
+        "regularMarketOpen": 52.96,
+        "regularMarketDayLow": 52.705,
+        "regularMarketDayHigh": 54.175,
+        "dividendRate": 0.2,
+        "dividendYield": 0.0037,
+        "exDividendDate": "2023-01-12T00:00:00.000Z",
+        "payoutRatio": 0.0971,
+        "beta": 0.495693,
+        "trailingPE": 26.603962,
+        "forwardPE": 28.892473,
+        "volume": 289515,
+        "regularMarketVolume": 289515,
+        "averageVolume": 218880,
+        "averageVolume10days": 169360,
+        "averageDailyVolume10Day": 169360,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1200,
+        "askSize": 1200,
+        "marketCap": 2598571008,
+        "fiftyTwoWeekLow": 43.42,
+        "fiftyTwoWeekHigh": 65.8,
+        "priceToSalesTrailing12Months": 1.1476266,
+        "fiftyDayAverage": 58.4696,
+        "twoHundredDayAverage": 55.767,
+        "trailingAnnualDividendRate": 0.2,
+        "trailingAnnualDividendYield": 0.003838035,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.4,
+                    "estimate": 0.21
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.42,
+                    "estimate": 0.22
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.84,
+                    "estimate": 0.46
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.7,
+                    "estimate": 0.62
+                }
+            ],
+            "currentQuarterEstimate": 0.22,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677013200,
+                1677531600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1460400000,
+                    "earnings": 75700000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1736900000,
+                    "earnings": 113300000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1935600000,
+                    "earnings": 106600000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 2036400000,
+                    "earnings": 69600000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 521800000,
+                    "earnings": 9200000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 535800000,
+                    "earnings": 20200000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 602800000,
+                    "earnings": 39000000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 603900000,
+                    "earnings": 32000000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677013200,
+                1677531600
+            ],
+            "earningsAverage": 0.22,
+            "earningsLow": 0.17,
+            "earningsHigh": 0.25,
+            "revenueAverage": 477740000,
+            "revenueLow": 467500000,
+            "revenueHigh": 483300000
+        },
+        "exDividendDate": "2023-01-12T00:00:00.000Z",
+        "dividendDate": "2021-10-29T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-08T09:48:17.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-08T13:20:26.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-02T10:54:41.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-10-05T11:15:33.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-26T15:41:24.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-19T16:05:02.000Z",
+                "firm": "Gabelli & Co.",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-04-30T15:36:48.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-28T14:25:58.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-02-13T14:13:44.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-13T14:19:07.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-03-22T10:49:09.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-03-05T11:41:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.02288804,
+        "postMarketChange": -1.2300034,
+        "postMarketTime": "2023-01-06T21:08:17.000Z",
+        "postMarketPrice": 52.51,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.03128,
+        "regularMarketChange": 1.63,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 53.74,
+        "regularMarketDayHigh": 54.175,
+        "regularMarketDayLow": 52.705,
+        "regularMarketVolume": 289515,
+        "averageDailyVolume10Day": 169360,
+        "averageDailyVolume3Month": 218880,
+        "regularMarketPreviousClose": 52.11,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 52.96,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ACA",
+        "underlyingSymbol": null,
+        "shortName": "Arcosa, Inc.",
+        "longName": "Arcosa, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2598571008
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 3200257280,
+        "forwardPE": 28.892473,
+        "profitMargins": 0.04434,
+        "floatShares": 47677521,
+        "sharesOutstanding": 48354500,
+        "sharesShort": 691744,
+        "sharesShortPriorMonth": 738949,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0143,
+        "heldPercentInsiders": 0.0107,
+        "heldPercentInstitutions": 0.91783994,
+        "shortRatio": 3.8,
+        "shortPercentOfFloat": 0.0196,
+        "beta": 0.495693,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 41.969,
+        "priceToBook": 1.280469,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.35,
+        "netIncomeToCommon": 100000000,
+        "trailingEps": 2.02,
+        "forwardEps": 1.86,
+        "pegRatio": 5.86,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.413,
+        "enterpriseToEbitda": 10.054,
+        "52WeekChange": 0.061426044,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.05,
+        "lastDividendDate": 1665619200
+    },
+    "summaryProfile": {
+        "address1": "500 North Akard Street",
+        "address2": "Suite 400",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75201",
+        "country": "United States",
+        "phone": "972 942 6500",
+        "website": "https://www.arcosa.com",
+        "industry": "Infrastructure Operations",
+        "sector": "Industrials",
+        "longBusinessSummary": "Arcosa, Inc., together with its subsidiaries, provides infrastructure-related products and solutions for the construction, energy, and transportation markets in North America. It operates through three segments: Construction Products, Engineered Structures, and Transportation Products. The Construction Products segment offers natural and recycled aggregates; specialty materials; and trench shields and shoring products for residential and non-residential construction, agriculture, specialty building products, as well as for infrastructure related projects. The Engineered Structures segment provides utility structures, wind towers, traffic and lighting structures, telecommunication structures, storage and distribution tanks for electricity transmission and distribution, wind power generation, highway road construction, and wireless communication markets, as well as for gas and liquids storage and transportation for residential, commercial, energy, agriculture, and industrial markets. The Transportation Products segment offers inland barges; fiberglass barge covers, winches, and other components; cast components for industrial and mining sectors; and axles, circular forgings, coupling devices for freight, tank, locomotive, and passenger rail transportation equipment, as well as other industrial uses. Arcosa, Inc. was incorporated in 2018 and is headquartered in Dallas, Texas.",
+        "fullTimeEmployees": 6170,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 53.74,
+        "targetHighPrice": 75,
+        "targetLowPrice": 61,
+        "targetMeanPrice": 70,
+        "targetMedianPrice": 74,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 112200000,
+        "totalCashPerShare": 2.32,
+        "ebitda": 318300000,
+        "totalDebt": 742899968,
+        "quickRatio": 1.035,
+        "currentRatio": 2.179,
+        "totalRevenue": 2264300032,
+        "debtToEquity": 36.573,
+        "revenuePerShare": 47.002,
+        "returnOnAssets": 0.0307,
+        "returnOnEquity": 0.05055,
+        "grossProfits": 366200000,
+        "freeCashflow": 112150000,
+        "operatingCashflow": 272300000,
+        "earningsGrowth": 0.348,
+        "revenueGrowth": 0.08,
+        "grossMargins": 0.18849,
+        "ebitdaMargins": 0.14057,
+        "operatingMargins": 0.07247,
+        "profitMargins": 0.04434,
+        "financialCurrency": "USD"
+    }
+}

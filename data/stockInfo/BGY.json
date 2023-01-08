@@ -1,0 +1,263 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BGY",
+        "Security_Name": "Blackrock Enhanced International Dividend Trust",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BGY",
+        "NASDAQ_Symbol": "BGY",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 5.14,
+        "open": 5.17,
+        "dayLow": 5.1626,
+        "dayHigh": 5.26,
+        "regularMarketPreviousClose": 5.14,
+        "regularMarketOpen": 5.17,
+        "regularMarketDayLow": 5.1626,
+        "regularMarketDayHigh": 5.26,
+        "dividendRate": 0.41,
+        "dividendYield": 0.088199995,
+        "exDividendDate": "2022-10-13T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 7.43,
+        "beta": 0.82056,
+        "trailingPE": 12.52381,
+        "volume": 145957,
+        "regularMarketVolume": 145957,
+        "averageVolume": 333064,
+        "averageVolume10days": 363360,
+        "averageDailyVolume10Day": 363360,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1400,
+        "askSize": 4000,
+        "marketCap": 548291904,
+        "fiftyTwoWeekLow": 4.28,
+        "fiftyTwoWeekHigh": 6.48,
+        "priceToSalesTrailing12Months": 30.374556,
+        "fiftyDayAverage": 5.0246,
+        "twoHundredDayAverage": 5.09185,
+        "trailingAnnualDividendRate": 0.406,
+        "trailingAnnualDividendYield": 0.07898833,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1661990400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 25197183,
+                    "earnings": -91208975
+                },
+                {
+                    "date": 2019,
+                    "revenue": 23704684,
+                    "earnings": 114465266
+                },
+                {
+                    "date": 2020,
+                    "revenue": 18915333,
+                    "earnings": 43789614
+                },
+                {
+                    "date": 2021,
+                    "revenue": 16287927,
+                    "earnings": 74840034
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 3207717,
+                    "earnings": 8813274
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 3207717,
+                    "earnings": 8813274
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 5817797,
+                    "earnings": -47679238
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 5817797,
+                    "earnings": -47679238
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1661990400
+            ]
+        },
+        "exDividendDate": "2022-10-13T00:00:00.000Z",
+        "dividendDate": "2019-01-31T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.023346374,
+        "regularMarketChange": 0.12000036,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 5.26,
+        "regularMarketDayHigh": 5.26,
+        "regularMarketDayLow": 5.1626,
+        "regularMarketVolume": 145957,
+        "averageDailyVolume10Day": 363360,
+        "averageDailyVolume3Month": 333064,
+        "regularMarketPreviousClose": 5.14,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 5.17,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BGY",
+        "underlyingSymbol": null,
+        "shortName": "Blackrock Enhanced Internationa",
+        "longName": "BlackRock Enhanced International Dividend Trust",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 548291904
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 480717920,
+        "profitMargins": 0,
+        "sharesOutstanding": 104238000,
+        "sharesShort": 30519,
+        "sharesShortPriorMonth": 46684,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.00029999999,
+        "heldPercentInsiders": 0,
+        "heldPercentInstitutions": 0.46036997,
+        "shortRatio": 0.07,
+        "shortPercentOfFloat": 0.00029999999,
+        "beta": 0.82056,
+        "category": null,
+        "bookValue": 6.494,
+        "priceToBook": 0.8099785,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -77731928,
+        "trailingEps": 0.42,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 26.631
+    },
+    "summaryProfile": {
+        "address1": "55 East 52nd Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10055",
+        "country": "United States",
+        "phone": "212 810 5300",
+        "website": "https://www.blackrock.com/investing/products/240228/blackrock-international-growth-and-income-trust-usd-fund",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "BlackRock Enhanced International Dividend Trust is a closed ended equity mutual fund launched by BlackRock, Inc. The fund is co-managed by BlackRock Advisors, LLC and BlackRock International Limited. It invests in public equity markets across the globe excluding the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It invests in stocks of companies across all market capitalizations. The fund also invests through the use of derivatives, with an emphasis on options writing. It benchmarks the performance of its portfolio against the S&P Global ex-U.S. Broad Market Index. The fund was formerly known as BlackRock International Growth and Income Trust. BlackRock Enhanced International Dividend Trust was formed on May 30, 2007 and is domiciled in the United States.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 5.26,
+        "recommendationKey": "none",
+        "totalCash": 234488,
+        "totalCashPerShare": 0.002,
+        "totalDebt": 137718,
+        "quickRatio": 0.371,
+        "currentRatio": 1.115,
+        "totalRevenue": 18051026,
+        "debtToEquity": 0.023,
+        "revenuePerShare": 0.174,
+        "returnOnAssets": 0.010829999,
+        "returnOnEquity": -0.11923,
+        "grossProfits": 16287927,
+        "freeCashflow": 8364693,
+        "operatingCashflow": 42738296,
+        "revenueGrowth": 0.179,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.63555,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

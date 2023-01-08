@@ -1,0 +1,596 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AXAS",
+        "Security_Name": "Abraxas Petroleum Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "D",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AXAS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 4,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 4,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.75,
+        "open": 0.792,
+        "dayLow": 0.77,
+        "dayHigh": 0.792,
+        "regularMarketPreviousClose": 0.75,
+        "regularMarketOpen": 0.792,
+        "regularMarketDayLow": 0.77,
+        "regularMarketDayHigh": 0.792,
+        "payoutRatio": 0,
+        "beta": 3.005387,
+        "trailingPE": 0.18421052,
+        "forwardPE": -0.58778626,
+        "volume": 1922,
+        "regularMarketVolume": 1922,
+        "averageVolume": 18451,
+        "averageVolume10days": 23300,
+        "averageDailyVolume10Day": 23300,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1000,
+        "askSize": 1100,
+        "marketCap": 77539768,
+        "fiftyTwoWeekLow": 0.6,
+        "fiftyTwoWeekHigh": 4.94,
+        "priceToSalesTrailing12Months": 1.2336686,
+        "fiftyDayAverage": 1.0534,
+        "twoHundredDayAverage": 1.5218,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "2Q2020",
+                    "actual": -1.4,
+                    "estimate": 0.16
+                },
+                {
+                    "date": "3Q2020",
+                    "actual": -1,
+                    "estimate": 0
+                },
+                {
+                    "date": "1Q2021",
+                    "actual": -0.28,
+                    "estimate": 0.02
+                },
+                {
+                    "date": "2Q2021",
+                    "actual": -0.49,
+                    "estimate": 0.01
+                }
+            ],
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2021,
+            "earningsDate": [
+                1680087540,
+                1680523200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 149167000,
+                    "earnings": 57821000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 129146000,
+                    "earnings": -65004000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 43043000,
+                    "earnings": -184522000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 78858000,
+                    "earnings": -44567000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 22880000,
+                    "earnings": -5627000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 12185000,
+                    "earnings": 40134000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 14536000,
+                    "earnings": 6748000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 13252000,
+                    "earnings": 2426000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1680087540,
+                1680523200
+            ],
+            "revenueAverage": 20854000,
+            "revenueLow": 17200000,
+            "revenueHigh": 17200000
+        },
+        "dividendDate": "2020-10-19T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2020-11-25T09:37:11.000Z",
+                "firm": "Johnson Rice",
+                "toGrade": "Accumulate",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:10.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:08.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:08.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Speculative Buy",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:57.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:56.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:54.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:49.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:48.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:48.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:45.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:49.000Z",
+                "firm": "Rodman & Renshaw",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:54.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Euro Pacific Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "GMP Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Neutral",
+                "fromGrade": "Accumulate",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Accumulate",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Global Hunter Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "C.K.Cooper & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "C.K.Cooper & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "CK Cooper",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:53.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.026666641,
+        "regularMarketChange": 0.01999998,
+        "regularMarketTime": "2023-01-06T20:59:30.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.77,
+        "regularMarketDayHigh": 0.792,
+        "regularMarketDayLow": 0.77,
+        "regularMarketVolume": 1922,
+        "averageDailyVolume10Day": 23300,
+        "averageDailyVolume3Month": 18451,
+        "regularMarketPreviousClose": 0.75,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 0.792,
+        "exchange": "PNK",
+        "exchangeName": "Other OTC",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AXAS",
+        "underlyingSymbol": null,
+        "shortName": "Abraxas Petroleum Corporation",
+        "longName": "Abraxas Petroleum Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 77539768
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 53455116,
+        "profitMargins": 0.69497,
+        "floatShares": 8514306,
+        "sharesOutstanding": 100701000,
+        "sharesShort": 679455,
+        "sharesShortPriorMonth": 703703,
+        "sharesShortPreviousMonthDate": 1623715200,
+        "dateShortInterest": 1626307200,
+        "sharesPercentSharesOut": 0.080699995,
+        "heldPercentInsiders": 0.01545,
+        "heldPercentInstitutions": 0.9,
+        "shortRatio": 1.49,
+        "shortPercentOfFloat": 0.08270001,
+        "beta": 3.005387,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 7.26,
+        "priceToBook": 0.1060606,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": 37483000,
+        "trailingEps": 4.18,
+        "forwardEps": -1.31,
+        "lastSplitFactor": "1:20",
+        "lastSplitDate": "2020-10-19T00:00:00.000Z",
+        "enterpriseToRevenue": 0.85,
+        "enterpriseToEbitda": 1.61,
+        "52WeekChange": -0.25961536,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "18803 Meisner Drive",
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78258",
+        "country": "United States",
+        "phone": "210 490 4788",
+        "fax": "210 918 6675",
+        "website": "https://www.abraxaspetroleum.com",
+        "industry": "Oil & Gas E&P",
+        "sector": "Energy",
+        "longBusinessSummary": "Abraxas Petroleum Corporation, an independent energy company, engages in the acquisition, exploration, exploitation, development, and production of oil and gas properties in the United States. The company operates oil and gas assets in the Permian/Delaware Basin and the Rocky Mountain regions. As of December 31, 2021, its estimated net proved reserves were 14.8 million barrels of oil equivalent. The company was founded in 1977 and is based in San Antonio, Texas.",
+        "fullTimeEmployees": 42,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.77,
+        "recommendationMean": 4,
+        "recommendationKey": "underperform",
+        "totalCash": 25101000,
+        "totalCashPerShare": 0.249,
+        "ebitda": 33198000,
+        "totalDebt": 2000,
+        "quickRatio": 2.534,
+        "currentRatio": 2.861,
+        "totalRevenue": 62853000,
+        "debtToEquity": 0.003,
+        "revenuePerShare": 6.934,
+        "returnOnAssets": 0.13878,
+        "grossProfits": 54243000,
+        "freeCashflow": 12269625,
+        "operatingCashflow": 35179000,
+        "revenueGrowth": -0.365,
+        "grossMargins": 0.71335,
+        "ebitdaMargins": 0.52818,
+        "operatingMargins": 0.39298,
+        "profitMargins": 0.69497,
+        "financialCurrency": "USD"
+    }
+}

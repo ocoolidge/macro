@@ -1,0 +1,637 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARCT",
+        "Security_Name": "Arcturus Therapeutics Holdings Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ARCT",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 1,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 3,
+                "sell": 3,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 3,
+                "sell": 3,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 5,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 16.65,
+        "open": 16.72,
+        "dayLow": 16.21,
+        "dayHigh": 16.86,
+        "regularMarketPreviousClose": 16.65,
+        "regularMarketOpen": 16.72,
+        "regularMarketDayLow": 16.21,
+        "regularMarketDayHigh": 16.86,
+        "payoutRatio": 0,
+        "beta": 2.565201,
+        "forwardPE": 2.1339402,
+        "volume": 530639,
+        "regularMarketVolume": 530639,
+        "averageVolume": 580630,
+        "averageVolume10days": 380200,
+        "averageDailyVolume10Day": 380200,
+        "bid": 16,
+        "ask": 16.43,
+        "bidSize": 800,
+        "askSize": 1000,
+        "marketCap": 432575808,
+        "fiftyTwoWeekLow": 11.7,
+        "fiftyTwoWeekHigh": 34.51,
+        "priceToSalesTrailing12Months": 10.662981,
+        "fiftyDayAverage": 18.0672,
+        "twoHundredDayAverage": 18.24595,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -2.05,
+                    "estimate": -1.59
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -1.47,
+                    "estimate": -1.72
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -1.94,
+                    "estimate": -1.44
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.82,
+                    "estimate": -1.9
+                }
+            ],
+            "currentQuarterEstimate": -1.81,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 15753000,
+                    "earnings": -21785000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 20789000,
+                    "earnings": -25991000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 9539000,
+                    "earnings": -72148000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 12359000,
+                    "earnings": -203674000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 2437000,
+                    "earnings": -54084000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 5794000,
+                    "earnings": -38663000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 5244000,
+                    "earnings": -51169000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 27093000,
+                    "earnings": -21563000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ],
+            "earningsAverage": -1.81,
+            "earningsLow": -2.41,
+            "earningsHigh": -1.12,
+            "revenueAverage": 3420000,
+            "revenueHigh": 10000000
+        },
+        "dividendDate": "2017-11-16T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-10T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-10T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-10T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Underperform",
+                "fromGrade": "Market Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-05-24T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-11T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-11T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-05-10T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-10T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-25T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-15T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-01T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-31T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-11-09T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-25T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-12T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Underperform",
+                "fromGrade": "Market Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-11T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-10T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-10T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-07-02T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-06-21T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-01-15T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-01-07T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-12-29T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-12-29T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-12-29T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-12-23T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Sell",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-10T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-06T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-26T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-11T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-24T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-16T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-07-13T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-06-09T00:00:00.000Z",
+                "firm": "WBB Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-04-28T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-14T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-12T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-11T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-02-07T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-08-07T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-04-05T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-09-20T00:00:00.000Z",
+                "firm": "WBB Securities",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Buy",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-31T00:00:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-02-28T00:00:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-01-22T00:00:00.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-08-06T00:00:00.000Z",
+                "firm": "Miller Tabak",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-05T00:00:00.000Z",
+                "firm": "Miller Tabak",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.008531346,
+        "postMarketChange": 0.13999939,
+        "postMarketTime": "2023-01-06T21:34:45.000Z",
+        "postMarketPrice": 16.55,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.014414401,
+        "regularMarketChange": -0.23999977,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 16.41,
+        "regularMarketDayHigh": 16.86,
+        "regularMarketDayLow": 16.21,
+        "regularMarketVolume": 530639,
+        "averageDailyVolume10Day": 380200,
+        "averageDailyVolume3Month": 580630,
+        "regularMarketPreviousClose": 16.65,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 16.72,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARCT",
+        "underlyingSymbol": null,
+        "shortName": "Arcturus Therapeutics Holdings ",
+        "longName": "Arcturus Therapeutics Holdings Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 432575808
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 245444976,
+        "forwardPE": -3.798611,
+        "profitMargins": 0,
+        "floatShares": 22909351,
+        "sharesOutstanding": 26360500,
+        "sharesShort": 2636798,
+        "sharesShortPriorMonth": 2274446,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0992,
+        "heldPercentInsiders": 0.13817,
+        "heldPercentInstitutions": 0.79264,
+        "shortRatio": 6.19,
+        "shortPercentOfFloat": 0.1534,
+        "beta": 2.565201,
+        "category": null,
+        "bookValue": 15.14,
+        "priceToBook": 1.0838838,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -165479008,
+        "trailingEps": -3.553,
+        "forwardEps": 7.69,
+        "lastSplitFactor": "1:7",
+        "lastSplitDate": "2017-11-16T00:00:00.000Z",
+        "enterpriseToRevenue": 6.05,
+        "enterpriseToEbitda": -1.508
+    },
+    "summaryProfile": {
+        "address1": "10628 Science Center Drive",
+        "address2": "Suite 250",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92121",
+        "country": "United States",
+        "phone": "858 900 2660",
+        "website": "https://arcturusrx.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Arcturus Therapeutics Holdings Inc., an RNA medicines company, focuses on the development of vaccines for infectious, and liver and respiratory rare diseases in the United States. The company's development programs comprise LUNAR-OTC development program for ornithine transcarbamylase (OTC) deficiency; and LUNAR-CF program for cystic fibrosis lung disease caused by mutations in cystic fibrosis transmembrane conductance regulator (CFTR) gene, as well as vaccine programs include LUNAR-COV19 and LUNAR-FLU. It has collaboration partnerships with Vinbiocare Biotechnology Joint Stock Company for the manufacture of COVID-19 vaccines; Janssen Pharmaceuticals, Inc. to develop nucleic acid-based therapeutic candidates for the treatment of hepatitis B virus; Ultragenyx Pharmaceutical, Inc. to develop mRNA therapeutic candidates for rare disease targets; CureVac AG to develop mRNA therapeutic and vaccine candidates for various indications; Singapore Economic Development Board and Duke-NUS Medical School to develop LUNAR-COV19 vaccine; and Millennium Pharmaceuticals, Inc. to discover siRNA medicines for the treatment of non-alcoholic steatohepatitis. The company was founded in 2013 and is headquartered in San Diego, California.",
+        "fullTimeEmployees": 177,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 16.41,
+        "targetHighPrice": 140,
+        "targetLowPrice": 8,
+        "targetMeanPrice": 41.89,
+        "targetMedianPrice": 22,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 283491008,
+        "totalCashPerShare": 10.667,
+        "ebitda": -162776000,
+        "totalDebt": 98399000,
+        "quickRatio": 3.081,
+        "currentRatio": 3.143,
+        "totalRevenue": 40568000,
+        "debtToEquity": 57.639,
+        "revenuePerShare": 1.538,
+        "returnOnAssets": -0.26077,
+        "returnOnEquity": -0.69475996,
+        "grossProfits": 12359000,
+        "freeCashflow": -84255752,
+        "operatingCashflow": -145010000,
+        "revenueGrowth": 12.54,
+        "grossMargins": 1.31175,
+        "ebitdaMargins": 0,
+        "operatingMargins": -4.04097,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

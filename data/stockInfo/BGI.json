@@ -1,0 +1,265 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BGI",
+        "Security_Name": "Birks Group Inc. Common Stock",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BGI",
+        "NASDAQ_Symbol": "BGI",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 7.9,
+        "open": 7.91,
+        "dayLow": 7.77,
+        "dayHigh": 7.9,
+        "regularMarketPreviousClose": 7.9,
+        "regularMarketOpen": 7.91,
+        "regularMarketDayLow": 7.77,
+        "regularMarketDayHigh": 7.9,
+        "payoutRatio": 0,
+        "beta": 1.571481,
+        "volume": 81115,
+        "regularMarketVolume": 81115,
+        "averageVolume": 29377,
+        "averageVolume10days": 106860,
+        "averageDailyVolume10Day": 106860,
+        "bid": 7.76,
+        "ask": 8.1,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 142598848,
+        "fiftyTwoWeekLow": 4.29,
+        "fiftyTwoWeekHigh": 8.1,
+        "priceToSalesTrailing12Months": 0.7863531,
+        "fiftyDayAverage": 5.5722,
+        "twoHundredDayAverage": 5.3197,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1637193600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 151049000,
+                    "earnings": -18686000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 169420000,
+                    "earnings": -12779000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 143068000,
+                    "earnings": -5838000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 181342000,
+                    "earnings": 1287000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "2Q2021",
+                    "revenue": 42307500,
+                    "earnings": 495000
+                },
+                {
+                    "date": "3Q2021",
+                    "revenue": 42307500,
+                    "earnings": 495000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 48363500,
+                    "earnings": 148500
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 48363500,
+                    "earnings": 148500
+                }
+            ]
+        },
+        "financialCurrency": "CAD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1637193600
+            ]
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.017994842,
+        "postMarketChange": 0.13999987,
+        "postMarketTime": "2023-01-06T22:29:46.000Z",
+        "postMarketPrice": 7.92,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.0151899,
+        "regularMarketChange": -0.12,
+        "regularMarketTime": "2023-01-06T20:59:53.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 7.78,
+        "regularMarketDayHigh": 7.9,
+        "regularMarketDayLow": 7.77,
+        "regularMarketVolume": 81115,
+        "averageDailyVolume10Day": 106860,
+        "averageDailyVolume3Month": 29377,
+        "regularMarketPreviousClose": 7.9,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 7.91,
+        "exchange": "ASE",
+        "exchangeName": "NYSE American",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BGI",
+        "underlyingSymbol": null,
+        "shortName": "Birks Group Inc.",
+        "longName": "Birks Group Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 142598848
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 234002496,
+        "profitMargins": 0.0070999996,
+        "floatShares": 3844057,
+        "sharesOutstanding": 10611000,
+        "sharesShort": 13337,
+        "sharesShortPriorMonth": 35639,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0007,
+        "heldPercentInsiders": 0.63718,
+        "heldPercentInstitutions": 0.00452,
+        "shortRatio": 0.58,
+        "shortPercentOfFloat": 0.0026,
+        "beta": 1.571481,
+        "category": null,
+        "bookValue": 0.036,
+        "priceToBook": 216.11113,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-03-26T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-03-26T00:00:00.000Z",
+        "mostRecentQuarter": "2022-03-26T00:00:00.000Z",
+        "netIncomeToCommon": 1287000,
+        "trailingEps": -0.726,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.29,
+        "enterpriseToEbitda": 23.932
+    },
+    "summaryProfile": {
+        "address1": "2020 Robert-Bourassa Boulevard",
+        "address2": "Suite 200",
+        "city": "Montreal",
+        "state": "QC",
+        "zip": "H3A 2A5",
+        "country": "Canada",
+        "fax": "514 397 2537",
+        "website": "https://www.maisonbirks.com",
+        "industry": "Luxury Goods",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Birks Group Inc. designs, develops, manufactures, and retails fine jewelry, timepieces, sterling and plated silverware, and gifts in the United States and Canada. The company operates through two segments, Retail and Other. It offers various merchandise, including designer jewelry, diamonds, gemstone and precious metal jewelry, rings, wedding bands, earrings, bracelets, necklaces, precious gemstones, gold jewelry, and pearls. As of June 23, 2022, the company operated 24 stores under the Maison Birks brand in various metropolitan markets in Canada; one retail location under the Brinkhaus brand in Calgary; and 2 retail locations under the Graff and Patek Philippe brands in Vancouver. It also engages in the retail and wholesale of fine jewelry collections through Mappin & Webb and Goldsmiths stores, as well as through e-commerce platforms; and gold exchange business. The company was formerly known as Birks & Mayors Inc. and changed its name to Birks Group Inc. in September 2013. Birks Group Inc. was founded in 1879 and is headquartered in Montreal, Canada.",
+        "fullTimeEmployees": 296,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 7.78,
+        "recommendationKey": "none",
+        "totalCash": 2013000,
+        "totalCashPerShare": 0.109,
+        "ebitda": 9778000,
+        "totalDebt": 140376992,
+        "quickRatio": 0.113,
+        "currentRatio": 1.021,
+        "totalRevenue": 181342000,
+        "debtToEquity": 2393.878,
+        "revenuePerShare": 9.885,
+        "returnOnAssets": 0.01289,
+        "returnOnEquity": 0.57947,
+        "grossProfits": 76220000,
+        "freeCashflow": 8798375,
+        "operatingCashflow": 18648000,
+        "revenueGrowth": 0.124,
+        "grossMargins": 0.42031,
+        "ebitdaMargins": 0.05392,
+        "operatingMargins": 0.02189,
+        "profitMargins": 0.0070999996,
+        "financialCurrency": "CAD"
+    }
+}

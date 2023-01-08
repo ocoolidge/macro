@@ -1,0 +1,948 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BHP",
+        "Security_Name": "BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares)",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BHP",
+        "NASDAQ_Symbol": "BHP",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 3,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 3,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 63.33,
+        "open": 64.7,
+        "dayLow": 64.0966,
+        "dayHigh": 66.11,
+        "regularMarketPreviousClose": 63.33,
+        "regularMarketOpen": 64.7,
+        "regularMarketDayLow": 64.0966,
+        "regularMarketDayHigh": 66.11,
+        "dividendRate": 6.5,
+        "dividendYield": 0.10479999,
+        "exDividendDate": "2022-09-01T00:00:00.000Z",
+        "payoutRatio": 0.8768,
+        "fiveYearAvgDividendYield": 6.4,
+        "beta": 0.802193,
+        "trailingPE": 8.359493,
+        "forwardPE": 32.37255,
+        "volume": 2773982,
+        "regularMarketVolume": 2773982,
+        "averageVolume": 3349046,
+        "averageVolume10days": 2084370,
+        "averageDailyVolume10Day": 2084370,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 900,
+        "askSize": 1000,
+        "marketCap": 237989003264,
+        "fiftyTwoWeekLow": 46.92,
+        "fiftyTwoWeekHigh": 71.061554,
+        "priceToSalesTrailing12Months": 3.6383638,
+        "fiftyDayAverage": 58.851,
+        "twoHundredDayAverage": 57.534615,
+        "trailingAnnualDividendRate": 3.25,
+        "trailingAnnualDividendYield": 0.05131849,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 44572000000,
+                    "earnings": 8306000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 39153000000,
+                    "earnings": 7956000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 57255000000,
+                    "earnings": 11304000000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 65411000000,
+                    "earnings": 30900000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 15415500000,
+                    "earnings": 4721500000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 15415500000,
+                    "earnings": 4721500000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 17290000000,
+                    "earnings": 10728500000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 17290000000,
+                    "earnings": 10728500000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": []
+        },
+        "exDividendDate": "2022-09-01T00:00:00.000Z",
+        "dividendDate": "2022-09-22T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-07-14T13:25:23.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-06-07T13:12:34.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-07-08T11:55:37.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-03-31T11:12:07.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-09T13:55:46.000Z",
+                "firm": "Argus Research",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-02-02T12:38:43.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-02-02T12:33:41.000Z",
+                "firm": "Liberum",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-09-30T16:11:08.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-09-16T09:17:46.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-03-03T13:15:15.000Z",
+                "firm": "Argus Research",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-16T11:00:13.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-01-28T11:27:39.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-04T13:40:20.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-04-16T10:14:11.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-04-04T14:05:54.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-04-04T12:18:31.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-02-21T10:53:21.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-01-22T12:57:58.000Z",
+                "firm": "Bernstein",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-08-31T11:34:09.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Underperform",
+                "fromGrade": "Sector Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-07-19T13:33:09.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-07-05T14:30:18.000Z",
+                "firm": "Bernstein",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-12-07T18:25:48.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-12-05T17:08:11.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-12-01T13:20:47.000Z",
+                "firm": "Argus",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-11-10T17:03:31.000Z",
+                "firm": "HSBC",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-12T18:29:50.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-11T11:33:56.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-09-20T09:31:47.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-05T13:32:14.000Z",
+                "firm": "Argus",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-08-23T06:31:42.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-04-18T06:47:29.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-03-17T04:17:28.000Z",
+                "firm": "Nomura",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-15T07:28:18.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-05-05T13:32:14.000Z",
+                "firm": "Argus",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-03-09T03:56:41.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-02-09T06:18:27.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-01-20T09:04:46.000Z",
+                "firm": "Investec",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-01-14T07:36:55.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-13T06:19:28.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-12T06:12:13.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-01-08T08:34:52.000Z",
+                "firm": "CIBC",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-01-08T07:06:56.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-12-15T05:41:04.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-11-17T07:49:04.000Z",
+                "firm": "Clarksons Platou",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-11-10T06:35:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-10-29T08:59:49.000Z",
+                "firm": "Liberum",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-09-14T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-08-27T07:25:38.000Z",
+                "firm": "Exane BNP Paribas",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-08-26T05:52:08.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-07-10T06:52:12.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-24T06:43:43.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-15T06:42:36.000Z",
+                "firm": "HSBC",
+                "toGrade": "Hold",
+                "fromGrade": "Reduce",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-02T04:56:46.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-06-01T10:48:46.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-05-22T07:48:25.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-05-19T07:20:03.000Z",
+                "firm": "HSBC",
+                "toGrade": "Reduce",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-04-16T07:37:51.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-04-13T07:08:36.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-04-09T06:33:26.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-03-30T07:16:31.000Z",
+                "firm": "CIBC",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-03-16T09:07:36.000Z",
+                "firm": "HSBC",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-02-24T06:44:08.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-02-24T05:39:11.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-02-23T08:27:08.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-01-16T07:19:09.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-01-15T04:42:49.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-01-14T05:43:11.000Z",
+                "firm": "S&P Capital IQ",
+                "toGrade": "",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-01-14T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-10-14T16:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-09-25T08:15:41.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-08-19T15:31:12.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-08-19T15:06:18.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-05-21T07:47:29.000Z",
+                "firm": "Liberum",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-04-29T21:08:02.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-16T12:53:54.000Z",
+                "firm": "S&P Capital IQ",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-01-28T16:00:00.000Z",
+                "firm": "Exane BNP Paribas",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-01-22T08:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-12-18T16:00:00.000Z",
+                "firm": "Clarksons Platou",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-10-11T11:37:07.000Z",
+                "firm": "Societe Generale",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-07-31T09:08:13.000Z",
+                "firm": "Espirito Santo",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-06-05T11:47:26.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-06-05T11:44:50.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-04-22T09:28:28.000Z",
+                "firm": "Espirito Santo",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-04-22T08:51:24.000Z",
+                "firm": "HSBC",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-04-10T08:41:03.000Z",
+                "firm": "Investec",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-04-09T12:07:04.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-03-19T07:58:59.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-03-15T06:36:17.000Z",
+                "firm": "Shaw Stockbroking",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-02-21T08:27:12.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-23T06:34:54.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-15T07:04:42.000Z",
+                "firm": "Dahlman Rose",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-11T08:16:19.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-10T14:02:31.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-11T09:36:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0030284198,
+        "postMarketChange": 0.199997,
+        "postMarketTime": "2023-01-07T00:25:08.000Z",
+        "postMarketPrice": 66.24,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.04279171,
+        "regularMarketChange": 2.709999,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 66.04,
+        "regularMarketDayHigh": 66.11,
+        "regularMarketDayLow": 64.0966,
+        "regularMarketVolume": 2773982,
+        "averageDailyVolume10Day": 2084370,
+        "averageDailyVolume3Month": 3349046,
+        "regularMarketPreviousClose": 63.33,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 64.7,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BHP",
+        "underlyingSymbol": null,
+        "shortName": "BHP Group Limited",
+        "longName": "BHP Group Limited",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 237989003264
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 163370024960,
+        "profitMargins": 0.4724,
+        "floatShares": 2422223623,
+        "sharesOutstanding": 2530639872,
+        "sharesShort": 5344219,
+        "sharesShortPriorMonth": 7583280,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0021,
+        "heldPercentInsiders": 0.00005,
+        "heldPercentInstitutions": 0.03534,
+        "shortRatio": 1.79,
+        "beta": 0.802193,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 17.766,
+        "priceToBook": 3.7172124,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-06-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-06-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 1.889,
+        "netIncomeToCommon": 20245000192,
+        "trailingEps": 7.9,
+        "forwardEps": 2.04,
+        "lastSplitFactor": "1121:1000",
+        "lastSplitDate": "2022-06-02T00:00:00.000Z",
+        "enterpriseToRevenue": 2.498,
+        "enterpriseToEbitda": 4.339,
+        "52WeekChange": 0.17230153,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 3.5,
+        "lastDividendDate": 1661990400
+    },
+    "summaryProfile": {
+        "address1": "171 Collins Street",
+        "address2": "Level 18",
+        "city": "Melbourne",
+        "state": "VIC",
+        "zip": "3000",
+        "country": "Australia",
+        "phone": "61 1300 55 47 57",
+        "fax": "61 3 9609 3015",
+        "website": "https://www.bhp.com",
+        "industry": "Other Industrial Metals & Mining",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, the rest of Asia, North America, South America, and internationally. The company operates through Copper, Iron Ore, and Coal segments. It engages in the mining of copper, silver, zinc, molybdenum, uranium, gold, iron ore, and metallurgical and energy coal. The company is also involved in mining, smelting, and refining of nickel; and potash development activities. In addition, it provides towing, freight, marketing and trading, marketing support, finance, administrative, and other services. The company was founded in 1851 and is headquartered in Melbourne, Australia.",
+        "fullTimeEmployees": 45295,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 66.04,
+        "targetHighPrice": 77,
+        "targetLowPrice": 64,
+        "targetMeanPrice": 69,
+        "targetMedianPrice": 67.5,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 17539000320,
+        "totalCashPerShare": 6.931,
+        "ebitda": 37647998976,
+        "totalDebt": 18251999232,
+        "quickRatio": 1.373,
+        "currentRatio": 1.694,
+        "totalRevenue": 65410998272,
+        "debtToEquity": 37.428,
+        "revenuePerShare": 25.85,
+        "returnOnAssets": 0.20175,
+        "returnOnEquity": 0.42924,
+        "grossProfits": 56071000000,
+        "freeCashflow": 20420874240,
+        "operatingCashflow": 32174000128,
+        "earningsGrowth": 1.888,
+        "revenueGrowth": 0.046,
+        "grossMargins": 0.85721,
+        "ebitdaMargins": 0.57556,
+        "operatingMargins": 0.50359,
+        "profitMargins": 0.4724,
+        "financialCurrency": "USD"
+    }
+}

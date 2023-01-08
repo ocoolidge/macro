@@ -1,0 +1,1092 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BECN",
+        "Security_Name": "Beacon Roofing Supply, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BECN",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 6,
+                "buy": 6,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 10,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 10,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 4,
+                "buy": 6,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 51.58,
+        "open": 52.21,
+        "dayLow": 51.83,
+        "dayHigh": 53.4,
+        "regularMarketPreviousClose": 51.58,
+        "regularMarketOpen": 52.21,
+        "regularMarketDayLow": 51.83,
+        "regularMarketDayHigh": 53.4,
+        "payoutRatio": 0,
+        "beta": 1.679439,
+        "forwardPE": 14.91854,
+        "volume": 293265,
+        "regularMarketVolume": 293265,
+        "averageVolume": 535098,
+        "averageVolume10days": 439540,
+        "averageDailyVolume10Day": 439540,
+        "bid": 53.25,
+        "ask": 53.28,
+        "bidSize": 1000,
+        "askSize": 1100,
+        "marketCap": 3723695872,
+        "fiftyTwoWeekLow": 45.71,
+        "fiftyTwoWeekHigh": 65.3,
+        "priceToSalesTrailing12Months": 0.47287428,
+        "fiftyDayAverage": 56.269,
+        "twoHundredDayAverage": 57.298,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 1.57,
+                    "estimate": 1.54
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 1.47,
+                    "estimate": 1.15
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.93,
+                    "estimate": 0.51
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 2.46,
+                    "estimate": 2.31
+                }
+            ],
+            "currentQuarterEstimate": 2.07,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675209600,
+                1675641600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2020,
+                    "revenue": 5916700000,
+                    "earnings": -80900000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 6077900000,
+                    "earnings": -278000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 6642000000,
+                    "earnings": -45500000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 7019600000,
+                    "earnings": 272000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "2Q2021",
+                    "revenue": 1872100000,
+                    "earnings": 76500000
+                },
+                {
+                    "date": "3Q2021",
+                    "revenue": 1875400000,
+                    "earnings": 104800000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 1686900000,
+                    "earnings": 55800000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 2358200000,
+                    "earnings": 174500000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675209600,
+                1675641600
+            ],
+            "earningsAverage": 2.07,
+            "earningsLow": 1.74,
+            "earningsHigh": 2.51,
+            "revenueAverage": 2329680000,
+            "revenueLow": 2180510000,
+            "revenueHigh": 2385000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-20T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-14T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-18T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-08-08T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-19T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-15T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-28T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-22T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-05-09T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-21T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-20T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-30T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-12-06T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-11-29T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-10-18T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-08-12T00:00:00.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-10T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-07-16T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-04-15T00:00:00.000Z",
+                "firm": "Northcoast Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-17T00:00:00.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Peer Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-03-10T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-02-09T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-02-09T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-01-26T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-01-14T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-10-14T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-10-12T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-10-06T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-08-11T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-07-17T00:00:00.000Z",
+                "firm": "Northcoast Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-08T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-16T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-16T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-07T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Underperform",
+                "fromGrade": "Sector Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-31T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-25T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-11T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-01-14T00:00:00.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-01-07T00:00:00.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-12-16T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-27T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-11-26T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-26T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-21T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-09-26T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-06-10T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-03-26T00:00:00.000Z",
+                "firm": "Buckingham Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-03-26T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-02-25T00:00:00.000Z",
+                "firm": "Buckingham Research",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-12-14T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-28T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-21T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Hold",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-20T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-20T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-15T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Underperform",
+                "fromGrade": "Underperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-10-25T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Strong Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-10-08T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-10-02T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-08-10T00:00:00.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Sector Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-08-10T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-08T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-08-08T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Underperform",
+                "fromGrade": "Market Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-08-08T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-20T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-06-28T00:00:00.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-28T00:00:00.000Z",
+                "firm": "MKM Partners",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-28T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-05-14T00:00:00.000Z",
+                "firm": "Northcoast Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-05-10T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-05-09T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-02-13T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-02-09T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-18T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-08-28T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-08-25T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-08-25T00:00:00.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-12-07T00:00:00.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-11-22T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-09-07T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-06T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-06-10T00:00:00.000Z",
+                "firm": "BB&T Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-04-11T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-02-08T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-21T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-19T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-11T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-11-30T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-10-26T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-08-10T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-29T00:00:00.000Z",
+                "firm": "CL King",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-07-28T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-07-28T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-27T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-05-12T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-02-09T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-01-28T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-11-19T00:00:00.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-09-26T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-07-08T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-05-19T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-04-15T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-12-12T00:00:00.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-10-01T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-09-06T00:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-05-13T00:00:00.000Z",
+                "firm": "Wunderlich Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-18T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-02-06T00:00:00.000Z",
+                "firm": "Wunderlich Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-29T00:00:00.000Z",
+                "firm": "Wunderlich Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-27T00:00:00.000Z",
+                "firm": "Wunderlich Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-09-17T00:00:00.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-05-25T00:00:00.000Z",
+                "firm": "Wunderlich Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-05-10T00:00:00.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:10:01.000Z",
+        "postMarketPrice": 53.11,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.029662635,
+        "regularMarketChange": 1.5299988,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 53.11,
+        "regularMarketDayHigh": 53.4,
+        "regularMarketDayLow": 51.83,
+        "regularMarketVolume": 293265,
+        "averageDailyVolume10Day": 439540,
+        "averageDailyVolume3Month": 535098,
+        "regularMarketPreviousClose": 51.58,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 52.21,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BECN",
+        "underlyingSymbol": null,
+        "shortName": "Beacon Roofing Supply, Inc.",
+        "longName": "Beacon Roofing Supply, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 3723695872
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 6462259712,
+        "forwardPE": 8.793047,
+        "profitMargins": 0.05487,
+        "floatShares": 49787633,
+        "sharesOutstanding": 70112896,
+        "sharesShort": 2408230,
+        "sharesShortPriorMonth": 2655081,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.037,
+        "heldPercentInsiders": 0.0053600003,
+        "heldPercentInstitutions": 1.10848,
+        "shortRatio": 3.21,
+        "shortPercentOfFloat": 0.0559,
+        "beta": 1.679439,
+        "category": null,
+        "bookValue": 22.259,
+        "priceToBook": 2.386001,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 1.281,
+        "netIncomeToCommon": 359500000,
+        "trailingEps": -4.382,
+        "forwardEps": 3.56,
+        "pegRatio": 0.92,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": "2006-06-13T00:00:00.000Z",
+        "enterpriseToRevenue": 0.821,
+        "enterpriseToEbitda": 7.822
+    },
+    "summaryProfile": {
+        "address1": "505 Huntmar Park Drive",
+        "address2": "Suite 300",
+        "city": "Herndon",
+        "state": "VA",
+        "zip": "20170",
+        "country": "United States",
+        "phone": "571 323 3939",
+        "fax": "703 437 1919",
+        "website": "https://www.becn.com",
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials",
+        "longBusinessSummary": "Beacon Roofing Supply, Inc., together with its subsidiaries, distributes residential and non-residential roofing materials, and complementary building products to contractors, home builders, building owners, lumberyards, and retailers. It offers pitched roofing and low slope roof products; gutters and sidings; building materials, such as lumber and composite, skylights and window, plywood and OSB, decking and railing, and HVAC products; and foam board, spray foam, roll, batt, mineral wool, fiberglass, and commercial insulation products, as well as radiant barriers and blown-in insulation and equipment. The company also provides above grade and below grade membranes and coatings, deck and floor coatings, plaza deck waterproofing products, damp proofing coatings, and air and vapor barriers; tools and equipment, including power and hand tools, ladders and scaffolding, air tools and compressors, nails, screws and fasteners, generators, work wear and safety gear, job site supplies, tool bags and belts, welding and soldering, cleaning supplies, drill bits, and saw blades; and solar panels, mounting hardware, inverters, and storage and batteries. As of September 30, 2022, it operated approximately 400 branches in 50 states of the United States and 6 provinces in Canada. Beacon Roofing Supply, Inc. was founded in 1928 and is headquartered in Herndon, Virginia.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 53.11,
+        "targetHighPrice": 80,
+        "targetLowPrice": 55,
+        "targetMeanPrice": 69.75,
+        "targetMedianPrice": 71,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 12,
+        "totalCash": 60900000,
+        "totalCashPerShare": 0.937,
+        "ebitda": 826200000,
+        "totalDebt": 2561200128,
+        "quickRatio": 0.787,
+        "currentRatio": 1.906,
+        "totalRevenue": 7874599936,
+        "debtToEquity": 123.401,
+        "revenuePerShare": 112.575,
+        "grossProfits": 1846400000,
+        "operatingCashflow": -7300000,
+        "earningsGrowth": 1.455,
+        "revenueGrowth": 0.26,
+        "grossMargins": 0.26489002,
+        "ebitdaMargins": 0.10492,
+        "operatingMargins": 0.085360005,
+        "profitMargins": 0.05487,
+        "financialCurrency": "USD"
+    }
+}

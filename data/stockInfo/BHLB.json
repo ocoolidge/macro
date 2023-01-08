@@ -1,0 +1,619 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BHLB",
+        "Security_Name": "Berkshire Hills Bancorp, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BHLB",
+        "NASDAQ_Symbol": "BHLB",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 1
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 1
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 30.05,
+        "open": 30.37,
+        "dayLow": 30.25,
+        "dayHigh": 30.82,
+        "regularMarketPreviousClose": 30.05,
+        "regularMarketOpen": 30.37,
+        "regularMarketDayLow": 30.25,
+        "regularMarketDayHigh": 30.82,
+        "dividendRate": 0.72,
+        "dividendYield": 0.024,
+        "exDividendDate": "2022-11-16T00:00:00.000Z",
+        "payoutRatio": 0.2727,
+        "fiveYearAvgDividendYield": 3.2,
+        "beta": 1.006278,
+        "trailingPE": 17.494318,
+        "forwardPE": 12.365462,
+        "volume": 210307,
+        "regularMarketVolume": 210307,
+        "averageVolume": 312903,
+        "averageVolume10days": 223620,
+        "averageDailyVolume10Day": 223620,
+        "bid": 12.1,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 900,
+        "marketCap": 1386322816,
+        "fiftyTwoWeekLow": 23.62,
+        "fiftyTwoWeekHigh": 31.78,
+        "priceToSalesTrailing12Months": 3.5500407,
+        "fiftyDayAverage": 29.8368,
+        "twoHundredDayAverage": 27.8597,
+        "trailingAnnualDividendRate": 0.48,
+        "trailingAnnualDividendYield": 0.015973378,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.42,
+                    "estimate": 0.42
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.42,
+                    "estimate": 0.4
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.5,
+                    "estimate": 0.47
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.42,
+                    "estimate": 0.58
+                }
+            ],
+            "currentQuarterEstimate": 0.63,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674739800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 405073000,
+                    "earnings": 105765000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 413841000,
+                    "earnings": 97450000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 307211000,
+                    "earnings": -533017000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 434914000,
+                    "earnings": 118664000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 93721000,
+                    "earnings": 20248000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 93744000,
+                    "earnings": 20196000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 97709000,
+                    "earnings": 23115000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 105335000,
+                    "earnings": 18717000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674739800
+            ],
+            "earningsAverage": 0.63,
+            "earningsLow": 0.61,
+            "earningsHigh": 0.67,
+            "revenueAverage": 97440000,
+            "revenueLow": 92000000,
+            "revenueHigh": 112100000
+        },
+        "exDividendDate": "2022-11-16T00:00:00.000Z",
+        "dividendDate": "2022-12-01T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-14T10:18:49.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-10-10T14:19:24.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-21T12:18:43.000Z",
+                "firm": "Janney Montgomery Scott",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-04-21T10:15:48.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-10-22T13:13:50.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-05T11:05:51.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-31T11:06:51.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-08-11T09:03:54.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-06T11:04:24.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-05-04T11:25:07.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-04-30T13:23:12.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-02-05T15:27:41.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-01-13T10:48:57.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-09-28T12:17:15.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-09T12:27:02.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-31T14:50:27.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-12T09:16:47.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-06T11:07:33.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-07-12T10:35:42.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-11T20:49:07.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-02T12:12:49.000Z",
+                "firm": "Sandler O'Neill",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-01-09T14:23:41.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-23T10:10:39.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-19T11:28:23.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-06-12T11:54:25.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-09-07T12:16:53.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-01-31T15:39:58.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-11-18T14:10:29.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-11-16T12:59:38.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-25T11:49:11.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-11-10T04:17:33.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-04-29T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-28T06:41:32.000Z",
+                "firm": "Sandler O'Neill",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-11-18T09:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-11-12T07:48:06.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-10-29T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-11T07:48:47.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-04-29T08:00:00.000Z",
+                "firm": "Sandler O'Neill",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-07-23T06:27:41.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-22T09:32:59.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-11T08:49:09.000Z",
+                "firm": "Sandler O'Neill",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-30T08:04:38.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-25T08:02:00.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:06.000Z",
+        "postMarketPrice": 30.79,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.024625681,
+        "regularMarketChange": 0.7400017,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 30.79,
+        "regularMarketDayHigh": 30.82,
+        "regularMarketDayLow": 30.25,
+        "regularMarketVolume": 210307,
+        "averageDailyVolume10Day": 223620,
+        "averageDailyVolume3Month": 312903,
+        "regularMarketPreviousClose": 30.05,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 30.37,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BHLB",
+        "underlyingSymbol": null,
+        "shortName": "Berkshire Hills Bancorp, Inc.",
+        "longName": "Berkshire Hills Bancorp, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1386322816
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1386077824,
+        "forwardPE": 12.365462,
+        "profitMargins": 0.21069,
+        "floatShares": 43820632,
+        "sharesOutstanding": 45025100,
+        "sharesShort": 2694692,
+        "sharesShortPriorMonth": 2243785,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0598,
+        "heldPercentInsiders": 0.046409998,
+        "heldPercentInstitutions": 0.83722997,
+        "shortRatio": 11.11,
+        "shortPercentOfFloat": 0.0881,
+        "beta": 1.006278,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 21.27,
+        "priceToBook": 1.4475788,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.706,
+        "netIncomeToCommon": 82276000,
+        "trailingEps": 1.76,
+        "forwardEps": 2.49,
+        "pegRatio": 1.52,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 3.549,
+        "52WeekChange": 0.0022786856,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.18,
+        "lastDividendDate": 1668556800
+    },
+    "summaryProfile": {
+        "address1": "60 State Street",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02109",
+        "country": "United States",
+        "phone": "617 641 9206",
+        "website": "https://www.berkshirebank.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Berkshire Hills Bancorp, Inc. operates as the bank holding company for Berkshire Bank that provides various banking products and services. It offers various deposit accounts, including demand deposit, NOW, regular savings, money market savings, time certificates of deposit, and retirement deposit accounts; and loans, such as commercial real estate, commercial and industrial, consumer, and residential mortgage loans. The company also provides wealth management services comprising investment management, trust administration, and financial planning; and investment products, financial planning, and brokerage services. In addition, it offers electronic banking, commercial cash management, online banking, small business banking, asset based lending, and mobile banking services; and debit cards and other electronic fee producing payment services to transaction account customers. The company serves personal, commercial, non-profit, and municipal deposit customers. As of March 14, 2022, it operated 106 full-service branches in Massachusetts, New York, Connecticut, and Vermont. The company also has commercial banking offices in Providence, Rhode Island and New Haven, Connecticut. Berkshire Hills Bancorp, Inc. was founded in 1846 and is headquartered in Boston, Massachusetts.",
+        "fullTimeEmployees": 1300,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 30.79,
+        "targetHighPrice": 34,
+        "targetLowPrice": 22,
+        "targetMeanPrice": 30,
+        "targetMedianPrice": 31,
+        "recommendationMean": 3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 135320992,
+        "totalCashPerShare": 3.055,
+        "totalDebt": 190212000,
+        "totalRevenue": 390508992,
+        "revenuePerShare": 8.393,
+        "returnOnAssets": 0.0070999996,
+        "returnOnEquity": 0.0776,
+        "grossProfits": 434914000,
+        "operatingCashflow": 111156000,
+        "earningsGrowth": -0.68,
+        "revenueGrowth": -0.293,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.31497,
+        "profitMargins": 0.21069,
+        "financialCurrency": "USD"
+    }
+}

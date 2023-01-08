@@ -1,0 +1,401 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMSF",
+        "Security_Name": "AMERISAFE, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AMSF",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 50.94,
+        "open": 51.26,
+        "dayLow": 50.05,
+        "dayHigh": 52.4,
+        "regularMarketPreviousClose": 50.94,
+        "regularMarketOpen": 51.26,
+        "regularMarketDayLow": 50.05,
+        "regularMarketDayHigh": 52.4,
+        "dividendRate": 1.24,
+        "dividendYield": 0.0215,
+        "exDividendDate": "2022-12-01T00:00:00.000Z",
+        "payoutRatio": 0.6162,
+        "fiveYearAvgDividendYield": 1.72,
+        "beta": 0.228813,
+        "trailingPE": 10.591957,
+        "forwardPE": 17.125412,
+        "volume": 55999,
+        "regularMarketVolume": 55999,
+        "averageVolume": 88070,
+        "averageVolume10days": 65720,
+        "averageDailyVolume10Day": 65720,
+        "bid": 20.79,
+        "ask": 57.5,
+        "bidSize": 800,
+        "askSize": 1000,
+        "marketCap": 1004803136,
+        "fiftyTwoWeekLow": 44.06,
+        "fiftyTwoWeekHigh": 60.49,
+        "priceToSalesTrailing12Months": 3.4261584,
+        "fiftyDayAverage": 54.1556,
+        "twoHundredDayAverage": 50.0014,
+        "trailingAnnualDividendRate": 1.1,
+        "trailingAnnualDividendYield": 0.021594033,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0,
+                    "estimate": 0.9
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.82,
+                    "estimate": 0.66
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.68,
+                    "estimate": 0.68
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.73,
+                    "estimate": 0.75
+                }
+            ],
+            "currentQuarterEstimate": 0.76,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676851200,
+                1677196800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 377753000,
+                    "earnings": 71632000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 370370000,
+                    "earnings": 92690000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 339504000,
+                    "earnings": 86602000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 316013000,
+                    "earnings": 65756000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2022",
+                    "revenue": 75465000,
+                    "earnings": 17331000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 75465000,
+                    "earnings": 17331000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 68050000,
+                    "earnings": 6132000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 71401000,
+                    "earnings": 11361000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676851200,
+                1677196800
+            ],
+            "earningsAverage": 0.76,
+            "earningsLow": 0.67,
+            "earningsHigh": 0.86,
+            "revenueAverage": 75060000,
+            "revenueLow": 75060000,
+            "revenueHigh": 75060000
+        },
+        "exDividendDate": "2022-12-01T00:00:00.000Z",
+        "dividendDate": "2022-12-16T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-03-04T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-10-15T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-01T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-01T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-20T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-11-19T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2018-08-02T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "Market Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-08-01T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-30T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-29T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-09T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-02-28T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-07-16T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:13.000Z",
+        "postMarketPrice": 51.89,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.018649407,
+        "regularMarketChange": 0.95000076,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 51.89,
+        "regularMarketDayHigh": 52.4,
+        "regularMarketDayLow": 50.05,
+        "regularMarketVolume": 55999,
+        "averageDailyVolume10Day": 65720,
+        "averageDailyVolume3Month": 88070,
+        "regularMarketPreviousClose": 50.94,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 51.26,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMSF",
+        "underlyingSymbol": null,
+        "shortName": "AMERISAFE, Inc.",
+        "longName": "AMERISAFE, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1004803136
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1017942976,
+        "forwardPE": 17.412752,
+        "profitMargins": 0.13081999,
+        "floatShares": 18805906,
+        "sharesOutstanding": 19364100,
+        "sharesShort": 232664,
+        "sharesShortPriorMonth": 208405,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0121,
+        "heldPercentInsiders": 0.020450002,
+        "heldPercentInstitutions": 0.98841006,
+        "shortRatio": 3.65,
+        "shortPercentOfFloat": 0.0147,
+        "beta": 0.228813,
+        "category": null,
+        "bookValue": 23.162,
+        "priceToBook": 2.2403073,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.406,
+        "netIncomeToCommon": 38365000,
+        "trailingEps": 4.899,
+        "forwardEps": 3.03,
+        "pegRatio": 1.83,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 3.471,
+        "enterpriseToEbitda": 22.563
+    },
+    "summaryProfile": {
+        "address1": "2301 Highway 190 West",
+        "city": "Deridder",
+        "state": "LA",
+        "zip": "70634",
+        "country": "United States",
+        "phone": "337 463 9052",
+        "website": "https://www.amerisafe.com",
+        "industry": "Insurance—Specialty",
+        "sector": "Financial Services",
+        "longBusinessSummary": "AMERISAFE, Inc., an insurance holding company, underwrites workers' compensation insurance in the United States. The company's workers' compensation insurance policies provide benefits to injured employees for temporary or permanent disability, death, and medical and hospital expenses. It serves small to mid-sized employers engaged in hazardous industries, including construction, trucking, logging and lumber, agriculture, manufacturing, telecommunications, and maritime. The company was incorporated in 1985 and is based in DeRidder, Louisiana.",
+        "fullTimeEmployees": 371,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 51.89,
+        "recommendationMean": 2.7,
+        "recommendationKey": "hold",
+        "totalCash": 90952000,
+        "totalCashPerShare": 4.737,
+        "ebitda": 45115000,
+        "totalDebt": 0,
+        "quickRatio": 1.78,
+        "currentRatio": 2.701,
+        "totalRevenue": 293273984,
+        "revenuePerShare": 15.206,
+        "returnOnAssets": 0.019340001,
+        "returnOnEquity": 0.08993,
+        "grossProfits": 105603000,
+        "earningsGrowth": -0.404,
+        "revenueGrowth": -0.022,
+        "grossMargins": 0.23896,
+        "ebitdaMargins": 0.15383,
+        "operatingMargins": 0.14977999,
+        "profitMargins": 0.13081999,
+        "financialCurrency": "USD"
+    }
+}

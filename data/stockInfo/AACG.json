@@ -1,0 +1,478 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AACG",
+        "Security_Name": "ATA Creativity Global - American Depositary Shares, each representing two common shares",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AACG",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 1.321,
+        "open": 1.36,
+        "dayLow": 1.3543,
+        "dayHigh": 1.44,
+        "regularMarketPreviousClose": 1.321,
+        "regularMarketOpen": 1.36,
+        "regularMarketDayLow": 1.3543,
+        "regularMarketDayHigh": 1.44,
+        "exDividendDate": "2018-08-27T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 1.175444,
+        "forwardPE": -1.12984,
+        "volume": 1310,
+        "regularMarketVolume": 1310,
+        "averageVolume": 8606,
+        "averageVolume10days": 8920,
+        "averageDailyVolume10Day": 8920,
+        "bid": 1.35,
+        "ask": 1.41,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 44313596,
+        "fiftyTwoWeekLow": 0.88,
+        "fiftyTwoWeekHigh": 2.65,
+        "priceToSalesTrailing12Months": 0.22063573,
+        "fiftyDayAverage": 1.6026,
+        "twoHundredDayAverage": 1.54625,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.13,
+                    "estimate": -0.15
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.01,
+                    "estimate": -0.27
+                }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678877940,
+                1679313600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1338592,
+                    "earnings": 854925914
+                },
+                {
+                    "date": 2019,
+                    "revenue": 97770167,
+                    "earnings": -122253989
+                },
+                {
+                    "date": 2020,
+                    "revenue": 162167547,
+                    "earnings": -92198032
+                },
+                {
+                    "date": 2021,
+                    "revenue": 202209465,
+                    "earnings": -33649593
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 72561478,
+                    "earnings": -2549997
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 42138629,
+                    "earnings": -15853876
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 34045045,
+                    "earnings": -22070027
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 52099904,
+                    "earnings": -11986167
+                }
+            ]
+        },
+        "financialCurrency": "CNY"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678877940,
+                1679313600
+            ]
+        },
+        "exDividendDate": "2018-08-27T00:00:00.000Z",
+        "dividendDate": "2018-08-24T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2023-01-06T17:07:09.000Z",
+                "firm": "EF Hutton",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-12-16T11:30:15.000Z",
+                "firm": "EF Hutton",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-11-01T13:04:22.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-09-01T11:16:40.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-17T11:08:13.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-31T11:11:43.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-30T14:29:09.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-11-22T11:28:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-16T14:10:44.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-16T12:03:59.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-11T11:17:41.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-10-18T10:29:52.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-09-01T12:22:34.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-08-17T14:11:01.000Z",
+                "firm": "Argus Research",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-17T14:10:15.000Z",
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-14T10:03:37.000Z",
+                "firm": "Baader Helvea",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-13T12:52:58.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-13T12:50:17.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-13T12:45:27.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-13T12:30:32.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-13T11:49:28.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-13T11:36:54.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-13T10:17:23.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-08T13:34:43.000Z",
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-11-08T16:17:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-08-08T08:18:00.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.06911432,
+        "regularMarketChange": 0.09130001,
+        "regularMarketTime": "2023-01-06T20:08:02.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 1.4123,
+        "regularMarketDayHigh": 1.44,
+        "regularMarketDayLow": 1.3543,
+        "regularMarketVolume": 1310,
+        "averageDailyVolume10Day": 8920,
+        "averageDailyVolume3Month": 8606,
+        "regularMarketPreviousClose": 1.321,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 1.36,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AACG",
+        "underlyingSymbol": null,
+        "shortName": "ATA Creativity Global",
+        "longName": "ATA Creativity Global",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 44313596
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 19000644,
+        "forwardPE": -1.12984,
+        "profitMargins": -0.2612,
+        "floatShares": 8648502,
+        "sharesOutstanding": 31376900,
+        "sharesShort": 10399,
+        "sharesShortPriorMonth": 27276,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.00029999999,
+        "heldPercentInsiders": 0.05528,
+        "heldPercentInstitutions": 0.16788,
+        "shortRatio": 1.44,
+        "beta": 1.175444,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 4.453,
+        "priceToBook": 0.31715697,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -54743156,
+        "trailingEps": -0.153,
+        "forwardEps": -1.25,
+        "pegRatio": -0.06,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.095,
+        "enterpriseToEbitda": -0.466,
+        "52WeekChange": -0.3561644,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 6,
+        "lastDividendDate": 1535328000
+    },
+    "summaryProfile": {
+        "address1": "Building No. 2",
+        "address2": "East Gate, Floor 1 Jian Wai Soho No.39 Dong San Huan Zhong Rd,Chao Yang D",
+        "city": "Beijing",
+        "zip": "100022",
+        "country": "China",
+        "phone": "86 10 6518 1133",
+        "fax": "86 10 6517 9517",
+        "website": "https://www.atai.net.cn",
+        "industry": "Education & Training Services",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "ATA Creativity Global, together with its subsidiaries, provides educational services to individual students through its training center network in China and internationally. Its educational services include portfolio training, research-based learning, overseas study counselling, in-school art classes through cooperation with high schools, foreign language training services, junior art education, and other related educational services to its students. The company also offers online courses for students. As of December 31, 2021, it operated through 21 training centers in 20 cities in China. The company was formerly known as ATA Inc. and changed its name to ATA Creativity Global in September 2019. ATA Creativity Global was founded in 1999 and is headquartered in Beijing, China.",
+        "fullTimeEmployees": 584,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 1.4123,
+        "targetHighPrice": 20,
+        "targetLowPrice": 18,
+        "targetMeanPrice": 19,
+        "targetMedianPrice": 19,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 59858096,
+        "totalCashPerShare": 1.906,
+        "ebitda": -40755384,
+        "totalDebt": 31832612,
+        "quickRatio": 0.202,
+        "currentRatio": 0.222,
+        "totalRevenue": 200845056,
+        "debtToEquity": 22.339,
+        "revenuePerShare": 6.13,
+        "returnOnAssets": -0.07353,
+        "returnOnEquity": -0.31939,
+        "grossProfits": 104795550,
+        "revenueGrowth": -0.058,
+        "grossMargins": 0.50004,
+        "ebitdaMargins": -0.20292,
+        "operatingMargins": -0.29184,
+        "profitMargins": -0.2612,
+        "financialCurrency": "CNY"
+    }
+}

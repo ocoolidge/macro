@@ -1,0 +1,688 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARR",
+        "Security_Name": "ARMOUR Residential REIT, Inc.",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ARR",
+        "NASDAQ_Symbol": "ARR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 2,
+                "sell": 2,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 5,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 5,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 5.7,
+        "open": 5.72,
+        "dayLow": 5.6139,
+        "dayHigh": 5.8,
+        "regularMarketPreviousClose": 5.7,
+        "regularMarketOpen": 5.72,
+        "regularMarketDayLow": 5.6139,
+        "regularMarketDayHigh": 5.8,
+        "dividendRate": 1.2,
+        "dividendYield": 0.24190001,
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 13.09,
+        "trailingPE": 1.4866256,
+        "forwardPE": 4.5873017,
+        "volume": 5338978,
+        "regularMarketVolume": 5338978,
+        "averageVolume": 5092466,
+        "averageVolume10days": 4208440,
+        "averageDailyVolume10Day": 4208440,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 21500,
+        "askSize": 4000,
+        "marketCap": 518402432,
+        "fiftyTwoWeekLow": 4.38,
+        "fiftyTwoWeekHigh": 10.14,
+        "priceToSalesTrailing12Months": -2.05199,
+        "fiftyDayAverage": 5.6812,
+        "twoHundredDayAverage": 6.6725,
+        "trailingAnnualDividendRate": 0.99,
+        "trailingAnnualDividendYield": 0.17368422,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.27,
+                    "estimate": 0.27
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.28,
+                    "estimate": 0.26
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.29,
+                    "estimate": 0.26
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.32,
+                    "estimate": 0.28
+                }
+            ],
+            "currentQuarterEstimate": 0.28,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676332800,
+                1676851200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": -68941000,
+                    "earnings": -105966000
+                },
+                {
+                    "date": 2019,
+                    "revenue": -211800000,
+                    "earnings": -249905000
+                },
+                {
+                    "date": 2020,
+                    "revenue": -184521000,
+                    "earnings": -215112000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 50278000,
+                    "earnings": 15363000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": -11502000,
+                    "earnings": -20772000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": -57207000,
+                    "earnings": -66434000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": -49187000,
+                    "earnings": -58591000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": -134738000,
+                    "earnings": -144315000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676332800,
+                1676851200
+            ],
+            "earningsAverage": 0.28,
+            "earningsLow": 0.23,
+            "earningsHigh": 0.31,
+            "revenueAverage": 35360000,
+            "revenueLow": 33580000,
+            "revenueHigh": 37150000
+        },
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "dividendDate": "2023-01-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-25T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-21T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-03T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-27T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-10T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-28T00:00:00.000Z",
+                "firm": "JonesTrading",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-07-28T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-14T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-04-23T00:00:00.000Z",
+                "firm": "JonesTrading",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-26T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-29T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-21T00:00:00.000Z",
+                "firm": "JonesTrading",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-01-14T00:00:00.000Z",
+                "firm": "JonesTrading",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-10-24T00:00:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-03-27T00:00:00.000Z",
+                "firm": "Nomura",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-04-27T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "Underweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-11-09T00:00:00.000Z",
+                "firm": "Nomura",
+                "toGrade": "Neutral",
+                "fromGrade": "Reduce",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-08-04T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-08-04T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-05-04T00:00:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-02-24T00:00:00.000Z",
+                "firm": "Nomura",
+                "toGrade": "Reduce",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-02-23T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-02-01T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underperform",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-11-09T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-13T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-08-03T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-06-23T00:00:00.000Z",
+                "firm": "MLV & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-05-01T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-02-26T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-02-26T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-02-02T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-01-30T00:00:00.000Z",
+                "firm": "Nomura",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-12-29T00:00:00.000Z",
+                "firm": "MLV & Co.",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-10-31T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-31T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-09-11T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-08-01T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-05-06T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-03-24T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-09-17T00:00:00.000Z",
+                "firm": "MLV & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-09-16T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-09-16T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-08-02T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-07-19T00:00:00.000Z",
+                "firm": "National Securities Corporation",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-17T00:00:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-11T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-04-16T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-02-15T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-31T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-12-18T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-05T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-29T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-06-22T00:00:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-03-21T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0034602,
+        "postMarketChange": 0.02,
+        "postMarketTime": "2023-01-07T00:56:07.000Z",
+        "postMarketPrice": 5.8,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.01403516,
+        "regularMarketChange": 0.0800004,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 5.78,
+        "regularMarketDayHigh": 5.8,
+        "regularMarketDayLow": 5.6139,
+        "regularMarketVolume": 5338978,
+        "averageDailyVolume10Day": 4208440,
+        "averageDailyVolume3Month": 5092466,
+        "regularMarketPreviousClose": 5.7,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 5.72,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARR",
+        "underlyingSymbol": null,
+        "shortName": "ARMOUR Residential REIT, Inc.",
+        "longName": "ARMOUR Residential REIT, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 518402432
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 7523493888,
+        "forwardPE": 5.1607146,
+        "profitMargins": 0,
+        "floatShares": 122035745,
+        "sharesOutstanding": 89689000,
+        "sharesShort": 15925299,
+        "sharesShortPriorMonth": 11668210,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.1201,
+        "heldPercentInsiders": 0.00944,
+        "heldPercentInstitutions": 0.45758,
+        "shortRatio": 2.7,
+        "shortPercentOfFloat": 0.1379,
+        "category": null,
+        "bookValue": 14.727,
+        "priceToBook": 0.3924764,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -302094016,
+        "trailingEps": 3.888,
+        "forwardEps": 1.26,
+        "pegRatio": -0.41,
+        "lastSplitFactor": "1:8",
+        "lastSplitDate": "2015-08-03T00:00:00.000Z",
+        "enterpriseToRevenue": -29.78
+    },
+    "summaryProfile": {
+        "address1": "3001 Ocean Drive",
+        "address2": "Suite 201",
+        "city": "Vero Beach",
+        "state": "FL",
+        "zip": "32963",
+        "country": "United States",
+        "phone": "772 617 4340",
+        "website": "https://www.armourreit.com",
+        "industry": "REIT—Mortgage",
+        "sector": "Real Estate",
+        "longBusinessSummary": "ARMOUR Residential REIT, Inc. invests in residential mortgage-backed securities (MBS) in the United States. The company's securities portfolio primarily consists of the United States Government-sponsored entity's (GSE) and the Government National Mortgage Administration's issued or guaranteed securities backed by fixed rate, hybrid adjustable rate, and adjustable-rate home loans, as well as unsecured notes and bonds issued by the GSE and the United States treasuries, as well as money market instruments. It also invests in other securities backed by residential mortgages for which the payment of principal and interest is not guaranteed by a GSE or government agency. The company has elected to be taxed as a real estate investment trust under the Internal Revenue Code. As a result, it would not be subject to corporate income tax on that portion of its net income that is distributed to shareholders. ARMOUR Residential REIT, Inc. was incorporated in 2008 and is based in Vero Beach, Florida.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 5.78,
+        "targetHighPrice": 6,
+        "targetLowPrice": 5.5,
+        "targetMeanPrice": 5.83,
+        "targetMedianPrice": 6,
+        "recommendationMean": 3.2,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 1378286976,
+        "totalCashPerShare": 11.183,
+        "totalDebt": 8257170944,
+        "quickRatio": 0.281,
+        "currentRatio": 0.283,
+        "totalRevenue": -252634000,
+        "debtToEquity": 874.564,
+        "revenuePerShare": -2.418,
+        "returnOnAssets": -0.03648,
+        "returnOnEquity": -0.27791,
+        "grossProfits": 50278000,
+        "operatingCashflow": 4021000,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 1.14835,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

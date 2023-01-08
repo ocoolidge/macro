@@ -1,0 +1,341 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATOS",
+        "Security_Name": "Atossa Therapeutics, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ATOS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.708,
+        "open": 0.7199,
+        "dayLow": 0.68,
+        "dayHigh": 0.7299,
+        "regularMarketPreviousClose": 0.708,
+        "regularMarketOpen": 0.7199,
+        "regularMarketDayLow": 0.68,
+        "regularMarketDayHigh": 0.7299,
+        "payoutRatio": 0,
+        "beta": 1.653647,
+        "forwardPE": -3.424286,
+        "volume": 635967,
+        "regularMarketVolume": 635967,
+        "averageVolume": 513509,
+        "averageVolume10days": 656210,
+        "averageDailyVolume10Day": 656210,
+        "bid": 0.71,
+        "ask": 0.722,
+        "bidSize": 1100,
+        "askSize": 900,
+        "marketCap": 91055320,
+        "fiftyTwoWeekLow": 0.5,
+        "fiftyTwoWeekHigh": 1.62,
+        "fiftyDayAverage": 0.7354,
+        "twoHundredDayAverage": 0.93875,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.04,
+                    "estimate": -0.04
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.04,
+                    "estimate": -0.04
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.04,
+                    "estimate": -0.05
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.05,
+                    "estimate": -0.06
+                }
+            ],
+            "currentQuarterEstimate": -0.06,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 0,
+                    "earnings": -11404934
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -17239777
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -17828000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 0,
+                    "earnings": -20606000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 0,
+                    "earnings": -5197145
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -4831538
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -4786000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -6672000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ],
+            "earningsAverage": -0.06,
+            "earningsLow": -0.06,
+            "earningsHigh": -0.06
+        },
+        "dividendDate": "2018-04-20T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2020-09-17T00:00:00.000Z",
+                "firm": "Ascendiant Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-12-18T00:00:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-01-26T00:00:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-10-07T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-04-15T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-03-20T00:00:00.000Z",
+                "firm": "Dawson James",
+                "toGrade": "Buy",
+                "fromGrade": "Market Outperform",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0012516064,
+        "postMarketChange": 0.00090003014,
+        "postMarketTime": "2023-01-07T00:57:00.000Z",
+        "postMarketPrice": 0.72,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.015677957,
+        "regularMarketChange": 0.011099994,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.7191,
+        "regularMarketDayHigh": 0.7299,
+        "regularMarketDayLow": 0.68,
+        "regularMarketVolume": 635967,
+        "averageDailyVolume10Day": 656210,
+        "averageDailyVolume3Month": 513509,
+        "regularMarketPreviousClose": 0.708,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 0.7199,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATOS",
+        "underlyingSymbol": null,
+        "shortName": "Atossa Therapeutics, Inc.",
+        "longName": "Atossa Therapeutics, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 91055320
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 2935351,
+        "forwardPE": -3.2686365,
+        "profitMargins": 0,
+        "floatShares": 118832929,
+        "sharesOutstanding": 126624000,
+        "sharesShort": 10597933,
+        "sharesShortPriorMonth": 11426024,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0837,
+        "heldPercentInsiders": 0.00041,
+        "heldPercentInstitutions": 0.25026,
+        "shortRatio": 26.5,
+        "shortPercentOfFloat": 0.0837,
+        "beta": 1.653647,
+        "category": null,
+        "bookValue": 0.558,
+        "priceToBook": 1.2887096,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -21486000,
+        "trailingEps": -1.975,
+        "forwardEps": -0.21,
+        "lastSplitFactor": "1:12",
+        "lastSplitDate": "2018-04-20T00:00:00.000Z",
+        "enterpriseToEbitda": -0.138
+    },
+    "summaryProfile": {
+        "address1": "107 Spring Street",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98104",
+        "country": "United States",
+        "phone": "206 588 0256",
+        "fax": "206 902 9658",
+        "website": "https://www.atossatherapeutics.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Atossa Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on the discovery and development of medicines in the areas of oncology and infectious diseases. The company's lead program is Endoxifen, an active metabolite of tamoxifen, which is in Phase II clinical trials to treat and prevent breast cancer. It is also developing AT-H201, an inhalation therapy to improve lung function in severely ill and hospitalized COVID-19 patients; AT-301, a proprietary drug candidate for nasal administration in patients diagnosed with COVID-19; and immunotherapy/chimeric antigen receptor therapy programs for the treatment of breast cancer. It has a research agreement with Dana-Farber Cancer Institute, Inc. to support research of cytokine-coated nanoparticles for the treatment of breast cancer. The company was formerly known as Atossa Genetics Inc. and changed its name to Atossa Therapeutics, Inc. in January 2020. Atossa Therapeutics, Inc. was founded in 2008 and is headquartered in Seattle, Washington.",
+        "fullTimeEmployees": 6,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.7191,
+        "targetHighPrice": 7,
+        "targetLowPrice": 4,
+        "targetMeanPrice": 5.5,
+        "targetMedianPrice": 5.5,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 125537000,
+        "totalCashPerShare": 0.991,
+        "ebitda": -21323000,
+        "totalDebt": 0,
+        "quickRatio": 33.343,
+        "currentRatio": 35.185,
+        "returnOnAssets": -0.09527001,
+        "returnOnEquity": -0.15664,
+        "freeCashflow": -8839801,
+        "operatingCashflow": -17554000,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

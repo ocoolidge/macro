@@ -42,6 +42,8 @@ list.push(["NETEXC", "realNetEx"])
 list.push(["W068RCQ027SBEA", "a1"])
 list.push(["FGEXPND", "a2"])
 list.push(["ND000342Q", "a3"])
+list.push(["M2SL", "M2"])
+list.push(["WM1NS", "M1"])
 
 retrieveFred()
 

@@ -1,0 +1,409 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATTO",
+        "Security_Name": "Atento S.A. Ordinary Shares",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ATTO",
+        "NASDAQ_Symbol": "ATTO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 1,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 5.03,
+        "open": 4.96,
+        "dayLow": 4.96,
+        "dayHigh": 5.52,
+        "regularMarketPreviousClose": 5.03,
+        "regularMarketOpen": 4.96,
+        "regularMarketDayLow": 4.96,
+        "regularMarketDayHigh": 5.52,
+        "exDividendDate": "2017-11-09T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 1.417833,
+        "forwardPE": 2.2869568,
+        "volume": 30760,
+        "regularMarketVolume": 30760,
+        "averageVolume": 32685,
+        "averageVolume10days": 37750,
+        "averageDailyVolume10Day": 37750,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1400,
+        "askSize": 1300,
+        "marketCap": 78900000,
+        "fiftyTwoWeekLow": 2.4,
+        "fiftyTwoWeekHigh": 32,
+        "priceToSalesTrailing12Months": 0.055706885,
+        "fiftyDayAverage": 4.43732,
+        "twoHundredDayAverage": 10.153175,
+        "trailingAnnualDividendRate": 0.338,
+        "trailingAnnualDividendYield": 0.067196816,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.14,
+                    "estimate": 0.07
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -2.43,
+                    "estimate": 0.23
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -4.99,
+                    "estimate": -0.54
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.83,
+                    "estimate": -0.15
+                }
+            ],
+            "currentQuarterEstimate": -0.17,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1679961600,
+                1680480000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1818360000,
+                    "earnings": 18540000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1717763000,
+                    "earnings": -81306000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1412361000,
+                    "earnings": -46880000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1449200000,
+                    "earnings": -90300000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 368650000,
+                    "earnings": -11674000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 327200000,
+                    "earnings": -43700000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 356589000,
+                    "earnings": -70570000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 363832000,
+                    "earnings": -12094000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1679961600,
+                1680480000
+            ],
+            "earningsAverage": -0.17,
+            "earningsLow": -0.25,
+            "earningsHigh": -0.1,
+            "revenueAverage": 350080000,
+            "revenueLow": 347560000,
+            "revenueHigh": 352600000
+        },
+        "exDividendDate": "2017-11-09T00:00:00.000Z",
+        "dividendDate": "2020-07-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2020-04-30T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-06-05T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-08T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-30T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-03T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-03-21T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-25T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-04-24T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-05-11T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-09T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-09T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-11-11T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-11-11T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-11-11T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-11-11T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.045725647,
+        "regularMarketChange": 0.23000002,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 5.26,
+        "regularMarketDayHigh": 5.52,
+        "regularMarketDayLow": 4.96,
+        "regularMarketVolume": 30760,
+        "averageDailyVolume10Day": 37750,
+        "averageDailyVolume3Month": 32685,
+        "regularMarketPreviousClose": 5.03,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 4.96,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATTO",
+        "underlyingSymbol": null,
+        "shortName": "Atento S.A.",
+        "longName": "Atento S.A.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 78900000
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 680562112,
+        "forwardPE": -23.909092,
+        "profitMargins": -0.09932999,
+        "floatShares": 3965671,
+        "sharesOutstanding": 15000000,
+        "sharesShort": 6477,
+        "sharesShortPriorMonth": 12081,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0004,
+        "heldPercentInsiders": 0.04566,
+        "heldPercentInstitutions": 0.73494005,
+        "shortRatio": 0.7,
+        "shortPercentOfFloat": 0.0013,
+        "beta": 1.417833,
+        "category": null,
+        "bookValue": 8.087,
+        "priceToBook": 0.6504266,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -140688000,
+        "trailingEps": -3.33,
+        "forwardEps": 2.3,
+        "pegRatio": -0.05,
+        "lastSplitFactor": "1:5",
+        "lastSplitDate": "2020-07-30T00:00:00.000Z",
+        "enterpriseToRevenue": 0.481,
+        "enterpriseToEbitda": 18.479
+    },
+    "summaryProfile": {
+        "address1": "1, rue Hildegard Von Bingen",
+        "city": "Luxembourg City",
+        "zip": "1282",
+        "country": "Luxembourg",
+        "website": "https://www.atento.com",
+        "industry": "Specialty Business Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "Atento S.A., together with its subsidiaries, provides customer relationship management business process outsourcing services and solutions in Brazil, the Americas, Europe, the Middle East, and Africa. It offers a range of front and back-end services, including sales, customer care, technical support, collections, and back office. The company serves clients primarily in the telecommunications, financial services, consumer goods, retail, public administration, healthcare, travel, transportation, logistics, and technology and media sectors. It provides its services and solutions through digital channels, which include SMS, email, chats, social media and apps, and others, as well as through voice. The company was formerly known as Atento Floatco S.A. Atento S.A. was founded in 1999 and is based in Luxembourg.",
+        "fullTimeEmployees": 131000,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 5.26,
+        "targetHighPrice": 15,
+        "targetLowPrice": 11.5,
+        "targetMeanPrice": 12.83,
+        "targetMedianPrice": 12,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 102909000,
+        "totalCashPerShare": 7.097,
+        "ebitda": 36829000,
+        "totalDebt": 737478016,
+        "quickRatio": 0.997,
+        "currentRatio": 1.019,
+        "totalRevenue": 1416342016,
+        "revenuePerShare": 98.902,
+        "returnOnAssets": -0.0080699995,
+        "grossProfits": 236700000,
+        "freeCashflow": 98458752,
+        "operatingCashflow": 12374000,
+        "revenueGrowth": -0.049,
+        "grossMargins": 0.16482,
+        "ebitdaMargins": 0.025999999,
+        "operatingMargins": -0.00999,
+        "profitMargins": -0.09932999,
+        "financialCurrency": "USD"
+    }
+}

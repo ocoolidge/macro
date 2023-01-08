@@ -1,0 +1,422 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AQST",
+        "Security_Name": "Aquestive Therapeutics, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AQST",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 5,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.88,
+        "open": 0.87,
+        "dayLow": 0.8511,
+        "dayHigh": 0.9224,
+        "regularMarketPreviousClose": 0.88,
+        "regularMarketOpen": 0.87,
+        "regularMarketDayLow": 0.8511,
+        "regularMarketDayHigh": 0.9224,
+        "payoutRatio": 0,
+        "beta": 3.024852,
+        "forwardPE": -0.6912404,
+        "volume": 276922,
+        "regularMarketVolume": 276922,
+        "averageVolume": 300240,
+        "averageVolume10days": 364440,
+        "averageDailyVolume10Day": 364440,
+        "bid": 0.8801,
+        "ask": 0.91,
+        "bidSize": 1000,
+        "askSize": 900,
+        "marketCap": 35814240,
+        "fiftyTwoWeekLow": 0.618,
+        "fiftyTwoWeekHigh": 4.09,
+        "priceToSalesTrailing12Months": 0.71772027,
+        "fiftyDayAverage": 0.9137,
+        "twoHundredDayAverage": 1.18366,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.37,
+                    "estimate": -0.45
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.38,
+                    "estimate": -0.47
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.32,
+                    "estimate": -0.41
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.36,
+                    "estimate": -0.36
+                }
+            ],
+            "currentQuarterEstimate": -0.3,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678060800,
+                1678406400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 67430000,
+                    "earnings": -61376000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 52609000,
+                    "earnings": -66246000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 45849000,
+                    "earnings": -55783000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 50832000,
+                    "earnings": -70539000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 13287000,
+                    "earnings": -14555000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 11078000,
+                    "earnings": -28945000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 12270000,
+                    "earnings": -13220000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 13265000,
+                    "earnings": -16302000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678060800,
+                1678406400
+            ],
+            "earningsAverage": -0.3,
+            "earningsLow": -0.35,
+            "earningsHigh": -0.25,
+            "revenueAverage": 11040000,
+            "revenueLow": 9700000,
+            "revenueHigh": 11900000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-07T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-09-06T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-30T00:00:00.000Z",
+                "firm": "Alliance Global Partners",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-08-15T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-21T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-31T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-28T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-28T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-22T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-10T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-13T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-17T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-02T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-04-22T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-03-15T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-12-06T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-09-13T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.020522593,
+        "postMarketChange": 0.018299997,
+        "postMarketTime": "2023-01-07T00:51:02.000Z",
+        "postMarketPrice": 0.91,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.013295493,
+        "regularMarketChange": 0.011700034,
+        "regularMarketTime": "2023-01-06T21:00:00.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.8917,
+        "regularMarketDayHigh": 0.9224,
+        "regularMarketDayLow": 0.8511,
+        "regularMarketVolume": 276922,
+        "averageDailyVolume10Day": 364440,
+        "averageDailyVolume3Month": 300240,
+        "regularMarketPreviousClose": 0.88,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 0.87,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AQST",
+        "underlyingSymbol": null,
+        "shortName": "Aquestive Therapeutics, Inc.",
+        "longName": "Aquestive Therapeutics, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 35814240
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 85933136,
+        "forwardPE": -0.95881724,
+        "profitMargins": -1.4633701,
+        "floatShares": 50910395,
+        "sharesOutstanding": 40164000,
+        "sharesShort": 2635078,
+        "sharesShortPriorMonth": 1145770,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0494,
+        "heldPercentInsiders": 0.023459999,
+        "heldPercentInstitutions": 0.31482,
+        "shortRatio": 2.45,
+        "shortPercentOfFloat": 0.0638,
+        "beta": 3.024852,
+        "category": null,
+        "bookValue": -1.403,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -73022000,
+        "trailingEps": -1.658,
+        "forwardEps": -1.29,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.722,
+        "enterpriseToEbitda": -2.198
+    },
+    "summaryProfile": {
+        "address1": "30 Technology Drive",
+        "city": "Warren",
+        "state": "NJ",
+        "zip": "07059",
+        "country": "United States",
+        "phone": "908 941 1900",
+        "website": "https://www.aquestive.com",
+        "industry": "Drug Manufacturers—Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Aquestive Therapeutics, Inc., a pharmaceutical company, focuses on identifying, developing, and commercializing various products to address unmet medical needs in the United States and internationally. The company markets Sympazan, an oral soluble film formulation of clobazam for the treatment of lennox-gastaut syndrome; Suboxone, a sublingual film formulation of buprenorphine and naloxone for the treatment of opioid dependence; Zuplenz, an oral soluble film formulation of ondansetron for the treatment of nausea and vomiting associated with chemotherapy and post-operative recovery; and Azstarys, a once-daily product for the treatment of attention deficit hyperactivity disorder. The company's proprietary product candidates comprise Libervant, a buccal soluble film formulation of diazepam for the treatment of seizures; and Exservan, an oral soluble film formulation of riluzole for the treatment of amyotrophic lateral sclerosis. Its proprietary pipeline of complex molecule products include AQST-108, a sublingual film formulation delivering systemic epinephrine for the treatment of conditions other than anaphylaxis; AQST-305, a sublingual film formulation of octreotide for the treatment of acromegaly; and AQST-109, an orally delivered epinephrine product candidate for the emergency treatment of allergic reactions, including anaphylaxis. Further, the company develops KYNMOBI, a sublingual film formulation of apomorphine for the treatment of episodic off-periods in Parkinson's disease. Aquestive Therapeutics, Inc. was incorporated in 2004 and is headquartered in Warren, New Jersey.",
+        "fullTimeEmployees": 157,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.8917,
+        "targetHighPrice": 10,
+        "targetLowPrice": 3,
+        "targetMeanPrice": 6.36,
+        "targetMedianPrice": 6,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 17695000,
+        "totalCashPerShare": 0.332,
+        "ebitda": -39089000,
+        "totalDebt": 55986000,
+        "quickRatio": 1.244,
+        "currentRatio": 1.468,
+        "totalRevenue": 49900000,
+        "revenuePerShare": 1.198,
+        "returnOnAssets": -0.42758,
+        "grossProfits": 35843000,
+        "freeCashflow": -34388876,
+        "operatingCashflow": -38170000,
+        "revenueGrowth": -0.136,
+        "grossMargins": 0.65487,
+        "ebitdaMargins": -0.78335,
+        "operatingMargins": -0.84443,
+        "profitMargins": -1.4633701,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,323 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AIRI",
+        "Security_Name": "Air Industries Group Common Stock",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AIRI",
+        "NASDAQ_Symbol": "AIRI",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 4.3895,
+        "open": 4.3973,
+        "dayLow": 4.37,
+        "dayHigh": 4.3973,
+        "regularMarketPreviousClose": 4.3895,
+        "regularMarketOpen": 4.3973,
+        "regularMarketDayLow": 4.37,
+        "regularMarketDayHigh": 4.3973,
+        "exDividendDate": "2015-11-19T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 0.644037,
+        "trailingPE": 9.962045,
+        "forwardPE": 16.858847,
+        "volume": 1229,
+        "regularMarketVolume": 1229,
+        "averageVolume": 10197,
+        "averageVolume10days": 5610,
+        "averageDailyVolume10Day": 5610,
+        "bid": 4.25,
+        "ask": 4.5,
+        "bidSize": 800,
+        "askSize": 1300,
+        "marketCap": 14236695,
+        "fiftyTwoWeekLow": 4.07,
+        "fiftyTwoWeekHigh": 10.1,
+        "priceToSalesTrailing12Months": 0.2599455,
+        "fiftyDayAverage": 5.269,
+        "twoHundredDayAverage": 6.58095,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0,
+                    "estimate": 0.1
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.5,
+                    "estimate": 0.1
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0,
+                    "estimate": 0.1
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.04,
+                    "estimate": 0.1
+                }
+            ],
+            "currentQuarterEstimate": -0.02,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678109400,
+                1678455000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 44530000,
+                    "earnings": -10992000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 54573000,
+                    "earnings": -2732000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 50097000,
+                    "earnings": 1096000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 58939000,
+                    "earnings": 1627000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 15420000,
+                    "earnings": 1606000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 12062000,
+                    "earnings": -28000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 14008000,
+                    "earnings": -7000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 13278000,
+                    "earnings": -142000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678109400,
+                1678455000
+            ],
+            "earningsAverage": -0.02,
+            "earningsLow": -0.02,
+            "earningsHigh": -0.02,
+            "revenueAverage": 14000000,
+            "revenueLow": 14000000,
+            "revenueHigh": 14000000
+        },
+        "exDividendDate": "2015-11-19T00:00:00.000Z",
+        "dividendDate": "2015-12-01T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2017-08-31T12:46:50.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.00141253,
+        "regularMarketChange": -0.00620031,
+        "regularMarketTime": "2023-01-06T19:32:06.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 4.3833,
+        "regularMarketDayHigh": 4.3973,
+        "regularMarketDayLow": 4.37,
+        "regularMarketVolume": 1229,
+        "averageDailyVolume10Day": 5610,
+        "averageDailyVolume3Month": 10197,
+        "regularMarketPreviousClose": 4.3895,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 4.3973,
+        "exchange": "ASE",
+        "exchangeName": "NYSE American",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AIRI",
+        "underlyingSymbol": null,
+        "shortName": "Air Industries Group",
+        "longName": "Air Industries Group",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 14236695
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 42342524,
+        "forwardPE": 16.858847,
+        "profitMargins": 0.02609,
+        "floatShares": 2479215,
+        "sharesOutstanding": 3247940,
+        "sharesShort": 898,
+        "sharesShortPriorMonth": 2531,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.00029999999,
+        "heldPercentInsiders": 0.23471001,
+        "heldPercentInstitutions": 0.13809,
+        "shortRatio": 0.08,
+        "shortPercentOfFloat": 0.0004,
+        "beta": 0.644037,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 5.456,
+        "priceToBook": 0.80339074,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": 1429000,
+        "trailingEps": 0.44,
+        "forwardEps": 0.26,
+        "lastSplitFactor": "1:10",
+        "lastSplitDate": "2022-10-18T00:00:00.000Z",
+        "enterpriseToRevenue": 0.773,
+        "enterpriseToEbitda": 8.347,
+        "52WeekChange": -0.5186813,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1447891200
+    },
+    "summaryProfile": {
+        "address1": "1460 Fifth Avenue",
+        "city": "Bay Shore",
+        "state": "NY",
+        "zip": "11706",
+        "country": "United States",
+        "phone": "631 968 5000",
+        "website": "https://www.airindustriesgroup.com",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "Air Industries Group, an aerospace and defense company, designs, manufactures, and sells structural parts and assemblies for mission-critical aerospace and defense applications, and a prime contractor to the U.S. Department of Defense in the United States. The company operates through two segments, Complex Machining and Turbine and Engine Component. The Complex Machining segment offers aircraft landing and arresting gears, engine mounts, flight controls, throttle quadrants, and other components. Its products are deployed on a range of military and commercial aircraft, including Sikorsky's UH-60 Blackhawk, Lockheed Martin F-35 Joint Strike Fighter, Northrop Grumman E2D Hawkeye, the US Navy F-18, and USAF F-16 and F-15 fighter aircraft. The Turbine and Engine Component segment makes components and provides services for aircraft jet engines and ground-power turbines. Its jet engine components are used on the USAF F-15 and F-16, the Airbus A-330, the Boeing 777, and others, as well as ground-power turbine applications. The company's products are used by original equipment manufacturers in the manufacture of fixed wing aircraft, helicopters jet turbine engines, and other complex aerospace and defense products. Air Industries Group was founded in 1979 and is headquartered in Bay Shore, New York.",
+        "fullTimeEmployees": 197,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 4.3833,
+        "targetHighPrice": 12.15,
+        "targetLowPrice": 12.15,
+        "targetMeanPrice": 12.15,
+        "targetMedianPrice": 12.15,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 192000,
+        "totalCashPerShare": 0.059,
+        "ebitda": 5073000,
+        "totalDebt": 28406000,
+        "quickRatio": 0.366,
+        "currentRatio": 1.758,
+        "totalRevenue": 54768000,
+        "debtToEquity": 161.068,
+        "revenuePerShare": 16.999,
+        "returnOnAssets": 0.028499998,
+        "returnOnEquity": 0.08587,
+        "grossProfits": 10253000,
+        "freeCashflow": -277250,
+        "operatingCashflow": 1477000,
+        "revenueGrowth": -0.075,
+        "grossMargins": 0.19319999,
+        "ebitdaMargins": 0.09263,
+        "operatingMargins": 0.04508,
+        "profitMargins": 0.02609,
+        "financialCurrency": "USD"
+    }
+}

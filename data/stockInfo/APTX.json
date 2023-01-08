@@ -1,0 +1,498 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "APTX",
+        "Security_Name": "Aptinyx Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "APTX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 6,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.3292,
+        "open": 0.3292,
+        "dayLow": 0.3292,
+        "dayHigh": 0.3936,
+        "regularMarketPreviousClose": 0.3292,
+        "regularMarketOpen": 0.3292,
+        "regularMarketDayLow": 0.3292,
+        "regularMarketDayHigh": 0.3936,
+        "payoutRatio": 0,
+        "beta": 1.2398,
+        "forwardPE": -0.4042553,
+        "volume": 218407,
+        "regularMarketVolume": 218407,
+        "averageVolume": 265845,
+        "averageVolume10days": 334020,
+        "averageDailyVolume10Day": 334020,
+        "bid": 0.3411,
+        "ask": 0.38,
+        "bidSize": 4000,
+        "askSize": 1400,
+        "marketCap": 25731964,
+        "fiftyTwoWeekLow": 0.2,
+        "fiftyTwoWeekHigh": 3.76,
+        "priceToSalesTrailing12Months": "Infinity",
+        "fiftyDayAverage": 0.2862,
+        "twoHundredDayAverage": 0.5984,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.31,
+                    "estimate": -0.31
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.29,
+                    "estimate": -0.35
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.29,
+                    "estimate": -0.3
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.26,
+                    "estimate": -0.28
+                }
+            ],
+            "currentQuarterEstimate": -0.24,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1679356800,
+                1679875200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 6574000,
+                    "earnings": -53281000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 3669000,
+                    "earnings": -57410000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1564000,
+                    "earnings": -50053000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1000000,
+                    "earnings": -74886000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 0,
+                    "earnings": -21231000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -19610000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -19827000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -17667000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1679356800,
+                1679875200
+            ],
+            "earningsAverage": -0.24,
+            "earningsLow": -0.27,
+            "earningsHigh": -0.19
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-26T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-16T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-16T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-15T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-12T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-05T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-19T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-21T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-14T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-08T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-08T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-20T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-29T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-19T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-13T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-28T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-27T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-08T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-04-29T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-11-13T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-12T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-08-13T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-03-22T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-01-17T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-15T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-07-16T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-07-16T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-07-16T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-07T00:16:37.000Z",
+        "postMarketPrice": 0.38,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.15431347,
+        "regularMarketChange": 0.050799996,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.38,
+        "regularMarketDayHigh": 0.3936,
+        "regularMarketDayLow": 0.3292,
+        "regularMarketVolume": 218407,
+        "averageDailyVolume10Day": 334020,
+        "averageDailyVolume3Month": 265845,
+        "regularMarketPreviousClose": 0.3292,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 0.3292,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "APTX",
+        "underlyingSymbol": null,
+        "shortName": "Aptinyx Inc.",
+        "longName": "Aptinyx Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 25731964
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": -41810600,
+        "forwardPE": -0.50666666,
+        "profitMargins": 0,
+        "floatShares": 39067906,
+        "sharesOutstanding": 67715696,
+        "sharesShort": 365432,
+        "sharesShortPriorMonth": 228376,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0054,
+        "heldPercentInsiders": 0.12174,
+        "heldPercentInstitutions": 0.50501996,
+        "shortRatio": 2.39,
+        "shortPercentOfFloat": 0.0070999996,
+        "beta": 1.2398,
+        "category": null,
+        "bookValue": 2.307,
+        "priceToBook": 0.16471608,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -78335000,
+        "trailingEps": -1.024,
+        "forwardEps": -0.94,
+        "lastSplitFactor": null,
+        "enterpriseToEbitda": 0.545
+    },
+    "summaryProfile": {
+        "address1": "909 Davis Street",
+        "address2": "Suite 600",
+        "city": "Evanston",
+        "state": "IL",
+        "zip": "60201",
+        "country": "United States",
+        "phone": "847 871 0377",
+        "website": "https://www.aptinyx.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Aptinyx Inc., a clinical-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of novel, proprietary, and synthetic small molecules for the treatment of brain and nervous system disorders. The company is developing NYX-2925, which is in Phase II clinical development for the treatment of painful diabetic peripheral neuropathy, as well as in Phase II/b clinical trial for treating fibromyalgia. It is also developing NYX-783, an N-methyl-D-aspartate receptors (NMDAr) modulator that is in Phase II/b clinical trial to treat post-traumatic stress disorder; and NYX-458, an NMDAr modulator, which is in Phase II clinical study for the treatment of Parkinson's disease cognitive impairment. The company has a research collaboration agreement with Allergan plc. Aptinyx Inc. was incorporated in 2015 and is headquartered in Evanston, Illinois.",
+        "fullTimeEmployees": 40,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.38,
+        "targetHighPrice": 4,
+        "targetLowPrice": 1,
+        "targetMeanPrice": 2.25,
+        "targetMedianPrice": 2,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 85269000,
+        "totalCashPerShare": 1.259,
+        "ebitda": -76699000,
+        "totalDebt": 24498000,
+        "quickRatio": 15.007,
+        "currentRatio": 16.216,
+        "totalRevenue": 0,
+        "debtToEquity": 39.45,
+        "revenuePerShare": 0,
+        "returnOnAssets": -0.42423,
+        "returnOnEquity": -0.81237,
+        "grossProfits": -54444000,
+        "freeCashflow": -39450000,
+        "operatingCashflow": -68352000,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

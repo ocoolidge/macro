@@ -1,0 +1,701 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AI",
+        "Security_Name": "Arlington Asset Investment Corp Class A (new)",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AI",
+        "NASDAQ_Symbol": "AI",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 1,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 7,
+                "sell": 3,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 7,
+                "sell": 3,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 10.81,
+        "open": 10.85,
+        "dayLow": 10.475,
+        "dayHigh": 11,
+        "regularMarketPreviousClose": 10.81,
+        "regularMarketOpen": 10.85,
+        "regularMarketDayLow": 10.475,
+        "regularMarketDayHigh": 11,
+        "payoutRatio": 0,
+        "beta": 0.843883,
+        "forwardPE": -32.205883,
+        "volume": 1158627,
+        "regularMarketVolume": 1158627,
+        "averageVolume": 1627509,
+        "averageVolume10days": 1756690,
+        "averageDailyVolume10Day": 1756690,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 1207248384,
+        "fiftyTwoWeekLow": 10.16,
+        "fiftyTwoWeekHigh": 31.48,
+        "priceToSalesTrailing12Months": 4.474505,
+        "fiftyDayAverage": 12.3996,
+        "twoHundredDayAverage": 16.4113,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "1Q2022",
+                    "actual": -0.07,
+                    "estimate": -0.27
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.21,
+                    "estimate": -0.29
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.12,
+                    "estimate": -0.24
+                },
+                {
+                    "date": "4Q2022",
+                    "actual": -0.11,
+                    "estimate": -0.16
+                }
+            ],
+            "currentQuarterEstimate": -0.22,
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2023,
+            "earningsDate": [
+                1677581940,
+                1678104000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 91605000,
+                    "earnings": -33346000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 156666000,
+                    "earnings": -69378000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 183217000,
+                    "earnings": -55696000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 252759000,
+                    "earnings": -192065000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2022",
+                    "revenue": 69773000,
+                    "earnings": -39447000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 72317000,
+                    "earnings": -58420000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 65308000,
+                    "earnings": -71871000
+                },
+                {
+                    "date": "4Q2022",
+                    "revenue": 62408000,
+                    "earnings": -68850000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677581940,
+                1678104000
+            ],
+            "earningsAverage": -0.22,
+            "earningsLow": -0.24,
+            "earningsHigh": -0.19,
+            "revenueAverage": 64240000,
+            "revenueLow": 63240000,
+            "revenueHigh": 67000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-08T12:45:12.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-12-08T09:38:15.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-06T13:34:08.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-02T11:27:24.000Z",
+                "firm": "Needham",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-09-01T12:14:41.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-01T11:23:50.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-01T09:25:57.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-17T08:42:21.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Peer Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-07-18T10:40:40.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-02T13:29:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-02T12:44:19.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-02T12:05:07.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-02T11:30:22.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-02T11:04:02.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-02T10:03:04.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-02T08:34:26.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-05-19T12:33:34.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-03T10:34:15.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-03-25T11:25:33.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-04T11:19:30.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-03-03T13:42:16.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-03T12:04:14.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-03T11:36:34.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-03T09:32:25.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-02T09:55:45.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-01-13T12:37:08.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-16T13:40:45.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-03T15:02:44.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-02T12:57:28.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-02T11:16:33.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-02T09:35:33.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-02T13:57:04.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-02T11:31:17.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-02T09:31:37.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-02T08:45:48.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-03T13:13:37.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-03T13:10:47.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-03T13:09:22.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-03T11:47:16.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-03T11:40:48.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-03T10:07:26.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-25T11:48:24.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-02T15:01:56.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-02T12:53:48.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-02T11:52:17.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-02T10:04:13.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-06T14:14:35.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-04T13:54:55.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-04T13:04:54.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-04T12:23:58.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-04T11:27:08.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-04T11:25:16.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-04T10:21:12.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-04T09:29:15.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-04T09:27:56.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Sector Weight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-07T00:59:58.000Z",
+        "postMarketPrice": 10.95,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.012950914,
+        "regularMarketChange": 0.13999939,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 10.95,
+        "regularMarketDayHigh": 11,
+        "regularMarketDayLow": 10.475,
+        "regularMarketVolume": 1158627,
+        "averageDailyVolume10Day": 1756690,
+        "averageDailyVolume3Month": 1627509,
+        "regularMarketPreviousClose": 10.81,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 10.85,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AI",
+        "underlyingSymbol": null,
+        "shortName": "C3.ai, Inc.",
+        "longName": "C3.ai, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1207248384
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 383501984,
+        "forwardPE": -32.205883,
+        "profitMargins": -0.88429,
+        "floatShares": 87716847,
+        "sharesOutstanding": 106751000,
+        "sharesShort": 8637941,
+        "sharesShortPriorMonth": 9354689,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0783,
+        "heldPercentInsiders": 0.13224,
+        "heldPercentInstitutions": 0.44297,
+        "shortRatio": 4.86,
+        "shortPercentOfFloat": 0.0919,
+        "beta": 0.843883,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 8.657,
+        "priceToBook": 1.2648724,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-04-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-04-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-10-31T00:00:00.000Z",
+        "netIncomeToCommon": -238588000,
+        "trailingEps": -1.84,
+        "forwardEps": -0.34,
+        "pegRatio": -0.29,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.421,
+        "enterpriseToEbitda": -1.562,
+        "52WeekChange": -0.6293162,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "1300 Seaport Boulevard",
+        "address2": "Suite 500",
+        "city": "Redwood City",
+        "state": "CA",
+        "zip": "94063",
+        "country": "United States",
+        "phone": "650 503 2200",
+        "website": "https://www.C3.ai",
+        "industry": "Software—Application",
+        "sector": "Technology",
+        "longBusinessSummary": "C3.ai, Inc. operates as an enterprise artificial intelligence (AI) software company in North America, Europe, the Middle East, Africa, the Asia Pacific, and internationally. It provides C3 AI application platform, an application development and runtime environment that enables customers to design, develop, and deploy enterprise AI applications; C3 AI Ex Machina to for analysis-ready data; C3 AI CRM, an industry specific customer relationship management solution; and C3 AI Data Vision that visualizes, understands, and leverages the relationships between data entities. It also offers C3 AI applications, including C3 AI Inventory Optimization, a solution to optimize raw material, in-process, and finished goods inventory levels; C3 AI Supply Network Risk, which provides visibility into risks of disruption throughout the supply chain operations; C3 AI Customer Churn Management, which enables account executives and relationship managers to monitor customer satisfaction, as well as to prevent customer churn with AI-based and human-interpretable predictions and warning; C3 AI Production Schedule Optimization, a solution for scheduling production; C3 AI Predictive Maintenance, which provides insight into asset risk to maintenance planners and equipment operators; C3 AI Fraud Detection solution that identify revenue leakage or maintenance and safety issues; and C3 AI Energy Management solution. In addition, it offers integrated turnkey enterprise AI applications for oil and gas, chemicals, utilities, manufacturing, financial services, defense, intelligence, aerospace, healthcare, and telecommunications market segments. It has strategic partnerships with Baker Hughes in the areas of oil and gas market; FIS in the areas of financial services market; Raytheon; and AWS, Intel, Google, and Microsoft. The company was formerly known as C3 IoT, Inc. and changed its name to C3.ai, Inc. in June 2019. C3.ai, Inc. was incorporated in 2009 and is headquartered in Redwood City, California.",
+        "fullTimeEmployees": 704,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 10.95,
+        "targetHighPrice": 19,
+        "targetLowPrice": 11,
+        "targetMeanPrice": 13.63,
+        "targetMedianPrice": 13,
+        "recommendationMean": 3.2,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 840070016,
+        "totalCashPerShare": 7.62,
+        "ebitda": -245564992,
+        "totalDebt": 31758000,
+        "quickRatio": 7.879,
+        "currentRatio": 8.091,
+        "totalRevenue": 269806016,
+        "debtToEquity": 3.332,
+        "revenuePerShare": 2.526,
+        "returnOnAssets": -0.13745,
+        "returnOnEquity": -0.24104,
+        "grossProfits": 189046000,
+        "freeCashflow": -100768000,
+        "operatingCashflow": -159431008,
+        "revenueGrowth": 0.071,
+        "grossMargins": 0.72619003,
+        "ebitdaMargins": -0.91015,
+        "operatingMargins": -0.92327005,
+        "profitMargins": -0.88429,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,778 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AERI",
+        "Security_Name": "Aerie Pharmaceuticals, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AERI",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 6,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 7,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 7,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 6,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 15.25,
+        "open": 15.24,
+        "dayLow": 15.24,
+        "dayHigh": 15.25,
+        "regularMarketPreviousClose": 15.25,
+        "regularMarketOpen": 15.24,
+        "regularMarketDayLow": 15.24,
+        "regularMarketDayHigh": 15.25,
+        "payoutRatio": 0,
+        "beta": -0.062023,
+        "forwardPE": -13.863636,
+        "volume": 1215184,
+        "regularMarketVolume": 1215184,
+        "averageVolume": 786842,
+        "averageVolume10days": 489446,
+        "averageDailyVolume10Day": 489446,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 34100,
+        "askSize": 300400,
+        "marketCap": 753615360,
+        "fiftyTwoWeekLow": 4.81,
+        "fiftyTwoWeekHigh": 15.37,
+        "priceToSalesTrailing12Months": 3.5225384,
+        "fiftyDayAverage": 15.1934,
+        "twoHundredDayAverage": 10.2418,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 1.09,
+                    "estimate": -0.67
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.66,
+                    "estimate": -0.65
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.32,
+                    "estimate": -0.56
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.27,
+                    "estimate": -0.44
+                }
+            ],
+            "currentQuarterEstimate": -0.43,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677099600,
+                1677531600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 24181000,
+                    "earnings": -232569000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 69888000,
+                    "earnings": -199581000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 83138000,
+                    "earnings": -183101000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 194134000,
+                    "earnings": -74810000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 114666000,
+                    "earnings": 45533000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 29835000,
+                    "earnings": -35891000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 33311000,
+                    "earnings": -19371000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 36129000,
+                    "earnings": -26826000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677099600,
+                1677531600
+            ],
+            "earningsAverage": -0.43,
+            "earningsLow": -0.57,
+            "earningsHigh": -0.33,
+            "revenueAverage": 38100000,
+            "revenueLow": 36600000,
+            "revenueHigh": 39900000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-29T09:02:53.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-24T12:43:52.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-24T11:11:07.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-23T12:07:22.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-23T11:45:32.000Z",
+                "firm": "Needham",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-23T08:47:54.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-05-09T10:25:47.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-25T12:59:42.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-05T10:45:05.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-05T11:05:02.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-09T11:37:24.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-19T12:06:53.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-09-08T15:34:43.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-10T10:49:01.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-07T10:34:23.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-01T15:38:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-07T15:34:57.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-07T15:23:57.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-07T11:21:08.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-30T12:39:06.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-13T14:42:50.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-13T13:04:19.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-01T14:58:03.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-23T12:45:25.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-21T12:20:04.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-07T17:04:27.000Z",
+                "firm": "Piper Jaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-07T16:13:16.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-07T11:54:28.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-08T12:03:21.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-08-08T11:58:30.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-05-10T12:23:36.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-03-21T10:53:42.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-11-13T13:53:39.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-09-11T10:55:53.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-01-26T13:04:33.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-01-25T17:53:42.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-24T19:26:22.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-10-16T17:15:38.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-09-07T12:04:19.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-03-09T14:39:22.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-02-24T17:07:17.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-02-17T14:19:42.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-06T15:27:58.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-09-20T07:05:21.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-09-14T07:13:50.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-09-13T23:03:23.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-06-02T16:20:09.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-09-17T12:40:04.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-17T07:04:58.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-17T06:49:07.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-17T06:45:37.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-17T06:42:21.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-17T05:31:17.000Z",
+                "firm": "Brean Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-06-19T07:18:32.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-16T07:36:23.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-16T07:20:20.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-06-16T07:19:03.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-05-08T06:19:58.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-04-24T06:38:47.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-04-24T05:14:30.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-24T05:05:38.000Z",
+                "firm": "Brean Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-25T16:49:12.000Z",
+                "firm": "Brean Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-07-03T06:38:06.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-03-19T06:46:03.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-12-03T16:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-11-19T08:00:00.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-11-19T06:22:30.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0,
+        "regularMarketChange": 0,
+        "regularMarketTime": "2022-11-18T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 15.25,
+        "regularMarketDayHigh": 15.25,
+        "regularMarketDayLow": 15.24,
+        "regularMarketVolume": 1215184,
+        "averageDailyVolume10Day": 489446,
+        "averageDailyVolume3Month": 786842,
+        "regularMarketPreviousClose": 15.25,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 15.24,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AERI",
+        "underlyingSymbol": null,
+        "shortName": "Aerie Pharmaceuticals, Inc.",
+        "longName": "Aerie Pharmaceuticals, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 753615360
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 918137472,
+        "forwardPE": -13.863636,
+        "profitMargins": -0.17086,
+        "floatShares": 43747748,
+        "sharesOutstanding": 49417400,
+        "sharesShort": 1521759,
+        "sharesShortPriorMonth": 1604328,
+        "sharesShortPreviousMonthDate": 1664496000,
+        "dateShortInterest": 1667174400,
+        "sharesPercentSharesOut": 0.0308,
+        "heldPercentInsiders": 0.01791,
+        "heldPercentInstitutions": 1.02995,
+        "shortRatio": 1.91,
+        "shortPercentOfFloat": 0.0313,
+        "beta": -0.062023,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": -3.32,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -36555000,
+        "trailingEps": -1.472,
+        "forwardEps": -1.1,
+        "pegRatio": 0.07,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 4.292,
+        "enterpriseToEbitda": -140.281,
+        "52WeekChange": 0.5625,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "4301 Emperor Boulevard",
+        "address2": "Suite 400",
+        "city": "Durham",
+        "state": "NC",
+        "zip": "27703",
+        "country": "United States",
+        "phone": "919 237 5300",
+        "website": "https://www.aeriepharma.com",
+        "industry": "Drug Manufacturers—Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Aerie Pharmaceuticals, Inc., a pharmaceutical company, focuses on the discovery, development, and commercialization of ophthalmic therapies for open-angle glaucoma, dry eye, diabetic macular edema, and wet age-related macular degeneration in the United States. Its products include Rhopressa, a once-daily eye drop to reduce elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension; and Rocklatan, a once-daily fixed-dose combination of Rhopressa and latanopros to reduce IOP to treat patients with open-angle glaucoma or ocular hypertension. The company also develops AR-15512 to treat signs and symptoms of dry eye; and AR-1105 and AR-14034 SR sustained-release implants focused on retinal diseases. It has a collaborative research, development, and licensing agreement with DSM Biomedical. Aerie Pharmaceuticals, Inc. was incorporated in 2005 and is headquartered in Durham, North Carolina.",
+        "fullTimeEmployees": 376,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 15.25,
+        "targetHighPrice": 25,
+        "targetLowPrice": 6,
+        "targetMeanPrice": 15.35,
+        "targetMedianPrice": 15.25,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 172464000,
+        "totalCashPerShare": 3.49,
+        "ebitda": -6545000,
+        "totalDebt": 336985984,
+        "quickRatio": 1.848,
+        "currentRatio": 2.271,
+        "totalRevenue": 213940992,
+        "revenuePerShare": 4.514,
+        "returnOnAssets": -0.045900002,
+        "grossProfits": 167288000,
+        "freeCashflow": 1825500,
+        "operatingCashflow": 7167000,
+        "revenueGrowth": 0.233,
+        "grossMargins": 0.89005995,
+        "ebitdaMargins": -0.03059,
+        "operatingMargins": -0.12486,
+        "profitMargins": -0.17086,
+        "financialCurrency": "USD"
+    }
+}

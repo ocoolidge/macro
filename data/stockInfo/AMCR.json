@@ -1,0 +1,440 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMCR",
+        "Security_Name": "Amcor plc Ordinary Shares",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AMCR",
+        "NASDAQ_Symbol": "AMCR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 5,
+                "sell": 3,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 6,
+                "sell": 2,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 5,
+                "sell": 2,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 11.92,
+        "open": 12.02,
+        "dayLow": 11.98,
+        "dayHigh": 12.205,
+        "regularMarketPreviousClose": 11.92,
+        "regularMarketOpen": 12.02,
+        "regularMarketDayLow": 11.98,
+        "regularMarketDayHigh": 12.205,
+        "dividendRate": 0.48,
+        "dividendYield": 0.0418,
+        "exDividendDate": "2022-09-07T00:00:00.000Z",
+        "payoutRatio": 0.90260005,
+        "beta": 0.84593,
+        "trailingPE": 20.098846,
+        "forwardPE": 17.941175,
+        "volume": 4902568,
+        "regularMarketVolume": 4902568,
+        "averageVolume": 7527854,
+        "averageVolume10days": 5780280,
+        "averageDailyVolume10Day": 5780280,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1100,
+        "askSize": 2900,
+        "marketCap": 18704674816,
+        "fiftyTwoWeekLow": 10.42,
+        "fiftyTwoWeekHigh": 13.61,
+        "priceToSalesTrailing12Months": 1.286075,
+        "fiftyDayAverage": 11.9034,
+        "twoHundredDayAverage": 12.07035,
+        "trailingAnnualDividendRate": 0.472,
+        "trailingAnnualDividendYield": 0.039597314,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.18,
+                    "estimate": 0.18
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.18,
+                    "estimate": 0.18
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.2,
+                    "estimate": 0.2
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.24,
+                    "estimate": 0.24
+                }
+            ],
+            "currentQuarterEstimate": 0.18,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1667260800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 9458000000,
+                    "earnings": 430000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 12468000000,
+                    "earnings": 612000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 12861000000,
+                    "earnings": 939000000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 14544000000,
+                    "earnings": 805000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 3420000000,
+                    "earnings": 202000000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 3507000000,
+                    "earnings": 225000000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": 0
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 3909000000,
+                    "earnings": 109000000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1667260800
+            ],
+            "earningsAverage": 0.18,
+            "earningsLow": 0.16,
+            "earningsHigh": 0.2,
+            "revenueAverage": 3537820000,
+            "revenueLow": 3338220000,
+            "revenueHigh": 3745900000
+        },
+        "exDividendDate": "2022-09-07T00:00:00.000Z",
+        "dividendDate": "2022-12-13T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-13T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-07-19T00:00:00.000Z",
+                "firm": "CLSA",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-03-25T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-12-15T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-08-18T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-09T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-02-04T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-01-20T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-01-05T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-24T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-10-14T00:00:00.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-21T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-08T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-04-02T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-19T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-03-13T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-12-20T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-06-20T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.014754045,
+        "postMarketChange": -0.17999935,
+        "postMarketTime": "2023-01-07T00:29:33.000Z",
+        "postMarketPrice": 12.02,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.023489911,
+        "regularMarketChange": 0.27999973,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 12.2,
+        "regularMarketDayHigh": 12.205,
+        "regularMarketDayLow": 11.98,
+        "regularMarketVolume": 4902568,
+        "averageDailyVolume10Day": 5780280,
+        "averageDailyVolume3Month": 7527854,
+        "regularMarketPreviousClose": 11.92,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 12.02,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMCR",
+        "underlyingSymbol": null,
+        "shortName": "Amcor plc",
+        "longName": "Amcor plc",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 18704674816
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 23493113856,
+        "forwardPE": 14.352941,
+        "profitMargins": 0.05535,
+        "floatShares": 1481101218,
+        "sharesOutstanding": 1533170048,
+        "sharesShort": 37165836,
+        "sharesShortPriorMonth": 32993473,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.025,
+        "heldPercentInsiders": 0.0025799999,
+        "heldPercentInstitutions": 0.48606,
+        "shortRatio": 4.97,
+        "shortPercentOfFloat": 0.025,
+        "beta": 0.84593,
+        "category": null,
+        "bookValue": 3.041,
+        "priceToBook": 4.0118384,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-06-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-06-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.573,
+        "netIncomeToCommon": 802000000,
+        "trailingEps": 0.607,
+        "forwardEps": 0.68,
+        "pegRatio": 3.47,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.615,
+        "enterpriseToEbitda": 11.41
+    },
+    "summaryProfile": {
+        "address1": "Thurgauerstrasse 34",
+        "city": "Zurich",
+        "zip": "8050",
+        "country": "Switzerland",
+        "phone": "41 44 316 1717",
+        "website": "https://www.amcor.com",
+        "industry": "Packaging & Containers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Amcor plc develops, produces, and sells packaging products in Europe, North America, Latin America, Africa, and the Asia Pacific regions. The company operates through two segments, Flexibles and Rigid Packaging. The Flexibles segment provides flexible and film packaging products in the food and beverage, medical and pharmaceutical, fresh produce, snack food, personal care, and other industries. The Rigid Packaging segment offers rigid containers for a range of beverage and food products, including carbonated soft drinks, water, juices, sports drinks, milk-based beverages, spirits and beer, sauces, dressings, spreads, and personal care items; and plastic caps for various applications. The company sells its products primarily through its direct sales force. Amcor plc was incorporated in 2018 and is headquartered in Zürich, Switzerland.",
+        "fullTimeEmployees": 44000,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 12.2,
+        "targetHighPrice": 14,
+        "targetLowPrice": 10.75,
+        "targetMeanPrice": 12.57,
+        "targetMedianPrice": 12.5,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 775000000,
+        "totalCashPerShare": 0.521,
+        "ebitda": 2059000064,
+        "totalDebt": 7152999936,
+        "quickRatio": 0.531,
+        "currentRatio": 1.147,
+        "totalRevenue": 14544000000,
+        "debtToEquity": 172.736,
+        "revenuePerShare": 9.638,
+        "returnOnAssets": 0.053340003,
+        "returnOnEquity": 0.18188,
+        "grossProfits": 2820000000,
+        "freeCashflow": 972750016,
+        "operatingCashflow": 1526000000,
+        "earningsGrowth": -0.56,
+        "revenueGrowth": 0.132,
+        "grossMargins": 0.19389,
+        "ebitdaMargins": 0.14157,
+        "operatingMargins": 0.10155,
+        "profitMargins": 0.05535,
+        "financialCurrency": "USD"
+    }
+}

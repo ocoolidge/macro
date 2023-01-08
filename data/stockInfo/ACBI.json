@@ -1,0 +1,414 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ACBI",
+        "Security_Name": "Atlantic Capital Bancshares, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ACBI",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 32.37,
+        "open": 31.75,
+        "dayLow": 30.74,
+        "dayHigh": 32.45,
+        "regularMarketPreviousClose": 32.37,
+        "regularMarketOpen": 31.75,
+        "regularMarketDayLow": 30.74,
+        "regularMarketDayHigh": 32.45,
+        "trailingPE": 13.720831,
+        "forwardPE": 14.373333,
+        "volume": 94722,
+        "regularMarketVolume": 94722,
+        "averageVolume": 106420,
+        "averageVolume10days": 30258,
+        "averageDailyVolume10Day": 30258,
+        "bid": 32.22,
+        "ask": 34.22,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 657608000,
+        "fiftyTwoWeekLow": 22.14,
+        "fiftyTwoWeekHigh": 33.68,
+        "fiftyDayAverage": 31.3322,
+        "twoHundredDayAverage": 27.6257,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "1Q2021",
+                    "actual": 0.65,
+                    "estimate": 0.42
+                },
+                {
+                    "date": "2Q2021",
+                    "actual": 0.58,
+                    "estimate": 0.52
+                },
+                {
+                    "date": "3Q2021",
+                    "actual": 0.65,
+                    "estimate": 0.51
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.57,
+                    "estimate": 0.53
+                }
+            ],
+            "currentQuarterEstimate": 0.48,
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674471540,
+                1674820800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2017,
+                    "revenue": 71793000,
+                    "earnings": -3726000
+                },
+                {
+                    "date": 2018,
+                    "revenue": 84348000,
+                    "earnings": 28532000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 88877000,
+                    "earnings": 49855000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 79812000,
+                    "earnings": 22540000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2021",
+                    "revenue": 31426000,
+                    "earnings": 13362000
+                },
+                {
+                    "date": "2Q2021",
+                    "revenue": 30177000,
+                    "earnings": 11816000
+                },
+                {
+                    "date": "3Q2021",
+                    "revenue": 31783000,
+                    "earnings": 13304000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 30558000,
+                    "earnings": 11664000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674471540,
+                1674820800
+            ],
+            "earningsAverage": 0.48,
+            "earningsLow": 0.48,
+            "earningsHigh": 0.48,
+            "revenueAverage": 29200000,
+            "revenueLow": 29200000,
+            "revenueHigh": 29200000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2021-12-16T12:11:39.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-07-27T10:29:52.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-07-26T09:23:30.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-06-11T11:19:06.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-26T15:52:14.000Z",
+                "firm": "Gabelli & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-04-26T11:53:33.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-07T12:07:19.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-09T16:16:28.000Z",
+                "firm": "Gabelli & Co.",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-01-26T12:15:22.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-01-25T10:15:31.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-05T15:10:35.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-02T14:58:50.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-06T10:27:52.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-27T12:38:10.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-04-29T12:46:57.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-19T15:40:28.000Z",
+                "firm": "Sandler O'Neill",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-11-16T11:12:42.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-11-15T10:52:07.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-10-29T15:28:58.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "Hold",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-01-30T15:48:11.000Z",
+                "firm": "Sandler O'Neill",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-08-01T04:17:04.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-29T13:01:01.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-29T06:36:15.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-05-18T07:45:30.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-12-08T05:23:29.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.0009267464,
+        "regularMarketChange": -0.02999878,
+        "regularMarketTime": "2022-02-28T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 32.34,
+        "regularMarketDayHigh": 32.45,
+        "regularMarketDayLow": 30.74,
+        "regularMarketVolume": 94722,
+        "averageDailyVolume10Day": 30258,
+        "averageDailyVolume3Month": 106420,
+        "regularMarketPreviousClose": 32.37,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 31.75,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ACBI",
+        "underlyingSymbol": null,
+        "shortName": "Atlantic Capital Bancshares, In",
+        "longName": "Atlantic Capital Bancshares, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 657608000
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 32.34,
+        "targetHighPrice": 32.5,
+        "targetLowPrice": 26.5,
+        "targetMeanPrice": 29.13,
+        "targetMedianPrice": 28.75,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "grossProfits": 79812000,
+        "financialCurrency": "USD"
+    }
+}

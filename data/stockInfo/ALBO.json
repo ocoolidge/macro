@@ -1,0 +1,499 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ALBO",
+        "Security_Name": "Albireo Pharma, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ALBO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 5,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 5,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 23,
+        "open": 23.22,
+        "dayLow": 22.205,
+        "dayHigh": 23.3176,
+        "regularMarketPreviousClose": 23,
+        "regularMarketOpen": 23.22,
+        "regularMarketDayLow": 22.205,
+        "regularMarketDayHigh": 23.3176,
+        "payoutRatio": 0,
+        "beta": 0.816451,
+        "forwardPE": -3.468085,
+        "volume": 109384,
+        "regularMarketVolume": 109384,
+        "averageVolume": 216919,
+        "averageVolume10days": 135930,
+        "averageDailyVolume10Day": 135930,
+        "bid": 16.25,
+        "ask": 28,
+        "bidSize": 1200,
+        "askSize": 1200,
+        "marketCap": 472403648,
+        "fiftyTwoWeekLow": 16.02,
+        "fiftyTwoWeekHigh": 37.63,
+        "priceToSalesTrailing12Months": 8.231319,
+        "fiftyDayAverage": 21.3502,
+        "twoHundredDayAverage": 22.96965,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.57,
+                    "estimate": -1.35
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -2.19,
+                    "estimate": -1.85
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -2.04,
+                    "estimate": -1.65
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -1.92,
+                    "estimate": -1.06
+                }
+            ],
+            "currentQuarterEstimate": -1.83,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677504600,
+                1677850200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 12740000,
+                    "earnings": -46111000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 9636000,
+                    "earnings": -62717000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 8308000,
+                    "earnings": -107633000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 40579000,
+                    "earnings": -34030000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 32521000,
+                    "earnings": -10962000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 6832000,
+                    "earnings": -42434000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 8206000,
+                    "earnings": -39949000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 9832000,
+                    "earnings": -37800000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677504600,
+                1677850200
+            ],
+            "earningsAverage": -1.83,
+            "earningsLow": -2.15,
+            "earningsHigh": -0.9,
+            "revenueAverage": 9910000,
+            "revenueLow": 8600000,
+            "revenueHigh": 10830000
+        },
+        "dividendDate": "2016-11-04T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-13T08:36:11.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-12T11:51:31.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-08T12:34:20.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-08-16T13:30:34.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-16T12:10:52.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-16T10:29:18.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-17T13:41:54.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-05T16:42:51.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-16T12:54:56.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-21T12:41:22.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-21T10:18:38.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-01T14:53:25.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-08T16:30:28.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-08T16:29:31.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-19T10:50:11.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-31T16:55:07.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-06-25T09:16:43.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-03-03T12:58:07.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-02-28T12:19:34.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-04-20T17:58:41.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-11-15T20:41:03.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-08-16T12:25:56.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-07-18T12:23:24.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-06-30T20:15:35.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-02-16T17:30:27.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-01-25T16:03:28.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:13:43.000Z",
+        "postMarketPrice": 22.82,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.0078261,
+        "regularMarketChange": -0.1800003,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 22.82,
+        "regularMarketDayHigh": 23.3176,
+        "regularMarketDayLow": 22.205,
+        "regularMarketVolume": 109384,
+        "averageDailyVolume10Day": 135930,
+        "averageDailyVolume3Month": 216919,
+        "regularMarketPreviousClose": 23,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 23.22,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ALBO",
+        "underlyingSymbol": null,
+        "shortName": "Albireo Pharma, Inc.",
+        "longName": "Albireo Pharma, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 472403648
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 238860992,
+        "forwardPE": -3.468085,
+        "profitMargins": -2.28511,
+        "floatShares": 16310334,
+        "sharesOutstanding": 20701300,
+        "sharesShort": 1066130,
+        "sharesShortPriorMonth": 1084999,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0515,
+        "heldPercentInsiders": 0.00844,
+        "heldPercentInstitutions": 0.97272,
+        "shortRatio": 9.18,
+        "shortPercentOfFloat": 0.0673,
+        "beta": 0.816451,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 4.836,
+        "priceToBook": 4.7187757,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -131145000,
+        "trailingEps": -1.697,
+        "forwardEps": -6.58,
+        "lastSplitFactor": "1:30",
+        "lastSplitDate": "2016-11-04T00:00:00.000Z",
+        "enterpriseToRevenue": 4.162,
+        "enterpriseToEbitda": -1.945,
+        "52WeekChange": -0.11721468,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "10 Post Office Square",
+        "address2": "Suite 1000",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02109",
+        "country": "United States",
+        "phone": "857 254 5555",
+        "website": "https://www.albireopharma.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Albireo Pharma, Inc., a commercial-stage biopharmaceutical company, focuses on the development and commercialization of novel bile acid modulators to treat orphan pediatric liver diseases and other liver or gastrointestinal diseases and disorders. The company offers Bylvay for the treatment of progressive familial intrahepatic cholestasis, as well as in Phase III clinical trial for treating biliary atresia, alagille syndrome, and rare and life-threatening disorder to children; and Elobixibat for the treatment of chronic constipation and other functional diseases. It also engages in the developing of A3907, which is in Phase I clinical trial for the treatment of adult liver diseases; and A2342, a preclinical candidate to treat adult viral and liver diseases. The company has a license agreement with EA Pharma Co., Ltd. for the development and commercialization of elobixibat. Albireo Pharma, Inc. is headquartered in Boston, Massachusetts.",
+        "fullTimeEmployees": 130,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 22.82,
+        "targetHighPrice": 68,
+        "targetLowPrice": 49,
+        "targetMeanPrice": 58.67,
+        "targetMedianPrice": 57,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 222476000,
+        "totalCashPerShare": 10.747,
+        "ebitda": -122812000,
+        "totalDebt": 9635000,
+        "quickRatio": 5.936,
+        "currentRatio": 6.315,
+        "totalRevenue": 57391000,
+        "debtToEquity": 9.628,
+        "revenuePerShare": 2.946,
+        "returnOnAssets": -0.24941,
+        "returnOnEquity": -0.93081003,
+        "grossProfits": 39223000,
+        "freeCashflow": -73512248,
+        "operatingCashflow": -115322000,
+        "revenueGrowth": 1.683,
+        "grossMargins": 0.95562,
+        "ebitdaMargins": -2.13992,
+        "operatingMargins": -2.14739,
+        "profitMargins": -2.28511,
+        "financialCurrency": "USD"
+    }
+}

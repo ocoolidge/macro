@@ -1,0 +1,575 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATEN",
+        "Security_Name": "A10 Networks, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ATEN",
+        "NASDAQ_Symbol": "ATEN",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 1,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 15.36,
+        "open": 15.42,
+        "dayLow": 15.3,
+        "dayHigh": 15.94,
+        "regularMarketPreviousClose": 15.36,
+        "regularMarketOpen": 15.42,
+        "regularMarketDayLow": 15.3,
+        "regularMarketDayHigh": 15.94,
+        "dividendRate": 0.2,
+        "dividendYield": 0.0119,
+        "exDividendDate": "2022-08-12T00:00:00.000Z",
+        "payoutRatio": 0.1172,
+        "beta": 0.907516,
+        "trailingPE": 62.97619,
+        "forwardPE": 25.596773,
+        "volume": 604866,
+        "regularMarketVolume": 604866,
+        "averageVolume": 700916,
+        "averageVolume10days": 605150,
+        "averageDailyVolume10Day": 605150,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 1230716928,
+        "fiftyTwoWeekLow": 12.27,
+        "fiftyTwoWeekHigh": 19.79,
+        "priceToSalesTrailing12Months": 4.615027,
+        "fiftyDayAverage": 17.7506,
+        "twoHundredDayAverage": 15.2606,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.17,
+                    "estimate": 0.14
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.2,
+                    "estimate": 0.17
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.13,
+                    "estimate": 0.1
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.17,
+                    "estimate": 0.16
+                }
+            ],
+            "currentQuarterEstimate": 0.18,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675036800,
+                1675382400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 232223000,
+                    "earnings": -27617000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 212628000,
+                    "earnings": -17819000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 225527000,
+                    "earnings": 17816000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 250042000,
+                    "earnings": 94887000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 65360000,
+                    "earnings": 74886000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 70671000,
+                    "earnings": 10728000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 62672000,
+                    "earnings": 6349000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 67973000,
+                    "earnings": 10416000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675036800,
+                1675382400
+            ],
+            "earningsAverage": 0.18,
+            "earningsLow": 0.18,
+            "earningsHigh": 0.18,
+            "revenueAverage": 71020000,
+            "revenueLow": 69960000,
+            "revenueHigh": 72100000
+        },
+        "exDividendDate": "2022-08-12T00:00:00.000Z",
+        "dividendDate": "2022-12-01T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2021-10-29T00:00:00.000Z",
+                "firm": "BWS Financial",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-23T00:00:00.000Z",
+                "firm": "Craig-Hallum",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-10-28T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-18T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-29T00:00:00.000Z",
+                "firm": "BWS Financial",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-16T00:00:00.000Z",
+                "firm": "BWS Financial",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-12-10T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-03-19T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-07-14T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-14T00:00:00.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Sector Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-28T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-05T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-02-10T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-11-12T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-11-02T00:00:00.000Z",
+                "firm": "Dougherty & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-10-30T00:00:00.000Z",
+                "firm": "Dougherty & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-05-20T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-05-18T00:00:00.000Z",
+                "firm": "Pacific Crest",
+                "toGrade": "Overweight",
+                "fromGrade": "Sector Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-05-05T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-02-11T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-02-11T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-01-08T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-10-31T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-09T00:00:00.000Z",
+                "firm": "Buckingham Research",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-09T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-02T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-31T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-31T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-09T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-05-02T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-16T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-04-16T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-04-16T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-04-16T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-04-16T00:00:00.000Z",
+                "firm": "Pacific Crest",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-04-16T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-04-16T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.0113421,
+        "postMarketChange": 0.179999,
+        "postMarketTime": "2023-01-06T21:21:17.000Z",
+        "postMarketPrice": 16.05,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.03320314,
+        "regularMarketChange": 0.5100002,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 15.87,
+        "regularMarketDayHigh": 15.94,
+        "regularMarketDayLow": 15.3,
+        "regularMarketVolume": 604866,
+        "averageDailyVolume10Day": 605150,
+        "averageDailyVolume3Month": 700916,
+        "regularMarketPreviousClose": 15.36,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 15.42,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATEN",
+        "underlyingSymbol": null,
+        "shortName": "A10 Networks, Inc.",
+        "longName": "A10 Networks, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1230716928
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1132188800,
+        "forwardPE": 18.453487,
+        "profitMargins": 0.38391,
+        "floatShares": 69782719,
+        "sharesOutstanding": 77549904,
+        "sharesShort": 3697799,
+        "sharesShortPriorMonth": 3451979,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0509,
+        "heldPercentInsiders": 0.00865,
+        "heldPercentInstitutions": 0.89654,
+        "shortRatio": 5.76,
+        "shortPercentOfFloat": 0.059499998,
+        "beta": 0.907516,
+        "category": null,
+        "bookValue": 1.617,
+        "priceToBook": 9.814471,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.574,
+        "netIncomeToCommon": 102379000,
+        "trailingEps": 0.252,
+        "forwardEps": 0.62,
+        "pegRatio": 1.2,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 4.246,
+        "enterpriseToEbitda": 22.131
+    },
+    "summaryProfile": {
+        "address1": "2300 Orchard Parkway",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95131",
+        "country": "United States",
+        "phone": "408 325 8668",
+        "fax": "408 325 8666",
+        "website": "https://www.a10networks.com",
+        "industry": "Software—Infrastructure",
+        "sector": "Technology",
+        "longBusinessSummary": "A10 Networks, Inc. provides networking solutions in the Americas, Japan, other Asia Pacific, and EMEA countries. The company offers Thunder Application Delivery Controller (ADC) that provides advanced server load balancing; Lightning ADC, a cloud-native software-as-a-service platform to boost the delivery and security of applications and microservices; and Thunder Carrier Grade Networking product, which offers standards-compliant address and protocol translation services for service provider networks. It also provides Thunder Threat Protection System (TPS) for the protection of networks and server resources against massive distributed denial of service attacks; Thunder Secure Sockets Layer (SSL) Insight solution that decrypts SSL-encrypted traffic and forwards it to a third-party security device for deep packet inspection; and Thunder Convergent Firewall, which addresses various critical security capabilities in one package by consolidating various security and networking functions in a single appliance. In addition, the company offers intelligent management and automation tools comprising harmony controller that provides intelligent management, automation, and analytics for secure application delivery in multi-cloud environment; and aGalaxy TPS, a multi-device network management solution. A10 Networks, Inc. delivers its solutions on optimized hardware appliances, bare metal software, containerized software, virtual appliances, and cloud-native software. It serves cloud providers; service providers include cloud, telecommunications, and multiple system and cable operators; government organizations; and enterprises in the technology, industrial, retail, financial, gaming, and education industries. The company markets its products through sales organizations, as well as distribution channel partners, including distributors, value added resellers, and system integrators. A10 Networks, Inc. was incorporated in 2004 and is headquartered in San Jose, California.",
+        "fullTimeEmployees": 590,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 15.87,
+        "targetHighPrice": 22,
+        "targetLowPrice": 20,
+        "targetMeanPrice": 21,
+        "targetMedianPrice": 21,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 166792992,
+        "totalCashPerShare": 2.19,
+        "ebitda": 51159000,
+        "totalDebt": 23862000,
+        "quickRatio": 1.917,
+        "currentRatio": 2.218,
+        "totalRevenue": 266676000,
+        "debtToEquity": 12.252,
+        "revenuePerShare": 3.47,
+        "returnOnAssets": 0.0795,
+        "returnOnEquity": 0.64134,
+        "grossProfits": 196537000,
+        "freeCashflow": 39350124,
+        "operatingCashflow": 55401000,
+        "earningsGrowth": 0.625,
+        "revenueGrowth": 0.149,
+        "grossMargins": 0.79863,
+        "ebitdaMargins": 0.19184,
+        "operatingMargins": 0.16233999,
+        "profitMargins": 0.38391,
+        "financialCurrency": "USD"
+    }
+}

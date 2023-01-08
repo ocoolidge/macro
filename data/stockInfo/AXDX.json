@@ -1,0 +1,397 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AXDX",
+        "Security_Name": "Accelerate Diagnostics, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AXDX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.6463,
+        "open": 0.63,
+        "dayLow": 0.6101,
+        "dayHigh": 0.6954,
+        "regularMarketPreviousClose": 0.6463,
+        "regularMarketOpen": 0.63,
+        "regularMarketDayLow": 0.6101,
+        "regularMarketDayHigh": 0.6954,
+        "payoutRatio": 0,
+        "beta": 1.101151,
+        "forwardPE": -1.2801888,
+        "volume": 187383,
+        "regularMarketVolume": 187383,
+        "averageVolume": 339375,
+        "averageVolume10days": 469400,
+        "averageDailyVolume10Day": 469400,
+        "bid": 0.632,
+        "ask": 0.7,
+        "bidSize": 800,
+        "askSize": 900,
+        "marketCap": 67239016,
+        "fiftyTwoWeekLow": 0.46,
+        "fiftyTwoWeekHigh": 4.58,
+        "priceToSalesTrailing12Months": 5.1237535,
+        "fiftyDayAverage": 0.9098,
+        "twoHundredDayAverage": 1.21255,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.35,
+                    "estimate": -0.25
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.21,
+                    "estimate": -0.3
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.23,
+                    "estimate": -0.28
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.18,
+                    "estimate": -0.19
+                }
+            ],
+            "currentQuarterEstimate": -0.14,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678136400,
+                1678482000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 5670000,
+                    "earnings": -88326000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 9297000,
+                    "earnings": -84305000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 11165000,
+                    "earnings": -78208000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 11782000,
+                    "earnings": -77702000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 3343000,
+                    "earnings": -22803000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 2958000,
+                    "earnings": -14185000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 3861000,
+                    "earnings": -17803000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 2960000,
+                    "earnings": -15705000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678136400,
+                1678482000
+            ],
+            "earningsAverage": -0.14,
+            "earningsLow": -0.16,
+            "earningsHigh": -0.13,
+            "revenueAverage": 2850000,
+            "revenueLow": 2700000,
+            "revenueHigh": 3000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-03-09T13:35:24.000Z",
+                "firm": "Craig-Hallum",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-10-08T09:44:46.000Z",
+                "firm": "BTIG",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-10T14:24:33.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-27T10:14:28.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-07T12:53:45.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-05-24T14:44:32.000Z",
+                "firm": "Craig-Hallum",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-12-19T16:06:54.000Z",
+                "firm": "BTIG Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-08-09T22:26:07.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-03-24T03:37:39.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-01-08T07:35:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-12-16T08:36:20.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-08-25T07:54:59.000Z",
+                "firm": "BTIG Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0315401,
+        "postMarketChange": 0.0214,
+        "postMarketTime": "2023-01-07T00:33:17.000Z",
+        "postMarketPrice": 0.6999,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.04982203,
+        "regularMarketChange": 0.03219998,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.6785,
+        "regularMarketDayHigh": 0.6954,
+        "regularMarketDayLow": 0.6101,
+        "regularMarketVolume": 187383,
+        "averageDailyVolume10Day": 469400,
+        "averageDailyVolume3Month": 339375,
+        "regularMarketPreviousClose": 0.6463,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 0.63,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AXDX",
+        "underlyingSymbol": null,
+        "shortName": "Accelerate Diagnostics, Inc.",
+        "longName": "Accelerate Diagnostics, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 67239016
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 85561992,
+        "forwardPE": -1.2801888,
+        "profitMargins": 0,
+        "floatShares": 70807569,
+        "sharesOutstanding": 99099504,
+        "sharesShort": 4328270,
+        "sharesShortPriorMonth": 3916775,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0437,
+        "heldPercentInsiders": 0.26752,
+        "heldPercentInstitutions": 0.27725,
+        "shortRatio": 13.69,
+        "shortPercentOfFloat": 0.061,
+        "beta": 1.101151,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": -0.101,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -70496000,
+        "trailingEps": -1.056,
+        "forwardEps": -0.53,
+        "pegRatio": -0.03,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 6.52,
+        "enterpriseToEbitda": -1.312,
+        "52WeekChange": -0.84821427,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "3950 South Country Club Road",
+        "address2": "Suite 470 4th Floor",
+        "city": "Tucson",
+        "state": "AZ",
+        "zip": "85714",
+        "country": "United States",
+        "phone": "520 365 3100",
+        "website": "https://acceleratediagnostics.com",
+        "industry": "Medical Devices",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Accelerate Diagnostics, Inc., an in vitro diagnostics company, provides solutions for the diagnosis of serious infections in the United States, Europe, and the Middle East. The company offers Accelerate Pheno system, an in vitro diagnostic platform for the identification and antibiotic susceptibility testing of pathogens associated with serious or health care-associated infections, including gram-positive and gram-negative organisms. It also provides the Accelerate PhenoTest, a test kit for the system, which provides identify and antibiotic susceptibility testing results for patients suspected of bacteremia or fungemia, both life-threatening conditions with high morbidity and mortality risk. The company was formerly known as Accelr8 Technology Corporation and changed its name to Accelerate Diagnostics, Inc. in December 2012. Accelerate Diagnostics, Inc. was incorporated in 1982 and is headquartered in Tucson, Arizona.",
+        "fullTimeEmployees": 220,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.6785,
+        "targetHighPrice": 2,
+        "targetLowPrice": 2,
+        "targetMeanPrice": 2,
+        "targetMedianPrice": 2,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 55394000,
+        "totalCashPerShare": 0.559,
+        "ebitda": -65216000,
+        "totalDebt": 76904000,
+        "quickRatio": 6.04,
+        "currentRatio": 6.926,
+        "totalRevenue": 13123000,
+        "revenuePerShare": 0.177,
+        "returnOnAssets": -0.5419,
+        "grossProfits": -381000,
+        "freeCashflow": -24928750,
+        "operatingCashflow": -51125000,
+        "revenueGrowth": -0.052,
+        "grossMargins": -0.050669998,
+        "ebitdaMargins": 0,
+        "operatingMargins": -5.18677,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,853 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AB",
+        "Security_Name": "AllianceBernstein Holding L.P.  Units",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AB",
+        "NASDAQ_Symbol": "AB",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 1,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 35.52,
+        "open": 35.5,
+        "dayLow": 35.41,
+        "dayHigh": 37.255,
+        "regularMarketPreviousClose": 35.52,
+        "regularMarketOpen": 35.5,
+        "regularMarketDayLow": 35.41,
+        "regularMarketDayHigh": 37.255,
+        "dividendRate": 3.54,
+        "dividendYield": 0.103,
+        "exDividendDate": "2022-11-04T00:00:00.000Z",
+        "payoutRatio": 1.1213,
+        "fiveYearAvgDividendYield": 8.68,
+        "beta": 1.342313,
+        "trailingPE": 10.651297,
+        "forwardPE": 14.4375,
+        "volume": 349073,
+        "regularMarketVolume": 349073,
+        "averageVolume": 380583,
+        "averageVolume10days": 386180,
+        "averageDailyVolume10Day": 386180,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 900,
+        "askSize": 2200,
+        "marketCap": 3710820864,
+        "fiftyTwoWeekLow": 31.31,
+        "fiftyTwoWeekHigh": 52.52,
+        "priceToSalesTrailing12Months": 10.091787,
+        "fiftyDayAverage": 37.8148,
+        "twoHundredDayAverage": 40.55505,
+        "trailingAnnualDividendRate": 3.54,
+        "trailingAnnualDividendYield": 0.09966216,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 1.29,
+                    "estimate": 1
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.9,
+                    "estimate": 0.85
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.71,
+                    "estimate": 0.71
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.64,
+                    "estimate": 0.57
+                }
+            ],
+            "currentQuarterEstimate": 0.56,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675949400,
+                1676295000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 270647000,
+                    "earnings": 242397000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 266292000,
+                    "earnings": 238563000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 308404000,
+                    "earnings": 279380000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 416326000,
+                    "earnings": 385843000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 134091000,
+                    "earnings": 125163000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 94353000,
+                    "earnings": 85928000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 75358000,
+                    "earnings": 68141000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 63905000,
+                    "earnings": 56316000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675949400,
+                1676295000
+            ],
+            "earningsAverage": 0.56,
+            "earningsLow": 0.53,
+            "earningsHigh": 0.59,
+            "revenueAverage": 788560000,
+            "revenueLow": 779180000,
+            "revenueHigh": 797950000
+        },
+        "exDividendDate": "2022-11-04T00:00:00.000Z",
+        "dividendDate": "2022-11-23T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-01T11:59:56.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-31T11:57:17.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-19T09:51:53.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-10-03T11:50:39.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-12T15:27:43.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-26T14:50:17.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-02T13:04:33.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-04-09T15:56:22.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-06T11:35:14.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-26T11:09:01.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-25T12:08:02.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-01-12T10:41:38.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-10-19T10:01:45.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-09-21T12:14:08.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-07-13T09:51:05.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-04-29T16:21:27.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-29T16:02:17.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-17T17:40:03.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-23T11:58:40.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-02-12T15:46:07.000Z",
+                "firm": "CFRA",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-13T14:27:13.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-15T11:19:40.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-07-09T11:43:42.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-06-12T10:47:52.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-07-30T11:52:37.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-08-11T16:41:09.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-04-12T12:39:39.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-11-23T11:55:19.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-14T14:39:20.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-29T10:43:08.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-11T21:30:37.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-03-15T08:39:21.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-02-12T14:03:49.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-01-11T12:35:20.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-12T04:19:56.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-10-07T11:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-10T15:16:25.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-03T05:54:05.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-31T14:12:42.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-31T13:12:48.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-15T11:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-06-11T09:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-06-08T06:15:13.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-05-01T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-08T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-05T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-02T09:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-02-26T06:50:00.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-02-13T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-01-08T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-12-09T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-24T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-14T16:00:00.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-08T09:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-09-12T09:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-09-05T08:36:36.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-08-21T06:30:49.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-07-31T06:20:31.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-07-14T00:00:58.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-06-12T19:38:15.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-10T22:02:03.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-09T22:17:26.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-04T22:18:29.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-07-03T07:59:57.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-03T07:45:42.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-05-13T06:20:46.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-03-12T12:20:13.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-02-13T12:54:46.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-25T05:55:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-25T05:50:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-10-11T13:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-09-20T05:53:00.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-09-12T05:46:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-08-23T06:21:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-08-10T05:47:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-07-26T05:44:00.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.025974002,
+        "postMarketChange": 0.9599991,
+        "postMarketTime": "2023-01-07T00:33:21.000Z",
+        "postMarketPrice": 37.92,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.0405405,
+        "regularMarketChange": 1.44,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 36.96,
+        "regularMarketDayHigh": 37.255,
+        "regularMarketDayLow": 35.41,
+        "regularMarketVolume": 349073,
+        "averageDailyVolume10Day": 386180,
+        "averageDailyVolume3Month": 380583,
+        "regularMarketPreviousClose": 35.52,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 35.5,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AB",
+        "underlyingSymbol": null,
+        "shortName": "AllianceBernstein Holding L.P.",
+        "longName": "AllianceBernstein Holding L.P.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 3710820864
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 3603393536,
+        "forwardPE": 14.4375,
+        "profitMargins": 0.91253996,
+        "floatShares": 95562718,
+        "sharesOutstanding": 100401000,
+        "sharesShort": 665912,
+        "sharesShortPriorMonth": 726162,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0066000004,
+        "heldPercentInsiders": 0.04132,
+        "heldPercentInstitutions": 0.11557,
+        "shortRatio": 1.72,
+        "shortPercentOfFloat": 0.0067000003,
+        "beta": 1.342313,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 15.635,
+        "priceToBook": 2.363927,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.365,
+        "netIncomeToCommon": 335548000,
+        "trailingEps": 3.47,
+        "forwardEps": 2.56,
+        "pegRatio": -1.29,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "1998-04-03T00:00:00.000Z",
+        "enterpriseToRevenue": 9.8,
+        "52WeekChange": -0.25931865,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.64,
+        "lastDividendDate": 1667520000
+    },
+    "summaryProfile": {
+        "address1": "1345 Avenue of the Americas",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10105",
+        "country": "United States",
+        "phone": "212-969-1000",
+        "website": "https://www.alliancebernstein.com",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "AllianceBernstein Holding L.P. is publicly owned investment manager. The firm also provides research services to its clients. It provides its services to investment companies, pension and profit sharing plans, banks and thrift institutions, trusts, estates, government agencies, charitable organizations, individuals, corporations, and other business entities. The firm invests in public equity, fixed income, and alternative investment markets across the globe. It employs long/short strategy to make its investments. The firm conducts in-house research to make its investments. AllianceBernstein Holding L.P. was founded in 1987 and is based in New York, New York.",
+        "fullTimeEmployees": 4118,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 36.96,
+        "targetHighPrice": 42,
+        "targetLowPrice": 30,
+        "targetMeanPrice": 36.4,
+        "targetMedianPrice": 36,
+        "recommendationMean": 2.7,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 5,
+        "totalDebt": 0,
+        "quickRatio": 1,
+        "currentRatio": 1,
+        "totalRevenue": 367707008,
+        "revenuePerShare": 3.705,
+        "returnOnAssets": 0.12984,
+        "returnOnEquity": 0.21514,
+        "grossProfits": 416326000,
+        "operatingCashflow": 375823008,
+        "earningsGrowth": -0.372,
+        "revenueGrowth": -0.334,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 1,
+        "profitMargins": 0.91253996,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AGM$A",
+        "Security_Name": "Federal Agricultural Mortgage Corporation 5.875% Non-CUmulative Preferred Stock, Series A",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AGMpA",
+        "NASDAQ_Symbol": "AGM-A",
+        "NextShares": "N"
+    },
+    "history": [],
+    "error": {
+        "name": "Error",
+        "message": "Failed to download data (404 - {\"quoteSummary\":{\"result\":null,\"error\":{\"code\":\"Not Found\",\"description\":\"Quote not found for ticker symbol: AGM$A\"}}})"
+    }
+}

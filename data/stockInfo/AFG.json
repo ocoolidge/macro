@@ -1,0 +1,496 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AFG",
+        "Security_Name": "American Financial Group, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AFG",
+        "NASDAQ_Symbol": "AFG",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 138.13,
+        "open": 139.06,
+        "dayLow": 139.06,
+        "dayHigh": 141.76,
+        "regularMarketPreviousClose": 138.13,
+        "regularMarketOpen": 139.06,
+        "regularMarketDayLow": 139.06,
+        "regularMarketDayHigh": 141.76,
+        "dividendRate": 2.52,
+        "dividendYield": 0.0184,
+        "exDividendDate": "2023-01-12T00:00:00.000Z",
+        "payoutRatio": 0.19549999,
+        "fiveYearAvgDividendYield": 1.7,
+        "beta": 0.818247,
+        "trailingPE": 12.350831,
+        "forwardPE": 11.853065,
+        "volume": 239499,
+        "regularMarketVolume": 239499,
+        "averageVolume": 408624,
+        "averageVolume10days": 228290,
+        "averageDailyVolume10Day": 228290,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 900,
+        "askSize": 1000,
+        "marketCap": 12019707904,
+        "fiftyTwoWeekLow": 119.01,
+        "fiftyTwoWeekHigh": 152.29,
+        "priceToSalesTrailing12Months": 1.7990881,
+        "fiftyDayAverage": 139.8552,
+        "twoHundredDayAverage": 136.7024,
+        "trailingAnnualDividendRate": 2.24,
+        "trailingAnnualDividendYield": 0.016216608,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 4.12,
+                    "estimate": 2.98
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 3.56,
+                    "estimate": 2.72
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 2.85,
+                    "estimate": 2.21
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 2.24,
+                    "estimate": 2.1
+                }
+            ],
+            "currentQuarterEstimate": 2.85,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675767540,
+                1676289600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 6939000000,
+                    "earnings": 530000000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 5974000000,
+                    "earnings": 897000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 5579000000,
+                    "earnings": 732000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 6393000000,
+                    "earnings": 1995000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 1718000000,
+                    "earnings": 355000000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 1549000000,
+                    "earnings": 290000000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 1492000000,
+                    "earnings": 167000000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 1922000000,
+                    "earnings": 165000000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675767540,
+                1676289600
+            ],
+            "earningsAverage": 2.85,
+            "earningsLow": 2.65,
+            "earningsHigh": 2.96,
+            "revenueAverage": 1553000000,
+            "revenueLow": 1553000000,
+            "revenueHigh": 1553000000
+        },
+        "exDividendDate": "2023-01-12T00:00:00.000Z",
+        "dividendDate": "2022-11-22T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-22T13:20:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-19T12:41:43.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-15T12:13:52.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-08-17T09:22:14.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-02-22T16:12:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-28T15:07:32.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-17T16:15:03.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-27T12:17:10.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-30T10:54:12.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-13T11:38:08.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-08-06T16:48:43.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-12T15:40:09.000Z",
+                "firm": "CFRA",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-17T15:54:54.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Underperform",
+                "fromGrade": "Market Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-04-06T17:05:52.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-11T13:09:36.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-06-13T11:56:24.000Z",
+                "firm": "Buckingham Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-01-11T12:47:49.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-07-12T12:40:26.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-02-01T14:17:56.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-12-02T18:55:04.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-08-12T08:09:51.000Z",
+                "firm": "Sandler O'Neill",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-04-17T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-02-05T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-07-29T06:23:19.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.000283379,
+        "postMarketChange": 0.0399933,
+        "postMarketTime": "2023-01-06T21:00:58.000Z",
+        "postMarketPrice": 141.17,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.022008203,
+        "regularMarketChange": 3.0399933,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 141.17,
+        "regularMarketDayHigh": 141.76,
+        "regularMarketDayLow": 139.06,
+        "regularMarketVolume": 239499,
+        "averageDailyVolume10Day": 228290,
+        "averageDailyVolume3Month": 408624,
+        "regularMarketPreviousClose": 138.13,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 139.06,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AFG",
+        "underlyingSymbol": null,
+        "shortName": "American Financial Group, Inc.",
+        "longName": "American Financial Group, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 12019707904
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 12747479040,
+        "forwardPE": 11.853065,
+        "profitMargins": 0.14623,
+        "floatShares": 62630709,
+        "sharesOutstanding": 85143504,
+        "sharesShort": 783564,
+        "sharesShortPriorMonth": 796150,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0092,
+        "heldPercentInsiders": 0.21767001,
+        "heldPercentInstitutions": 0.64108,
+        "shortRatio": 1.6,
+        "shortPercentOfFloat": 0.0117,
+        "beta": 0.818247,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 46.182,
+        "priceToBook": 3.0568187,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.247,
+        "netIncomeToCommon": 977000000,
+        "trailingEps": 11.43,
+        "forwardEps": 11.91,
+        "pegRatio": 4.58,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": "2006-12-18T00:00:00.000Z",
+        "enterpriseToRevenue": 1.908,
+        "enterpriseToEbitda": 8.939,
+        "52WeekChange": 0.034591436,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 2,
+        "lastDividendDate": 1668384000
+    },
+    "summaryProfile": {
+        "address1": "301 East Fourth Street",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45202",
+        "country": "United States",
+        "phone": "513 579 2121",
+        "fax": "513 352 9230",
+        "website": "https://www.afginc.com",
+        "industry": "Insurance—Property & Casualty",
+        "sector": "Financial Services",
+        "longBusinessSummary": "American Financial Group, Inc., an insurance holding company, provides specialty property and casualty insurance products in the United States. It offers property and transportation insurance products, such as physical damage and liability coverage for buses and trucks, inland and ocean marine, agricultural-related products, and other commercial property and specialty transportation coverages; specialty casualty insurance, including primarily excess and surplus, executive and professional liability, general liability, umbrella and excess liability, and specialty coverage in targeted markets, as well as customized programs for small to mid-sized businesses and workers' compensation insurance; and specialty financial insurance products comprising risk management insurance programs for lending and leasing institutions, fidelity and surety products, and trade credit insurance. The company sells its property and casualty insurance products through independent insurance agents and brokers. American Financial Group, Inc. was founded in 1872 and is headquartered in Cincinnati, Ohio.",
+        "fullTimeEmployees": 6600,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 141.17,
+        "targetHighPrice": 181,
+        "targetLowPrice": 162,
+        "targetMeanPrice": 171.5,
+        "targetMedianPrice": 171.5,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 824000000,
+        "totalCashPerShare": 9.678,
+        "ebitda": 1426000000,
+        "totalDebt": 1688000000,
+        "quickRatio": 0.747,
+        "currentRatio": 1.786,
+        "totalRevenue": 6680999936,
+        "debtToEquity": 42.93,
+        "revenuePerShare": 78.577,
+        "returnOnAssets": 0.02776,
+        "returnOnEquity": 0.21304001,
+        "grossProfits": 1689000000,
+        "freeCashflow": 246624992,
+        "operatingCashflow": 1332000000,
+        "earningsGrowth": -0.246,
+        "revenueGrowth": 0.119,
+        "grossMargins": 0.23425,
+        "ebitdaMargins": 0.21344,
+        "operatingMargins": 0.19771999,
+        "profitMargins": 0.14623,
+        "financialCurrency": "USD"
+    }
+}

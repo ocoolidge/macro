@@ -1,0 +1,263 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AWP",
+        "Security_Name": "Aberdeen Global Premier Properties Fund Common Shares of Beneficial Interest",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AWP",
+        "NASDAQ_Symbol": "AWP",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 3.97,
+        "open": 4.02,
+        "dayLow": 3.98,
+        "dayHigh": 4.06,
+        "regularMarketPreviousClose": 3.97,
+        "regularMarketOpen": 4.02,
+        "regularMarketDayLow": 3.98,
+        "regularMarketDayHigh": 4.06,
+        "dividendRate": 0.48,
+        "dividendYield": 0.1182,
+        "exDividendDate": "2022-12-29T00:00:00.000Z",
+        "payoutRatio": 24,
+        "fiveYearAvgDividendYield": 9.43,
+        "beta": 1.261248,
+        "trailingPE": 203,
+        "volume": 413027,
+        "regularMarketVolume": 413027,
+        "averageVolume": 413361,
+        "averageVolume10days": 497300,
+        "averageDailyVolume10Day": 497300,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 2900,
+        "askSize": 3100,
+        "marketCap": 346756480,
+        "fiftyTwoWeekLow": 3.51,
+        "fiftyTwoWeekHigh": 6.69,
+        "priceToSalesTrailing12Months": 18.877802,
+        "fiftyDayAverage": 4.1046,
+        "twoHundredDayAverage": 4.8288,
+        "trailingAnnualDividendRate": 0.48,
+        "trailingAnnualDividendYield": 0.1209068,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 13913669,
+                    "earnings": -37153107
+                },
+                {
+                    "date": 2019,
+                    "revenue": 21525459,
+                    "earnings": 145879050
+                },
+                {
+                    "date": 2020,
+                    "revenue": 17596373,
+                    "earnings": -134398576
+                },
+                {
+                    "date": 2021,
+                    "revenue": 18558647,
+                    "earnings": 178345433
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 4386569,
+                    "earnings": 21279793
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 4386569,
+                    "earnings": 21279793
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 4797671,
+                    "earnings": -20158824
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 4797671,
+                    "earnings": -20158824
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": []
+        },
+        "exDividendDate": "2022-12-29T00:00:00.000Z",
+        "dividendDate": "2019-01-31T00:00:00.000Z"
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.022670003,
+        "regularMarketChange": 0.089999914,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 4.06,
+        "regularMarketDayHigh": 4.06,
+        "regularMarketDayLow": 3.98,
+        "regularMarketVolume": 413027,
+        "averageDailyVolume10Day": 497300,
+        "averageDailyVolume3Month": 413361,
+        "regularMarketPreviousClose": 3.97,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 4.02,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AWP",
+        "underlyingSymbol": null,
+        "shortName": "Aberdeen Global Premier Propert",
+        "longName": "abrdn Global Premier Properties Fund",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 346756480
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 467412128,
+        "profitMargins": 0.12205,
+        "sharesOutstanding": 85408000,
+        "sharesShort": 13529,
+        "sharesShortPriorMonth": 45317,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0002,
+        "heldPercentInsiders": 0.000010000001,
+        "heldPercentInstitutions": 0.21581,
+        "shortRatio": 0.04,
+        "beta": 1.261248,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 6.124,
+        "priceToBook": 0.66296536,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-10-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-10-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-04-30T00:00:00.000Z",
+        "netIncomeToCommon": 2241937,
+        "trailingEps": 0.02,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 25.446,
+        "52WeekChange": -0.3744222,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.04,
+        "lastDividendDate": 1672272000
+    },
+    "summaryProfile": {
+        "address1": "10 Queens Terrace",
+        "city": "Aberdeen",
+        "zip": "AB10 1XL",
+        "country": "United Kingdom",
+        "phone": "44 1224631999",
+        "fax": "44 1224647010",
+        "website": "https://www.alpinecef.com/default.asp?P=856340&S=857563",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Abrdn Global Premier Properties Fund is a closed-end equity mutual fund launched and managed by Alpine Woods Capital Investors, LLC. It invests in the public equity markets across the globe. The fund invests in stocks of companies operating across real estate sectors. It invests in value stocks of companies. The fund employs fundamental analysis with top-down and bottom-up stock picking approach to create its portfolio. It benchmarks the performance of its portfolio against the FTSE EPRA/NAREIT Global TR Index, MSCI US REIT Gross Total Return Index, and S&P Developed BMI Property Index Net TR Index. Abrdn Global Premier Properties Fund was formed on February 13, 2007 and is domiciled in the United States.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 4.06,
+        "recommendationKey": "none",
+        "totalCash": 4651621,
+        "totalCashPerShare": 0.054,
+        "totalDebt": 125307480,
+        "quickRatio": 0.045,
+        "currentRatio": 0.046,
+        "totalRevenue": 18368478,
+        "debtToEquity": 23.956,
+        "revenuePerShare": 0.215,
+        "returnOnAssets": 0.010720001,
+        "returnOnEquity": 0.00413,
+        "grossProfits": 18558647,
+        "freeCashflow": 7592555,
+        "operatingCashflow": 32800812,
+        "revenueGrowth": -0.019,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.62751,
+        "profitMargins": 0.12205,
+        "financialCurrency": "USD"
+    }
+}

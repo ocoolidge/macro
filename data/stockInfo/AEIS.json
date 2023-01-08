@@ -1,0 +1,907 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AEIS",
+        "Security_Name": "Advanced Energy Industries, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AEIS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 6,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 6,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 5,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 86.09,
+        "open": 87.4,
+        "dayLow": 87.175,
+        "dayHigh": 91.28,
+        "regularMarketPreviousClose": 86.09,
+        "regularMarketOpen": 87.4,
+        "regularMarketDayLow": 87.175,
+        "regularMarketDayHigh": 91.28,
+        "dividendRate": 0.4,
+        "dividendYield": 0.0047,
+        "exDividendDate": "2022-11-18T00:00:00.000Z",
+        "payoutRatio": 0.0769,
+        "beta": 1.575431,
+        "trailingPE": 17.581888,
+        "forwardPE": 17.787523,
+        "volume": 152726,
+        "regularMarketVolume": 152726,
+        "averageVolume": 198243,
+        "averageVolume10days": 140420,
+        "averageDailyVolume10Day": 140420,
+        "bid": 91.25,
+        "ask": 97.45,
+        "bidSize": 800,
+        "askSize": 1300,
+        "marketCap": 3411207936,
+        "fiftyTwoWeekLow": 67.55,
+        "fiftyTwoWeekHigh": 98.07,
+        "priceToSalesTrailing12Months": 1.9474678,
+        "fiftyDayAverage": 87.068,
+        "twoHundredDayAverage": 82.72885,
+        "trailingAnnualDividendRate": 0.4,
+        "trailingAnnualDividendYield": 0.004646301,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 1.36,
+                    "estimate": 0.94
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.24,
+                    "estimate": 0.95
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.44,
+                    "estimate": 1.11
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 2.12,
+                    "estimate": 1.38
+                }
+            ],
+            "currentQuarterEstimate": 1.59,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675767540,
+                1676289600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 718892000,
+                    "earnings": 147025000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 788948000,
+                    "earnings": 64941000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1415826000,
+                    "earnings": 134675000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1455954000,
+                    "earnings": 134736000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 396930000,
+                    "earnings": 39655000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 397459000,
+                    "earnings": 36778000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 440949000,
+                    "earnings": 44970000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 516274000,
+                    "earnings": 74167000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675767540,
+                1676289600
+            ],
+            "earningsAverage": 1.59,
+            "earningsLow": 1.54,
+            "earningsHigh": 1.67,
+            "revenueAverage": 476080000,
+            "revenueLow": 469950000,
+            "revenueHigh": 488100000
+        },
+        "exDividendDate": "2022-11-18T00:00:00.000Z",
+        "dividendDate": "2022-12-02T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-04T13:07:31.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-11-02T10:48:55.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-04T12:28:15.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-04T11:44:23.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-12T13:24:49.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-23T09:10:47.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-05-05T13:45:56.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-05T12:35:47.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-26T09:33:28.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-01-06T13:35:07.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-12-17T11:24:55.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-10-12T12:12:40.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-05T11:13:01.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-14T11:59:28.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Neutral",
+                "fromGrade": "Positive",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-05T13:34:26.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-05T12:41:01.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-05T11:17:39.000Z",
+                "firm": "Needham",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-05-06T11:05:11.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-21T11:23:58.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-08T11:25:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-11T15:42:35.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-25T15:37:01.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-08T14:47:45.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-15T15:16:47.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-15T15:09:01.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-15T15:07:52.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-09T12:07:29.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-06T13:44:34.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-06T13:24:06.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-06T11:11:51.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-06T10:49:32.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-09T11:36:19.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-07T16:31:34.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-21T12:01:54.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-24T11:08:23.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-02-19T13:11:16.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-21T11:14:53.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-13T14:14:05.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-13T12:25:02.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-11T13:46:28.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-09-26T11:47:21.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-09-23T11:56:37.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-07-08T11:53:49.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-05-15T10:46:15.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Positive",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-10-31T14:02:51.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-09-25T11:14:10.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-01T11:32:42.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "Hold",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-05T11:24:19.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-15T10:55:29.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-05-02T11:56:40.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-01-10T23:32:27.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-08-23T11:18:16.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-12T10:21:26.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-14T06:42:53.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-20T07:07:13.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-19T07:33:17.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Neutral",
+                "fromGrade": "Positive",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-18T07:57:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-01-05T08:45:25.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-08-05T07:26:21.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Positive",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-08-05T07:26:11.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Positive",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-02-03T11:13:37.000Z",
+                "firm": "Dougherty",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-01-09T05:58:33.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-09-05T06:21:39.000Z",
+                "firm": "Garp Research",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-09-05T06:20:40.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-08-06T21:00:39.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-09T12:30:23.000Z",
+                "firm": "Dougherty",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-07-02T06:15:24.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-06-03T06:16:35.000Z",
+                "firm": "Needham",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-05-07T08:11:13.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-05-07T02:21:54.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-02-05T06:53:41.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-11-11T07:09:11.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Neutral",
+                "fromGrade": "Positive",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-10-29T08:47:37.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-09-05T09:10:41.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-04-09T14:48:31.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-28T06:18:55.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-03-19T09:31:15.000Z",
+                "firm": "Pacific Crest",
+                "toGrade": "Underperform",
+                "fromGrade": "Sector Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-03-07T07:33:38.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-02-06T06:41:11.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-10-31T08:40:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-02T15:01:00.000Z",
+                "firm": "Dougherty",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-01T13:39:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-02-21T06:06:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:01:48.000Z",
+        "postMarketPrice": 91.25,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.05993732,
+        "regularMarketChange": 5.1600037,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 91.25,
+        "regularMarketDayHigh": 91.28,
+        "regularMarketDayLow": 87.175,
+        "regularMarketVolume": 152726,
+        "averageDailyVolume10Day": 140420,
+        "averageDailyVolume3Month": 198243,
+        "regularMarketPreviousClose": 86.09,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 87.4,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AEIS",
+        "underlyingSymbol": null,
+        "shortName": "Advanced Energy Industries, Inc",
+        "longName": "Advanced Energy Industries, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 3411207936
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 3317367040,
+        "forwardPE": 17.787523,
+        "profitMargins": 0.11165,
+        "floatShares": 36915078,
+        "sharesOutstanding": 37383100,
+        "sharesShort": 1820032,
+        "sharesShortPriorMonth": 1784394,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.048699997,
+        "heldPercentInsiders": 0.014830001,
+        "heldPercentInstitutions": 1.02586,
+        "shortRatio": 10.64,
+        "shortPercentOfFloat": 0.066599995,
+        "beta": 1.575431,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 26.456,
+        "priceToBook": 3.4491231,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 2.531,
+        "netIncomeToCommon": 196283008,
+        "trailingEps": 5.19,
+        "forwardEps": 5.13,
+        "pegRatio": 1.34,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.894,
+        "enterpriseToEbitda": 11.693,
+        "52WeekChange": 0.027705789,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.1,
+        "lastDividendDate": 1668729600
+    },
+    "summaryProfile": {
+        "address1": "1595 Wynkoop Street",
+        "address2": "Suite 800",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80202",
+        "country": "United States",
+        "phone": "970 407 4670",
+        "website": "https://www.advancedenergy.com",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "Advanced Energy Industries, Inc. designs, manufactures, sells, and supports precision power conversion, measurement, and control solutions worldwide. It offers plasma power solutions, including direct current (DC), pulsed DC, low frequency alternating current, high voltage, and radio frequency (RF) power supplies, as well as RF power supplies, RF matching networks, and RF instrumentation products; and remote plasma sources for reactive gas applications. The company also provides power control modules and thermal instrumentation products for rapid thermal processing, chemical vapor deposition, epitaxy, crystal growing, and chemical processing, as well as metal, carbon fiber, and glass manufacturing and other industrial power applications; high voltage DC-DC products for semiconductor wafer processing and metrology, electrostatic clamping of substrates, scientific instrumentation, mass spectrometry, and X-ray systems for industrial and analytical applications; and low voltage DC-DC board mounted solutions for use in healthcare, telecommunications, test and measurement, instrumentation, and industrial equipment applications, as well as distributed power in server and storage systems. In addition, it offers gas sensing and monitoring products for the energy market, air quality monitoring, and automobile emission monitoring and testing; and embedded power products for medical equipment or IEC 60950-1 for information technology equipment. Further, it offers conversions, upgrades, and refurbishments and used equipment to companies, as well as repair services. The company provides its products through a direct sales force, independent sales representatives, channel partners, and distributors. Advanced Energy Industries, Inc. was incorporated in 1981 and is headquartered in Denver, Colorado.",
+        "fullTimeEmployees": 10000,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 91.25,
+        "targetHighPrice": 105,
+        "targetLowPrice": 68,
+        "targetMeanPrice": 91.78,
+        "targetMedianPrice": 90,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 411172992,
+        "totalCashPerShare": 10.999,
+        "ebitda": 283705984,
+        "totalDebt": 489006016,
+        "quickRatio": 1.659,
+        "currentRatio": 2.73,
+        "totalRevenue": 1751612032,
+        "debtToEquity": 49.397,
+        "revenuePerShare": 46.669,
+        "returnOnAssets": 0.07409,
+        "returnOnEquity": 0.2143,
+        "grossProfits": 542096000,
+        "freeCashflow": 51536000,
+        "operatingCashflow": 147259008,
+        "earningsGrowth": 2.591,
+        "revenueGrowth": 0.492,
+        "grossMargins": 0.36676,
+        "ebitdaMargins": 0.16197,
+        "operatingMargins": 0.1288,
+        "profitMargins": 0.11165,
+        "financialCurrency": "USD"
+    }
+}

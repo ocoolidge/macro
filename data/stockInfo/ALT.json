@@ -1,0 +1,422 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ALT",
+        "Security_Name": "Altimmune, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ALT",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 5,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 5,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 14.34,
+        "open": 14.38,
+        "dayLow": 14.06,
+        "dayHigh": 14.58,
+        "regularMarketPreviousClose": 14.34,
+        "regularMarketOpen": 14.38,
+        "regularMarketDayLow": 14.06,
+        "regularMarketDayHigh": 14.58,
+        "exDividendDate": "2017-01-20T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 0.473839,
+        "forwardPE": 20.414286,
+        "volume": 742787,
+        "regularMarketVolume": 742787,
+        "averageVolume": 1366270,
+        "averageVolume10days": 1588970,
+        "averageDailyVolume10Day": 1588970,
+        "bid": 14,
+        "ask": 15,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 567864576,
+        "fiftyTwoWeekLow": 3.83,
+        "fiftyTwoWeekHigh": 23.49,
+        "priceToSalesTrailing12Months": 163.39752,
+        "fiftyDayAverage": 11.6394,
+        "twoHundredDayAverage": 10.6936,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.81,
+                    "estimate": -0.39
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.57,
+                    "estimate": -0.65
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.44,
+                    "estimate": -0.58
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.42,
+                    "estimate": -0.47
+                }
+            ],
+            "currentQuarterEstimate": -0.5,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678665600,
+                1679011200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 10331168,
+                    "earnings": -39171152
+                },
+                {
+                    "date": 2019,
+                    "revenue": 5801401,
+                    "earnings": -20520131
+                },
+                {
+                    "date": 2020,
+                    "revenue": 8185027,
+                    "earnings": -49044477
+                },
+                {
+                    "date": 2021,
+                    "revenue": 4410356,
+                    "earnings": -97090824
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 157559,
+                    "earnings": -33510688
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 3277658,
+                    "earnings": -23889321
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 32000,
+                    "earnings": -19430000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 8000,
+                    "earnings": -20107000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678665600,
+                1679011200
+            ],
+            "earningsAverage": -0.5,
+            "earningsLow": -0.57,
+            "earningsHigh": -0.44,
+            "revenueAverage": 870000,
+            "revenueHigh": 5000000
+        },
+        "exDividendDate": "2017-01-20T00:00:00.000Z",
+        "dividendDate": "2018-09-14T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-16T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-31T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-17T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-12T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-18T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-30T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-30T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-30T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-16T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-02T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-02-11T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-09-25T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-07-31T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-07-28T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-19T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-10-09T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-07T00:35:28.000Z",
+        "postMarketPrice": 14.29,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.003486764,
+        "regularMarketChange": -0.05000019,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 14.29,
+        "regularMarketDayHigh": 14.58,
+        "regularMarketDayLow": 14.06,
+        "regularMarketVolume": 742787,
+        "averageDailyVolume10Day": 1588970,
+        "averageDailyVolume3Month": 1366270,
+        "regularMarketPreviousClose": 14.34,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 14.38,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ALT",
+        "underlyingSymbol": null,
+        "shortName": "Altimmune, Inc.",
+        "longName": "Altimmune, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 567864576
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 366102048,
+        "forwardPE": -6.903382,
+        "profitMargins": 0,
+        "floatShares": 36749658,
+        "sharesOutstanding": 39738600,
+        "sharesShort": 7050124,
+        "sharesShortPriorMonth": 6759783,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.1438,
+        "heldPercentInsiders": 0.00715,
+        "heldPercentInstitutions": 0.82268,
+        "shortRatio": 1.67,
+        "shortPercentOfFloat": 0.145,
+        "beta": 0.473839,
+        "category": null,
+        "bookValue": 6.109,
+        "priceToBook": 2.3391716,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -96936824,
+        "trailingEps": -1.913,
+        "forwardEps": 0.7,
+        "lastSplitFactor": "1:30",
+        "lastSplitDate": "2018-09-14T00:00:00.000Z",
+        "enterpriseToRevenue": 105.342,
+        "enterpriseToEbitda": -3.966
+    },
+    "summaryProfile": {
+        "address1": "910 Clopper Road",
+        "address2": "Suite 201S",
+        "city": "Gaithersburg",
+        "state": "MD",
+        "zip": "20878",
+        "country": "United States",
+        "phone": "240 654 1450",
+        "website": "https://altimmune.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Altimmune, Inc., a clinical stage biopharmaceutical company, focuses on developing treatments for obesity and liver diseases. The company's lead product candidate, pemvidutide (proposed INN, formerly known as ALT-801), is a GLP-1/glucagon dual receptor agonist that is in Phase 1b trial for the treatment of obesity and non-alcoholic steatohepatitis. It is also developing HepTcell, an immunotherapeutic product candidate, which is in Phase 2 clinical trial for patients chronically infected with the hepatitis B virus. The company was formerly known as Vaxin Inc. and changed its name to Altimmune, Inc. in September 2015. Altimmune, Inc. was founded in 1997 is headquartered in Gaithersburg, Maryland.",
+        "fullTimeEmployees": 47,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 14.29,
+        "targetHighPrice": 50,
+        "targetLowPrice": 14,
+        "targetMeanPrice": 29.14,
+        "targetMedianPrice": 26,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 184756000,
+        "totalCashPerShare": 3.809,
+        "ebitda": -92302736,
+        "totalDebt": 1335000,
+        "quickRatio": 13.785,
+        "currentRatio": 14.121,
+        "totalRevenue": 3475356,
+        "debtToEquity": 0.686,
+        "revenuePerShare": 0.08,
+        "returnOnAssets": -0.24851,
+        "returnOnEquity": -0.44486,
+        "grossProfits": -71086741,
+        "freeCashflow": -36189828,
+        "operatingCashflow": -69971944,
+        "revenueGrowth": -0.942,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": -26.72447,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

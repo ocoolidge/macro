@@ -1,0 +1,354 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ADES",
+        "Security_Name": "Advanced Emissions Solutions, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ADES",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 2.36,
+        "open": 2.4,
+        "dayLow": 2.375,
+        "dayHigh": 2.44,
+        "regularMarketPreviousClose": 2.36,
+        "regularMarketOpen": 2.4,
+        "regularMarketDayLow": 2.375,
+        "regularMarketDayHigh": 2.44,
+        "exDividendDate": "2020-02-20T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 0.722701,
+        "trailingPE": 2.283019,
+        "forwardPE": 0.55760366,
+        "volume": 30508,
+        "regularMarketVolume": 30508,
+        "averageVolume": 63591,
+        "averageVolume10days": 54940,
+        "averageDailyVolume10Day": 54940,
+        "bid": 2.39,
+        "ask": 2.68,
+        "bidSize": 800,
+        "askSize": 1000,
+        "marketCap": 46248380,
+        "fiftyTwoWeekLow": 2.11,
+        "fiftyTwoWeekHigh": 7.13,
+        "priceToSalesTrailing12Months": 0.43903077,
+        "fiftyDayAverage": 2.6516,
+        "twoHundredDayAverage": 4.16175,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "2Q2019",
+                    "actual": 0.44,
+                    "estimate": 0.74
+                },
+                {
+                    "date": "3Q2019",
+                    "actual": 0.21,
+                    "estimate": 0.8
+                },
+                {
+                    "date": "4Q2019",
+                    "actual": 0.49,
+                    "estimate": 0.9
+                },
+                {
+                    "date": "1Q2020",
+                    "actual": -0.11,
+                    "estimate": 0.62
+                }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2020,
+            "earningsDate": [
+                1678136400,
+                1678482000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 23945000,
+                    "earnings": 35454000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 70086000,
+                    "earnings": 35537000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 67363000,
+                    "earnings": -20302000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 100294000,
+                    "earnings": 60401000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 30710000,
+                    "earnings": 5821000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 26402000,
+                    "earnings": -3033000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 24739000,
+                    "earnings": -326000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 28437000,
+                    "earnings": -2391000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678136400,
+                1678482000
+            ],
+            "revenueAverage": 11483000,
+            "revenueLow": 17710000,
+            "revenueHigh": 17710000
+        },
+        "exDividendDate": "2020-02-20T00:00:00.000Z",
+        "dividendDate": "2020-03-10T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2017-02-06T13:39:27.000Z",
+                "firm": "Rodman & Renshaw",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-01-30T05:47:57.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-01-09T08:30:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-01-08T08:30:00.000Z",
+                "firm": "Brean Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-11-25T08:14:29.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-05-14T10:02:23.000Z",
+                "firm": "Lake Street",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.04958673,
+        "postMarketChange": 0.119999886,
+        "postMarketTime": "2023-01-06T21:28:37.000Z",
+        "postMarketPrice": 2.54,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.025423806,
+        "regularMarketChange": 0.06000018,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 2.42,
+        "regularMarketDayHigh": 2.44,
+        "regularMarketDayLow": 2.375,
+        "regularMarketVolume": 30508,
+        "averageDailyVolume10Day": 54940,
+        "averageDailyVolume3Month": 63591,
+        "regularMarketPreviousClose": 2.36,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 2.4,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ADES",
+        "underlyingSymbol": null,
+        "shortName": "Advanced Emissions Solutions, I",
+        "longName": "Advanced Emissions Solutions, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 46248380
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": -18732976,
+        "profitMargins": 0.00067000004,
+        "floatShares": 16084124,
+        "sharesOutstanding": 19110900,
+        "sharesShort": 26330,
+        "sharesShortPriorMonth": 31023,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0014,
+        "heldPercentInsiders": 0.021300001,
+        "heldPercentInstitutions": 0.36535,
+        "shortRatio": 0.32,
+        "shortPercentOfFloat": 0.0016,
+        "beta": 0.722701,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 7.709,
+        "priceToBook": 0.3139188,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": 71000,
+        "trailingEps": 1.06,
+        "forwardEps": 4.34,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "2014-03-17T00:00:00.000Z",
+        "enterpriseToRevenue": -0.178,
+        "enterpriseToEbitda": 8.95,
+        "52WeekChange": -0.6507937,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.25,
+        "lastDividendDate": 1582156800
+    },
+    "summaryProfile": {
+        "address1": "8051 E. Maplewood Avenue",
+        "address2": "Suite 210",
+        "city": "Greenwood Village",
+        "state": "CO",
+        "zip": "80111",
+        "country": "United States",
+        "phone": "720 598 3500",
+        "website": "https://www.advancedemissionssolutions.com",
+        "industry": "Pollution & Treatment Controls",
+        "sector": "Industrials",
+        "longBusinessSummary": "Advanced Emissions Solutions, Inc., together with its subsidiaries, provides environmental technologies and specialty chemicals in the United States. It operates through two segments, Refined Coal and Advanced Purification Technologies. The company offers CyClean technology, a pre-combustion coal treatment process to enhance combustion, as well as to reduce emissions of nitrogen oxide and mercury from coals burned in cyclone boilers; and M-45 and M-45-PC technologies, which are pre-combustion coal treatment technologies used to control emissions from circulating fluidized bed boilers and pulverized coal boilers. It also provides mercury and other air contaminants controls; and activated carbon products, such as powdered activated carbon and granular activated carbon, as well as owns an associated lignite mine that supplies the raw material for the powdered activated carbon plant. The company's products are used in removal of heavy metal pollutants; treatment of drinking and waste waters; industrial acid gas and odor removal; automotive gasoline emission control; soil and ground water remediation; and food and beverage process and product purifications. It serves customers in the coal-fired power generation and industrial boiler processes. Advanced Emissions Solutions, Inc. was founded in 1996 and is headquartered in Greenwood Village, Colorado.",
+        "fullTimeEmployees": 139,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 2.42,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "totalCash": 75823000,
+        "totalCashPerShare": 4.099,
+        "ebitda": -2093000,
+        "totalDebt": 12694000,
+        "quickRatio": 3.561,
+        "currentRatio": 4.471,
+        "totalRevenue": 105342000,
+        "debtToEquity": 8.9,
+        "revenuePerShare": 5.724,
+        "returnOnAssets": -0.02939,
+        "returnOnEquity": 0.0005,
+        "grossProfits": 38218000,
+        "freeCashflow": -5644625,
+        "operatingCashflow": 1663000,
+        "revenueGrowth": -0.078,
+        "grossMargins": 0.27668,
+        "ebitdaMargins": -0.01987,
+        "operatingMargins": -0.08198,
+        "profitMargins": 0.00067000004,
+        "financialCurrency": "USD"
+    }
+}

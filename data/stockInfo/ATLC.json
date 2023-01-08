@@ -1,0 +1,353 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATLC",
+        "Security_Name": "Atlanticus Holdings Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ATLC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 27.36,
+        "open": 27.79,
+        "dayLow": 27.34,
+        "dayHigh": 28.915,
+        "regularMarketPreviousClose": 27.36,
+        "regularMarketOpen": 27.79,
+        "regularMarketDayLow": 27.34,
+        "regularMarketDayHigh": 28.915,
+        "exDividendDate": "2009-12-29T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 1.69123,
+        "trailingPE": 7.2317815,
+        "forwardPE": 3.158011,
+        "volume": 31477,
+        "regularMarketVolume": 31477,
+        "averageVolume": 21798,
+        "averageVolume10days": 21170,
+        "averageDailyVolume10Day": 21170,
+        "bid": 27.9,
+        "ask": 29,
+        "bidSize": 1100,
+        "askSize": 900,
+        "marketCap": 431380800,
+        "fiftyTwoWeekLow": 23.15,
+        "fiftyTwoWeekHigh": 73.29,
+        "priceToSalesTrailing12Months": 0.9578535,
+        "fiftyDayAverage": 26.904,
+        "twoHundredDayAverage": 34.2717,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 2.57,
+                    "estimate": 1.5
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 2.13,
+                    "estimate": 2.1
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.96,
+                    "estimate": 2.19
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.46,
+                    "estimate": 1.45
+                }
+            ],
+            "currentQuarterEstimate": 1.31,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678665600,
+                1679011200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 55927000,
+                    "earnings": 7856000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 46583000,
+                    "earnings": 26443000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 257192000,
+                    "earnings": 94120000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 434540000,
+                    "earnings": 177902000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 123582000,
+                    "earnings": 46974000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 115117000,
+                    "earnings": 49977000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 107533000,
+                    "earnings": 45010000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 104130000,
+                    "earnings": 34025000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678665600,
+                1679011200
+            ],
+            "earningsAverage": 1.31,
+            "earningsLow": 1.23,
+            "earningsHigh": 1.4,
+            "revenueAverage": 285590000,
+            "revenueLow": 278380000,
+            "revenueHigh": 292800000
+        },
+        "exDividendDate": "2009-12-29T00:00:00.000Z",
+        "dividendDate": "2015-05-06T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-07-15T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-16T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-16T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-17T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-21T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-06-14T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:14.000Z",
+        "postMarketPrice": 28.58,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.044590615,
+        "regularMarketChange": 1.2199993,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 28.58,
+        "regularMarketDayHigh": 28.915,
+        "regularMarketDayLow": 27.34,
+        "regularMarketVolume": 31477,
+        "averageDailyVolume10Day": 21170,
+        "averageDailyVolume3Month": 21798,
+        "regularMarketPreviousClose": 27.36,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 27.79,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATLC",
+        "underlyingSymbol": null,
+        "shortName": "Atlanticus Holdings Corporation",
+        "longName": "Atlanticus Holdings Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 431380800
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1821266432,
+        "forwardPE": 4.700658,
+        "profitMargins": 0.39077,
+        "floatShares": 4453307,
+        "sharesOutstanding": 15093800,
+        "sharesShort": 648566,
+        "sharesShortPriorMonth": 604726,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0448,
+        "heldPercentInsiders": 0.69214994,
+        "heldPercentInstitutions": 0.15928,
+        "shortRatio": 23.62,
+        "shortPercentOfFloat": 0.1416,
+        "beta": 1.69123,
+        "category": null,
+        "bookValue": 5.273,
+        "priceToBook": 5.420065,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.077,
+        "netIncomeToCommon": 150584992,
+        "trailingEps": 3.952,
+        "forwardEps": 9.05,
+        "pegRatio": 0.23,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 4.044
+    },
+    "summaryProfile": {
+        "address1": "Five Concourse Parkway",
+        "address2": "Suite 300",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30328",
+        "country": "United States",
+        "phone": "770 828 2000",
+        "website": "https://www.atlanticus.com",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Atlanticus Holdings Corporation provides credit and related financial services and products to customers the United States. It operates in two segments, Credit as a Service, and Auto Finance. The Credit as a Service segment originates a range of consumer loan products, such as private label and general purpose credit cards originated by lenders through various channels, including retail and healthcare, direct mail solicitation, digital marketing, and partnerships with third parties; and offers credit to their customers for the purchase of various goods and services, including consumer electronics, furniture, elective medical procedures, healthcare, educational services, and home-improvements by partnering with retailers and service providers. In addition, it offers loan servicing, such as risk management and customer service outsourcing for third parties; and engages in testing and investment activities in consumer finance technology platforms. The Auto Finance segment purchases and/or services loans secured by automobiles from or for a pre-qualified network of independent automotive dealers and automotive finance companies in the buy-here, pay-here, and used car business. This segment also provides floor plan financing and installment lending products. Further, the company invests in and services portfolios of credit card receivables. Atlanticus Holdings Corporation was founded in 1996 and is headquartered in Atlanta, Georgia.",
+        "fullTimeEmployees": 328,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 28.58,
+        "targetHighPrice": 50,
+        "targetLowPrice": 50,
+        "targetMeanPrice": 50,
+        "targetMedianPrice": 50,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 316331008,
+        "totalCashPerShare": 21.847,
+        "totalDebt": 1592771968,
+        "quickRatio": 21.247,
+        "currentRatio": 22.068,
+        "totalRevenue": 450361984,
+        "debtToEquity": 371.261,
+        "revenuePerShare": 30.191,
+        "returnOnAssets": 0.09925,
+        "returnOnEquity": 0.44714,
+        "grossProfits": 359143000,
+        "operatingCashflow": 240451008,
+        "earningsGrowth": -0.065,
+        "revenueGrowth": 0.086,
+        "grossMargins": 0.808,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.47987,
+        "profitMargins": 0.39077,
+        "financialCurrency": "USD"
+    }
+}

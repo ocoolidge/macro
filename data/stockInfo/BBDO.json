@@ -1,0 +1,393 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BBDO",
+        "Security_Name": "Banco Bradesco Sa American Depositary Shares (each representing one Common Share)",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BBDO",
+        "NASDAQ_Symbol": "BBDO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 2.39,
+        "open": 2.5,
+        "dayLow": 2.42,
+        "dayHigh": 2.53,
+        "regularMarketPreviousClose": 2.39,
+        "regularMarketOpen": 2.5,
+        "regularMarketDayLow": 2.42,
+        "regularMarketDayHigh": 2.53,
+        "dividendRate": 0.07,
+        "dividendYield": 0.0233,
+        "exDividendDate": "2022-11-03T00:00:00.000Z",
+        "payoutRatio": 0.24149999,
+        "fiveYearAvgDividendYield": 3.59,
+        "beta": 1.044117,
+        "trailingPE": 8.428094,
+        "volume": 12367,
+        "regularMarketVolume": 12367,
+        "averageVolume": 27996,
+        "averageVolume10days": 19850,
+        "averageDailyVolume10Day": 19850,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1000,
+        "askSize": 800,
+        "marketCap": 26525267968,
+        "fiftyTwoWeekLow": 2.29,
+        "fiftyTwoWeekHigh": 3.9,
+        "priceToSalesTrailing12Months": 0.27663842,
+        "fiftyDayAverage": 2.5996,
+        "twoHundredDayAverage": 2.9916,
+        "trailingAnnualDividendRate": 0.604,
+        "trailingAnnualDividendYield": 0.25271964,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": []
+        },
+        "exDividendDate": "2022-11-03T00:00:00.000Z",
+        "dividendDate": "2023-03-20T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-29T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-24T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-09-13T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-27T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-07T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-06-10T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-09-11T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-05-05T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-05-02T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-04-27T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-08T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-22T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-15T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-03-14T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-10-12T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-07-28T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-05-28T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-04-23T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-09T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-01-28T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-14T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-31T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-07-25T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-23T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-07-23T00:00:00.000Z",
+                "firm": "GBM",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-03-27T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-01-29T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-24T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-24T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-08-08T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-20T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.011904751,
+        "postMarketChange": 0.029999971,
+        "postMarketTime": "2023-01-06T23:25:53.000Z",
+        "postMarketPrice": 2.55,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.054393247,
+        "regularMarketChange": 0.12999988,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 2.52,
+        "regularMarketDayHigh": 2.53,
+        "regularMarketDayLow": 2.42,
+        "regularMarketVolume": 12367,
+        "averageDailyVolume10Day": 19850,
+        "averageDailyVolume3Month": 27996,
+        "regularMarketPreviousClose": 2.39,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 2.5,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BBDO",
+        "underlyingSymbol": null,
+        "shortName": "Banco Bradesco Sa",
+        "longName": "Banco Bradesco S.A.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 26525267968
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 408911446016,
+        "profitMargins": 0.27363002,
+        "floatShares": 7640323973,
+        "sharesOutstanding": 9689530368,
+        "sharesShort": 295,
+        "sharesShortPriorMonth": 9304,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0,
+        "heldPercentInsiders": 0,
+        "heldPercentInstitutions": 0.00031,
+        "shortRatio": 0.02,
+        "beta": 1.044117,
+        "category": null,
+        "bookValue": 14.983,
+        "priceToBook": 0.16819061,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.379,
+        "netIncomeToCommon": 26236430336,
+        "trailingEps": 0.299,
+        "lastSplitFactor": "1:1",
+        "lastSplitDate": "2021-04-19T00:00:00.000Z",
+        "enterpriseToRevenue": 4.265
+    },
+    "summaryProfile": {
+        "address1": "Cidade De Deus, S/N",
+        "address2": "Vila Yara",
+        "city": "Osasco",
+        "state": "SP",
+        "zip": "06029-900",
+        "country": "Brazil",
+        "phone": "55 80 0701 1616",
+        "website": "https://banco.bradesco",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Banco Bradesco S.A., together with its subsidiaries, provides various banking products and services to individuals, corporates, and businesses in Brazil and internationally. The company operates through two segment, Banking and Insurance. It provides current, savings, click, and salary accounts; real estate credit, vehicle financing, payroll loans, mortgage loans, microcredit, leasing, and personal and installment credit; debit and business cards; financial and security services; consortium products; auto, personal accident, dental, travel, and life insurance; investment products; pension products; real estate and vehicle auctions; cash management, and foreign trade and exchange services; capitalization bonds; and internet banking services. Banco Bradesco S.A. was founded in 1943 and is headquartered in Osasco, Brazil. Banco Bradesco S.A. operates as a subsidiary of Cidade de Deus - Companhia Comercial de Participações.",
+        "fullTimeEmployees": 88129,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 2.52,
+        "recommendationKey": "none",
+        "totalCash": 175918022656,
+        "totalCashPerShare": 16.505,
+        "totalDebt": 552317485056,
+        "totalRevenue": 95884255232,
+        "revenuePerShare": 8.993,
+        "returnOnAssets": 0.01573,
+        "returnOnEquity": 0.17401,
+        "grossProfits": 91535792000,
+        "operatingCashflow": -91385020416,
+        "earningsGrowth": 0.382,
+        "revenueGrowth": -0.002,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.38375,
+        "profitMargins": 0.27363002,
+        "financialCurrency": "BRL"
+    }
+}

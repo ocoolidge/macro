@@ -1,0 +1,303 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATNM",
+        "Security_Name": "Actinium Pharmaceuticals, Inc. (Delaware) Common Stock",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ATNM",
+        "NASDAQ_Symbol": "ATNM",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 10.25,
+        "open": 10.25,
+        "dayLow": 9.85,
+        "dayHigh": 10.5,
+        "regularMarketPreviousClose": 10.25,
+        "regularMarketOpen": 10.25,
+        "regularMarketDayLow": 9.85,
+        "regularMarketDayHigh": 10.5,
+        "payoutRatio": 0,
+        "beta": 0.20081,
+        "forwardPE": -7.211679,
+        "volume": 251034,
+        "regularMarketVolume": 251034,
+        "averageVolume": 546167,
+        "averageVolume10days": 201370,
+        "averageDailyVolume10Day": 201370,
+        "bid": 9.91,
+        "ask": 10.39,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 217664304,
+        "fiftyTwoWeekLow": 4.41,
+        "fiftyTwoWeekHigh": 15.12,
+        "priceToSalesTrailing12Months": 175.39429,
+        "fiftyDayAverage": 11.0268,
+        "twoHundredDayAverage": 7.324,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.3,
+                    "estimate": -0.28
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.36,
+                    "estimate": -0.3
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.23,
+                    "estimate": -0.31
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.33,
+                    "estimate": 0.5
+                }
+            ],
+            "currentQuarterEstimate": -0.32,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1593388800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 0,
+                    "earnings": -23653963
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -21900000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -22215000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1144000,
+                    "earnings": -24774000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 233000,
+                    "earnings": -6423000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 23000,
+                    "earnings": -8010000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 940000,
+                    "earnings": -5129000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 45000,
+                    "earnings": -7767000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1593388800
+            ],
+            "earningsAverage": -0.32,
+            "earningsLow": -0.35,
+            "earningsHigh": -0.27
+        },
+        "dividendDate": "2020-08-11T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.033400804,
+        "postMarketChange": 0.32999992,
+        "postMarketTime": "2023-01-06T21:28:45.000Z",
+        "postMarketPrice": 10.21,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.03609755,
+        "regularMarketChange": -0.3699999,
+        "regularMarketTime": "2023-01-06T21:00:00.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 9.88,
+        "regularMarketDayHigh": 10.5,
+        "regularMarketDayLow": 9.85,
+        "regularMarketVolume": 251034,
+        "averageDailyVolume10Day": 201370,
+        "averageDailyVolume3Month": 546167,
+        "regularMarketPreviousClose": 10.25,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 10.25,
+        "exchange": "ASE",
+        "exchangeName": "NYSE American",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATNM",
+        "underlyingSymbol": null,
+        "shortName": "Actinium Pharmaceuticals, Inc. ",
+        "longName": "Actinium Pharmaceuticals, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 217664304
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 112476192,
+        "forwardPE": -7.3185186,
+        "profitMargins": 0,
+        "floatShares": 24290095,
+        "sharesOutstanding": 22030800,
+        "sharesShort": 394892,
+        "sharesShortPriorMonth": 352457,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.015700001,
+        "heldPercentInsiders": 0.0312,
+        "heldPercentInstitutions": 0.15504,
+        "shortRatio": 2.99,
+        "shortPercentOfFloat": 0.015700001,
+        "beta": 0.20081,
+        "category": null,
+        "bookValue": 3.497,
+        "priceToBook": 2.8252788,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -27329000,
+        "trailingEps": -1.831,
+        "forwardEps": -1.37,
+        "lastSplitFactor": "1:30",
+        "lastSplitDate": "2020-08-11T00:00:00.000Z",
+        "enterpriseToRevenue": 90.634,
+        "enterpriseToEbitda": -4.123
+    },
+    "summaryProfile": {
+        "address1": "275 Madison Avenue",
+        "address2": "7th Floor",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10016",
+        "country": "United States",
+        "phone": "646 677 3870",
+        "website": "https://www.actiniumpharma.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Actinium Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, focuses on developing and commercializing therapies for bone marrow transplant (BMT) or a type of cellular therapy, and for other adoptive cell therapies. Its lead product candidate, I-131 apamistamab (Iomab-B) that is in a pivotal Phase III clinical trial for elderly relapsed or refractory acute myeloid leukemia trial for BMT conditioning; and a Phase I study with a CD19- targeted CAR T-cell therapy with memorial sloan kettering cancer center. The company also offers clinical and preclinical development programs that utilize multiple isotopes, including Actinium-225, Iodine-131, and Lutetium-177 directed at multiple validated cancer targets, including CD45, CD33, CD38, CD47, HER2, and HER3 for targeted conditioning prior to cell and gene therapies, such as bone marrow transplant and cancer therapeutics as single agents or in combination with other therapeutic modalities. It has collaboration with Astellas Pharma, Inc. to develop theranostics for solid tumor indications; EpicentRx, Inc that focuses on a novel CD47 immunotherapy targeted radiotherapy; and AVEO Oncology that focuses on developing a HER3 targeting ARC for solid tumors. The company was incorporated in 2000 and is based in New York, New York.",
+        "fullTimeEmployees": 32,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 9.88,
+        "targetHighPrice": 45,
+        "targetLowPrice": 16,
+        "targetMeanPrice": 25.6,
+        "targetMedianPrice": 22,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 116330000,
+        "totalCashPerShare": 4.619,
+        "ebitda": -27282000,
+        "totalDebt": 2648000,
+        "quickRatio": 18.518,
+        "currentRatio": 18.831,
+        "totalRevenue": 1241000,
+        "debtToEquity": 3.387,
+        "revenuePerShare": 0.055,
+        "returnOnAssets": -0.16685,
+        "returnOnEquity": -0.34445,
+        "grossProfits": 1144000,
+        "freeCashflow": -13422875,
+        "operatingCashflow": 11497000,
+        "revenueGrowth": -0.831,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": -22.184528,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

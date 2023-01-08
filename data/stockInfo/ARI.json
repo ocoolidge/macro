@@ -1,0 +1,533 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARI",
+        "Security_Name": "Apollo Commercial Real Estate Finance, Inc",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ARI",
+        "NASDAQ_Symbol": "ARI",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 5,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 5,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 11.08,
+        "open": 11.17,
+        "dayLow": 11.11,
+        "dayHigh": 11.31,
+        "regularMarketPreviousClose": 11.08,
+        "regularMarketOpen": 11.17,
+        "regularMarketDayLow": 11.11,
+        "regularMarketDayHigh": 11.31,
+        "dividendRate": 1.4,
+        "dividendYield": 0.125,
+        "exDividendDate": "2022-12-29T00:00:00.000Z",
+        "payoutRatio": 0.72160006,
+        "fiveYearAvgDividendYield": 11.79,
+        "beta": 1.638297,
+        "trailingPE": 5.7731957,
+        "forwardPE": 7.4666667,
+        "volume": 655493,
+        "regularMarketVolume": 655493,
+        "averageVolume": 1109837,
+        "averageVolume10days": 896120,
+        "averageDailyVolume10Day": 896120,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1800,
+        "askSize": 2900,
+        "marketCap": 1574675200,
+        "fiftyTwoWeekLow": 7.91,
+        "fiftyTwoWeekHigh": 14.55,
+        "priceToSalesTrailing12Months": 4.8686137,
+        "fiftyDayAverage": 11.5196,
+        "twoHundredDayAverage": 11.6313,
+        "trailingAnnualDividendRate": 1.4,
+        "trailingAnnualDividendYield": 0.12635379,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.32,
+                    "estimate": 0.32
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.35,
+                    "estimate": 0.33
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.35,
+                    "estimate": 0.32
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.37,
+                    "estimate": 0.35
+                }
+            ],
+            "currentQuarterEstimate": 0.35,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675681140,
+                1676030400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 269292000,
+                    "earnings": 219986000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 300012000,
+                    "earnings": 230174000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 113697000,
+                    "earnings": 18377000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 319283000,
+                    "earnings": 223515000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 69038000,
+                    "earnings": 37097000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 45570000,
+                    "earnings": 15238000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 76961000,
+                    "earnings": 70951000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 131865000,
+                    "earnings": 183030000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675681140,
+                1676030400
+            ],
+            "earningsAverage": 0.35,
+            "earningsLow": 0.27,
+            "earningsHigh": 0.42,
+            "revenueAverage": 77760000,
+            "revenueLow": 75210000,
+            "revenueHigh": 80300000
+        },
+        "exDividendDate": "2022-12-29T00:00:00.000Z",
+        "dividendDate": "2023-01-13T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-24T12:13:18.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-06T08:57:04.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-17T12:53:20.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-01T13:56:03.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-08T14:31:42.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-12-02T13:25:02.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-10-22T10:08:56.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-02-14T12:18:43.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-01-16T11:54:31.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-11-30T13:39:01.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-10-09T10:32:53.000Z",
+                "firm": "BTIG Research",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-03-27T12:21:06.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-03-01T13:49:46.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-12-15T16:03:37.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-13T13:31:24.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-07-28T11:55:52.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-04-11T09:58:04.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Underperform",
+                "fromGrade": "Market Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-01-06T09:34:17.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-09-08T09:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-31T21:40:58.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-21T21:30:44.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-02-03T16:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-06-03T08:52:16.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-01-15T10:03:41.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-13T09:31:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-10-22T12:46:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-09-12T10:26:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-09-11T05:44:00.000Z",
+                "firm": "McNicoll Lewis Vlak",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-08-13T12:05:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-01T07:46:00.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.0044643,
+        "postMarketChange": 0.0500002,
+        "postMarketTime": "2023-01-06T21:17:09.000Z",
+        "postMarketPrice": 11.25,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.010830316,
+        "regularMarketChange": 0.119999886,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 11.2,
+        "regularMarketDayHigh": 11.31,
+        "regularMarketDayLow": 11.11,
+        "regularMarketVolume": 655493,
+        "averageDailyVolume10Day": 896120,
+        "averageDailyVolume3Month": 1109837,
+        "regularMarketPreviousClose": 11.08,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 11.17,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARI",
+        "underlyingSymbol": null,
+        "shortName": "Apollo Commercial Real Estate F",
+        "longName": "Apollo Commercial Real Estate Finance, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1574675200
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 7845562368,
+        "forwardPE": 7.4666667,
+        "profitMargins": 0.94707,
+        "floatShares": 131510682,
+        "sharesOutstanding": 140596000,
+        "sharesShort": 6089469,
+        "sharesShortPriorMonth": 5543138,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0433,
+        "heldPercentInsiders": 0.0088599995,
+        "heldPercentInstitutions": 0.64478,
+        "shortRatio": 7.54,
+        "shortPercentOfFloat": 0.060599998,
+        "beta": 1.638297,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 17.124,
+        "priceToBook": 0.65405273,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 2.031,
+        "netIncomeToCommon": 290039008,
+        "trailingEps": 1.94,
+        "forwardEps": 1.5,
+        "pegRatio": 113,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 24.257,
+        "52WeekChange": -0.18008786,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.35,
+        "lastDividendDate": 1672272000
+    },
+    "summaryProfile": {
+        "address1": "9 West 57th Street",
+        "address2": "43rd Floor",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10019",
+        "country": "United States",
+        "phone": "212 515 3200",
+        "website": "https://www.apolloreit.com",
+        "industry": "REIT—Mortgage",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Apollo Commercial Real Estate Finance, Inc. operates as a real estate investment trust (REIT) that originates, acquires, invests in, and manages commercial first mortgage loans, subordinate financings, and other commercial real estate-related debt investments in the United States. It is qualified as a REIT under the Internal Revenue Code. As a REIT, it would not be subject to federal income taxes, if the company distributes at least 90% of its REIT taxable income to its stockholders. Apollo Commercial Real Estate Finance, Inc. was founded in 2009 and is based in New York, New York.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 11.2,
+        "targetHighPrice": 12,
+        "targetLowPrice": 9.5,
+        "targetMeanPrice": 11.38,
+        "targetMedianPrice": 12,
+        "recommendationMean": 3.1,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 568483968,
+        "totalCashPerShare": 4.043,
+        "totalDebt": 6839303168,
+        "quickRatio": 16.99,
+        "currentRatio": 17.284,
+        "totalRevenue": 323433984,
+        "debtToEquity": 284.061,
+        "revenuePerShare": 2.304,
+        "returnOnAssets": 0.03492,
+        "returnOnEquity": 0.12996,
+        "grossProfits": 299360000,
+        "operatingCashflow": 259628000,
+        "earningsGrowth": 1.945,
+        "revenueGrowth": 0.821,
+        "grossMargins": 0.85435,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.67366,
+        "profitMargins": 0.94707,
+        "financialCurrency": "USD"
+    }
+}

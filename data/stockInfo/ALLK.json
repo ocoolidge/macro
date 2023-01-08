@@ -1,0 +1,460 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ALLK",
+        "Security_Name": "Allakos Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ALLK",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 6,
+                "sell": 3,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 7,
+                "sell": 2,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 7.65,
+        "open": 7.66,
+        "dayLow": 7.14,
+        "dayHigh": 7.66,
+        "regularMarketPreviousClose": 7.65,
+        "regularMarketOpen": 7.66,
+        "regularMarketDayLow": 7.14,
+        "regularMarketDayHigh": 7.66,
+        "payoutRatio": 0,
+        "beta": 0.440483,
+        "forwardPE": -1.5824175,
+        "volume": 947909,
+        "regularMarketVolume": 947909,
+        "averageVolume": 1051291,
+        "averageVolume10days": 803600,
+        "averageDailyVolume10Day": 803600,
+        "bid": 7.2,
+        "ask": 7.36,
+        "bidSize": 800,
+        "askSize": 1000,
+        "marketCap": 391056480,
+        "fiftyTwoWeekLow": 2.54,
+        "fiftyTwoWeekHigh": 8.73,
+        "fiftyDayAverage": 7.244,
+        "twoHundredDayAverage": 5.04425,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -1.16,
+                    "estimate": -1.12
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -1.73,
+                    "estimate": -1.31
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -3.6,
+                    "estimate": -1.95
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.9,
+                    "estimate": -0.85
+                }
+            ],
+            "currentQuarterEstimate": -0.78,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 0,
+                    "earnings": -43538000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -85372000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -153480000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 0,
+                    "earnings": -269860000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 0,
+                    "earnings": -62729000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -94364000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -197023000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -49103000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ],
+            "earningsAverage": -0.78,
+            "earningsLow": -0.93,
+            "earningsHigh": -0.49
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-12T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-24T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-12T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-11T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-10T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-16T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-28T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-23T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-23T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-22T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-12-22T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-12-22T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-12-22T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-12-22T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-13T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-10T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-26T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-15T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-05-18T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-15T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-12-21T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-08-13T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-08-13T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.019444494,
+        "postMarketChange": 0.14000034,
+        "postMarketTime": "2023-01-07T00:00:37.000Z",
+        "postMarketPrice": 7.34,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.058823567,
+        "regularMarketChange": -0.4500003,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 7.2,
+        "regularMarketDayHigh": 7.66,
+        "regularMarketDayLow": 7.14,
+        "regularMarketVolume": 947909,
+        "averageDailyVolume10Day": 803600,
+        "averageDailyVolume3Month": 1051291,
+        "regularMarketPreviousClose": 7.65,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 7.66,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ALLK",
+        "underlyingSymbol": null,
+        "shortName": "Allakos Inc.",
+        "longName": "Allakos Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 391056480
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 155753344,
+        "forwardPE": -2.4324324,
+        "profitMargins": 0,
+        "floatShares": 29478145,
+        "sharesOutstanding": 54313400,
+        "sharesShort": 3277984,
+        "sharesShortPriorMonth": 3503637,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0387,
+        "heldPercentInsiders": 0.043330003,
+        "heldPercentInstitutions": 0.79976,
+        "shortRatio": 1.33,
+        "shortPercentOfFloat": 0.0478,
+        "beta": 0.440483,
+        "category": null,
+        "bookValue": 12.328,
+        "priceToBook": 0.58403635,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -403219008,
+        "trailingEps": -3.101,
+        "forwardEps": -4.55,
+        "pegRatio": 0.09,
+        "lastSplitFactor": null,
+        "enterpriseToEbitda": -0.4
+    },
+    "summaryProfile": {
+        "address1": "975 Island Drive",
+        "address2": "Suite 201",
+        "city": "Redwood City",
+        "state": "CA",
+        "zip": "94065",
+        "country": "United States",
+        "phone": "650 597 5002",
+        "website": "https://www.allakos.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Allakos Inc., a clinical stage biopharmaceutical company, develops therapeutics that target immunomodulatory receptors present on immune effector cells in allergy, inflammatory, and proliferative diseases. The company's lead monoclonal antibody is lirentelimab (AK002), which is in a Phase III study for the treatment of eosinophilic gastritis and/or eosinophilic duodenitis; a Phase II/III study for eosinophilic esophagitis; and a Phase II clinical study to atopic dermatitis and chronic spontaneous urticaria. It is also developing lirentelimab (AK002) for the treatment of mast cell gastrointestinal disease, chronic urticaria, severe allergic conjunctivitis, and indolent systemic mastocytosis; and AK006 to treat allergic and inflammatory diseases. The company was incorporated in 2012 and is headquartered in Redwood City, California.",
+        "fullTimeEmployees": 192,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 7.2,
+        "targetHighPrice": 20,
+        "targetLowPrice": 2,
+        "targetMeanPrice": 6.56,
+        "targetMedianPrice": 4.5,
+        "recommendationMean": 3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 212439008,
+        "totalCashPerShare": 3.874,
+        "ebitda": -388936000,
+        "totalDebt": 51742000,
+        "quickRatio": 5.82,
+        "currentRatio": 6.078,
+        "debtToEquity": 23.223,
+        "returnOnAssets": -0.51276,
+        "returnOnEquity": -1.01593,
+        "freeCashflow": -214215872,
+        "operatingCashflow": -318868992,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

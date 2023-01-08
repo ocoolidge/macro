@@ -1,0 +1,423 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AVXL",
+        "Security_Name": "Anavex Life Sciences Corp. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AVXL",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 9.87,
+        "open": 10.02,
+        "dayLow": 9.68,
+        "dayHigh": 10.2,
+        "regularMarketPreviousClose": 9.87,
+        "regularMarketOpen": 10.02,
+        "regularMarketDayLow": 9.68,
+        "regularMarketDayHigh": 10.2,
+        "payoutRatio": 0,
+        "beta": 0.74468,
+        "forwardPE": -17.54386,
+        "volume": 1509328,
+        "regularMarketVolume": 1509328,
+        "averageVolume": 2277475,
+        "averageVolume10days": 1302520,
+        "averageDailyVolume10Day": 1302520,
+        "bid": 9.77,
+        "ask": 9.99,
+        "bidSize": 800,
+        "askSize": 900,
+        "marketCap": 779617984,
+        "fiftyTwoWeekLow": 7.13,
+        "fiftyTwoWeekHigh": 15.63,
+        "fiftyDayAverage": 10.4548,
+        "twoHundredDayAverage": 10.3147,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.14,
+                    "estimate": -0.15
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.14,
+                    "estimate": -0.17
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.16,
+                    "estimate": -0.15
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.18,
+                    "estimate": -0.16
+                }
+            ],
+            "currentQuarterEstimate": -0.19,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675776600,
+                1676295000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -26294979
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -26280470
+                },
+                {
+                    "date": 2021,
+                    "revenue": 0,
+                    "earnings": -37908634
+                },
+                {
+                    "date": 2022,
+                    "revenue": 0,
+                    "earnings": -47977919
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -10882367
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -10437811
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -12367341
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 0,
+                    "earnings": -14290400
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675776600,
+                1676295000
+            ],
+            "earningsAverage": -0.19,
+            "earningsLow": -0.21,
+            "earningsHigh": -0.18
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2023-01-03T11:13:34.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-12-06T13:17:33.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-06-23T11:22:40.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-02-02T11:38:07.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-23T11:54:31.000Z",
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-06-28T10:11:34.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-15T10:09:19.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-23T21:27:52.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-12-16T11:11:53.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-21T10:09:18.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-28T12:20:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-03-16T11:15:03.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-24T13:28:50.000Z",
+                "firm": "Dawson James",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-06-18T11:38:48.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-05-30T11:17:13.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-02-07T12:41:42.000Z",
+                "firm": "Noble Financial",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-03-29T06:25:17.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.022,
+        "postMarketChange": -0.22,
+        "postMarketTime": "2023-01-07T00:48:06.000Z",
+        "postMarketPrice": 9.78,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.013171238,
+        "regularMarketChange": 0.13000011,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 10,
+        "regularMarketDayHigh": 10.2,
+        "regularMarketDayLow": 9.68,
+        "regularMarketVolume": 1509328,
+        "averageDailyVolume10Day": 1302520,
+        "averageDailyVolume3Month": 2277475,
+        "regularMarketPreviousClose": 9.87,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 10.02,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AVXL",
+        "underlyingSymbol": null,
+        "shortName": "Anavex Life Sciences Corp.",
+        "longName": "Anavex Life Sciences Corp.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 779617984
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 620325248,
+        "forwardPE": -17.54386,
+        "profitMargins": 0,
+        "floatShares": 75612046,
+        "sharesOutstanding": 77961800,
+        "sharesShort": 15780885,
+        "sharesShortPriorMonth": 10167456,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.2024,
+        "heldPercentInsiders": 0.03014,
+        "heldPercentInstitutions": 0.32112998,
+        "shortRatio": 3.58,
+        "shortPercentOfFloat": 0.2082,
+        "beta": 0.74468,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 1.828,
+        "priceToBook": 5.4704595,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-09-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-09-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -47977920,
+        "trailingEps": -0.579,
+        "forwardEps": -0.57,
+        "lastSplitFactor": "1:4",
+        "lastSplitDate": "2015-10-07T00:00:00.000Z",
+        "52WeekChange": -0.35358757,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "630 5th Avenue",
+        "address2": "20th Floor",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10111",
+        "country": "United States",
+        "phone": "844 689 3939",
+        "website": "https://www.anavex.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Anavex Life Sciences Corp., a clinical stage biopharmaceutical company, engages in the development of drug candidates for the treatment of central nervous system (CNS) diseases. Its lead drug candidate is ANAVEX 2-73, which is in Phase III clinical trial for the treatment of Alzheimer's disease; Phase III clinical trial to treat pediatric patients with Rett syndrome; Phase II clinical trial for the treatment of Parkinson's disease; and preclinical clinical trials to treat epilepsy, infantile spasms, Fragile X syndrome, Angelman syndrome, multiple sclerosis, and tuberous sclerosis complex. The company's drug candidate also comprises ANAVEX 3-71, which is in Phase I clinical trial for the treatment of frontotemporal dementia; and preclinical clinical trials for the treatment of neurodegenerative diseases, such as Alzheimer's and Parkinson's diseases. Its preclinical drug candidates include ANAVEX 1-41, a sigma-1 receptor agonist for the treatment of depression, stroke, Parkinson's, and Alzheimer's diseases; ANAVEX 1066, a mixed sigma-1/sigma-2 ligand for the potential treatment of neuropathic and visceral pain; and ANAVEX 1037 to treat prostate and pancreatic cancer. The company was incorporated in 2004 and is headquartered in New York, New York.",
+        "fullTimeEmployees": 38,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 10,
+        "targetHighPrice": 80,
+        "targetLowPrice": 11,
+        "targetMeanPrice": 42.5,
+        "targetMedianPrice": 39.5,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 149157856,
+        "totalCashPerShare": 1.913,
+        "totalDebt": 0,
+        "quickRatio": 14.916,
+        "currentRatio": 14.951,
+        "returnOnAssets": -0.18955,
+        "returnOnEquity": -0.32715,
+        "freeCashflow": -6032833,
+        "operatingCashflow": -24237864,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

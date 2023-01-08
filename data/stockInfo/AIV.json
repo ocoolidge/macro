@@ -1,0 +1,324 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AIV",
+        "Security_Name": "Apartment Investment and Management Company Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AIV",
+        "NASDAQ_Symbol": "AIV",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 9,
+                "sell": 1,
+                "strongSell": 1
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 3,
+                "hold": 8,
+                "sell": 2,
+                "strongSell": 1
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 7.09,
+        "open": 7.16,
+        "dayLow": 7.15,
+        "dayHigh": 7.46,
+        "regularMarketPreviousClose": 7.09,
+        "regularMarketOpen": 7.16,
+        "regularMarketDayLow": 7.15,
+        "regularMarketDayHigh": 7.46,
+        "exDividendDate": "2022-09-13T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 1.534732,
+        "trailingPE": 4.032967,
+        "forwardPE": 28.23077,
+        "volume": 1310138,
+        "regularMarketVolume": 1310138,
+        "averageVolume": 1361843,
+        "averageVolume10days": 1190410,
+        "averageDailyVolume10Day": 1190410,
+        "bid": 6.11,
+        "ask": 0,
+        "bidSize": 1000,
+        "askSize": 1800,
+        "marketCap": 1112978944,
+        "fiftyTwoWeekLow": 5.22,
+        "fiftyTwoWeekHigh": 9.79,
+        "priceToSalesTrailing12Months": 5.676466,
+        "fiftyDayAverage": 7.7148,
+        "twoHundredDayAverage": 7.38525,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "2Q2020",
+                    "actual": 0.26,
+                    "estimate": 0.02
+                },
+                {
+                    "date": "3Q2020",
+                    "actual": -0.17,
+                    "estimate": 0
+                },
+                {
+                    "date": "4Q2020",
+                    "actual": -0.17,
+                    "estimate": -0.06
+                },
+                {
+                    "date": "1Q2021",
+                    "actual": 0.14,
+                    "estimate": -0.07
+                }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2021,
+            "earningsDate": [
+                1677495540,
+                1677844800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 133103000,
+                    "earnings": 3243000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 144627000,
+                    "earnings": 304000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 152259000,
+                    "earnings": -5041000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 170809000,
+                    "earnings": -5910000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 47694000,
+                    "earnings": -1418000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 49994000,
+                    "earnings": 8209000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 50697000,
+                    "earnings": 239137000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 47683000,
+                    "earnings": 29472000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677495540,
+                1677844800
+            ],
+            "revenueLow": 216910000,
+            "revenueHigh": 216910000
+        },
+        "exDividendDate": "2022-09-13T00:00:00.000Z",
+        "dividendDate": "2022-09-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2020-12-04T12:22:19.000Z",
+                "firm": "ScotiaBank",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Sector Underperform",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.009536808,
+        "postMarketChange": -0.07000017,
+        "postMarketTime": "2023-01-06T22:00:25.000Z",
+        "postMarketPrice": 7.27,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.03526093,
+        "regularMarketChange": 0.25,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 7.34,
+        "regularMarketDayHigh": 7.46,
+        "regularMarketDayLow": 7.15,
+        "regularMarketVolume": 1310138,
+        "averageDailyVolume10Day": 1190410,
+        "averageDailyVolume3Month": 1361843,
+        "regularMarketPreviousClose": 7.09,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 7.16,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AIV",
+        "underlyingSymbol": null,
+        "shortName": "Apartment Investment and Manage",
+        "longName": "Apartment Investment and Management Company",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1112978944
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 2141221504,
+        "profitMargins": 1.4046,
+        "floatShares": 109296475,
+        "sharesOutstanding": 151632000,
+        "sharesShort": 7985796,
+        "sharesShortPriorMonth": 8387873,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.052699998,
+        "heldPercentInsiders": 0.08445,
+        "heldPercentInstitutions": 0.93096,
+        "shortRatio": 8.47,
+        "shortPercentOfFloat": 0.090100005,
+        "beta": 1.534732,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 5.142,
+        "priceToBook": 1.4274601,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": 271592992,
+        "trailingEps": 1.82,
+        "forwardEps": 0.26,
+        "lastSplitFactor": "9295:1000",
+        "lastSplitDate": "2020-12-15T00:00:00.000Z",
+        "enterpriseToRevenue": 10.921,
+        "enterpriseToEbitda": 12.637,
+        "52WeekChange": 0.02228415,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.02,
+        "lastDividendDate": 1663027200
+    },
+    "summaryProfile": {
+        "address1": "4582 South Ulster Street",
+        "address2": "Suite 1700",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80237",
+        "country": "United States",
+        "phone": "303-757-8101",
+        "fax": "303-759-3226",
+        "website": "https://www.aimco.com",
+        "industry": "REIT—Residential",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Aimco is a Real Estate Investment Trust focused on property development, redevelopment, and various other value-creating investment strategies, targeting the U.S. multifamily market. Aimco's mission is to make real estate investments where outcomes are enhanced through human capital and substantial value is created for investors, teammates, and the communities in which we operate. Aimco is traded on the New York Stock Exchange as AIV. For more information about Aimco, please visit our website www.aimco.com.",
+        "fullTimeEmployees": 62,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 7.34,
+        "targetHighPrice": 40,
+        "targetLowPrice": 40,
+        "targetMeanPrice": 40,
+        "targetMedianPrice": 40,
+        "recommendationMean": 1,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 267814000,
+        "totalCashPerShare": 1.766,
+        "ebitda": 169440000,
+        "totalDebt": 1050476032,
+        "quickRatio": 2.375,
+        "currentRatio": 3.075,
+        "totalRevenue": 196068992,
+        "debtToEquity": 103.916,
+        "revenuePerShare": 1.31,
+        "returnOnAssets": 0.00117,
+        "returnOnEquity": 0.3761,
+        "grossProfits": 103196000,
+        "freeCashflow": -79498376,
+        "operatingCashflow": 218752992,
+        "revenueGrowth": 0.112,
+        "grossMargins": 0.63025004,
+        "ebitdaMargins": 0.86417997,
+        "operatingMargins": 0.0223,
+        "profitMargins": 1.4046,
+        "financialCurrency": "USD"
+    }
+}

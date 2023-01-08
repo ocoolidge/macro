@@ -1,0 +1,493 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMK",
+        "Security_Name": "AssetMark Financial Holdings, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AMK",
+        "NASDAQ_Symbol": "AMK",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 23.11,
+        "open": 23.31,
+        "dayLow": 23.24,
+        "dayHigh": 24.17,
+        "regularMarketPreviousClose": 23.11,
+        "regularMarketOpen": 23.31,
+        "regularMarketDayLow": 23.24,
+        "regularMarketDayHigh": 24.17,
+        "payoutRatio": 0,
+        "beta": 0.957808,
+        "trailingPE": 491.02042,
+        "forwardPE": 20.741379,
+        "volume": 47077,
+        "regularMarketVolume": 47077,
+        "averageVolume": 89519,
+        "averageVolume10days": 52450,
+        "averageDailyVolume10Day": 52450,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1100,
+        "askSize": 1200,
+        "marketCap": 1769624832,
+        "fiftyTwoWeekLow": 16.88,
+        "fiftyTwoWeekHigh": 26.52,
+        "priceToSalesTrailing12Months": 3.0366218,
+        "fiftyDayAverage": 23.3852,
+        "twoHundredDayAverage": 20.61255,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.4,
+                    "estimate": 0.38
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.34,
+                    "estimate": 0.34
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.39,
+                    "estimate": 0.38
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.44,
+                    "estimate": 0.4
+                }
+            ],
+            "currentQuarterEstimate": 0.42,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676246400,
+                1676592000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 363634000,
+                    "earnings": 37426000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 417936000,
+                    "earnings": -420000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 432079000,
+                    "earnings": -7812000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 530299000,
+                    "earnings": 25671000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 139667000,
+                    "earnings": 12250000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 143584000,
+                    "earnings": 12351000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 148303000,
+                    "earnings": 22219000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 151207000,
+                    "earnings": 25340000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676246400,
+                1676592000
+            ],
+            "earningsAverage": 0.42,
+            "earningsLow": 0.4,
+            "earningsHigh": 0.46,
+            "revenueAverage": 133010000,
+            "revenueLow": 108500000,
+            "revenueHigh": 150000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-11T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-12T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-29T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-12T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-10T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-10T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-29T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-13T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-11T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-05-05T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-12T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-18T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-10-13T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-23T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-05T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-07-15T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-06T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-06T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-13T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-27T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-13T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-11-07T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-08T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-08-12T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-08-12T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-08-12T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.000831886,
+        "postMarketChange": 0.0199986,
+        "postMarketTime": "2023-01-06T21:02:17.000Z",
+        "postMarketPrice": 24.06,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.0411077,
+        "regularMarketChange": 0.94999886,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 24.06,
+        "regularMarketDayHigh": 24.17,
+        "regularMarketDayLow": 23.24,
+        "regularMarketVolume": 47077,
+        "averageDailyVolume10Day": 52450,
+        "averageDailyVolume3Month": 89519,
+        "regularMarketPreviousClose": 23.11,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 23.31,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMK",
+        "underlyingSymbol": null,
+        "shortName": "AssetMark Financial Holdings, I",
+        "longName": "AssetMark Financial Holdings, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1769624832
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1455815936,
+        "forwardPE": 12.797873,
+        "profitMargins": 0.12382,
+        "floatShares": 21422380,
+        "sharesOutstanding": 73550496,
+        "sharesShort": 380888,
+        "sharesShortPriorMonth": 261031,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0052,
+        "heldPercentInsiders": 0.70152,
+        "heldPercentInstitutions": 0.2908,
+        "shortRatio": 4.15,
+        "shortPercentOfFloat": 0.0176,
+        "beta": 0.957808,
+        "category": null,
+        "bookValue": 13.481,
+        "priceToBook": 1.784734,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 1.538,
+        "netIncomeToCommon": 72160000,
+        "trailingEps": 0.049,
+        "forwardEps": 1.16,
+        "pegRatio": 0.36,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 2.498,
+        "enterpriseToEbitda": 12.075
+    },
+    "summaryProfile": {
+        "address1": "1655 Grant Street",
+        "address2": "10th Floor",
+        "city": "Concord",
+        "state": "CA",
+        "zip": "94520",
+        "country": "United States",
+        "phone": "925 521 2200",
+        "website": "https://www.assetmark.com",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "AssetMark Financial Holdings, Inc. provides wealth management and technology solutions in the United States. It offers an open-architecture product platform, as well as client advice, asset allocation options, practice management, support services, and technology to the financial adviser channel. The company provides integrated technology platform for advisers for accessing a range of automated processes, including new account opening, portfolio construction, streamlined financial planning, customer billing, investor reporting, progress to goal analysis, and client activity tracking; advisory services; and curated investment platform. It also offers SaaS-based financial planning, wellness, and client digital engagement solutions. The company also offers mutual funds; custodial recordkeeping services primarily to investor clients of registered investment advisers; and wealth management services for individual investors. It serves independent advisers who provide wealth management advice to the U.S. investors and advisers. The company was founded in 1996 and is headquartered in Concord, California. AssetMark Financial Holdings, Inc. operates as a subsidiary of Huatai International Investment Holdings Limited.",
+        "fullTimeEmployees": 874,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 24.06,
+        "targetHighPrice": 29,
+        "targetLowPrice": 20,
+        "targetMeanPrice": 25,
+        "targetMedianPrice": 26,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 129762000,
+        "totalCashPerShare": 1.757,
+        "ebitda": 120567000,
+        "totalDebt": 153727008,
+        "quickRatio": 2.852,
+        "currentRatio": 3.351,
+        "totalRevenue": 582761024,
+        "debtToEquity": 14.46,
+        "revenuePerShare": 7.945,
+        "returnOnAssets": 0.051909998,
+        "returnOnEquity": 0.07182,
+        "grossProfits": 188346000,
+        "freeCashflow": 91073752,
+        "operatingCashflow": 130960000,
+        "earningsGrowth": 1.449,
+        "revenueGrowth": 0.181,
+        "grossMargins": 0.43855998,
+        "ebitdaMargins": 0.20688999,
+        "operatingMargins": 0.19723,
+        "profitMargins": 0.12382,
+        "financialCurrency": "USD"
+    }
+}

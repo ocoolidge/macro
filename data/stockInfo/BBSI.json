@@ -1,0 +1,370 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BBSI",
+        "Security_Name": "Barrett Business Services, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BBSI",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 90.5,
+        "open": 91.39,
+        "dayLow": 91.37,
+        "dayHigh": 94.495,
+        "regularMarketPreviousClose": 90.5,
+        "regularMarketOpen": 91.39,
+        "regularMarketDayLow": 91.37,
+        "regularMarketDayHigh": 94.495,
+        "dividendRate": 1.2,
+        "dividendYield": 0.014400001,
+        "exDividendDate": "2022-08-18T00:00:00.000Z",
+        "payoutRatio": 0.20549999,
+        "fiveYearAvgDividendYield": 1.6,
+        "beta": 1.303979,
+        "trailingPE": 21.480639,
+        "forwardPE": 19.363451,
+        "volume": 72411,
+        "regularMarketVolume": 72411,
+        "averageVolume": 46993,
+        "averageVolume10days": 47300,
+        "averageDailyVolume10Day": 47300,
+        "bid": 37.58,
+        "ask": 94.06,
+        "bidSize": 900,
+        "askSize": 1100,
+        "marketCap": 707713984,
+        "fiftyTwoWeekLow": 57.76,
+        "fiftyTwoWeekHigh": 100.79,
+        "priceToSalesTrailing12Months": 0.6992724,
+        "fiftyDayAverage": 93.9132,
+        "twoHundredDayAverage": 81.47315,
+        "trailingAnnualDividendRate": 1.2,
+        "trailingAnnualDividendYield": 0.013259669,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 1.96,
+                    "estimate": 2.02
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 1.4,
+                    "estimate": 0.99
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.04,
+                    "estimate": -0.64
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 2.48,
+                    "estimate": 1.82
+                }
+            ],
+            "currentQuarterEstimate": 2.23,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677542400,
+                1678060800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 940698000,
+                    "earnings": 38062000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 942311000,
+                    "earnings": 48292000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 880824000,
+                    "earnings": 33765000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 955166000,
+                    "earnings": 38079000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 246950000,
+                    "earnings": 14929000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 256568000,
+                    "earnings": 10614000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 246375000,
+                    "earnings": 288000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 262179000,
+                    "earnings": 18014000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677542400,
+                1678060800
+            ],
+            "earningsAverage": 2.23,
+            "earningsLow": 2.1,
+            "earningsHigh": 2.32,
+            "revenueAverage": 272980000,
+            "revenueLow": 268730000,
+            "revenueHigh": 276540000
+        },
+        "exDividendDate": "2022-08-18T00:00:00.000Z",
+        "dividendDate": "2022-12-02T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2021-08-05T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-06T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-23T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-22T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-26T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-11T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-07-02T00:00:00.000Z",
+                "firm": "Lake Street",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:10:01.000Z",
+        "postMarketPrice": 94.3,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.041988984,
+        "regularMarketChange": 3.800003,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 94.3,
+        "regularMarketDayHigh": 94.495,
+        "regularMarketDayLow": 91.37,
+        "regularMarketVolume": 72411,
+        "averageDailyVolume10Day": 47300,
+        "averageDailyVolume3Month": 46993,
+        "regularMarketPreviousClose": 90.5,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 91.39,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BBSI",
+        "underlyingSymbol": null,
+        "shortName": "Barrett Business Services, Inc.",
+        "longName": "Barrett Business Services, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 707713984
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 499423648,
+        "forwardPE": 14.116767,
+        "profitMargins": 0.043319996,
+        "floatShares": 6720709,
+        "sharesOutstanding": 7504920,
+        "sharesShort": 108711,
+        "sharesShortPriorMonth": 137800,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0153,
+        "heldPercentInsiders": 0.027209999,
+        "heldPercentInstitutions": 0.87766,
+        "shortRatio": 2.67,
+        "shortPercentOfFloat": 0.015700001,
+        "beta": 1.303979,
+        "category": null,
+        "bookValue": 26.201,
+        "priceToBook": 3.5990994,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.054,
+        "netIncomeToCommon": 43845000,
+        "trailingEps": 4.39,
+        "forwardEps": 4.87,
+        "pegRatio": 0.89,
+        "lastSplitFactor": "1:2",
+        "lastSplitDate": "2013-12-05T00:00:00.000Z",
+        "enterpriseToRevenue": 0.493,
+        "enterpriseToEbitda": 8.874
+    },
+    "summaryProfile": {
+        "address1": "8100 NE Parkway Drive",
+        "address2": "Suite 200",
+        "city": "Vancouver",
+        "state": "WA",
+        "zip": "98662",
+        "country": "United States",
+        "phone": "360 828 0700",
+        "fax": "360 828 0701",
+        "website": "https://www.bbsi.com",
+        "industry": "Staffing & Employment Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "Barrett Business Services, Inc. provides business management solutions for small and mid-sized companies in the United States. The company develops a management platform that integrates a knowledge-based approach from the management consulting industry with tools from the human resource outsourcing industry. It offers professional employer services under which it enters into a client services agreement to establish a co-employment relationship with each client company, assuming responsibility for payroll, payroll taxes, workers' compensation coverage, and other administration functions for the client's existing workforce. The company also provides staffing and recruiting services, such as on-demand or short-term staffing assignment, contract staffing, direct placement, and long-term or indefinite-term on-site management services. It serves electronics manufacturers, light-manufacturing industries, agriculture-based companies, transportation and shipping enterprises, food processors, telecommunications companies, public utilities, general contractors in various construction-related fields, and professional services firms. The company was incorporated in 1965 and is headquartered in Vancouver, Washington.",
+        "fullTimeEmployees": 121660,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 94.3,
+        "targetHighPrice": 117,
+        "targetLowPrice": 101,
+        "targetMeanPrice": 107.5,
+        "targetMedianPrice": 106,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 111401000,
+        "totalCashPerShare": 15.715,
+        "ebitda": 56281000,
+        "totalDebt": 19983000,
+        "quickRatio": 0.971,
+        "currentRatio": 1.31,
+        "totalRevenue": 1012072000,
+        "debtToEquity": 11.452,
+        "revenuePerShare": 136.776,
+        "returnOnAssets": 0.04064,
+        "returnOnEquity": 0.23451,
+        "grossProfits": 204508000,
+        "freeCashflow": -29046376,
+        "operatingCashflow": -55496000,
+        "earningsGrowth": 0.107,
+        "revenueGrowth": 0.124,
+        "grossMargins": 0.22073999,
+        "ebitdaMargins": 0.055609997,
+        "operatingMargins": 0.05212,
+        "profitMargins": 0.043319996,
+        "financialCurrency": "USD"
+    }
+}

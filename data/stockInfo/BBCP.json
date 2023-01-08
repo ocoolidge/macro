@@ -1,0 +1,407 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BBCP",
+        "Security_Name": "Concrete Pumping Holdings, Inc.  - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BBCP",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 5.81,
+        "open": 5.89,
+        "dayLow": 5.84,
+        "dayHigh": 6.07,
+        "regularMarketPreviousClose": 5.81,
+        "regularMarketOpen": 5.89,
+        "regularMarketDayLow": 5.84,
+        "regularMarketDayHigh": 6.07,
+        "payoutRatio": 0,
+        "beta": 0.91378,
+        "forwardPE": 13.930232,
+        "volume": 76775,
+        "regularMarketVolume": 76775,
+        "averageVolume": 156946,
+        "averageVolume10days": 82080,
+        "averageDailyVolume10Day": 82080,
+        "bid": 5.95,
+        "ask": 6.02,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 338997440,
+        "fiftyTwoWeekLow": 4.64,
+        "fiftyTwoWeekHigh": 8.94,
+        "priceToSalesTrailing12Months": 0.90604204,
+        "fiftyDayAverage": 6.6393,
+        "twoHundredDayAverage": 6.362075,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.05,
+                    "estimate": 0.1
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.01,
+                    "estimate": 0.02
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.1,
+                    "estimate": 0.06
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.24,
+                    "estimate": 0.11
+                }
+            ],
+            "currentQuarterEstimate": 0.12,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1662422400,
+                1662940800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 243223000,
+                    "earnings": 28382000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 282961000,
+                    "earnings": -38978000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 304301000,
+                    "earnings": -61251000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 315808000,
+                    "earnings": -15073000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 87754000,
+                    "earnings": 3432000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 85448000,
+                    "earnings": 1183000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 96482000,
+                    "earnings": 5985000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 104469000,
+                    "earnings": 14496000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1662422400,
+                1662940800
+            ],
+            "earningsAverage": 0.12,
+            "earningsLow": 0.11,
+            "earningsHigh": 0.15,
+            "revenueAverage": 103330000,
+            "revenueLow": 101520000,
+            "revenueHigh": 104590000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2021-06-25T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-01-05T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-12-14T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-09-10T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-08-10T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-06-10T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-19T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-03T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-24T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-18T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-03-17T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-05-23T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-05-17T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-05-13T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:14.000Z",
+        "postMarketPrice": 5.99,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.030981038,
+        "regularMarketChange": 0.17999983,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 5.99,
+        "regularMarketDayHigh": 6.07,
+        "regularMarketDayLow": 5.84,
+        "regularMarketVolume": 76775,
+        "averageDailyVolume10Day": 82080,
+        "averageDailyVolume3Month": 156946,
+        "regularMarketPreviousClose": 5.81,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 5.89,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BBCP",
+        "underlyingSymbol": null,
+        "shortName": "Concrete Pumping Holdings, Inc.",
+        "longName": "Concrete Pumping Holdings, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 338997440
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 770411968,
+        "forwardPE": 11.092591,
+        "profitMargins": 0.06707,
+        "floatShares": 25951023,
+        "sharesOutstanding": 56593900,
+        "sharesShort": 699949,
+        "sharesShortPriorMonth": 661981,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0124,
+        "heldPercentInsiders": 0.25063,
+        "heldPercentInstitutions": 0.63643,
+        "shortRatio": 8.29,
+        "shortPercentOfFloat": 0.025999999,
+        "beta": 0.91378,
+        "category": null,
+        "bookValue": 4.723,
+        "priceToBook": 1.2682617,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-10-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-10-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-07-31T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 2.125,
+        "netIncomeToCommon": 22560000,
+        "trailingEps": -1.371,
+        "forwardEps": 0.43,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 2.059,
+        "enterpriseToEbitda": 7.522
+    },
+    "summaryProfile": {
+        "address1": "500 East 84th Avenue",
+        "address2": "Suite A-5",
+        "city": "Thornton",
+        "state": "CO",
+        "zip": "80229",
+        "country": "United States",
+        "phone": "303 289 7497",
+        "website": "https://www.concretepumpingholdings.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Concrete Pumping Holdings, Inc. provides concrete pumping and waste management services in the United States and the United Kingdom. The company offers concrete pumping services to general contractors and concrete finishing companies in the commercial, infrastructure, and residential sectors under the Brundage-Bone and Camfaud brands; and industrial cleanup and containment services primarily to customers in the construction industry under the Eco-Pan brand. It also leases and rents concrete pumping equipment, pans, and containers. As of October 31, 2021, the company owned a fleet of approximately 820 boom pumps, 70 placing booms, 20 telebelts, 250 stationary pumps, and 90 waste management trucks. Concrete Pumping Holdings, Inc. was founded in 1983 and is headquartered in Thornton, Colorado.",
+        "fullTimeEmployees": 1300,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 5.99,
+        "targetHighPrice": 11,
+        "targetLowPrice": 7.5,
+        "targetMeanPrice": 9.38,
+        "targetMedianPrice": 9.5,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 2445000,
+        "totalCashPerShare": 0.043,
+        "ebitda": 102418000,
+        "totalDebt": 387316000,
+        "quickRatio": 0.861,
+        "currentRatio": 1.01,
+        "totalRevenue": 374152000,
+        "debtToEquity": 127.69,
+        "revenuePerShare": 6.958,
+        "returnOnAssets": 0.035550002,
+        "returnOnEquity": 0.08543,
+        "grossProfits": 137727000,
+        "freeCashflow": -38432124,
+        "operatingCashflow": 69218000,
+        "earningsGrowth": 2.386,
+        "revenueGrowth": 0.294,
+        "grossMargins": 0.41092,
+        "ebitdaMargins": 0.27372998,
+        "operatingMargins": 0.12212,
+        "profitMargins": 0.06707,
+        "financialCurrency": "USD"
+    }
+}

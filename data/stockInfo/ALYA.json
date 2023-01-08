@@ -1,0 +1,268 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ALYA",
+        "Security_Name": "Alithya Group inc. - Class A subordinate voting shares",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ALYA",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 1.6,
+        "open": 1.65,
+        "dayLow": 1.62,
+        "dayHigh": 1.65,
+        "regularMarketPreviousClose": 1.6,
+        "regularMarketOpen": 1.65,
+        "regularMarketDayLow": 1.62,
+        "regularMarketDayHigh": 1.65,
+        "payoutRatio": 0,
+        "beta": 0.76407,
+        "forwardPE": 14.818182,
+        "volume": 3976,
+        "regularMarketVolume": 3976,
+        "averageVolume": 24582,
+        "averageVolume10days": 30140,
+        "averageDailyVolume10Day": 30140,
+        "bid": 1.63,
+        "ask": 1.65,
+        "bidSize": 1100,
+        "askSize": 800,
+        "marketCap": 136713152,
+        "fiftyTwoWeekLow": 1.43,
+        "fiftyTwoWeekHigh": 3.09,
+        "priceToSalesTrailing12Months": 0.29609025,
+        "fiftyDayAverage": 1.6678,
+        "twoHundredDayAverage": 2.09105,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1675814400,
+                1676246400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 209478000,
+                    "earnings": -12475000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 279007000,
+                    "earnings": -39667000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 287643000,
+                    "earnings": -17338000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 437885000,
+                    "earnings": -15548000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 105277000,
+                    "earnings": -2777000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 109713000,
+                    "earnings": -3486000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 119974000,
+                    "earnings": -7253000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 126764000,
+                    "earnings": -4164000
+                }
+            ]
+        },
+        "financialCurrency": "CAD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675814400,
+                1676246400
+            ]
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:44:39.000Z",
+        "postMarketPrice": 1.63,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.018749982,
+        "regularMarketChange": 0.029999971,
+        "regularMarketTime": "2023-01-06T20:22:12.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 1.63,
+        "regularMarketDayHigh": 1.65,
+        "regularMarketDayLow": 1.62,
+        "regularMarketVolume": 3976,
+        "averageDailyVolume10Day": 30140,
+        "averageDailyVolume3Month": 24582,
+        "regularMarketPreviousClose": 1.6,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 1.65,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ALYA",
+        "underlyingSymbol": null,
+        "shortName": "Alithya Group inc.",
+        "longName": "Alithya Group Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 136713152
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 295087872,
+        "profitMargins": -0.03829,
+        "floatShares": 56178492,
+        "sharesOutstanding": 76530096,
+        "sharesShort": 16856,
+        "sharesShortPriorMonth": 46528,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0002,
+        "heldPercentInsiders": 0.24329,
+        "heldPercentInstitutions": 0.62131,
+        "shortRatio": 1.49,
+        "shortPercentOfFloat": 0.0002,
+        "beta": 0.76407,
+        "category": null,
+        "bookValue": 1.892,
+        "priceToBook": 0.8615222,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-03-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-03-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -17680000,
+        "trailingEps": -0.684,
+        "forwardEps": 0.11,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.639,
+        "enterpriseToEbitda": 23.37
+    },
+    "summaryProfile": {
+        "address1": "1100, Robert-Bourassa Boulevard",
+        "address2": "Suite 400",
+        "city": "Montreal",
+        "state": "QC",
+        "zip": "H3B 3A5",
+        "country": "Canada",
+        "website": "https://www.alithya.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Alithya Group Inc. provides strategy and digital technology services in Canada, the United States, and Europe. The company's business strategy services include strategic consulting, digital transformation, organizational performance, and enterprise architecture services. It also provides application services, such as digital applications DevOps, legacy systems modernization, control and software engineering, cloud infrastructure, quality assurance, and automated testing; enterprise solutions comprising enterprise resource planning, corporate performance management, customer relationship management, and human capital management; and data and analytics solutions, including business intelligence, data management, artificial intelligence (AI), and machine learning, as well as internet of things. In addition, the company provides AI-FI, an integrated artificial intelligence and fidelity solution; Alithya GoTest, solution allows clients to test the functionality of applications on various platforms; CASSI analytics for online weekly maintenance, outage management, petrochemical turnarounds, and maintenance and reliability; and SIDER, a secure solution that facilitates distribution of medical results to healthcare sectors and to centralized electronic medical records. It serves financial services, energy, manufacturing, telecommunications, transportation and logistics, professional services, healthcare, and government sectors. Alithya Group Inc. was founded in 1992 and is headquartered in Montreal, Canada.",
+        "fullTimeEmployees": 3900,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 1.63,
+        "recommendationKey": "none",
+        "totalCash": 40338000,
+        "totalCashPerShare": 0.428,
+        "ebitda": 12627000,
+        "totalDebt": 163691008,
+        "quickRatio": 1.372,
+        "currentRatio": 1.425,
+        "totalRevenue": 461728000,
+        "debtToEquity": 82.923,
+        "revenuePerShare": 5.277,
+        "returnOnAssets": -0.00624,
+        "returnOnEquity": -0.09202,
+        "grossProfits": 105283000,
+        "freeCashflow": 3587500,
+        "operatingCashflow": -13514000,
+        "revenueGrowth": 0.232,
+        "grossMargins": 0.23923,
+        "ebitdaMargins": 0.02735,
+        "operatingMargins": -0.00911,
+        "profitMargins": -0.03829,
+        "financialCurrency": "CAD"
+    }
+}

@@ -1,0 +1,333 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AEHR",
+        "Security_Name": "Aehr Test Systems - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AEHR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 17.27,
+        "open": 21,
+        "dayLow": 21,
+        "dayHigh": 24.99,
+        "regularMarketPreviousClose": 17.27,
+        "regularMarketOpen": 21,
+        "regularMarketDayLow": 21,
+        "regularMarketDayHigh": 24.99,
+        "payoutRatio": 0,
+        "beta": 1.728448,
+        "trailingPE": 78.655174,
+        "forwardPE": 25.920454,
+        "volume": 9142480,
+        "regularMarketVolume": 9142480,
+        "averageVolume": 1726970,
+        "averageVolume10days": 1965050,
+        "averageDailyVolume10Day": 1965050,
+        "bid": 22.93,
+        "ask": 22.99,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 627170048,
+        "fiftyTwoWeekLow": 6.71,
+        "fiftyTwoWeekHigh": 28,
+        "priceToSalesTrailing12Months": 11.22874,
+        "fiftyDayAverage": 22.6638,
+        "twoHundredDayAverage": 14.37505,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "1Q2022",
+                    "actual": 0.14,
+                    "estimate": 0.14
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.23,
+                    "estimate": 0.23
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.05,
+                    "estimate": 0.01
+                },
+                {
+                    "date": "4Q2022",
+                    "actual": 0.16,
+                    "estimate": 0.08
+                }
+            ],
+            "currentQuarterEstimate": 0.16,
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2023,
+            "earningsDate": [
+                1680120000,
+                1680552000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 21056000,
+                    "earnings": -5235000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 22291000,
+                    "earnings": -2802000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 16600000,
+                    "earnings": -2027000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 50829000,
+                    "earnings": 9450000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 9611000,
+                    "earnings": 717000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 15283000,
+                    "earnings": 2243000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 20289000,
+                    "earnings": 5794000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 10671000,
+                    "earnings": 589000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1680120000,
+                1680552000
+            ],
+            "earningsAverage": 0.16,
+            "earningsLow": 0.15,
+            "earningsHigh": 0.18,
+            "revenueAverage": 19010000,
+            "revenueLow": 18160000,
+            "revenueHigh": 19870000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-17T13:15:43.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-10T14:52:51.000Z",
+                "firm": "Craig-Hallum",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.010955799,
+        "postMarketChange": 0.249901,
+        "postMarketTime": "2023-01-07T00:59:45.000Z",
+        "postMarketPrice": 23.0599,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.32078743,
+        "regularMarketChange": 5.539999,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 22.81,
+        "regularMarketDayHigh": 24.99,
+        "regularMarketDayLow": 21,
+        "regularMarketVolume": 9142480,
+        "averageDailyVolume10Day": 1965050,
+        "averageDailyVolume3Month": 1726970,
+        "regularMarketPreviousClose": 17.27,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 21,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AEHR",
+        "underlyingSymbol": null,
+        "shortName": "Aehr Test Systems",
+        "longName": "Aehr Test Systems",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 627170048
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 456971360,
+        "forwardPE": 25.920454,
+        "profitMargins": 0.16726999,
+        "floatShares": 23576993,
+        "sharesOutstanding": 27495400,
+        "sharesShort": 4679026,
+        "sharesShortPriorMonth": 4036754,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.1702,
+        "heldPercentInsiders": 0.07927,
+        "heldPercentInstitutions": 0.44884998,
+        "shortRatio": 3.79,
+        "shortPercentOfFloat": 0.1859,
+        "beta": 1.728448,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 1.881,
+        "priceToBook": 12.126528,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-05-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-05-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-08-31T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.154,
+        "netIncomeToCommon": 9343000,
+        "trailingEps": 0.29,
+        "forwardEps": 0.88,
+        "pegRatio": 1.6,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 8.182,
+        "enterpriseToEbitda": 47.73,
+        "52WeekChange": 0.5391363,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "400 Kato Terrace",
+        "city": "Fremont",
+        "state": "CA",
+        "zip": "94539",
+        "country": "United States",
+        "phone": "510 623 9400",
+        "fax": "510 623 9450",
+        "website": "https://www.aehr.com",
+        "industry": "Semiconductor Equipment & Materials",
+        "sector": "Technology",
+        "longBusinessSummary": "Aehr Test Systems provides test systems for burning-in semiconductor devices in wafer level, singulated die, and package part form worldwide. Its products include ABTS system that is used in the production and qualification testing of packaged parts for lower power and higher power logic devices, as well as for common types of memory devices; and FOX-XP and FOX-NP systems that are full wafer contact and singulated die/module test and burn-in systems for burn-in and functional test of complex devices, such as leading-edge silicon carbide-based power semiconductors, memories, digital signal processors, microprocessors, microcontrollers, systems-on-a-chip, and integrated optical devices. The company's products also comprise FOX-CP system, a single-wafer compact test and reliability verification solution for logic, memory, and photonic devices; FOX WaferPak Aligner; FOX WaferPak Contactor, which contains a full wafer probe card capable of testing wafers up to 300mm that enables IC manufacturers to perform test and burn-in of full wafers on its FOX systems; FOX DiePak Carrier, a reusable temporary package that enables IC manufacturers to perform final test and burn-in of bare die and modules; and FOX DiePak Loader. Aehr Test Systems was incorporated in 1977 and is headquartered in Fremont, California.",
+        "fullTimeEmployees": 91,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 22.81,
+        "targetHighPrice": 31,
+        "targetLowPrice": 31,
+        "targetMeanPrice": 31,
+        "targetMedianPrice": 31,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 36147000,
+        "totalCashPerShare": 1.315,
+        "ebitda": 9574000,
+        "totalDebt": 814000,
+        "quickRatio": 4.168,
+        "currentRatio": 5.993,
+        "totalRevenue": 55854000,
+        "debtToEquity": 1.58,
+        "revenuePerShare": 2.082,
+        "returnOnAssets": 0.13512,
+        "returnOnEquity": 0.2842,
+        "grossProfits": 23665000,
+        "freeCashflow": 1926875,
+        "operatingCashflow": 5095000,
+        "earningsGrowth": -0.31,
+        "revenueGrowth": 0.89,
+        "grossMargins": 0.46308,
+        "ebitdaMargins": 0.17141001,
+        "operatingMargins": 0.16563,
+        "profitMargins": 0.16726999,
+        "financialCurrency": "USD"
+    }
+}

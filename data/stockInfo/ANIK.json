@@ -1,0 +1,427 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ANIK",
+        "Security_Name": "Anika Therapeutics Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ANIK",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 29.85,
+        "open": 29.87,
+        "dayLow": 29.4515,
+        "dayHigh": 30.54,
+        "regularMarketPreviousClose": 29.85,
+        "regularMarketOpen": 29.87,
+        "regularMarketDayLow": 29.4515,
+        "regularMarketDayHigh": 30.54,
+        "payoutRatio": 0,
+        "beta": 0.898305,
+        "forwardPE": 33.076923,
+        "volume": 40887,
+        "regularMarketVolume": 40887,
+        "averageVolume": 103293,
+        "averageVolume10days": 77920,
+        "averageDailyVolume10Day": 77920,
+        "bid": 29.68,
+        "ask": 48.14,
+        "bidSize": 1000,
+        "askSize": 800,
+        "marketCap": 434547680,
+        "fiftyTwoWeekLow": 19.95,
+        "fiftyTwoWeekHigh": 35.51,
+        "priceToSalesTrailing12Months": 2.8643878,
+        "fiftyDayAverage": 29.781,
+        "twoHundredDayAverage": 24.7428,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.04,
+                    "estimate": -0.21
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.4,
+                    "estimate": -0.25
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.2,
+                    "estimate": -0.36
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.2,
+                    "estimate": -0.23
+                }
+            ],
+            "currentQuarterEstimate": -0.25,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678060800,
+                1678406400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 105555000,
+                    "earnings": 18722000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 114610000,
+                    "earnings": 27193000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 130457000,
+                    "earnings": -23982000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 147794000,
+                    "earnings": 4134000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 39536000,
+                    "earnings": 558000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 35821000,
+                    "earnings": -5793000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 36693000,
+                    "earnings": -2933000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 39657000,
+                    "earnings": -2843000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678060800,
+                1678406400
+            ],
+            "earningsAverage": -0.25,
+            "earningsLow": -0.27,
+            "earningsHigh": -0.24,
+            "revenueAverage": 37590000,
+            "revenueLow": 36560000,
+            "revenueHigh": 38200000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-03-09T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-11-16T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-16T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-12-16T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-21T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-11-05T00:00:00.000Z",
+                "firm": "BWS Financial",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-09-23T00:00:00.000Z",
+                "firm": "First Analysis",
+                "toGrade": "Outperform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-02-22T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-27T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-06-20T00:00:00.000Z",
+                "firm": "First Analysis",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-05-04T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-02-23T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-01-24T00:00:00.000Z",
+                "firm": "First Analysis",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-04-27T00:00:00.000Z",
+                "firm": "Northland Capital Markets",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-02-26T00:00:00.000Z",
+                "firm": "Northland Capital Markets",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-12T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-08-28T00:00:00.000Z",
+                "firm": "First Analysis",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.0136213,
+        "postMarketChange": -0.41,
+        "postMarketTime": "2023-01-06T21:02:23.000Z",
+        "postMarketPrice": 29.69,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.008375209,
+        "regularMarketChange": 0.25,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 30.1,
+        "regularMarketDayHigh": 30.54,
+        "regularMarketDayLow": 29.4515,
+        "regularMarketVolume": 40887,
+        "averageDailyVolume10Day": 77920,
+        "averageDailyVolume3Month": 103293,
+        "regularMarketPreviousClose": 29.85,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 29.87,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ANIK",
+        "underlyingSymbol": null,
+        "shortName": "Anika Therapeutics Inc.",
+        "longName": "Anika Therapeutics, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 434547680
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 342695264,
+        "forwardPE": -65.434784,
+        "profitMargins": -0.07258,
+        "floatShares": 12864588,
+        "sharesOutstanding": 14436800,
+        "sharesShort": 994802,
+        "sharesShortPriorMonth": 917288,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0681,
+        "heldPercentInsiders": 0.01935,
+        "heldPercentInstitutions": 0.95425004,
+        "shortRatio": 10.8,
+        "shortPercentOfFloat": 0.0938,
+        "beta": 0.898305,
+        "category": null,
+        "bookValue": 19.01,
+        "priceToBook": 1.5833771,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -11011000,
+        "trailingEps": -1.69,
+        "forwardEps": 0.91,
+        "pegRatio": -3.36,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 2.259,
+        "enterpriseToEbitda": 173.692
+    },
+    "summaryProfile": {
+        "address1": "32 Wiggins Avenue",
+        "city": "Bedford",
+        "state": "MA",
+        "zip": "01730",
+        "country": "United States",
+        "phone": "781 457 9000",
+        "fax": "781 305 9720",
+        "website": "https://www.anikatherapeutics.com",
+        "industry": "Medical Devices",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Anika Therapeutics, Inc., a joint preservation company, creates and delivers advancements in early intervention orthopedic care in the areas of osteoarthritis (OA) pain management, regenerative solutions, soft tissue repair, and bone preserving joint technologies in the United States, Europe, and internationally. The company develops, manufactures, and commercializes products based on hyaluronic acid (HA) technology platform. Its OA pain management product family consists of Monovisc, Orthovisc, Cingal, and Hyvisc that are indicated to provide pain relief from osteoarthritis conditions; and joint preservation and restoration product family comprise a portfolio of approximately 150 bone preserving joint technology products, a line of sports medicine soft tissue repair solutions, and orthopedic regenerative solutions products. The company's non-orthopedic product family include HA-based products for non-orthopedic applications, including adhesion barrier products, advanced wound care products, ophthalmic products, and ear, nose, and throat products. Anika Therapeutics, Inc. was founded in 1983 and is headquartered in Bedford, Massachusetts.",
+        "fullTimeEmployees": 297,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 30.1,
+        "targetHighPrice": 46,
+        "targetLowPrice": 26,
+        "targetMeanPrice": 36,
+        "targetMedianPrice": 36,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 91392000,
+        "totalCashPerShare": 6.26,
+        "ebitda": 1973000,
+        "totalDebt": 31713000,
+        "quickRatio": 4.198,
+        "currentRatio": 5.703,
+        "totalRevenue": 151707008,
+        "debtToEquity": 11.082,
+        "revenuePerShare": 10.482,
+        "returnOnAssets": -0.022060001,
+        "returnOnEquity": -0.03844,
+        "grossProfits": 91853000,
+        "freeCashflow": 5402500,
+        "operatingCashflow": 7753000,
+        "revenueGrowth": 0.04,
+        "grossMargins": 0.60608,
+        "ebitdaMargins": 0.012999999,
+        "operatingMargins": -0.08344,
+        "profitMargins": -0.07258,
+        "financialCurrency": "USD"
+    }
+}

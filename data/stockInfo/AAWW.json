@@ -1,0 +1,620 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AAWW",
+        "Security_Name": "Atlas Air Worldwide Holdings - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AAWW",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 3,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 101.33,
+        "open": 101.5,
+        "dayLow": 101.28,
+        "dayHigh": 101.55,
+        "regularMarketPreviousClose": 101.33,
+        "regularMarketOpen": 101.5,
+        "regularMarketDayLow": 101.28,
+        "regularMarketDayHigh": 101.55,
+        "payoutRatio": 0,
+        "beta": 1.135775,
+        "trailingPE": 8.125902,
+        "forwardPE": 7.8428793,
+        "volume": 248864,
+        "regularMarketVolume": 248864,
+        "averageVolume": 406198,
+        "averageVolume10days": 239360,
+        "averageDailyVolume10Day": 239360,
+        "bid": 101.29,
+        "ask": 101.3,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 2874144512,
+        "fiftyTwoWeekLow": 58.7,
+        "fiftyTwoWeekHigh": 101.66,
+        "priceToSalesTrailing12Months": 0.63803554,
+        "fiftyDayAverage": 100.633,
+        "twoHundredDayAverage": 86.089,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 7.05,
+                    "estimate": 6.14
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 2.99,
+                    "estimate": 2.63
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 3.36,
+                    "estimate": 3.34
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 2.69,
+                    "estimate": 4.26
+                }
+            ],
+            "currentQuarterEstimate": 5.41,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676467800,
+                1676899800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 2677724000,
+                    "earnings": 270567000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 2739189000,
+                    "earnings": -293113000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 3211116000,
+                    "earnings": 360286000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 4030829000,
+                    "earnings": 493317000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 1162997000,
+                    "earnings": 176739000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 1037156000,
+                    "earnings": 81511000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 1179971000,
+                    "earnings": 88258000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 1124554000,
+                    "earnings": 60100000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676467800,
+                1676899800
+            ],
+            "earningsAverage": 5.41,
+            "earningsLow": 5,
+            "earningsHigh": 5.72,
+            "revenueAverage": 1274450000,
+            "revenueLow": 1268910000,
+            "revenueHigh": 1280000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-09T12:06:37.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-05T12:29:08.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Neutral",
+                "fromGrade": "Positive",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-03T20:03:44.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-03T10:00:16.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Peer Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-04-05T13:21:38.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Underperform",
+                "fromGrade": "Peer Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-16T12:24:06.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-02-17T12:04:09.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Positive",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-22T10:42:18.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-06-30T13:25:18.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-08T09:56:34.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-04-21T11:05:10.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Positive",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-02-27T14:52:14.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-24T12:14:02.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-17T11:27:35.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Neutral",
+                "fromGrade": "Positive",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-09-04T13:14:42.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-23T15:19:05.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-01-10T19:21:46.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-11-08T12:25:22.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-04-28T12:27:02.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-11-17T09:03:29.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-08-25T21:04:59.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-09-25T05:58:10.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-07-14T12:45:13.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-07-13T09:35:13.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Underperform",
+                "fromGrade": "Peer Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-11-21T00:00:00.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Peer Perform",
+                "fromGrade": "Underperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-09-11T09:08:59.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-05-06T06:27:23.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-05-06T02:22:23.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-02-13T06:35:36.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-02-11T06:41:46.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-01-21T16:00:00.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Underperform",
+                "fromGrade": "Peer Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-01-17T16:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-10-15T08:41:41.000Z",
+                "firm": "CJS Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-09-27T09:01:47.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-07-01T08:24:56.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-05-03T09:22:41.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-07T09:25:26.000Z",
+                "firm": "CJS Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-02-15T08:42:59.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-02T10:53:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-11-02T10:28:00.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-09T09:54:00.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-02-16T10:09:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-02-16T06:12:00.000Z",
+                "firm": "Dahlman Rose",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:01:55.000Z",
+        "postMarketPrice": 101.33,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0,
+        "regularMarketChange": 0,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 101.33,
+        "regularMarketDayHigh": 101.55,
+        "regularMarketDayLow": 101.28,
+        "regularMarketVolume": 248864,
+        "averageDailyVolume10Day": 239360,
+        "averageDailyVolume3Month": 406198,
+        "regularMarketPreviousClose": 101.33,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 101.5,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AAWW",
+        "underlyingSymbol": null,
+        "shortName": "Atlas Air Worldwide Holdings",
+        "longName": "Atlas Air Worldwide Holdings, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2874144512
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 4563229184,
+        "forwardPE": 7.8428793,
+        "profitMargins": 0.09026,
+        "floatShares": 26570162,
+        "sharesOutstanding": 28364200,
+        "sharesShort": 2424302,
+        "sharesShortPriorMonth": 2816555,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0855,
+        "heldPercentInsiders": 0.011519999,
+        "heldPercentInstitutions": 1.15189,
+        "shortRatio": 7.41,
+        "shortPercentOfFloat": 0.1173,
+        "beta": 1.135775,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 103.396,
+        "priceToBook": 0.98001856,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.497,
+        "netIncomeToCommon": 406608000,
+        "trailingEps": 12.47,
+        "forwardEps": 12.92,
+        "pegRatio": 0.71,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.013,
+        "enterpriseToEbitda": 4.925,
+        "52WeekChange": 0.17770803,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "2000 Westchester Avenue",
+        "city": "Purchase",
+        "state": "NY",
+        "zip": "10577-2543",
+        "country": "United States",
+        "phone": "914 701 8000",
+        "fax": "914 701 8333",
+        "website": "https://www.atlasairworldwide.com",
+        "industry": "Airports & Air Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "Atlas Air Worldwide Holdings, Inc., through its subsidiaries, provides outsourced aircraft and aviation operating services. It operates through two segments, Airline Operations and Dry Leasing. The company offers outsourced cargo and passenger aircraft operating solutions, including contractual service arrangements, such as the provision of aircraft; and value-added services, including crew, maintenance, and insurance to aircraft and other customers. It also provides cargo and passenger aircraft charter services to the U.S. Military Air Mobility Command, charter brokers, freight forwarders, direct shippers, airlines, manufacturers, sports teams and fans, and private charter customers; and cargo and passenger aircraft and engines dry leasing services. In addition, the company offers administrative and management support services, and flight simulator training services. It also serves express delivery providers, e-commerce retailers, and airlines. The company has operations in Africa, Asia, Australia, Europe, the Middle East, North America, and South America. Atlas Air Worldwide Holdings, Inc. was founded in 1992 and is headquartered in Purchase, New York.",
+        "fullTimeEmployees": 4056,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 101.33,
+        "targetHighPrice": 103,
+        "targetLowPrice": 82,
+        "targetMeanPrice": 98.5,
+        "targetMedianPrice": 102.5,
+        "recommendationMean": 2.7,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 465499008,
+        "totalCashPerShare": 16.411,
+        "ebitda": 926510976,
+        "totalDebt": 2156002048,
+        "quickRatio": 0.627,
+        "currentRatio": 0.719,
+        "totalRevenue": 4504677888,
+        "debtToEquity": 73.515,
+        "revenuePerShare": 157.336,
+        "returnOnAssets": 0.06181,
+        "returnOnEquity": 0.14634,
+        "grossProfits": 1351091000,
+        "freeCashflow": 85232872,
+        "operatingCashflow": 889625984,
+        "earningsGrowth": -0.541,
+        "revenueGrowth": 0.107,
+        "grossMargins": 0.28827998,
+        "ebitdaMargins": 0.20568001,
+        "operatingMargins": 0.1373,
+        "profitMargins": 0.09026,
+        "financialCurrency": "USD"
+    }
+}

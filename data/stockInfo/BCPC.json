@@ -1,0 +1,515 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BCPC",
+        "Security_Name": "Balchem Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BCPC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 117.39,
+        "open": 118.66,
+        "dayLow": 118.27,
+        "dayHigh": 121.9,
+        "regularMarketPreviousClose": 117.39,
+        "regularMarketOpen": 118.66,
+        "regularMarketDayLow": 118.27,
+        "regularMarketDayHigh": 121.9,
+        "dividendRate": 0.64,
+        "dividendYield": 0.0047,
+        "exDividendDate": "2021-12-27T00:00:00.000Z",
+        "payoutRatio": 0.1916,
+        "fiveYearAvgDividendYield": 0.48,
+        "beta": 0.603537,
+        "trailingPE": 44.830257,
+        "forwardPE": 30.448622,
+        "volume": 59708,
+        "regularMarketVolume": 59708,
+        "averageVolume": 86451,
+        "averageVolume10days": 71920,
+        "averageDailyVolume10Day": 71920,
+        "bid": 121.61,
+        "ask": 193.71,
+        "bidSize": 900,
+        "askSize": 1000,
+        "marketCap": 3934040576,
+        "fiftyTwoWeekLow": 110.15,
+        "fiftyTwoWeekHigh": 158.97,
+        "priceToSalesTrailing12Months": 4.4880347,
+        "fiftyDayAverage": 132.5598,
+        "twoHundredDayAverage": 129.28575,
+        "trailingAnnualDividendRate": 0.58,
+        "trailingAnnualDividendYield": 0.0049407957,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.92,
+                    "estimate": 0.9
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.85,
+                    "estimate": 0.85
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.89,
+                    "estimate": 0.79
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.92,
+                    "estimate": 0.91
+                }
+            ],
+            "currentQuarterEstimate": 0.85,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676505600,
+                1676851200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 643679000,
+                    "earnings": 78573000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 643705000,
+                    "earnings": 79671000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 703644000,
+                    "earnings": 84623000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 799023000,
+                    "earnings": 96104000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 197869000,
+                    "earnings": 25013000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 213133000,
+                    "earnings": 24949000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 228867000,
+                    "earnings": 28930000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 236693000,
+                    "earnings": 29782000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676505600,
+                1676851200
+            ],
+            "earningsAverage": 0.85,
+            "earningsLow": 0.81,
+            "earningsHigh": 0.91,
+            "revenueAverage": 239620000,
+            "revenueLow": 232900000,
+            "revenueHigh": 244960000
+        },
+        "exDividendDate": "2021-12-27T00:00:00.000Z",
+        "dividendDate": "2023-01-20T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-22T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-02T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-08T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-22T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-01-10T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-29T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-02T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-02T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-02-22T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-02-22T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-04T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-10T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-04T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-24T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-05-06T00:00:00.000Z",
+                "firm": "Pivotal Research",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-10-16T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-09-25T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-05-07T00:00:00.000Z",
+                "firm": "Pivotal Research",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-07T00:00:00.000Z",
+                "firm": "Vertical Research",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-11-04T00:00:00.000Z",
+                "firm": "Pivotal Research",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-08T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-02-02T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-24T00:00:00.000Z",
+                "firm": "Pivotal Research",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-05-06T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-05-30T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-03-07T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-02-22T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-08-01T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.030043637,
+        "postMarketChange": -3.6500015,
+        "postMarketTime": "2023-01-06T21:03:08.000Z",
+        "postMarketPrice": 117.84,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.034926303,
+        "regularMarketChange": 4.0999985,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 121.49,
+        "regularMarketDayHigh": 121.9,
+        "regularMarketDayLow": 118.27,
+        "regularMarketVolume": 59708,
+        "averageDailyVolume10Day": 71920,
+        "averageDailyVolume3Month": 86451,
+        "regularMarketPreviousClose": 117.39,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 118.66,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BCPC",
+        "underlyingSymbol": null,
+        "shortName": "Balchem Corporation",
+        "longName": "Balchem Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 3934040576
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 4751659520,
+        "forwardPE": 30.992346,
+        "profitMargins": 0.12398,
+        "floatShares": 31875834,
+        "sharesOutstanding": 32381600,
+        "sharesShort": 529183,
+        "sharesShortPriorMonth": 457695,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0165,
+        "heldPercentInsiders": 0.00824,
+        "heldPercentInstitutions": 0.90869004,
+        "shortRatio": 5.56,
+        "shortPercentOfFloat": 0.0227,
+        "beta": 0.603537,
+        "category": null,
+        "bookValue": 26.177,
+        "priceToBook": 4.641097,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.31,
+        "netIncomeToCommon": 108674000,
+        "trailingEps": 2.71,
+        "forwardEps": 3.99,
+        "pegRatio": 1.61,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": "2010-01-21T00:00:00.000Z",
+        "enterpriseToRevenue": 5.421,
+        "enterpriseToEbitda": 24.616
+    },
+    "summaryProfile": {
+        "address1": "52 Sunrise Park Road",
+        "city": "New Hampton",
+        "state": "NY",
+        "zip": "10958",
+        "country": "United States",
+        "phone": "845 326 5600",
+        "website": "https://www.balchem.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Balchem Corporation develops, manufactures, and markets specialty performance ingredients and products for the nutritional, food, pharmaceutical, animal health, medical device sterilization, plant nutrition, and industrial markets in the United States and internationally. It operates through three segments: Human Nutrition & Health, Animal Nutrition & Health, and Specialty Products. The Human Nutrition & Health segment supplies ingredients in the food and beverage industry. Its products include spray dried and emulsified powders, extrusion and agglomeration, blended lipid systems, liquid flavor delivery systems, juice and dairy bases, chocolate systems, and cereal systems, as well as ice cream bases and variegates. This segment also offers microencapsulation solutions for various applications; and human grade choline nutrients and mineral amino acid chelated products for nutrition and health applications. The Animal Nutrition & Health segment provides microencapsulated products to enhance health and milk production, and delivering nutrient supplements in ruminant animals; chelation technology, which offers enhanced nutrient absorption for various species of production and companion animals; and choline chloride, a nutrient for monogastric animal health. The Specialty Products segment offers ethylene oxide primarily for use in the health care industry; and single use canisters with ethylene oxide for sterilizing re-usable devices. This segment also markets and sells propylene oxide, a fumigant to aid in the control of insects and microbiological spoilage, as well as to reduce bacterial and mold contamination in shell and processed nut meats, processed spices, cacao beans, cocoa powder, raisins, figs, and prunes; and chelated minerals for high value crops. The company sells its products through sales force, independent distributors, and sales agents. Balchem Corporation was incorporated in 1967 and is headquartered in New Hampton, New York.",
+        "fullTimeEmployees": 1359,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 121.49,
+        "targetHighPrice": 165,
+        "targetLowPrice": 164,
+        "targetMeanPrice": 164.33,
+        "targetMedianPrice": 164,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 77231000,
+        "totalCashPerShare": 2.404,
+        "ebitda": 193032992,
+        "totalDebt": 446678016,
+        "quickRatio": 1.497,
+        "currentRatio": 2.616,
+        "totalRevenue": 876561984,
+        "debtToEquity": 49.555,
+        "revenuePerShare": 27.304,
+        "returnOnAssets": 0.06521,
+        "returnOnEquity": 0.122729994,
+        "grossProfits": 243174000,
+        "freeCashflow": 53117624,
+        "operatingCashflow": 139386000,
+        "earningsGrowth": 0.314,
+        "revenueGrowth": 0.17,
+        "grossMargins": 0.30617002,
+        "ebitdaMargins": 0.22022,
+        "operatingMargins": 0.16545999,
+        "profitMargins": 0.12398,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,848 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARCC",
+        "Security_Name": "Ares Capital Corporation - Closed End Fund",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ARCC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 4,
+                "buy": 6,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 6,
+                "buy": 8,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 6,
+                "buy": 8,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 4,
+                "buy": 6,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 18.6,
+        "open": 18.65,
+        "dayLow": 18.42,
+        "dayHigh": 18.77,
+        "regularMarketPreviousClose": 18.6,
+        "regularMarketOpen": 18.65,
+        "regularMarketDayLow": 18.42,
+        "regularMarketDayHigh": 18.77,
+        "dividendRate": 1.92,
+        "dividendYield": 0.09810001,
+        "exDividendDate": "2022-12-14T00:00:00.000Z",
+        "payoutRatio": 0.99410003,
+        "fiveYearAvgDividendYield": 9.16,
+        "beta": 1.036845,
+        "trailingPE": 5.343732,
+        "forwardPE": 10.451978,
+        "volume": 3856573,
+        "regularMarketVolume": 3856573,
+        "averageVolume": 2603800,
+        "averageVolume10days": 2618350,
+        "averageDailyVolume10Day": 2618350,
+        "bid": 18.4,
+        "ask": 18.45,
+        "bidSize": 3100,
+        "askSize": 1200,
+        "marketCap": 8523948544,
+        "fiftyTwoWeekLow": 16.53,
+        "fiftyTwoWeekHigh": 23,
+        "priceToSalesTrailing12Months": 4.294181,
+        "fiftyDayAverage": 19.0846,
+        "twoHundredDayAverage": 19.31445,
+        "trailingAnnualDividendRate": 1.2,
+        "trailingAnnualDividendYield": 0.06451613,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.58,
+                    "estimate": 0.49
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.42,
+                    "estimate": 0.46
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.46,
+                    "estimate": 0.44
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.5,
+                    "estimate": 0.49
+                }
+            ],
+            "currentQuarterEstimate": 0.54,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675728000,
+                1676246400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1337000000,
+                    "earnings": 858000000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1528000000,
+                    "earnings": 793000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1511000000,
+                    "earnings": 484000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1820000000,
+                    "earnings": 1567000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 529000000,
+                    "earnings": 382000000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 440000000,
+                    "earnings": 211000000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 479000000,
+                    "earnings": 111000000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 537000000,
+                    "earnings": 104000000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675728000,
+                1676246400
+            ],
+            "earningsAverage": 0.54,
+            "earningsLow": 0.47,
+            "earningsHigh": 0.58,
+            "revenueAverage": 568070000,
+            "revenueLow": 536170000,
+            "revenueHigh": 594600000
+        },
+        "exDividendDate": "2022-12-14T00:00:00.000Z",
+        "dividendDate": "2018-12-28T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-27T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-26T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-26T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-24T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-28T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-27T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-27T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-27T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-04-25T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-10T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-03T00:00:00.000Z",
+                "firm": "Janney Montgomery Scott",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-10-27T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-25T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-02T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-30T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-29T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-29T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-11T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-08T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-10T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-10-27T00:00:00.000Z",
+                "firm": "Janney Montgomery Scott",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-08-05T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-24T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-17T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-04T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-16T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-13T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-13T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-07T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-02T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-03-25T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-12T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-10-22T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-23T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-19T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-07-31T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-02-13T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "Market Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-23T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-04T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "Market Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-11T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-12-06T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-11-28T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-31T00:00:00.000Z",
+                "firm": "Janney Montgomery Scott",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-08-18T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-08-09T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-08-04T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-06-28T00:00:00.000Z",
+                "firm": "National Securities Corporation",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-02-25T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-02-25T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-01T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-09-29T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-09-03T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-08-28T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-08-21T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-01T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-07-01T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-06-30T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-06-19T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-18T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-05-04T00:00:00.000Z",
+                "firm": "BB&T Capital",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-02-27T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-02-27T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-12-18T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-08-07T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-08-20T00:00:00.000Z",
+                "firm": "Sterne Agee",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-08-08T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-08-07T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-06-13T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-04-24T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-03-04T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-15T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-12-11T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-06T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-08-08T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-08T00:00:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-03-01T00:00:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.000540553,
+        "postMarketChange": 0.0100002,
+        "postMarketTime": "2023-01-07T00:56:51.000Z",
+        "postMarketPrice": 18.51,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.0053763646,
+        "regularMarketChange": -0.10000038,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 18.5,
+        "regularMarketDayHigh": 18.77,
+        "regularMarketDayLow": 18.42,
+        "regularMarketVolume": 3856573,
+        "averageDailyVolume10Day": 2618350,
+        "averageDailyVolume3Month": 2603800,
+        "regularMarketPreviousClose": 18.6,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 18.65,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARCC",
+        "underlyingSymbol": null,
+        "shortName": "Ares Capital Corporation - Clos",
+        "longName": "Ares Capital Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 8523948544
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 21676716032,
+        "forwardPE": 8.37104,
+        "profitMargins": 0.40705,
+        "sharesOutstanding": 460753984,
+        "sharesShort": 20906560,
+        "sharesShortPriorMonth": 20099354,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.041199997,
+        "heldPercentInsiders": 0.01396,
+        "heldPercentInstitutions": 0.33558,
+        "shortRatio": 7,
+        "shortPercentOfFloat": 0.0414,
+        "beta": 1.036845,
+        "category": null,
+        "bookValue": 17.465,
+        "priceToBook": 1.0592613,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.689,
+        "netIncomeToCommon": 808000000,
+        "trailingEps": 3.462,
+        "forwardEps": 1.77,
+        "pegRatio": -11.33,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 10.92
+    },
+    "summaryProfile": {
+        "address1": "2000 Avenue of the Stars",
+        "address2": "12th Floor",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90067",
+        "country": "United States",
+        "phone": "310 201 4100",
+        "fax": "310 432 8632",
+        "website": "https://www.arescapitalcorp.com",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Ares Capital Corporation is a business development company specializing in acquisition, recapitalization, mezzanine debt, restructurings, rescue financing, and leveraged buyout transactions of middle market companies. It also makes growth capital and general refinancing. It prefers to make investments in companies engaged in the basic and growth manufacturing, business services, consumer products, health care products and services, and information technology service sectors. The fund will also consider investments in industries such as restaurants, retail, oil and gas, and technology sectors. It focuses on investments in Northeast, Mid-Atlantic, Southeast and Southwest regions from its New York office, the Midwest region, from the Chicago office, and the Western region from the Los Angeles office. The fund typically invests between $20 million and $200 million and a maximum of $400 million in companies with an EBITDA between $10 million and $250 million. It makes debt investments between $10 million and $100 million The fund invests through revolvers, first lien loans, warrants, unitranche structures, second lien loans, mezzanine debt, private high yield, junior capital, subordinated debt, and non-control preferred and common equity. The fund also selectively considers third-party-led senior and subordinated debt financings and opportunistically considers the purchase of stressed and discounted debt positions. The fund prefers to be an agent and/or lead the transactions in which it invests. The fund also seeks board representation in its portfolio companies.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 18.5,
+        "targetHighPrice": 22,
+        "targetLowPrice": 20,
+        "targetMeanPrice": 21,
+        "targetMedianPrice": 21,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 14,
+        "totalCash": 257000000,
+        "totalCashPerShare": 0.506,
+        "totalDebt": 11982000128,
+        "quickRatio": 0.764,
+        "currentRatio": 0.948,
+        "totalRevenue": 1984999936,
+        "debtToEquity": 126.982,
+        "revenuePerShare": 4.099,
+        "returnOnAssets": 0.04397,
+        "returnOnEquity": 0.08991,
+        "grossProfits": 1820000000,
+        "freeCashflow": 532249984,
+        "operatingCashflow": -2766000128,
+        "earningsGrowth": -0.717,
+        "revenueGrowth": 0.215,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.72997004,
+        "profitMargins": 0.40705,
+        "financialCurrency": "USD"
+    }
+}

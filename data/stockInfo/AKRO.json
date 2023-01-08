@@ -1,0 +1,489 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AKRO",
+        "Security_Name": "Akero Therapeutics, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AKRO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 44.74,
+        "open": 44.61,
+        "dayLow": 44.055,
+        "dayHigh": 45.7,
+        "regularMarketPreviousClose": 44.74,
+        "regularMarketOpen": 44.61,
+        "regularMarketDayLow": 44.055,
+        "regularMarketDayHigh": 45.7,
+        "payoutRatio": 0,
+        "beta": -0.908745,
+        "forwardPE": -12.805715,
+        "volume": 541949,
+        "regularMarketVolume": 541949,
+        "averageVolume": 773396,
+        "averageVolume10days": 889600,
+        "averageDailyVolume10Day": 889600,
+        "bid": 37.31,
+        "ask": 49.09,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 2095926656,
+        "fiftyTwoWeekLow": 7.52,
+        "fiftyTwoWeekHigh": 54.88,
+        "fiftyDayAverage": 44.1887,
+        "twoHundredDayAverage": 23.062374,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.93,
+                    "estimate": -0.82
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.74,
+                    "estimate": -0.8
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.77,
+                    "estimate": -0.86
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.92,
+                    "estimate": -0.74
+                }
+            ],
+            "currentQuarterEstimate": -0.78,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677153600,
+                1677499200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 0,
+                    "earnings": -81714000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -43755000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -79207000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 0,
+                    "earnings": -100777000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -32424000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -26029000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -27403000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 0,
+                    "earnings": -35542000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677153600,
+                1677499200
+            ],
+            "earningsAverage": -0.78,
+            "earningsLow": -0.89,
+            "earningsHigh": -0.67
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-07T14:00:19.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-11-07T11:42:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-14T11:31:41.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-14T08:55:21.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "Outperform",
+                "fromGrade": "In-Line",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-11-15T13:31:33.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-15T11:46:46.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-19T10:51:24.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-09-10T16:15:12.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-08-16T10:40:15.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-23T11:48:27.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-23T11:04:19.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-18T12:52:08.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-17T11:02:32.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-17T10:51:04.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-26T15:39:47.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-13T11:20:10.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:23.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:21.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:21.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:20.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:20.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:14.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:13.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:07.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:07.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:07.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.00022316234,
+        "postMarketChange": 0.010002136,
+        "postMarketTime": "2023-01-06T22:40:32.000Z",
+        "postMarketPrice": 44.83,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.0017880647,
+        "regularMarketChange": 0.07999802,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 44.82,
+        "regularMarketDayHigh": 45.7,
+        "regularMarketDayLow": 44.055,
+        "regularMarketVolume": 541949,
+        "averageDailyVolume10Day": 889600,
+        "averageDailyVolume3Month": 773396,
+        "regularMarketPreviousClose": 44.74,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 44.61,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AKRO",
+        "underlyingSymbol": null,
+        "shortName": "Akero Therapeutics, Inc.",
+        "longName": "Akero Therapeutics, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2095926656
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1728993920,
+        "forwardPE": -12.805715,
+        "profitMargins": 0,
+        "floatShares": 31730225,
+        "sharesOutstanding": 46763200,
+        "sharesShort": 4119772,
+        "sharesShortPriorMonth": 4069576,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0881,
+        "heldPercentInsiders": 0.082399994,
+        "heldPercentInstitutions": 0.97761,
+        "shortRatio": 6.73,
+        "shortPercentOfFloat": 0.1042,
+        "beta": -0.908745,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 7.362,
+        "priceToBook": 6.0880194,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -121398000,
+        "trailingEps": -3.202,
+        "forwardEps": -3.5,
+        "pegRatio": 0.96,
+        "lastSplitFactor": null,
+        "enterpriseToEbitda": -14.157,
+        "52WeekChange": 1.2751269,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "601 Gateway Boulevard",
+        "address2": "Suite 350",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zip": "94080",
+        "country": "United States",
+        "phone": "650 487 6488",
+        "website": "https://www.akerotx.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Akero Therapeutics, Inc., a cardio-metabolic nonalcoholic steatohepatitis (NASH) company, engages in the development of medicines designed to restore metabolic balance and improve overall health. The company's lead product candidate is efruxifermin (EFX), an analog of fibroblast growth factor 21, which protects against cellular stress and regulates metabolism of lipids, carbohydrates, and proteins throughout the body. It also conducts a Phase 2a clinical trial, the BALANCED study, to evaluate EFX in the treatment of biopsy-confirmed NASH patients. The company was formerly known as Pippin Pharmaceuticals, Inc. and changed its name to Akero Therapeutics, Inc. in May 2018. Akero Therapeutics, Inc. was incorporated in 2017 and is headquartered in South San Francisco, California.",
+        "fullTimeEmployees": 34,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 44.82,
+        "targetHighPrice": 64,
+        "targetLowPrice": 40,
+        "targetMeanPrice": 52,
+        "targetMedianPrice": 50,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 374003008,
+        "totalCashPerShare": 7.998,
+        "ebitda": -122131000,
+        "totalDebt": 10812000,
+        "quickRatio": 14.816,
+        "currentRatio": 14.972,
+        "debtToEquity": 3.147,
+        "returnOnAssets": -0.25329,
+        "returnOnEquity": -0.44785,
+        "freeCashflow": -50136000,
+        "operatingCashflow": -93704000,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

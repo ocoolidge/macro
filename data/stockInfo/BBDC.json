@@ -1,0 +1,426 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BBDC",
+        "Security_Name": "Barings BDC, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BBDC",
+        "NASDAQ_Symbol": "BBDC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 4,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 4,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 8.37,
+        "open": 8.4,
+        "dayLow": 8.34,
+        "dayHigh": 8.46,
+        "regularMarketPreviousClose": 8.37,
+        "regularMarketOpen": 8.4,
+        "regularMarketDayLow": 8.34,
+        "regularMarketDayHigh": 8.46,
+        "dividendRate": 0.96,
+        "dividendYield": 0.1088,
+        "exDividendDate": "2022-09-06T00:00:00.000Z",
+        "payoutRatio": 2.5,
+        "fiveYearAvgDividendYield": 8.1,
+        "beta": 0.663596,
+        "trailingPE": 50,
+        "forwardPE": 9.438202,
+        "volume": 745750,
+        "regularMarketVolume": 745750,
+        "averageVolume": 454641,
+        "averageVolume10days": 544630,
+        "averageDailyVolume10Day": 544630,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1400,
+        "askSize": 1100,
+        "marketCap": 548655232,
+        "fiftyTwoWeekLow": 7.89,
+        "fiftyTwoWeekHigh": 11.28,
+        "priceToSalesTrailing12Months": 3.209667,
+        "fiftyDayAverage": 8.7354,
+        "twoHundredDayAverage": 9.4931,
+        "trailingAnnualDividendRate": 0.65,
+        "trailingAnnualDividendYield": 0.0776583,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.23,
+                    "estimate": 0.23
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.23,
+                    "estimate": 0.23
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.23,
+                    "estimate": 0.23
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.29,
+                    "estimate": 0.24
+                }
+            ],
+            "currentQuarterEstimate": 0.25,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676937600,
+                1677456000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 80223625,
+                    "earnings": -114282136
+                },
+                {
+                    "date": 2019,
+                    "revenue": 75648345,
+                    "earnings": 58191634
+                },
+                {
+                    "date": 2020,
+                    "revenue": 71031068,
+                    "earnings": 8176793
+                },
+                {
+                    "date": 2021,
+                    "revenue": 135335374,
+                    "earnings": 77685429
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 34983825,
+                    "earnings": 14410382
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 36604833,
+                    "earnings": 11478737
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 43757000,
+                    "earnings": 21032000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 55592000,
+                    "earnings": -24993000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676937600,
+                1677456000
+            ],
+            "earningsAverage": 0.25,
+            "earningsLow": 0.24,
+            "earningsHigh": 0.26,
+            "revenueAverage": 59010000,
+            "revenueLow": 55050000,
+            "revenueHigh": 61470000
+        },
+        "exDividendDate": "2022-09-06T00:00:00.000Z",
+        "dividendDate": "2022-12-14T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-24T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-11T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-05-09T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-25T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-11T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-08T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-21T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-08-18T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-06-24T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-04T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-02T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-25T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-23T00:00:00.000Z",
+                "firm": "National Securities Corporation",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-03-01T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-02-04T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-09-11T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.00714279,
+        "postMarketChange": -0.0599995,
+        "postMarketTime": "2023-01-07T00:56:18.000Z",
+        "postMarketPrice": 8.34,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.0035841975,
+        "regularMarketChange": 0.029999733,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 8.4,
+        "regularMarketDayHigh": 8.46,
+        "regularMarketDayLow": 8.34,
+        "regularMarketVolume": 745750,
+        "averageDailyVolume10Day": 544630,
+        "averageDailyVolume3Month": 454641,
+        "regularMarketPreviousClose": 8.37,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 8.4,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BBDC",
+        "underlyingSymbol": null,
+        "shortName": "Barings BDC, Inc.",
+        "longName": "Barings BDC, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 548655232
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 2298221056,
+        "forwardPE": 8,
+        "profitMargins": 0.12828,
+        "floatShares": 95052208,
+        "sharesOutstanding": 65316100,
+        "sharesShort": 1317261,
+        "sharesShortPriorMonth": 581444,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0121,
+        "heldPercentInsiders": 0.00464,
+        "heldPercentInstitutions": 0.51474,
+        "shortRatio": 2.46,
+        "shortPercentOfFloat": 0.0139,
+        "beta": 0.663596,
+        "category": null,
+        "bookValue": 10.99,
+        "priceToBook": 0.76433116,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": 21927428,
+        "trailingEps": 0.168,
+        "forwardEps": 0.89,
+        "pegRatio": 1.71,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 13.445
+    },
+    "summaryProfile": {
+        "address1": "300 South Tryon Street",
+        "address2": "Suite 2500",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28202",
+        "country": "United States",
+        "phone": "888-401-1088",
+        "website": "https://www.barings.com/en-us/guest/funds/business-development-companies/barings-bdc",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Barings BDC, Inc. is a publicly traded, externally managed investment company that has elected to be treated as a business development company under the Investment Company Act of 1940. It seeks to invest primarily in senior secured loans, first lien debt, unitranche, second lien debt, subordinated debt, equity co-investments and senior secured private debt investments in private middle-market companies that operate across a wide range of industries. It specializes in mezzanine, leveraged buyouts, management buyouts, ESOPs, change of control transactions, acquisition financings, growth financing, and recapitalizations in lower middle market, mature, and later stage companies. It invests in manufacturing and distribution; business services and technology; transportation and logistics; consumer product and services. It invests in United States. It invests in companies with EBITDA of $10 million to $75 million, typically in private equity sponsor backed.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 8.4,
+        "targetHighPrice": 11.75,
+        "targetLowPrice": 9,
+        "targetMeanPrice": 10.96,
+        "targetMedianPrice": 11.5,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 197770000,
+        "totalCashPerShare": 1.811,
+        "totalDebt": 1532601984,
+        "quickRatio": 12.793,
+        "currentRatio": 14.841,
+        "totalRevenue": 170938368,
+        "debtToEquity": 122.327,
+        "revenuePerShare": 2.109,
+        "returnOnAssets": 0.033269998,
+        "returnOnEquity": 0.021960001,
+        "grossProfits": 135335374,
+        "freeCashflow": 24075056,
+        "operatingCashflow": -270233440,
+        "revenueGrowth": 0.677,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.72192,
+        "profitMargins": 0.12828,
+        "financialCurrency": "USD"
+    }
+}

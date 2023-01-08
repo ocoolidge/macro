@@ -1,0 +1,272 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AVK",
+        "Security_Name": "Advent Convertible and Income Fund",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AVK",
+        "NASDAQ_Symbol": "AVK",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 11.37,
+        "open": 11.42,
+        "dayLow": 11.3806,
+        "dayHigh": 11.67,
+        "regularMarketPreviousClose": 11.37,
+        "regularMarketOpen": 11.42,
+        "regularMarketDayLow": 11.3806,
+        "regularMarketDayHigh": 11.67,
+        "dividendRate": 1.41,
+        "dividendYield": 0.1244,
+        "exDividendDate": "2023-01-12T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 9.48,
+        "beta": 1.304848,
+        "trailingPE": 2.0676157,
+        "forwardPE": -387.33334,
+        "volume": 117546,
+        "regularMarketVolume": 117546,
+        "averageVolume": 129351,
+        "averageVolume10days": 173830,
+        "averageDailyVolume10Day": 173830,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 1300,
+        "marketCap": 401979968,
+        "fiftyTwoWeekLow": 10.34,
+        "fiftyTwoWeekHigh": 18.48,
+        "priceToSalesTrailing12Months": 14.646538,
+        "fiftyDayAverage": 11.6152,
+        "twoHundredDayAverage": 12.81645,
+        "trailingAnnualDividendRate": 1.406,
+        "trailingAnnualDividendYield": 0.123658754,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 39338950,
+                    "earnings": 53264511
+                },
+                {
+                    "date": 2020,
+                    "revenue": 32910403,
+                    "earnings": 38730367
+                },
+                {
+                    "date": 2021,
+                    "revenue": 27793253,
+                    "earnings": 189556493
+                },
+                {
+                    "date": 2022,
+                    "revenue": 27445393,
+                    "earnings": -170856036
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2022",
+                    "revenue": 6363909,
+                    "earnings": -55096599
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 6363909,
+                    "earnings": -55096599
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 7358788,
+                    "earnings": -30331419
+                },
+                {
+                    "date": "4Q2022",
+                    "revenue": 7358788,
+                    "earnings": -30331419
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": []
+        },
+        "exDividendDate": "2023-01-12T00:00:00.000Z",
+        "dividendDate": "2019-01-31T00:00:00.000Z"
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.0017211278,
+        "postMarketChange": -0.019999504,
+        "postMarketTime": "2023-01-06T23:29:49.000Z",
+        "postMarketPrice": 11.6,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.021987688,
+        "regularMarketChange": 0.25,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 11.62,
+        "regularMarketDayHigh": 11.67,
+        "regularMarketDayLow": 11.3806,
+        "regularMarketVolume": 117546,
+        "averageDailyVolume10Day": 173830,
+        "averageDailyVolume3Month": 129351,
+        "regularMarketPreviousClose": 11.37,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 11.42,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AVK",
+        "underlyingSymbol": null,
+        "shortName": "Advent Claymore Convertible Sec",
+        "longName": "Advent Convertible and Income Fund",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 401979968
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 742338944,
+        "profitMargins": 0,
+        "sharesOutstanding": 34593800,
+        "sharesShort": 9560,
+        "sharesShortPriorMonth": 19270,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.00029999999,
+        "heldPercentInsiders": 0.0040599997,
+        "heldPercentInstitutions": 0.29598,
+        "shortRatio": 0.07,
+        "shortPercentOfFloat": 0.00029999999,
+        "beta": 1.304848,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 12.405,
+        "priceToBook": 0.93671906,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-10-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-10-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-10-31T00:00:00.000Z",
+        "netIncomeToCommon": -170856032,
+        "trailingEps": 5.62,
+        "forwardEps": -0.03,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 27.048,
+        "52WeekChange": -0.36363637,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.117,
+        "lastDividendDate": 1670976000
+    },
+    "summaryProfile": {
+        "address1": "888  Seventh Avenue",
+        "address2": "31st Floor",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10019",
+        "country": "United States",
+        "phone": "212-482-1600",
+        "fax": "212-480-9655",
+        "website": "https://www.guggenheimfunds.com/cef/fund/avk",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Advent Claymore Convertible Securities and Income Fund is a closed-ended fixed income mutual fund launched and managed by Advent Capital Management, LLC. The fund primarily invests in the fixed income markets of the United States. It seeks to invest in securities of companies operating across the diversified sectors. The fund invests approximately 60% of its portfolio in convertible securities and rest in lower-grade non-convertible income securities. It employs fundamental analysis to create its portfolio. Advent Claymore Convertible Securities and Income Fund was formed on April 29, 2003 and is domiciled in the United States.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 11.62,
+        "recommendationKey": "none",
+        "totalCash": 7367,
+        "totalCashPerShare": 0,
+        "totalDebt": 349015168,
+        "quickRatio": 0.086,
+        "currentRatio": 0.092,
+        "totalRevenue": 27445392,
+        "debtToEquity": 81.332,
+        "revenuePerShare": 0.793,
+        "returnOnAssets": 0.01314,
+        "returnOnEquity": -0.30389,
+        "grossProfits": 27445393,
+        "freeCashflow": 7540473,
+        "operatingCashflow": 69703136,
+        "revenueGrowth": 0.099,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.69969004,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

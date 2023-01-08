@@ -1,0 +1,487 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AJX",
+        "Security_Name": "Great Ajax Corp. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AJX",
+        "NASDAQ_Symbol": "AJX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 7.52,
+        "open": 7.61,
+        "dayLow": 7.56,
+        "dayHigh": 7.8191,
+        "regularMarketPreviousClose": 7.52,
+        "regularMarketOpen": 7.61,
+        "regularMarketDayLow": 7.56,
+        "regularMarketDayHigh": 7.8191,
+        "dividendRate": 1.08,
+        "dividendYield": 0.1436,
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 9.25,
+        "beta": 1.714684,
+        "trailingPE": 17.333334,
+        "forwardPE": 7.428572,
+        "volume": 37107,
+        "regularMarketVolume": 37107,
+        "averageVolume": 67651,
+        "averageVolume10days": 73840,
+        "averageDailyVolume10Day": 73840,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1800,
+        "askSize": 900,
+        "marketCap": 178562288,
+        "fiftyTwoWeekLow": 7.02,
+        "fiftyTwoWeekHigh": 13.48,
+        "priceToSalesTrailing12Months": 3.509134,
+        "fiftyDayAverage": 7.774,
+        "twoHundredDayAverage": 9.15375,
+        "trailingAnnualDividendRate": 1.03,
+        "trailingAnnualDividendYield": 0.13696808,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.32,
+                    "estimate": 0.38
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.15,
+                    "estimate": 0.35
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.4,
+                    "estimate": 0.31
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.71,
+                    "estimate": 0.11
+                }
+            ],
+            "currentQuarterEstimate": 0.13,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677668340,
+                1678104000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 56834000,
+                    "earnings": 28340000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 63530000,
+                    "earnings": 34705000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 61896000,
+                    "earnings": 28496000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 76041000,
+                    "earnings": 41855000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 18773000,
+                    "earnings": 9312000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 14560000,
+                    "earnings": 5535000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 8262000,
+                    "earnings": -4797000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 9280000,
+                    "earnings": -9461000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677668340,
+                1678104000
+            ],
+            "earningsAverage": 0.13,
+            "earningsLow": -0.09,
+            "earningsHigh": 0.27,
+            "revenueAverage": 10770000,
+            "revenueLow": 8630000,
+            "revenueHigh": 13460000
+        },
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "dividendDate": "2022-11-29T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-01T09:37:08.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-25T13:43:20.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-18T11:51:39.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-21T12:44:11.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-18T09:02:46.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-05-17T11:55:32.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-26T11:08:47.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-18T13:56:05.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-30T10:40:18.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-05-21T11:23:59.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-09T13:19:41.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-24T10:38:23.000Z",
+                "firm": "BTIG",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-20T12:22:01.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-14T11:24:46.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-06T11:39:17.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-02T12:18:15.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-11-08T16:07:54.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-11-22T13:40:20.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-11-09T13:02:10.000Z",
+                "firm": "Nomura",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-20T10:15:23.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-06-20T11:47:56.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-03-11T06:23:16.000Z",
+                "firm": "Sterne Agee",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-03-11T06:14:29.000Z",
+                "firm": "Nomura",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-03-11T06:14:28.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.0051282,
+        "postMarketChange": 0.03999996,
+        "postMarketTime": "2023-01-06T22:37:15.000Z",
+        "postMarketPrice": 7.84,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.03723407,
+        "regularMarketChange": 0.2800002,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 7.8,
+        "regularMarketDayHigh": 7.8191,
+        "regularMarketDayLow": 7.56,
+        "regularMarketVolume": 37107,
+        "averageDailyVolume10Day": 73840,
+        "averageDailyVolume3Month": 67651,
+        "regularMarketPreviousClose": 7.52,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 7.61,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AJX",
+        "underlyingSymbol": null,
+        "shortName": "Great Ajax Corp.",
+        "longName": "Great Ajax Corp.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 178562288
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1308426496,
+        "forwardPE": 7.428572,
+        "profitMargins": 0.011569999,
+        "floatShares": 22078801,
+        "sharesOutstanding": 22892600,
+        "sharesShort": 61980,
+        "sharesShortPriorMonth": 65186,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0027,
+        "heldPercentInsiders": 0.09332,
+        "heldPercentInstitutions": 0.64636004,
+        "shortRatio": 0.94,
+        "shortPercentOfFloat": 0.0044,
+        "beta": 1.714684,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 13.755,
+        "priceToBook": 0.56706655,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -14301000,
+        "trailingEps": 0.45,
+        "forwardEps": 1.05,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 25.713,
+        "52WeekChange": -0.41397446,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.27,
+        "lastDividendDate": 1668384000
+    },
+    "summaryProfile": {
+        "address1": "13190 SW 68th Parkway",
+        "address2": "Suite 201",
+        "city": "Tigard",
+        "state": "OR",
+        "zip": "97223",
+        "country": "United States",
+        "phone": "503 505 5670",
+        "website": "https://www.greatajax.com",
+        "industry": "REIT—Mortgage",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Great Ajax Corp., real estate company, acquires, invests in, and manages a portfolio of residential mortgage and small balance commercial mortgage loans. The company also holds real estate owned properties acquired upon the foreclosure or other settlement of its non-performing loans, as well as through outright purchases. In addition, it acquires and originates small balance commercial loans (SBC) secured by multi-family residential and commercial mixed-use retail/residential properties; and invests in single-family and smaller commercial properties through a foreclosure event of a loan or a direct acquisition. The company elected to be taxed as a real estate investment trust for U.S. federal income tax purposes. It generally would not be subject to federal corporate income taxes, if it distributes at least 90% of its taxable income to its stockholders. Great Ajax Corp. was incorporated in 2014 and is based in Tigard, Oregon.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 7.8,
+        "targetHighPrice": 14,
+        "targetLowPrice": 11,
+        "targetMeanPrice": 12.8,
+        "targetMedianPrice": 14,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 72896000,
+        "totalCashPerShare": 3.184,
+        "totalDebt": 1166032000,
+        "quickRatio": 1.851,
+        "currentRatio": 1.884,
+        "totalRevenue": 50885000,
+        "debtToEquity": 331.734,
+        "revenuePerShare": 2.234,
+        "returnOnAssets": 0.00039,
+        "returnOnEquity": 0.0014599999,
+        "grossProfits": 68280000,
+        "operatingCashflow": 3735000,
+        "revenueGrowth": -0.497,
+        "grossMargins": 0.83347,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.53381,
+        "profitMargins": 0.011569999,
+        "financialCurrency": "USD"
+    }
+}

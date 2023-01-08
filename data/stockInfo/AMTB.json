@@ -1,0 +1,442 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMTB",
+        "Security_Name": "Amerant Bancorp Inc. - Class A Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AMTB",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 26.81,
+        "open": 27.01,
+        "dayLow": 26.995,
+        "dayHigh": 27.34,
+        "regularMarketPreviousClose": 26.81,
+        "regularMarketOpen": 27.01,
+        "regularMarketDayLow": 26.995,
+        "regularMarketDayHigh": 27.34,
+        "dividendRate": 0.36,
+        "dividendYield": 0.012,
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "payoutRatio": 0.1082,
+        "trailingPE": 118.908295,
+        "forwardPE": 16.603659,
+        "volume": 76420,
+        "regularMarketVolume": 76420,
+        "averageVolume": 80303,
+        "averageVolume10days": 72580,
+        "averageDailyVolume10Day": 72580,
+        "bid": 10.88,
+        "ask": 43.52,
+        "bidSize": 800,
+        "askSize": 1800,
+        "marketCap": 1010320128,
+        "fiftyTwoWeekLow": 24.41,
+        "fiftyTwoWeekHigh": 36.14,
+        "priceToSalesTrailing12Months": 2.6837597,
+        "fiftyDayAverage": 28.5234,
+        "twoHundredDayAverage": 27.99505,
+        "trailingAnnualDividendRate": 0.94,
+        "trailingAnnualDividendYield": 0.035061546,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.52,
+                    "estimate": 0.4
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.45,
+                    "estimate": 0.42
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.23,
+                    "estimate": 0.46
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.62,
+                    "estimate": 0.53
+                }
+            ],
+            "currentQuarterEstimate": 0.67,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1673913600,
+                1674432000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 271657000,
+                    "earnings": 45833000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 274234000,
+                    "earnings": 51334000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 174475000,
+                    "earnings": -1722000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 344750000,
+                    "earnings": 112921000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 139570000,
+                    "earnings": 65469000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 80384000,
+                    "earnings": 15950000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 71874000,
+                    "earnings": 7674000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 82853000,
+                    "earnings": 20920000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1673913600,
+                1674432000
+            ],
+            "earningsAverage": 0.67,
+            "earningsLow": 0.6,
+            "earningsHigh": 0.72,
+            "revenueAverage": 90680000,
+            "revenueLow": 87290000,
+            "revenueHigh": 92220000
+        },
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "dividendDate": "2022-11-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-24T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-22T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-21T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-08T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-10-22T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-07T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-30T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-06-03T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-05-14T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-05-03T00:00:00.000Z",
+                "firm": "Janney Montgomery Scott",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-10-06T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-19T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-13T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-05-30T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-05-20T00:00:00.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-04-29T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-01-16T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-01-14T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-01-14T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:10:01.000Z",
+        "postMarketPrice": 27.23,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.0156658,
+        "regularMarketChange": 0.42000008,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 27.23,
+        "regularMarketDayHigh": 27.34,
+        "regularMarketDayLow": 26.995,
+        "regularMarketVolume": 76420,
+        "averageDailyVolume10Day": 72580,
+        "averageDailyVolume3Month": 80303,
+        "regularMarketPreviousClose": 26.81,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 27.01,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMTB",
+        "underlyingSymbol": null,
+        "shortName": "Amerant Bancorp Inc.",
+        "longName": "Amerant Bancorp Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1010320128
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 2024408960,
+        "forwardPE": 10.198502,
+        "profitMargins": 0.29223,
+        "floatShares": 25283065,
+        "sharesOutstanding": 37103200,
+        "sharesShort": 667417,
+        "sharesShortPriorMonth": 658771,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0198,
+        "heldPercentInsiders": 0.19217,
+        "heldPercentInstitutions": 0.38773,
+        "shortRatio": 11.59,
+        "shortPercentOfFloat": 0.0231,
+        "category": null,
+        "bookValue": 20.701,
+        "priceToBook": 1.3153954,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.228,
+        "netIncomeToCommon": 110013000,
+        "trailingEps": 0.229,
+        "forwardEps": 1.64,
+        "lastSplitFactor": "1:3",
+        "lastSplitDate": "2018-10-24T00:00:00.000Z",
+        "enterpriseToRevenue": 5.378
+    },
+    "summaryProfile": {
+        "address1": "220 Alhambra Circle",
+        "city": "Coral Gables",
+        "state": "FL",
+        "zip": "33134",
+        "country": "United States",
+        "phone": "305 460 8728",
+        "fax": "305 460 4010",
+        "website": "https://www.amerantbank.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Amerant Bancorp Inc. operates as the bank holding company for Amerant Bank, N.A. that provides banking products and services to individuals and businesses in the United States and internationally. The company offers checking, savings, and money market accounts; and certificates of deposits. It also provides variable and fixed rate commercial real estate loans; loans secured by owner-occupied properties; loans to domestic and foreign individuals primarily secured by personal residence; working capital loans, asset-based lending, participations in shared national credits, purchased receivables, and small business administration loans; loans to financial institutions and acceptances; and consumer loans and overdrafts, such as automobile, personal, or loans secured by cash or securities and revolving credit card agreements. In addition, the company offers trust and estate planning products and services to high-net-worth customers, brokerage and investment advisory services in global capital markets, and wealth management and fiduciary services. Further, it provides debit and credit cards, night depositories, direct deposits, cashier's checks, safe deposit boxes, letters of credit, and treasury management services, including wire transfer, remote deposit capture, and automated clearinghouse services; derivative instruments; and online and mobile banking, account balances, statements and other documents, online transfers and bill payment, and electronic delivery of customer statements services, as well as automated teller machines, and banking by mobile devices, telephone, and mail. As of December 31, 2021, the company operated 24 banking centers comprising 17 in Florida and 7 in Texas. It also operates loan production offices in Tampa, Florida. The company was formerly known as Mercantil Bank Holding Corporation and changed its name to Amerant Bancorp Inc. in June 2019. Amerant Bancorp Inc. was founded in 1979 and is headquartered in Coral Gables, Florida.",
+        "fullTimeEmployees": 763,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 27.23,
+        "targetHighPrice": 36.5,
+        "targetLowPrice": 33,
+        "targetMeanPrice": 34.7,
+        "targetMedianPrice": 35,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 256096992,
+        "totalCashPerShare": 7.65,
+        "totalDebt": 1274466048,
+        "totalRevenue": 376456992,
+        "revenuePerShare": 10.868,
+        "returnOnAssets": 0.01324,
+        "returnOnEquity": 0.14241,
+        "grossProfits": 344750000,
+        "earningsGrowth": 0.378,
+        "revenueGrowth": 0.179,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.40886003,
+        "profitMargins": 0.29223,
+        "financialCurrency": "USD"
+    }
+}

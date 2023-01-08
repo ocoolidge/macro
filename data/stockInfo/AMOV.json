@@ -1,0 +1,689 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMOV",
+        "Security_Name": "America Movil, S.A.B. de C.V. Class A American Depositary Shares",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AMOV",
+        "NASDAQ_Symbol": "AMOV",
+        "NextShares": "N"
+    },
+    "history": [],
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 18.71,
+        "open": 18.85,
+        "dayLow": 19.0447,
+        "dayHigh": 19.23,
+        "regularMarketPreviousClose": 18.71,
+        "regularMarketOpen": 18.85,
+        "regularMarketDayLow": 19.0447,
+        "regularMarketDayHigh": 19.23,
+        "dividendRate": 0.64,
+        "dividendYield": 0.035099998,
+        "exDividendDate": "2022-08-25T00:00:00.000Z",
+        "payoutRatio": 0.5062,
+        "fiveYearAvgDividendYield": 2.32,
+        "beta": 0.296439,
+        "trailingPE": 16.417847,
+        "volume": 999,
+        "regularMarketVolume": 999,
+        "averageVolume": 5193,
+        "averageVolume10days": 6400,
+        "averageDailyVolume10Day": 6400,
+        "bid": 7.34,
+        "ask": 29.32,
+        "bidSize": 1400,
+        "askSize": 2900,
+        "marketCap": 61619130368,
+        "fiftyTwoWeekLow": 15.86,
+        "fiftyTwoWeekHigh": 22.57,
+        "priceToSalesTrailing12Months": 0.07072144,
+        "fiftyDayAverage": 18.8708,
+        "twoHundredDayAverage": 19.02715,
+        "trailingAnnualDividendRate": 0.4,
+        "trailingAnnualDividendYield": 0.021378944,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": []
+        },
+        "exDividendDate": "2022-08-25T00:00:00.000Z",
+        "dividendDate": "2022-12-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-26T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-17T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-20T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-09-20T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-08-04T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-07-14T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-18T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-10-14T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-06T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-08-17T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-16T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "Sector Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-04T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-04-05T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-11-29T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-11-26T00:00:00.000Z",
+                "firm": "Bradesco Corretora",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-07T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-06-25T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-04-03T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-15T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-08-21T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-08-10T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-07-10T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-04-25T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-04-10T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-01-12T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-11-22T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-10-28T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-07-18T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-06-22T00:00:00.000Z",
+                "firm": "BTIG",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-04-29T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-28T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-28T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-28T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-01-26T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-11T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-12-17T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-12-11T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-11-17T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-10-12T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-23T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-07-21T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-28T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-27T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-27T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-16T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-10-10T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "",
+                "fromGrade": "",
+                "action": ""
+            },
+            {
+                "epochGradeDate": "2014-09-03T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-21T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-07-18T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-05-23T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-23T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-03-25T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-03-25T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-03-12T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Market Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-03-10T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Sector Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-02-20T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-02-14T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-08-19T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-08-14T00:00:00.000Z",
+                "firm": "BBVA",
+                "toGrade": "Underperform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-08-07T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-04-15T00:00:00.000Z",
+                "firm": "Bernstein",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-03-26T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-03-22T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Market Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-03-19T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-03-13T00:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-03-12T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-02-20T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-02-15T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-02-13T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Underperform",
+                "fromGrade": "Market Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-05T00:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-05-23T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-05-09T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "Sector Underperform",
+                "fromGrade": "Sector Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-02-13T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Sector Underperform",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.0178889,
+        "regularMarketChange": 0.334702,
+        "regularMarketTime": "2023-01-06T16:13:50.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 19.0447,
+        "regularMarketDayHigh": 19.23,
+        "regularMarketDayLow": 19.0447,
+        "regularMarketVolume": 999,
+        "averageDailyVolume10Day": 6400,
+        "averageDailyVolume3Month": 5193,
+        "regularMarketPreviousClose": 18.71,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 18.85,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMOV",
+        "underlyingSymbol": null,
+        "shortName": "America Movil, S.A.B. de C.V.",
+        "longName": "América Móvil, S.A.B. de C.V.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 61619130368
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 661719220224,
+        "profitMargins": 0.22316,
+        "floatShares": 760573044,
+        "sharesOutstanding": 3235500032,
+        "sharesShort": 171,
+        "sharesShortPriorMonth": 2242,
+        "sharesShortPreviousMonthDate": 1661904000,
+        "dateShortInterest": 1664496000,
+        "sharesPercentSharesOut": 0,
+        "heldPercentInsiders": 0,
+        "heldPercentInstitutions": 0.06686,
+        "shortRatio": 0.05,
+        "beta": 0.296439,
+        "category": null,
+        "bookValue": 68.36,
+        "priceToBook": 0.27859423,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.137,
+        "netIncomeToCommon": 81647886336,
+        "trailingEps": 1.16,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "2011-07-01T00:00:00.000Z",
+        "enterpriseToRevenue": 0.759,
+        "enterpriseToEbitda": 2.313
+    },
+    "summaryProfile": {
+        "address1": "Lago Zurich 245",
+        "address2": "Plaza Carso / Edificio Telcel, Piso 16 Colonia Ampliación Granada Miguel Hidalgo",
+        "city": "Mexico City",
+        "state": "DF",
+        "zip": "11529",
+        "country": "Mexico",
+        "phone": "52 55 2581 3700",
+        "fax": "52 55 2581 4422",
+        "website": "https://www.americamovil.com",
+        "industry": "Telecom Services",
+        "sector": "Communication Services",
+        "longBusinessSummary": "América Móvil, S.A.B. de C.V. provides telecommunications services in Latin America and internationally. The company offers wireless and fixed voice services, including local, domestic, and international long-distance services; and network interconnection services. It also provides data services, such as data centers, data administration, and hosting services to residential and corporate clients; value-added services, including Internet access, messaging, and other wireless entertainment and corporate services; data transmission, email services, instant messaging, content streaming, and interactive applications; and wireless security services, mobile payment solutions, machine-to-machine services, mobile banking, virtual private network services, and video calls and personal communications services. In addition, the company offers residential broadband services; IT solutions for small businesses and large corporations; and cable and satellite pay television subscriptions. Further, it sells equipment, accessories, and computers; and offers telephone directories, wireless security, call center, advertising, media, and software development services. Additionally, the company provides video, audio, and other media content through the Internet directly from the content provider to the end user. It sells its products and services under the Telcel, Telmex Infinitum, and A1 brands through a network of retailers and service centers to retail customers; and through sales force to corporate customers. As of December 31, 2021, the company had approximately 286.5 million wireless voice and data subscribers. América Móvil, S.A.B. de C.V. was incorporated in 2000 and is based in Mexico City, Mexico.",
+        "fullTimeEmployees": 178399,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 19.0447,
+        "recommendationKey": "none",
+        "totalCash": 116681080832,
+        "totalCashPerShare": 36.682,
+        "ebitda": 286109401088,
+        "totalDebt": 658685755392,
+        "quickRatio": 0.606,
+        "currentRatio": 0.694,
+        "totalRevenue": 871293452288,
+        "debtToEquity": 152.63,
+        "revenuePerShare": 272.76,
+        "returnOnAssets": 0.05827,
+        "returnOnEquity": 0.22779,
+        "grossProfits": 514475209000,
+        "freeCashflow": 139041423360,
+        "operatingCashflow": 205607370752,
+        "earningsGrowth": 0.167,
+        "revenueGrowth": 0.018,
+        "grossMargins": 0.60362,
+        "ebitdaMargins": 0.32837,
+        "operatingMargins": 0.17295,
+        "profitMargins": 0.22316,
+        "financialCurrency": "MXN"
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ALCO",
+        "Security_Name": "Alico, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ALCO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 23.79,
+        "open": 23.84,
+        "dayLow": 23.62,
+        "dayHigh": 24.29,
+        "regularMarketPreviousClose": 23.79,
+        "regularMarketOpen": 23.84,
+        "regularMarketDayLow": 23.62,
+        "regularMarketDayHigh": 24.29,
+        "dividendRate": 0.2,
+        "dividendYield": 0.0083,
+        "exDividendDate": "2022-12-29T00:00:00.000Z",
+        "payoutRatio": 1.2121,
+        "fiveYearAvgDividendYield": 2.21,
+        "beta": 0.792465,
+        "trailingPE": 14.6,
+        "forwardPE": 54.75,
+        "volume": 75126,
+        "regularMarketVolume": 75126,
+        "averageVolume": 60341,
+        "averageVolume10days": 91620,
+        "averageDailyVolume10Day": 91620,
+        "bid": 23.55,
+        "ask": 25.23,
+        "bidSize": 1100,
+        "askSize": 900,
+        "marketCap": 182913920,
+        "fiftyTwoWeekLow": 23,
+        "fiftyTwoWeekHigh": 43.65,
+        "priceToSalesTrailing12Months": 1.9893408,
+        "fiftyDayAverage": 28.542,
+        "twoHundredDayAverage": 34.01675,
+        "trailingAnnualDividendRate": 2,
+        "trailingAnnualDividendYield": 0.08406893,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.24,
+                    "estimate": -0.29
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.06,
+                    "estimate": 0.01
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.21,
+                    "estimate": 0.06
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.17,
+                    "estimate": -0.25
+                }
+            ],
+            "currentQuarterEstimate": -0.31,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675258200,
+                1675690200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 122251000,
+                    "earnings": 37833000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 92507000,
+                    "earnings": 23662000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 108564000,
+                    "earnings": 34859000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 91947000,
+                    "earnings": 12459000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 15337000,
+                    "earnings": 10131000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 49641000,
+                    "earnings": 20702000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 25938000,
+                    "earnings": 2706000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 1031000,
+                    "earnings": -21080000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675258200,
+                1675690200
+            ],
+            "earningsAverage": -0.31,
+            "earningsLow": -0.31,
+            "earningsHigh": -0.31,
+            "revenueAverage": 8100000,
+            "revenueLow": 8100000,
+            "revenueHigh": 8100000
+        },
+        "exDividendDate": "2022-12-29T00:00:00.000Z",
+        "dividendDate": "2023-01-13T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2021-08-06T12:54:33.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-21T14:55:17.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-11-08T05:58:00.000Z",
+                "firm": "Taglich Brothers",
+                "toGrade": "Speculative Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-05-15T07:41:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-05-07T11:51:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.022415979,
+        "postMarketChange": -0.5400009,
+        "postMarketTime": "2023-01-06T22:50:12.000Z",
+        "postMarketPrice": 23.55,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.012610308,
+        "regularMarketChange": 0.29999924,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 24.09,
+        "regularMarketDayHigh": 24.29,
+        "regularMarketDayLow": 23.62,
+        "regularMarketVolume": 75126,
+        "averageDailyVolume10Day": 91620,
+        "averageDailyVolume3Month": 60341,
+        "regularMarketPreviousClose": 23.79,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 23.84,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ALCO",
+        "underlyingSymbol": null,
+        "shortName": "Alico, Inc.",
+        "longName": "Alico, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 182913920
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 298848864,
+        "forwardPE": 54.75,
+        "profitMargins": 0.1355,
+        "floatShares": 4792586,
+        "sharesOutstanding": 7592940,
+        "sharesShort": 196370,
+        "sharesShortPriorMonth": 227245,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.025899999,
+        "heldPercentInsiders": 0.3978,
+        "heldPercentInstitutions": 0.48286,
+        "shortRatio": 3.03,
+        "shortPercentOfFloat": 0.0313,
+        "beta": 0.792465,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 32.126,
+        "priceToBook": 0.7498599,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-09-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-09-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": 12459000,
+        "trailingEps": 1.65,
+        "forwardEps": 0.44,
+        "lastSplitFactor": "4:1",
+        "lastSplitDate": "1987-02-23T00:00:00.000Z",
+        "enterpriseToRevenue": 3.25,
+        "enterpriseToEbitda": 24.985,
+        "52WeekChange": -0.36066878,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.05,
+        "lastDividendDate": 1672272000
+    },
+    "summaryProfile": {
+        "address1": "10070 Daniels Interstate Court",
+        "address2": "Suite 200",
+        "city": "Fort Myers",
+        "state": "FL",
+        "zip": "33913",
+        "country": "United States",
+        "phone": "239 226 2000",
+        "website": "https://www.alicoinc.com",
+        "industry": "Farm Products",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Alico, Inc., together with its subsidiaries, operates as an agribusiness and land management company in the United States. The company operates in two segments, Alico Citrus, and Land Management and Other Operations. The Alico Citrus segment cultivates citrus trees to produce citrus for delivery to the processed and fresh citrus markets. The Land Management and Other Operations segment owns and manages land in Collier, Glades, and Hendry Counties; and leasing of land for recreational and grazing purposes, conservation, and mining activities. As of September 30, 2022, it had 74,000 acres of land situated in eight counties in Florida, which include the Charlotte, Collier, DeSoto, Glades, Hardee, Hendry, Highlands, and Polk. The company was founded in 1960 and is headquartered in Fort Myers, Florida.",
+        "fullTimeEmployees": 206,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 24.09,
+        "targetHighPrice": 32,
+        "targetLowPrice": 32,
+        "targetMeanPrice": 32,
+        "targetMedianPrice": 32,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 865000,
+        "totalCashPerShare": 0.114,
+        "ebitda": 11961000,
+        "totalDebt": 111677000,
+        "quickRatio": 0.139,
+        "currentRatio": 1.913,
+        "totalRevenue": 91947000,
+        "debtToEquity": 44.874,
+        "revenuePerShare": 12.162,
+        "returnOnAssets": -0.00485,
+        "returnOnEquity": 0.04764,
+        "grossProfits": 6811000,
+        "freeCashflow": 10385000,
+        "operatingCashflow": 6523000,
+        "revenueGrowth": -0.742,
+        "grossMargins": 0.07407,
+        "ebitdaMargins": 0.13008,
+        "operatingMargins": -0.03554,
+        "profitMargins": 0.1355,
+        "financialCurrency": "USD"
+    }
+}

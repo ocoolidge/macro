@@ -1,0 +1,417 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ASUR",
+        "Security_Name": "Asure Software Inc - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ASUR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 9.63,
+        "open": 9.73,
+        "dayLow": 9.51,
+        "dayHigh": 10.05,
+        "regularMarketPreviousClose": 9.63,
+        "regularMarketOpen": 9.73,
+        "regularMarketDayLow": 9.51,
+        "regularMarketDayHigh": 10.05,
+        "payoutRatio": 0,
+        "beta": 0.799189,
+        "forwardPE": 35.5,
+        "volume": 93264,
+        "regularMarketVolume": 93264,
+        "averageVolume": 105167,
+        "averageVolume10days": 126090,
+        "averageDailyVolume10Day": 126090,
+        "bid": 9.5,
+        "ask": 9.83,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 198486880,
+        "fiftyTwoWeekLow": 4.87,
+        "fiftyTwoWeekHigh": 10.52,
+        "priceToSalesTrailing12Months": 2.3706436,
+        "fiftyDayAverage": 7.9748,
+        "twoHundredDayAverage": 6.24905,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.01,
+                    "estimate": -0.02
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.02,
+                    "estimate": -0.04
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.11,
+                    "estimate": 0.06
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.04,
+                    "estimate": -0.07
+                }
+            ],
+            "currentQuarterEstimate": -0.03,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678665600,
+                1679011200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 63626000,
+                    "earnings": -7548000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 73150000,
+                    "earnings": 30001000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 65507000,
+                    "earnings": -16311000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 76064000,
+                    "earnings": 3193000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 17981000,
+                    "earnings": 5328000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 21113000,
+                    "earnings": -4301000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 24333000,
+                    "earnings": -3017000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 20300000,
+                    "earnings": -5860000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678665600,
+                1679011200
+            ],
+            "earningsAverage": -0.03,
+            "earningsLow": -0.05,
+            "earningsHigh": -0.02,
+            "revenueAverage": 21260000,
+            "revenueLow": 21200000,
+            "revenueHigh": 21300000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2021-11-09T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-12T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-11T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-24T00:00:00.000Z",
+                "firm": "Craig-Hallum",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-13T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-12T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-10T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-31T00:00:00.000Z",
+                "firm": "Dougherty & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-09-06T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-05-08T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-28T00:00:00.000Z",
+                "firm": "Wunderlich Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-21T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-17T00:00:00.000Z",
+                "firm": "Lake Street",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-07-08T00:00:00.000Z",
+                "firm": "Northland Capital Markets",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-11-26T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-08-17T00:00:00.000Z",
+                "firm": "Redchip Research",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.032191012,
+        "regularMarketChange": 0.30999947,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 9.94,
+        "regularMarketDayHigh": 10.05,
+        "regularMarketDayLow": 9.51,
+        "regularMarketVolume": 93264,
+        "averageDailyVolume10Day": 126090,
+        "averageDailyVolume3Month": 105167,
+        "regularMarketPreviousClose": 9.63,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 9.73,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ASUR",
+        "underlyingSymbol": null,
+        "shortName": "Asure Software Inc",
+        "longName": "Asure Software, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 198486880
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 148292688,
+        "forwardPE": 62.125,
+        "profitMargins": -0.093760006,
+        "floatShares": 15166612,
+        "sharesOutstanding": 19968500,
+        "sharesShort": 215198,
+        "sharesShortPriorMonth": 307257,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0107,
+        "heldPercentInsiders": 0.1046,
+        "heldPercentInstitutions": 0.65099996,
+        "shortRatio": 5.15,
+        "shortPercentOfFloat": 0.012999999,
+        "beta": 0.799189,
+        "category": null,
+        "bookValue": 7.678,
+        "priceToBook": 1.2946079,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -7850000,
+        "trailingEps": -1.03,
+        "forwardEps": 0.28,
+        "pegRatio": 8.56,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": "2012-05-01T00:00:00.000Z",
+        "enterpriseToRevenue": 1.771,
+        "enterpriseToEbitda": 59.057
+    },
+    "summaryProfile": {
+        "address1": "3700 North Capital of Texas Highway",
+        "address2": "Suite 350",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78746",
+        "country": "United States",
+        "phone": "512 437 2700",
+        "fax": "512 437 2718",
+        "website": "https://www.asuresoftware.com",
+        "industry": "Software—Application",
+        "sector": "Technology",
+        "longBusinessSummary": "Asure Software, Inc. provides cloud-based human capital management solutions the United States. It helps various small and mid-sized businesses to build productive teams to help them stay compliant and allocate resources to grow their business. The company's solutions include Asure Payroll & Tax, an integrated cloud-based solution automates regulations associated with payroll and taxes, including wages, benefits, overtime, garnishments, tips, direct deposits, and fair labor standard act, as well as federal, state, and local payroll taxes; Asure (human resource) HR, a cloud-based functionality that handles HR complexities, such as employee self-service that enable employees to access information, pay history, and company documents; and Asure Time & Attendance that provides cost savings and return on investment gains come in the form of strategic use of labor dollars and the elimination of time theft. It also provides HR services that offers services comprising on-demand HR resource library, phone and email support for any HR issues, and compliance and policy updates; support for strategic HR decision making; and HR outsourcing solution, as well as data integration with related third-party systems, such as 401(k), benefits, and insurance provider systems. Asure Software, Inc. was incorporated in 1985 and is headquartered in Austin, Texas.",
+        "fullTimeEmployees": 508,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 9.94,
+        "targetHighPrice": 16,
+        "targetLowPrice": 6.5,
+        "targetMeanPrice": 11.17,
+        "targetMedianPrice": 11.25,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 14594000,
+        "totalCashPerShare": 0.725,
+        "ebitda": 2511000,
+        "totalDebt": 42237000,
+        "quickRatio": 0.101,
+        "currentRatio": 1.072,
+        "totalRevenue": 83727000,
+        "debtToEquity": 28.245,
+        "revenuePerShare": 4.222,
+        "returnOnAssets": -0.02434,
+        "returnOnEquity": -0.05252,
+        "grossProfits": 46564000,
+        "freeCashflow": -23798124,
+        "operatingCashflow": 10757000,
+        "revenueGrowth": 0.182,
+        "grossMargins": 0.6193,
+        "ebitdaMargins": 0.02999,
+        "operatingMargins": -0.18146,
+        "profitMargins": -0.093760006,
+        "financialCurrency": "USD"
+    }
+}

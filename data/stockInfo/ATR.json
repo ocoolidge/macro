@@ -1,0 +1,820 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATR",
+        "Security_Name": "AptarGroup, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ATR",
+        "NASDAQ_Symbol": "ATR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 6,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 6,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 6,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 6,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 112.12,
+        "open": 113.38,
+        "dayLow": 112.74,
+        "dayHigh": 114.4,
+        "regularMarketPreviousClose": 112.12,
+        "regularMarketOpen": 113.38,
+        "regularMarketDayLow": 112.74,
+        "regularMarketDayHigh": 114.4,
+        "dividendRate": 1.52,
+        "dividendYield": 0.0153,
+        "exDividendDate": "2022-10-25T00:00:00.000Z",
+        "payoutRatio": 0.44189999,
+        "fiveYearAvgDividendYield": 1.27,
+        "trailingPE": 31.560596,
+        "forwardPE": 24.688313,
+        "volume": 178155,
+        "regularMarketVolume": 178155,
+        "averageVolume": 237351,
+        "averageVolume10days": 188860,
+        "averageDailyVolume10Day": 188860,
+        "bid": 86.1,
+        "ask": 176.64,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 7508238848,
+        "fiftyTwoWeekLow": 90.23,
+        "fiftyTwoWeekHigh": 123.89,
+        "priceToSalesTrailing12Months": 2.247755,
+        "fiftyDayAverage": 105.4626,
+        "twoHundredDayAverage": 105.7982,
+        "trailingAnnualDividendRate": 1.44,
+        "trailingAnnualDividendYield": 0.012843383,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.93,
+                    "estimate": 0.91
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.96,
+                    "estimate": 0.96
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.96,
+                    "estimate": 0.96
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.95,
+                    "estimate": 0.94
+                }
+            ],
+            "currentQuarterEstimate": 0.94,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676419200,
+                1676851200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 2764761000,
+                    "earnings": 194745000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 2859732000,
+                    "earnings": 242202000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 2929340000,
+                    "earnings": 214040000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 3227221000,
+                    "earnings": 244097000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 813993000,
+                    "earnings": 57609000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 844932000,
+                    "earnings": 62423000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 844543000,
+                    "earnings": 63625000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 836860000,
+                    "earnings": 54244000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676419200,
+                1676851200
+            ],
+            "earningsAverage": 0.94,
+            "earningsLow": 0.85,
+            "earningsHigh": 0.98,
+            "revenueAverage": 809710000,
+            "revenueLow": 777280000,
+            "revenueHigh": 844700000
+        },
+        "exDividendDate": "2022-10-25T00:00:00.000Z",
+        "dividendDate": "2022-11-16T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-18T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-12T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-02T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-01T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-18T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-02T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-20T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-22T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-20T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-01T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-13T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-03T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-02T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-05-04T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-03T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-19T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-14T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-01-12T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-14T00:00:00.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-03T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-03T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-27T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-17T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-16T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-25T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-03-18T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-04T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-02-26T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-26T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-11-05T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-04T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-01T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-07-08T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-02-27T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-07-31T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Perform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-31T00:00:00.000Z",
+                "firm": "Vertical Research",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-30T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-30T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Perform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-06-20T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-05-18T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-07-31T00:00:00.000Z",
+                "firm": "Vertical Research",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-07-18T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-05-01T00:00:00.000Z",
+                "firm": "Vertical Research",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-12-07T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-31T00:00:00.000Z",
+                "firm": "Vertical Research",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-10-13T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-09-09T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-01-05T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-11-16T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-11-10T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-11-02T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-09-15T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-09-10T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-05-01T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-11-03T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-09-04T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-09-03T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-06-13T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-10-02T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-08-16T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-07-10T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-04-16T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-01-08T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-12-19T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-11-05T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-05T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-09-10T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-07-24T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-07-10T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-10T00:00:00.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-07-09T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-04-11T00:00:00.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.0075398968,
+        "postMarketChange": -0.8600006,
+        "postMarketTime": "2023-01-06T21:03:41.000Z",
+        "postMarketPrice": 113.2,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.017302843,
+        "regularMarketChange": 1.9399948,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 114.06,
+        "regularMarketDayHigh": 114.4,
+        "regularMarketDayLow": 112.74,
+        "regularMarketVolume": 178155,
+        "averageDailyVolume10Day": 188860,
+        "averageDailyVolume3Month": 237351,
+        "regularMarketPreviousClose": 112.12,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 113.38,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATR",
+        "underlyingSymbol": null,
+        "shortName": "AptarGroup, Inc.",
+        "longName": "AptarGroup, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 7508238848
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 7553678848,
+        "forwardPE": 27.484337,
+        "profitMargins": 0.07122,
+        "floatShares": 64892834,
+        "sharesOutstanding": 65827100,
+        "sharesShort": 865352,
+        "sharesShortPriorMonth": 927597,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.013200001,
+        "heldPercentInsiders": 0.00451,
+        "heldPercentInstitutions": 0.91894996,
+        "shortRatio": 3.27,
+        "shortPercentOfFloat": 0.0149,
+        "category": null,
+        "bookValue": 28.97,
+        "priceToBook": 3.9371765,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.148,
+        "netIncomeToCommon": 237900992,
+        "trailingEps": 3.614,
+        "forwardEps": 4.62,
+        "pegRatio": 3.54,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "2007-05-10T00:00:00.000Z",
+        "enterpriseToRevenue": 2.261,
+        "enterpriseToEbitda": 12.159
+    },
+    "summaryProfile": {
+        "address1": "265 Exchange Drive",
+        "address2": "Suite 100",
+        "city": "Crystal Lake",
+        "state": "IL",
+        "zip": "60014",
+        "country": "United States",
+        "phone": "815 477 0424",
+        "website": "https://www.aptar.com",
+        "industry": "Medical Instruments & Supplies",
+        "sector": "Healthcare",
+        "longBusinessSummary": "AptarGroup, Inc. provides a range of dispensing, sealing, and material science solutions primarily for the beauty, personal care, home care, prescription drug, consumer health care, injectable, and food and beverage markets. The company operates through three segments: Pharma, Beauty + Home, and Food + Beverage. The Pharma segment provides pumps for nasal allergy treatments; and metered dose inhaler valves for respiratory ailments, such as asthma and chronic obstructive pulmonary diseases in pharmaceutical market; elastomer for injectable primary packaging components; and active material science solutions. The Beauty + Home segment primarily sells pumps, closures, aerosol valves, accessories, and sealing solutions to the personal care and home care markets; and pumps and decorative components to the beauty market. The Food + Beverage segment offers dispensing and non-dispensing closures, elastomeric flow control components, spray pumps, and aerosol valves to the food and beverage markets. It sells its products through own sales force, as well as independent representatives and distributors in Asia, Europe, Latin America, and North America. The company has a strategic partnership with PureCycle Technologies LLC to develop ultra-pure recycled polypropylene into dispensing applications; and a collaboration with Sonmol for developing a digital therapies and services platform targeting respiratory and other diseases. AptarGroup, Inc. was incorporated in 1992 and is headquartered in Crystal Lake, Illinois.",
+        "fullTimeEmployees": 13000,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 114.06,
+        "targetHighPrice": 135,
+        "targetLowPrice": 110,
+        "targetMeanPrice": 117,
+        "targetMedianPrice": 112,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 124812000,
+        "totalCashPerShare": 1.911,
+        "ebitda": 621259008,
+        "totalDebt": 1192290944,
+        "quickRatio": 0.91,
+        "currentRatio": 1.561,
+        "totalRevenue": 3340327936,
+        "debtToEquity": 63.147,
+        "revenuePerShare": 50.991,
+        "returnOnAssets": 0.05903,
+        "returnOnEquity": 0.12239,
+        "grossProfits": 1151083000,
+        "earningsGrowth": 0.157,
+        "revenueGrowth": 0.014,
+        "grossMargins": 0.35174,
+        "ebitdaMargins": 0.18599,
+        "operatingMargins": 0.11534,
+        "profitMargins": 0.07122,
+        "financialCurrency": "USD"
+    }
+}

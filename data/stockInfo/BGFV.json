@@ -1,0 +1,500 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BGFV",
+        "Security_Name": "Big 5 Sporting Goods Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BGFV",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 8.97,
+        "open": 9.01,
+        "dayLow": 8.94,
+        "dayHigh": 9.25,
+        "regularMarketPreviousClose": 8.97,
+        "regularMarketOpen": 9.01,
+        "regularMarketDayLow": 8.94,
+        "regularMarketDayHigh": 9.25,
+        "dividendRate": 1,
+        "dividendYield": 0.0792,
+        "exDividendDate": "2022-08-31T00:00:00.000Z",
+        "payoutRatio": 0.36099997,
+        "fiveYearAvgDividendYield": 7.99,
+        "beta": 2.582166,
+        "trailingPE": 3.5620155,
+        "forwardPE": 2.9455128,
+        "volume": 220962,
+        "regularMarketVolume": 220962,
+        "averageVolume": 331177,
+        "averageVolume10days": 375060,
+        "averageDailyVolume10Day": 375060,
+        "bid": 9.11,
+        "ask": 9.35,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 205036240,
+        "fiftyTwoWeekLow": 8.36,
+        "fiftyTwoWeekHigh": 21.4,
+        "priceToSalesTrailing12Months": 0.19365422,
+        "fiftyDayAverage": 11.3926,
+        "twoHundredDayAverage": 12.52025,
+        "trailingAnnualDividendRate": 0.25,
+        "trailingAnnualDividendYield": 0.02787068,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 1.07,
+                    "estimate": 1.13
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.89,
+                    "estimate": 0.85
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.41,
+                    "estimate": 0.37
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.4,
+                    "estimate": 0.46
+                }
+            ],
+            "currentQuarterEstimate": 0.27,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 987581000,
+                    "earnings": -3531000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 996495000,
+                    "earnings": 8445000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1041212000,
+                    "earnings": 55940000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 1161820000,
+                    "earnings": 102386000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 289637000,
+                    "earnings": 24131000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 273357000,
+                    "earnings": 19906000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": 0
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 253800000,
+                    "earnings": 8934000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ],
+            "earningsAverage": 0.27,
+            "earningsLow": 0.27,
+            "earningsHigh": 0.27,
+            "revenueAverage": 258400000,
+            "revenueLow": 258400000,
+            "revenueHigh": 258400000
+        },
+        "exDividendDate": "2022-08-31T00:00:00.000Z",
+        "dividendDate": "2022-12-15T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2018-08-01T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Hold",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-08-02T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-06T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-08-03T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-02-08T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-15T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-29T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-16T00:00:00.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-04-29T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-13T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-02-26T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-01-08T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-10-29T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-30T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-30T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-30T00:00:00.000Z",
+                "firm": "Feltl & Co.",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-05-12T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-10-30T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-09-17T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-02-27T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-02-27T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-06T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-02T00:00:00.000Z",
+                "firm": "Feltl & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-11-02T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Buy",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-09-06T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-09-04T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.047878098,
+        "postMarketChange": -0.44,
+        "postMarketTime": "2023-01-07T00:43:11.000Z",
+        "postMarketPrice": 8.75,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.024526121,
+        "regularMarketChange": 0.21999931,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 9.19,
+        "regularMarketDayHigh": 9.25,
+        "regularMarketDayLow": 8.94,
+        "regularMarketVolume": 220962,
+        "averageDailyVolume10Day": 375060,
+        "averageDailyVolume3Month": 331177,
+        "regularMarketPreviousClose": 8.97,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 9.01,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BGFV",
+        "underlyingSymbol": null,
+        "shortName": "Big 5 Sporting Goods Corporatio",
+        "longName": "Big 5 Sporting Goods Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 205036240
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 551840896,
+        "forwardPE": 6.2094593,
+        "profitMargins": 0.05863,
+        "floatShares": 20617351,
+        "sharesOutstanding": 22310800,
+        "sharesShort": 6053611,
+        "sharesShortPriorMonth": 6414880,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.273,
+        "heldPercentInsiders": 0.04795,
+        "heldPercentInstitutions": 0.48702,
+        "shortRatio": 22.58,
+        "shortPercentOfFloat": 0.2865,
+        "beta": 2.582166,
+        "category": null,
+        "bookValue": 10.902,
+        "priceToBook": 0.84296453,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-01-02T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-01-02T00:00:00.000Z",
+        "mostRecentQuarter": "2022-07-03T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.757,
+        "netIncomeToCommon": 62074000,
+        "trailingEps": 2.58,
+        "forwardEps": 3.12,
+        "pegRatio": -1.4,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.521,
+        "enterpriseToEbitda": 5.546
+    },
+    "summaryProfile": {
+        "address1": "2525 East El Segundo Boulevard",
+        "city": "El Segundo",
+        "state": "CA",
+        "zip": "90245",
+        "country": "United States",
+        "phone": "310 536 0611",
+        "website": "https://www.big5sportinggoods.com",
+        "industry": "Specialty Retail",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Big 5 Sporting Goods Corporation operates as a sporting goods retailer in the western United States. The company's products include athletic shoes, apparel, and accessories. It also offers a selection of outdoor and athletic equipment for team sports, fitness, camping, hunting, fishing, tennis, golf, and winter and summer recreation, as well as home recreation. The company also provides private label items, such as shoes, apparel, camping equipment, fishing supplies, and snow sport equipment. It sells private label merchandise under its own trademarks comprising Golden Bear, Harsh, Pacifica, and Rugged Exposure. As of May 03, 2022, the company operated 431 stores. It also operates an e-commerce platform under the Big 5 Sporting Goods name. The company was founded in 1955 and is headquartered in El Segundo, California.",
+        "fullTimeEmployees": 2400,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 9.19,
+        "targetHighPrice": 16,
+        "targetLowPrice": 16,
+        "targetMeanPrice": 16,
+        "targetMedianPrice": 16,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 36597000,
+        "totalCashPerShare": 1.682,
+        "ebitda": 99494000,
+        "totalDebt": 313652992,
+        "quickRatio": 0.193,
+        "currentRatio": 1.544,
+        "totalRevenue": 1058774976,
+        "debtToEquity": 115.989,
+        "revenuePerShare": 48.752,
+        "returnOnAssets": 0.06789,
+        "returnOnEquity": 0.23276,
+        "grossProfits": 435829000,
+        "freeCashflow": -33315624,
+        "operatingCashflow": -12341000,
+        "earningsGrowth": -0.748,
+        "revenueGrowth": -0.222,
+        "grossMargins": 0.36486998,
+        "ebitdaMargins": 0.09397,
+        "operatingMargins": 0.078660004,
+        "profitMargins": 0.05863,
+        "financialCurrency": "USD"
+    }
+}

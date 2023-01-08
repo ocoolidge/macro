@@ -1,0 +1,540 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ABUS",
+        "Security_Name": "Arbutus Biopharma Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ABUS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 2.26,
+        "open": 2.29,
+        "dayLow": 2.27,
+        "dayHigh": 2.55,
+        "regularMarketPreviousClose": 2.26,
+        "regularMarketOpen": 2.29,
+        "regularMarketDayLow": 2.27,
+        "regularMarketDayHigh": 2.55,
+        "payoutRatio": 0,
+        "beta": 2.172413,
+        "forwardPE": -4.4035087,
+        "volume": 1885623,
+        "regularMarketVolume": 1885623,
+        "averageVolume": 1026487,
+        "averageVolume10days": 1037530,
+        "averageDailyVolume10Day": 1037530,
+        "bid": 2.45,
+        "ask": 2.55,
+        "bidSize": 3100,
+        "askSize": 3000,
+        "marketCap": 392732192,
+        "fiftyTwoWeekLow": 1.85,
+        "fiftyTwoWeekHigh": 3.64,
+        "priceToSalesTrailing12Months": 10.915292,
+        "fiftyDayAverage": 2.5004,
+        "twoHundredDayAverage": 2.44995,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.15,
+                    "estimate": -0.19
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.11,
+                    "estimate": -0.16
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.1,
+                    "estimate": -0.13
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.12,
+                    "estimate": -0.13
+                }
+            ],
+            "currentQuarterEstimate": -0.13,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677673800,
+                1678105800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 5945000,
+                    "earnings": -57060000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 6011000,
+                    "earnings": -153723000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 6914000,
+                    "earnings": -63745000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 10988000,
+                    "earnings": -76247000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 3206000,
+                    "earnings": -21321000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 12581000,
+                    "earnings": -15765000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 14241000,
+                    "earnings": -14192000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 5952000,
+                    "earnings": -17567000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677673800,
+                1678105800
+            ],
+            "earningsAverage": -0.13,
+            "earningsLow": -0.15,
+            "earningsHigh": -0.12,
+            "revenueAverage": 6170000,
+            "revenueLow": 5320000,
+            "revenueHigh": 7300000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-10T11:27:09.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-28T11:11:47.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-14T10:18:52.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-04T13:39:48.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-02T10:12:29.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-11-08T12:12:24.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-17T11:41:10.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-07-24T09:09:15.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-05-19T12:25:45.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-03-27T13:29:24.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-06T11:46:34.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-02-20T10:19:25.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-02-05T10:32:30.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-09T18:35:32.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-04T13:20:07.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-10-16T12:43:19.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-10-15T11:37:36.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-13T13:04:54.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-13T12:30:14.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-06T10:25:35.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-03-19T17:15:59.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-05-05T14:00:39.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-11-07T12:58:21.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-04-04T13:48:29.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-12-13T11:30:56.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-11-30T11:28:00.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-10-14T11:46:53.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-08-05T07:35:13.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-07-08T08:49:38.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-06-16T04:53:53.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-05-16T04:09:35.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-09-02T07:56:30.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.01593624,
+        "postMarketChange": -0.03999996,
+        "postMarketTime": "2023-01-07T00:32:03.000Z",
+        "postMarketPrice": 2.47,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.11061947,
+        "regularMarketChange": 0.25,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 2.51,
+        "regularMarketDayHigh": 2.55,
+        "regularMarketDayLow": 2.27,
+        "regularMarketVolume": 1885623,
+        "averageDailyVolume10Day": 1037530,
+        "averageDailyVolume3Month": 1026487,
+        "regularMarketPreviousClose": 2.26,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 2.29,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ABUS",
+        "underlyingSymbol": null,
+        "shortName": "Arbutus Biopharma Corporation",
+        "longName": "Arbutus Biopharma Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 392732192
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 221212608,
+        "forwardPE": -4.4035087,
+        "profitMargins": -1.91342,
+        "floatShares": 114840582,
+        "sharesOutstanding": 156467008,
+        "sharesShort": 3854509,
+        "sharesShortPriorMonth": 3735606,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.024600001,
+        "heldPercentInsiders": 0.25768,
+        "heldPercentInstitutions": 0.29966,
+        "shortRatio": 3.94,
+        "shortPercentOfFloat": 0.0336,
+        "beta": 2.172413,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 0.953,
+        "priceToBook": 2.633788,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -69419000,
+        "trailingEps": -0.705,
+        "forwardEps": -0.57,
+        "lastSplitFactor": "1:5",
+        "lastSplitDate": "2010-11-04T00:00:00.000Z",
+        "enterpriseToRevenue": 6.148,
+        "enterpriseToEbitda": -3.607,
+        "52WeekChange": -0.2869318,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "701 Veterans Circle",
+        "city": "Warminster",
+        "state": "PA",
+        "zip": "18974",
+        "country": "United States",
+        "phone": "267 469 0914",
+        "fax": "267 282 0411",
+        "website": "https://www.arbutusbio.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Arbutus Biopharma Corporation, a biopharmaceutical company, develops novel therapeutics for chronic Hepatitis B virus (HBV) infection, SARS-CoV-2, and other coronaviruses in the United States. Its HBV product pipeline consists of AB-729, a proprietary subcutaneously delivered RNA interference product candidate, which in Phase Ia/Ib clinical trial targeted to hepatocytes that inhibits viral replication and reduces various HBV antigens using novel covalently conjugated N-acetylgalactosamine (GalNAc) delivery technology; and AB-836, an oral capsid inhibitor that suppresses HBV DNA replication. The company's research and development programs include AB-161, an oral HBV RNA destabilizer to destabilize HBV RNA, which leads in the reduction of HBsAg and other viral proteins; AB-101, an oral PD-L1 inhibitor to reawaken patients' HBV-specific immune response; and small molecule antiviral medicines to treat coronaviruses, including COVID-19. It has strategic alliance, licensing, and research collaboration agreements with Talon Therapeutics, Inc.; Gritstone Oncology, Inc.; Alnylam Pharmaceuticals, Inc.; Qilu Pharmaceuticals Co, Ltd.; Assembly Biosciences, Inc.; Acuitas Therapeutics, Inc.; and Antios Therapeutics, Inc. Arbutus Biopharma Corporation also has a clinical collaboration agreement with Vaccitech plc to evaluate a triple combination of AB-729 for the treatment of chronic HBV infection. The company was formerly known as Tekmira Pharmaceuticals Corporation and changed its name to Arbutus Biopharma Corporation in July 2015. Arbutus Biopharma Corporation is headquartered in Warminster, Pennsylvania.",
+        "fullTimeEmployees": 85,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 2.51,
+        "targetHighPrice": 6,
+        "targetLowPrice": 4,
+        "targetMeanPrice": 5.4,
+        "targetMedianPrice": 6,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 134718000,
+        "totalCashPerShare": 0.861,
+        "ebitda": -61326000,
+        "totalDebt": 2315000,
+        "quickRatio": 4.964,
+        "currentRatio": 5.131,
+        "totalRevenue": 35980000,
+        "debtToEquity": 1.591,
+        "revenuePerShare": 0.247,
+        "returnOnAssets": -0.21275999,
+        "returnOnEquity": -0.4995,
+        "grossProfits": -54514000,
+        "freeCashflow": -16340250,
+        "operatingCashflow": -37972000,
+        "revenueGrowth": 0.782,
+        "grossMargins": -1.24211,
+        "ebitdaMargins": -1.7044501,
+        "operatingMargins": -1.74744,
+        "profitMargins": -1.91342,
+        "financialCurrency": "USD"
+    }
+}

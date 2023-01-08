@@ -1,0 +1,739 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AGR",
+        "Security_Name": "Avangrid, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AGR",
+        "NASDAQ_Symbol": "AGR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 3,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 4,
+                "sell": 3,
+                "strongSell": 1
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 4,
+                "sell": 4,
+                "strongSell": 1
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 4,
+                "sell": 3,
+                "strongSell": 1
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 42.93,
+        "open": 43.37,
+        "dayLow": 43.29,
+        "dayHigh": 44.21,
+        "regularMarketPreviousClose": 42.93,
+        "regularMarketOpen": 43.37,
+        "regularMarketDayLow": 43.29,
+        "regularMarketDayHigh": 44.21,
+        "dividendRate": 1.76,
+        "dividendYield": 0.0398,
+        "exDividendDate": "2022-11-30T00:00:00.000Z",
+        "payoutRatio": 0.7619,
+        "fiveYearAvgDividendYield": 3.62,
+        "beta": 0.412975,
+        "trailingPE": 19.12987,
+        "forwardPE": 19.381578,
+        "volume": 350624,
+        "regularMarketVolume": 350624,
+        "averageVolume": 568116,
+        "averageVolume10days": 423540,
+        "averageDailyVolume10Day": 423540,
+        "bid": 17.4,
+        "ask": 56,
+        "bidSize": 900,
+        "askSize": 1200,
+        "marketCap": 17084913664,
+        "fiftyTwoWeekLow": 37.64,
+        "fiftyTwoWeekHigh": 51.71,
+        "priceToSalesTrailing12Months": 2.2193964,
+        "fiftyDayAverage": 41.9916,
+        "twoHundredDayAverage": 45.2611,
+        "trailingAnnualDividendRate": 1.76,
+        "trailingAnnualDividendYield": 0.040996972,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.44,
+                    "estimate": 0.38
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.16,
+                    "estimate": 1
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.46,
+                    "estimate": 0.33
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.31,
+                    "estimate": 0.34
+                }
+            ],
+            "currentQuarterEstimate": 0.42,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676890740,
+                1677240000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 6477000000,
+                    "earnings": 587000000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 6336000000,
+                    "earnings": 667000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 6320000000,
+                    "earnings": 581000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 6974000000,
+                    "earnings": 707000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 1933000000,
+                    "earnings": 164000000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 2133000000,
+                    "earnings": 445000000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 1794000000,
+                    "earnings": 184000000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 1838000000,
+                    "earnings": 105000000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676890740,
+                1677240000
+            ],
+            "earningsAverage": 0.42,
+            "earningsLow": 0.39,
+            "earningsHigh": 0.49,
+            "revenueAverage": 1848770000,
+            "revenueLow": 1801000000,
+            "revenueHigh": 1874000000
+        },
+        "exDividendDate": "2022-11-30T00:00:00.000Z",
+        "dividendDate": "2023-01-03T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-31T11:29:51.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-20T08:58:42.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-19T13:48:47.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-14T10:21:30.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-09-23T08:26:10.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-19T11:04:45.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-12T12:15:05.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-18T12:01:37.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-27T08:32:10.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Underweight",
+                "fromGrade": "Sector Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-04-28T14:00:26.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-24T15:16:23.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-24T12:40:29.000Z",
+                "firm": "Janney Montgomery Scott",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-02-24T10:00:42.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-01-10T11:44:15.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-12-10T14:44:07.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-23T11:17:04.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-20T11:49:26.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-04-29T10:11:10.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-10-20T12:24:33.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-15T11:24:05.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-18T11:55:24.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-14T12:00:33.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-02T09:46:01.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-07-01T10:45:36.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-20T11:39:40.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-04-30T11:34:42.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-16T12:16:37.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-10-14T13:09:25.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-13T12:14:31.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-06-05T11:08:40.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Sector Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-04-25T11:52:23.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-04-08T10:50:01.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-03-04T12:03:44.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-12-04T14:00:10.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-10-29T10:15:02.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-09-17T13:24:49.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Perform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-25T19:01:22.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-25T12:52:23.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "In-Line",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-04-13T13:41:31.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-04-12T15:22:26.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-10T13:29:17.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Underweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-22T13:48:05.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-21T15:32:41.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Perform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-01-11T19:06:22.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-11-01T17:54:19.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-10-12T12:03:19.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-24T16:18:47.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-02-22T13:30:01.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-01-10T14:02:56.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-01-09T13:07:45.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-09-23T06:17:30.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-02-23T12:05:44.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-02-23T07:35:31.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-02-23T06:17:08.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-01-21T06:28:09.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-12-30T09:15:38.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-12-29T07:41:19.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-12-22T07:38:32.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-12-21T08:02:36.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.003847069,
+        "postMarketChange": 0.17000198,
+        "postMarketTime": "2023-01-07T00:45:50.000Z",
+        "postMarketPrice": 44.36,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.029350065,
+        "regularMarketChange": 1.2599983,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 44.19,
+        "regularMarketDayHigh": 44.21,
+        "regularMarketDayLow": 43.29,
+        "regularMarketVolume": 350624,
+        "averageDailyVolume10Day": 423540,
+        "averageDailyVolume3Month": 568116,
+        "regularMarketPreviousClose": 42.93,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 43.37,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AGR",
+        "underlyingSymbol": null,
+        "shortName": "Avangrid, Inc.",
+        "longName": "Avangrid, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 17084913664
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 26757924864,
+        "forwardPE": 19.381578,
+        "profitMargins": 0.11665,
+        "floatShares": 70729037,
+        "sharesOutstanding": 386624000,
+        "sharesShort": 3925177,
+        "sharesShortPriorMonth": 3777497,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.010199999,
+        "heldPercentInsiders": 0.81698996,
+        "heldPercentInstitutions": 0.13188,
+        "shortRatio": 8.03,
+        "shortPercentOfFloat": 0.0555,
+        "beta": 0.412975,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 50.051,
+        "priceToBook": 0.88289946,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.054,
+        "netIncomeToCommon": 898000000,
+        "trailingEps": 2.31,
+        "forwardEps": 2.28,
+        "pegRatio": 4.23,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 3.476,
+        "enterpriseToEbitda": 13.757,
+        "52WeekChange": -0.08622831,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.44,
+        "lastDividendDate": 1669766400
+    },
+    "summaryProfile": {
+        "address1": "180 Marsh Hill Road",
+        "city": "Orange",
+        "state": "CT",
+        "zip": "06477",
+        "country": "United States",
+        "phone": "207 629 1190",
+        "website": "https://www.avangrid.com",
+        "industry": "Utilities—Regulated Electric",
+        "sector": "Utilities",
+        "longBusinessSummary": "Avangrid, Inc., an energy services holding company, engages in the regulated energy transmission and distribution, and renewable energy generation businesses in the United States. The company operates through Networks and Renewables segments. It is involved in the generation, transmission, and distribution of electricity; and distribution, transportation, and sale of natural gas. The company also operates renewable energy generation facilities primarily using onshore wind power, as well as solar, biomass, and thermal power. It delivers natural gas and electricity to residential, commercial, and institutional customers through its regulated utilities in New York, Maine, Connecticut, and Massachusetts; and sells its output to investor-owned utilities, public utilities, and other credit-worthy entities. In addition, the company generates and provides power and other services to federal and state agencies, as well as institutional retail and joint action agencies; and delivers thermal output to wholesale customers in the Western United States. It owns eight electric and natural gas utilities, serving 3.3 million customers in New York and New England, as well as owns and operates 8.8 gigawatts of electricity capacity primarily through wind power in 22 states. The company was incorporated in 1997 and is headquartered in Orange, Connecticut. Avangrid, Inc. is a subsidiary of Iberdrola, S.A.",
+        "fullTimeEmployees": 7300,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 44.19,
+        "targetHighPrice": 56,
+        "targetLowPrice": 35,
+        "targetMeanPrice": 42.75,
+        "targetMedianPrice": 41,
+        "recommendationMean": 3.3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 60000000,
+        "totalCashPerShare": 0.155,
+        "ebitda": 1944999936,
+        "totalDebt": 8750000128,
+        "quickRatio": 0.37,
+        "currentRatio": 0.737,
+        "totalRevenue": 7697999872,
+        "debtToEquity": 43.031,
+        "revenuePerShare": 19.895,
+        "returnOnAssets": 0.013710001,
+        "returnOnEquity": 0.04123,
+        "grossProfits": 2589000000,
+        "freeCashflow": -1982249984,
+        "operatingCashflow": 1460999936,
+        "earningsGrowth": -0.058,
+        "revenueGrowth": 0.15,
+        "grossMargins": 0.341,
+        "ebitdaMargins": 0.25266,
+        "operatingMargins": 0.11224,
+        "profitMargins": 0.11665,
+        "financialCurrency": "USD"
+    }
+}

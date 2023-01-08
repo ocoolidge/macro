@@ -1,0 +1,463 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AGRX",
+        "Security_Name": "Agile Therapeutics, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AGRX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.28,
+        "open": 0.29,
+        "dayLow": 0.2701,
+        "dayHigh": 0.295,
+        "regularMarketPreviousClose": 0.28,
+        "regularMarketOpen": 0.29,
+        "regularMarketDayLow": 0.2701,
+        "regularMarketDayHigh": 0.295,
+        "payoutRatio": 0,
+        "beta": 1.014998,
+        "forwardPE": -0.41626865,
+        "volume": 911869,
+        "regularMarketVolume": 911869,
+        "averageVolume": 863322,
+        "averageVolume10days": 958290,
+        "averageDailyVolume10Day": 958290,
+        "bid": 0.28,
+        "ask": 0.278,
+        "bidSize": 1000,
+        "askSize": 1400,
+        "marketCap": 11327384,
+        "fiftyTwoWeekLow": 0.175,
+        "fiftyTwoWeekHigh": 18.4,
+        "priceToSalesTrailing12Months": 1.3481771,
+        "fiftyDayAverage": 0.21982,
+        "twoHundredDayAverage": 1.490475,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -7.2,
+                    "estimate": -7.7
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -8,
+                    "estimate": -6
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -2.71,
+                    "estimate": -3.7
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.53,
+                    "estimate": -0.44
+                }
+            ],
+            "currentQuarterEstimate": -0.23,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1680001140,
+                1680523200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 0,
+                    "earnings": -19779000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -18606000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 749000,
+                    "earnings": -51853000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 4101000,
+                    "earnings": -74894000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 1514000,
+                    "earnings": -23357000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 1761000,
+                    "earnings": -11769000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 2126000,
+                    "earnings": -12219000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 3002000,
+                    "earnings": -19666000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1680001140,
+                1680523200
+            ],
+            "earningsAverage": -0.23,
+            "earningsLow": -0.23,
+            "earningsHigh": -0.23,
+            "revenueAverage": 3080000,
+            "revenueLow": 3080000,
+            "revenueHigh": 3080000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-30T11:15:37.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-26T12:12:22.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-07-11T11:49:15.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-08T12:28:27.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-11-03T10:37:11.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-13T10:49:52.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-27T12:25:23.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-08T11:22:53.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-20T12:07:47.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-02-18T14:58:32.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-18T14:19:40.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-06-07T10:55:21.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-11-29T14:37:05.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-07-19T11:30:14.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-01-08T08:11:03.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-12-30T09:15:48.000Z",
+                "firm": "Noble Financial",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-04-02T06:18:36.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-06-17T06:50:16.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-06-17T06:50:15.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-06-17T06:50:14.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-06-17T06:44:51.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0100394,
+        "postMarketChange": 0.00279999,
+        "postMarketTime": "2023-01-07T00:17:15.000Z",
+        "postMarketPrice": 0.2817,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.0039285845,
+        "regularMarketChange": -0.0011000037,
+        "regularMarketTime": "2023-01-06T20:59:00.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.2789,
+        "regularMarketDayHigh": 0.295,
+        "regularMarketDayLow": 0.2701,
+        "regularMarketVolume": 911869,
+        "averageDailyVolume10Day": 958290,
+        "averageDailyVolume3Month": 863322,
+        "regularMarketPreviousClose": 0.28,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 0.29,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AGRX",
+        "underlyingSymbol": null,
+        "shortName": "Agile Therapeutics, Inc.",
+        "longName": "Agile Therapeutics, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 11327384
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 7571078,
+        "forwardPE": -0.41626865,
+        "profitMargins": 0,
+        "floatShares": 37406792,
+        "sharesOutstanding": 40614500,
+        "sharesShort": 684128,
+        "sharesShortPriorMonth": 1089578,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0168,
+        "heldPercentInsiders": 0.07835,
+        "heldPercentInstitutions": 0.05716,
+        "shortRatio": 1.23,
+        "shortPercentOfFloat": 0.0168,
+        "beta": 1.014998,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 0.16,
+        "priceToBook": 1.7431251,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -67009000,
+        "trailingEps": -26.161,
+        "forwardEps": -0.67,
+        "lastSplitFactor": "1:40",
+        "lastSplitDate": "2022-04-27T00:00:00.000Z",
+        "enterpriseToRevenue": 0.901,
+        "enterpriseToEbitda": -0.138,
+        "52WeekChange": -0.9825625,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "500 College Road East",
+        "address2": "Suite 310",
+        "city": "Princeton",
+        "state": "NJ",
+        "zip": "08540",
+        "country": "United States",
+        "phone": "609 683 1880",
+        "website": "https://www.agiletherapeutics.com",
+        "industry": "Drug Manufacturers—Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Agile Therapeutics, Inc., a women's healthcare company, researches, develops, and commercializes prescription contraceptive products for women in the United States. Its lead product is Twirla, also known as AG200-15, a once-weekly prescription combination hormonal contraceptive patch. The company is also developing a pipeline of Twirla line extensions and other products, including AG200-15 Extended Regimen (ER), a regimen that allows a woman to have four episodes of withdrawal bleeding per year; AG200-15 smaller patch (SmP), which is a regimen designed to provide shorter and lighter withdrawal bleeds, and enhance contraceptive efficacy; AG200-15 ER SmP, a regimen to allow a woman to extend the length of her contraceptive cycle, as well as have shorter and lighter withdrawal bleeding episodes per year; and P-Patch, a progestin-only contraceptive patch intended for use by women who are unable or unwilling to take estrogen. Agile Therapeutics, Inc. was incorporated in 1997 and is headquartered in Princeton, New Jersey.",
+        "fullTimeEmployees": 30,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.2789,
+        "targetHighPrice": 5,
+        "targetLowPrice": 1,
+        "targetMeanPrice": 3,
+        "targetMedianPrice": 3,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 6145000,
+        "totalCashPerShare": 0.151,
+        "ebitda": -54896000,
+        "totalDebt": 2145000,
+        "quickRatio": 0.846,
+        "currentRatio": 1.329,
+        "totalRevenue": 8402000,
+        "debtToEquity": 34.265,
+        "revenuePerShare": 0.701,
+        "returnOnAssets": -1.2901,
+        "returnOnEquity": -7.9113297,
+        "grossProfits": -6617000,
+        "freeCashflow": -34633124,
+        "operatingCashflow": -51006000,
+        "revenueGrowth": 1.333,
+        "grossMargins": -0.29541,
+        "ebitdaMargins": 0,
+        "operatingMargins": -6.77386,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

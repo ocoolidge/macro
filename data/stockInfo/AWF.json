@@ -1,0 +1,267 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AWF",
+        "Security_Name": "Alliancebernstein Global High Income Fund",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AWF",
+        "NASDAQ_Symbol": "AWF",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 9.43,
+        "open": 9.48,
+        "dayLow": 9.44,
+        "dayHigh": 9.67,
+        "regularMarketPreviousClose": 9.43,
+        "regularMarketOpen": 9.48,
+        "regularMarketDayLow": 9.44,
+        "regularMarketDayHigh": 9.67,
+        "dividendRate": 0.79,
+        "dividendYield": 0.0834,
+        "exDividendDate": "2022-12-15T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 7.19,
+        "beta": 0.775723,
+        "trailingPE": 322.33334,
+        "volume": 181022,
+        "regularMarketVolume": 181022,
+        "averageVolume": 203440,
+        "averageVolume10days": 261800,
+        "averageDailyVolume10Day": 261800,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 833841152,
+        "fiftyTwoWeekLow": 8.76,
+        "fiftyTwoWeekHigh": 12.05,
+        "priceToSalesTrailing12Months": 12.876949,
+        "fiftyDayAverage": 9.7112,
+        "twoHundredDayAverage": 9.915,
+        "trailingAnnualDividendRate": 0.783,
+        "trailingAnnualDividendYield": 0.08303287,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1677186000,
+                1677531600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 76277221,
+                    "earnings": 20138568
+                },
+                {
+                    "date": 2020,
+                    "revenue": 69374803,
+                    "earnings": -122629497
+                },
+                {
+                    "date": 2021,
+                    "revenue": 61904046,
+                    "earnings": 243864779
+                },
+                {
+                    "date": 2022,
+                    "revenue": 63521933,
+                    "earnings": 2189737
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 15598182,
+                    "earnings": -24492718
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 15598182,
+                    "earnings": -24492718
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 16779096,
+                    "earnings": -65291864
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 16779096,
+                    "earnings": -65291864
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677186000,
+                1677531600
+            ]
+        },
+        "exDividendDate": "2022-12-15T00:00:00.000Z",
+        "dividendDate": "2019-02-15T00:00:00.000Z"
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.025450664,
+        "regularMarketChange": 0.23999977,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 9.67,
+        "regularMarketDayHigh": 9.67,
+        "regularMarketDayLow": 9.44,
+        "regularMarketVolume": 181022,
+        "averageDailyVolume10Day": 261800,
+        "averageDailyVolume3Month": 203440,
+        "regularMarketPreviousClose": 9.43,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 9.48,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AWF",
+        "underlyingSymbol": null,
+        "shortName": "Alliancebernstein Global High I",
+        "longName": "AllianceBernstein Global High Income Fund",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 833841152
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 864902272,
+        "profitMargins": -2.77307,
+        "sharesOutstanding": 86229696,
+        "sharesShort": 47684,
+        "sharesShortPriorMonth": 93173,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.00059999997,
+        "heldPercentInsiders": 0.00014999999,
+        "heldPercentInstitutions": 0.26971,
+        "shortRatio": 0.24,
+        "beta": 0.775723,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 10.115,
+        "priceToBook": 0.956006,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-03-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-03-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -179569168,
+        "trailingEps": 0.03,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 13.357,
+        "52WeekChange": -0.190795,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.163,
+        "lastDividendDate": 1671062400
+    },
+    "summaryProfile": {
+        "address1": "501 Commerce Street",
+        "city": "Nashville",
+        "state": "TN",
+        "zip": "37203",
+        "country": "United States",
+        "phone": "615 622 0000",
+        "fax": "212 969 2293",
+        "website": "https://www.abglobal.com/abcom/product_center/3_vehicle/mf/closedend/alliancebernstein_global_high_income.htm",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "AllianceBernstein Global High Income Fund is a close-ended fixed income mutual fund launched and managed by AllianceBernstein L.P. It invests in fixed income markets across the globe. The fund primarily invests in lower-rated corporate debt securities and government bonds. It employs a combination of fundamental and quantitative analysis to create its portfolio. The fund benchmarks the performance of its portfolio against a composite index comprised of JPMorgan Government Bond Index-Emerging Markets, JPMorgan Emerging Markets Bond Index Global, and the Barclays U.S. Corporate High Yield 2% Issuer Capped Index. It was previously known as Alliance World Dollar Government Fund II, Inc. AllianceBernstein Global High Income Fund was formed on May 20, 1993 and is domiciled in the United States.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 9.67,
+        "recommendationKey": "none",
+        "totalCash": 88917,
+        "totalCashPerShare": 0.001,
+        "totalDebt": 31150226,
+        "quickRatio": 0.298,
+        "currentRatio": 0.682,
+        "totalRevenue": 64754556,
+        "debtToEquity": 3.571,
+        "revenuePerShare": 0.751,
+        "returnOnAssets": 0.03247,
+        "returnOnEquity": -0.18031,
+        "grossProfits": 63521933,
+        "revenueGrowth": 0.038,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.84199,
+        "profitMargins": -2.77307,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,416 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AZZ",
+        "Security_Name": "AZZ Inc.",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AZZ",
+        "NASDAQ_Symbol": "AZZ",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 40.66,
+        "open": 41.11,
+        "dayLow": 41.11,
+        "dayHigh": 42.36,
+        "regularMarketPreviousClose": 40.66,
+        "regularMarketOpen": 41.11,
+        "regularMarketDayLow": 41.11,
+        "regularMarketDayHigh": 42.36,
+        "dividendRate": 0.68,
+        "dividendYield": 0.016900001,
+        "exDividendDate": "2022-10-17T00:00:00.000Z",
+        "payoutRatio": 0.1748,
+        "fiveYearAvgDividendYield": 1.58,
+        "beta": 1.255747,
+        "trailingPE": 10.820051,
+        "forwardPE": 10.655696,
+        "volume": 86364,
+        "regularMarketVolume": 86364,
+        "averageVolume": 173719,
+        "averageVolume10days": 100970,
+        "averageDailyVolume10Day": 100970,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1000,
+        "askSize": 1100,
+        "marketCap": 1046449984,
+        "fiftyTwoWeekLow": 30.21,
+        "fiftyTwoWeekHigh": 54.58,
+        "priceToSalesTrailing12Months": 0.833255,
+        "fiftyDayAverage": 40.36,
+        "twoHundredDayAverage": 42.1653,
+        "trailingAnnualDividendRate": 0.68,
+        "trailingAnnualDividendYield": 0.016724054,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.85,
+                    "estimate": 0.82
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.87,
+                    "estimate": 0.71
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.31,
+                    "estimate": 1.03
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 1.24,
+                    "estimate": 1.35
+                }
+            ],
+            "currentQuarterEstimate": 0.79,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1673298000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 927087000,
+                    "earnings": 51208000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1061817000,
+                    "earnings": 48234000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 838917000,
+                    "earnings": 39614000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 902664000,
+                    "earnings": 84022000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 231737000,
+                    "earnings": 21085000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 224654000,
+                    "earnings": 21622000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 207134000,
+                    "earnings": 24077000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 406710000,
+                    "earnings": -57570000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1673298000
+            ],
+            "earningsAverage": 0.79,
+            "earningsLow": 0.68,
+            "earningsHigh": 0.88,
+            "revenueAverage": 359800000,
+            "revenueLow": 358710000,
+            "revenueHigh": 361700000
+        },
+        "exDividendDate": "2022-10-17T00:00:00.000Z",
+        "dividendDate": "2022-11-01T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-20T10:57:27.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-19T10:40:15.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-08T18:15:03.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-10-29T13:52:05.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-01-10T15:05:50.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-12-08T11:54:32.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-28T07:43:24.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-01-11T07:55:42.000Z",
+                "firm": "BB&T Capital",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-10-12T09:40:06.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-04-04T07:52:30.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-02-25T12:17:47.000Z",
+                "firm": "D.A. Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-01-25T08:19:50.000Z",
+                "firm": "BB&T Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-10-01T09:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.000118804,
+        "postMarketChange": -0.00500107,
+        "postMarketTime": "2023-01-06T21:01:45.000Z",
+        "postMarketPrice": 42.09,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.035169706,
+        "regularMarketChange": 1.4300003,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 42.09,
+        "regularMarketDayHigh": 42.36,
+        "regularMarketDayLow": 41.11,
+        "regularMarketVolume": 86364,
+        "averageDailyVolume10Day": 100970,
+        "averageDailyVolume3Month": 173719,
+        "regularMarketPreviousClose": 40.66,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 41.11,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AZZ",
+        "underlyingSymbol": null,
+        "shortName": "AZZ Inc.",
+        "longName": "AZZ Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1046449984
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 2283511040,
+        "forwardPE": 10.655696,
+        "profitMargins": 0.0073400005,
+        "floatShares": 24311039,
+        "sharesOutstanding": 24862200,
+        "sharesShort": 518819,
+        "sharesShortPriorMonth": 608890,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0209,
+        "heldPercentInsiders": 0.017760001,
+        "heldPercentInstitutions": 0.91156995,
+        "shortRatio": 4.33,
+        "shortPercentOfFloat": 0.0335,
+        "beta": 1.255747,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 34.566,
+        "priceToBook": 1.2176704,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-02-28T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-02-28T00:00:00.000Z",
+        "mostRecentQuarter": "2022-08-31T00:00:00.000Z",
+        "netIncomeToCommon": 97586000,
+        "trailingEps": 3.89,
+        "forwardEps": 3.95,
+        "pegRatio": 1.07,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "2012-07-31T00:00:00.000Z",
+        "enterpriseToRevenue": 1.818,
+        "enterpriseToEbitda": 9.617,
+        "52WeekChange": -0.21150243,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.17,
+        "lastDividendDate": 1665964800
+    },
+    "summaryProfile": {
+        "address1": "One Museum Place",
+        "address2": "Suite 500 3100 West 7th Street",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76107",
+        "country": "United States",
+        "phone": "817 810 0095",
+        "fax": "817 336 5354",
+        "website": "https://www.azz.com",
+        "industry": "Specialty Business Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "AZZ Inc. offers galvanizing and metal coating solutions, welding solutions, specialty electrical equipment, and engineered services to the power generation, transmission, distribution, refining, and industrial markets in the United States and internationally. The company operates through two segments, Infrastructure Solutions and Metal Coatings. The Metal Coatings segment offers metal finishing solutions for corrosion protection, including hot-dip galvanizing, spin galvanizing, powder coating, anodizing, and plating to the steel fabrication and other industries. It serves fabricators or manufacturers that provide services to the electrical and telecommunications, bridge and highway, petrochemical, and general industrial markets, as well as original equipment manufacturers. The Infrastructure Solutions segment provides products and services to support industrial and electrical applications. It offers custom switchgear, electrical enclosures, medium and high voltage bus ducts, explosion proof and hazardous duty lighting, and tubular products, as well as solutions and engineering resources to multi-national companies. This segment sells its products through internal sales force, manufacturers' representatives, distributors, and agents. The company was incorporated in 1956 and is headquartered in Fort Worth, Texas.",
+        "fullTimeEmployees": 3885,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 42.09,
+        "targetHighPrice": 49,
+        "targetLowPrice": 48,
+        "targetMeanPrice": 48.5,
+        "targetMedianPrice": 48.5,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 11340000,
+        "totalCashPerShare": 0.456,
+        "ebitda": 237432992,
+        "totalDebt": 1277496960,
+        "quickRatio": 0.822,
+        "currentRatio": 1.88,
+        "totalRevenue": 1255858048,
+        "debtToEquity": 148.612,
+        "revenuePerShare": 50.759,
+        "returnOnAssets": 0.060560003,
+        "returnOnEquity": 0.13167,
+        "grossProfits": 225223000,
+        "freeCashflow": 12108250,
+        "operatingCashflow": 115362000,
+        "revenueGrowth": 2.094,
+        "grossMargins": 0.25022,
+        "ebitdaMargins": 0.18906,
+        "operatingMargins": 0.13919,
+        "profitMargins": 0.0073400005,
+        "financialCurrency": "USD"
+    }
+}

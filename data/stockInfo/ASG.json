@@ -1,0 +1,262 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ASG",
+        "Security_Name": "Liberty All-Star Growth Fund, Inc.",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ASG",
+        "NASDAQ_Symbol": "ASG",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 4.92,
+        "open": 4.97,
+        "dayLow": 4.92,
+        "dayHigh": 5.04,
+        "regularMarketPreviousClose": 4.92,
+        "regularMarketOpen": 4.97,
+        "regularMarketDayLow": 4.92,
+        "regularMarketDayHigh": 5.04,
+        "dividendRate": 0.44,
+        "dividendYield": 0.0846,
+        "exDividendDate": "2022-07-21T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 9.03,
+        "beta": 1.335666,
+        "trailingPE": 1.9984109,
+        "volume": 238210,
+        "regularMarketVolume": 238210,
+        "averageVolume": 216904,
+        "averageVolume10days": 214440,
+        "averageDailyVolume10Day": 214440,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 269748352,
+        "fiftyTwoWeekLow": 4.82,
+        "fiftyTwoWeekHigh": 8.5,
+        "priceToSalesTrailing12Months": 151.20558,
+        "fiftyDayAverage": 5.1792,
+        "twoHundredDayAverage": 5.821,
+        "trailingAnnualDividendRate": 0.63,
+        "trailingAnnualDividendYield": 0.12804878,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1291554,
+                    "earnings": -5184425
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1413489,
+                    "earnings": 64006700
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1344717,
+                    "earnings": 106670480
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1868359,
+                    "earnings": 63082577
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 451883,
+                    "earnings": 10847520
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 451883,
+                    "earnings": 10847520
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 440110,
+                    "earnings": -72072523
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 440110,
+                    "earnings": -72072523
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": []
+        },
+        "exDividendDate": "2022-07-21T00:00:00.000Z",
+        "dividendDate": "2019-03-11T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.0039761392,
+        "postMarketChange": 0.01999998,
+        "postMarketTime": "2023-01-06T22:43:03.000Z",
+        "postMarketPrice": 5.05,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.02235775,
+        "regularMarketChange": 0.11000013,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 5.03,
+        "regularMarketDayHigh": 5.04,
+        "regularMarketDayLow": 4.92,
+        "regularMarketVolume": 238210,
+        "averageDailyVolume10Day": 214440,
+        "averageDailyVolume3Month": 216904,
+        "regularMarketPreviousClose": 4.92,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 4.97,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ASG",
+        "underlyingSymbol": null,
+        "shortName": "Liberty All-Star Growth Fund, I",
+        "longName": "Liberty All-Star Growth Fund, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 269748352
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 294836992,
+        "profitMargins": 0,
+        "sharesOutstanding": 53627900,
+        "sharesShort": 154852,
+        "sharesShortPriorMonth": 269529,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0028,
+        "heldPercentInsiders": 0.0019699999,
+        "heldPercentInstitutions": 0.18482,
+        "shortRatio": 0.96,
+        "shortPercentOfFloat": 0.0031,
+        "beta": 1.335666,
+        "category": null,
+        "bookValue": 7.98,
+        "priceToBook": 0.63032585,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -122450008,
+        "trailingEps": 2.517,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 165.269
+    },
+    "summaryProfile": {
+        "address1": "1290 Broadway",
+        "address2": "Suite 1000",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80203",
+        "country": "United States",
+        "phone": "303 623 2577",
+        "fax": "303 623 7850",
+        "website": "https://www.all-starfunds.com/fundfacts-asg.php",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Liberty All-Star Growth Fund, Inc. is a closed-ended equity mutual fund launched and managed by ALPS Advisers, Inc. It is co-managed by Weatherbie Capital, LLC, Congress Asset Management Company, and Sustainable Growth Advisers, LP. The fund invests in the public equity markets of the United States. It seeks to invest in stocks of companies operating across diversified sectors. The fund primarily invests in growth stocks of companies across all market capitalizations. It employs fundamental analysis with a bottom-up stock picking approach to create its portfolio. The fund benchmarks the performance of its portfolio against the NASDAQ Composite Index, Russell 3000 Growth Index, and the S&P 500 Index. It conducts in-house research to make its investments. The fund was previously known as Charles Allmon Trust, Inc. Liberty All-Star Growth Fund, Inc. was formed on March 14, 1986 and is domiciled in the United States.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 5.03,
+        "recommendationKey": "none",
+        "totalDebt": 2596943,
+        "quickRatio": 0.128,
+        "currentRatio": 0.929,
+        "totalRevenue": 1783984,
+        "debtToEquity": 0.86,
+        "revenuePerShare": 0.032,
+        "returnOnAssets": -0.00458,
+        "returnOnEquity": -0.32234,
+        "grossProfits": 1868359,
+        "revenueGrowth": -0.087,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": -1.57387,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

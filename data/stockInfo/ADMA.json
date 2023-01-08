@@ -1,0 +1,497 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ADMA",
+        "Security_Name": "ADMA Biologics Inc - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ADMA",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 3.6,
+        "open": 3.6,
+        "dayLow": 3.555,
+        "dayHigh": 3.75,
+        "regularMarketPreviousClose": 3.6,
+        "regularMarketOpen": 3.6,
+        "regularMarketDayLow": 3.555,
+        "regularMarketDayHigh": 3.75,
+        "payoutRatio": 0,
+        "beta": 1.005747,
+        "forwardPE": -20.166666,
+        "volume": 1716574,
+        "regularMarketVolume": 1716574,
+        "averageVolume": 3224001,
+        "averageVolume10days": 2216590,
+        "averageDailyVolume10Day": 2216590,
+        "bid": 3.59,
+        "ask": 3.75,
+        "bidSize": 3100,
+        "askSize": 4000,
+        "marketCap": 801877952,
+        "fiftyTwoWeekLow": 1.26,
+        "fiftyTwoWeekHigh": 3.98,
+        "priceToSalesTrailing12Months": 6.1455483,
+        "fiftyDayAverage": 3.2888,
+        "twoHundredDayAverage": 2.48215,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.09,
+                    "estimate": -0.09
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.13,
+                    "estimate": -0.08
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.07,
+                    "estimate": -0.08
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.08,
+                    "estimate": -0.08
+                }
+            ],
+            "currentQuarterEstimate": -0.06,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1679515200,
+                1679947200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 16985290,
+                    "earnings": -65743445
+                },
+                {
+                    "date": 2019,
+                    "revenue": 29349083,
+                    "earnings": -48279317
+                },
+                {
+                    "date": 2020,
+                    "revenue": 42219783,
+                    "earnings": -75748548
+                },
+                {
+                    "date": 2021,
+                    "revenue": 80942625,
+                    "earnings": -71647618
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 26382867,
+                    "earnings": -16649420
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 29103093,
+                    "earnings": -25007857
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 33905007,
+                    "earnings": -13764906
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 41090137,
+                    "earnings": -14899504
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1679515200,
+                1679947200
+            ],
+            "earningsAverage": -0.06,
+            "earningsLow": -0.08,
+            "earningsHigh": -0.03,
+            "revenueAverage": 43750000,
+            "revenueLow": 36800000,
+            "revenueHigh": 49020000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2023-01-03T11:14:23.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-11-10T15:24:20.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-13T09:19:44.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-07-25T10:44:05.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-11T12:26:32.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-11-09T09:11:45.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-10-26T12:16:54.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-12T10:32:10.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-06T10:31:19.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-26T11:44:31.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-04T11:14:37.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-01T11:16:32.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-07T14:13:08.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-16T11:23:44.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-06-04T11:17:11.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-04-02T12:22:02.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-10-30T11:19:55.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-10-12T12:11:37.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-30T10:14:04.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-07-27T15:09:32.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-26T18:19:25.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-13T13:47:15.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-11-14T13:51:58.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-08-01T08:23:56.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-08-01T08:23:40.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-09-09T08:06:56.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0027548182,
+        "postMarketChange": 0.00999999,
+        "postMarketTime": "2023-01-07T00:51:55.000Z",
+        "postMarketPrice": 3.64,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.0083333915,
+        "regularMarketChange": 0.03000021,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 3.63,
+        "regularMarketDayHigh": 3.75,
+        "regularMarketDayLow": 3.555,
+        "regularMarketVolume": 1716574,
+        "averageDailyVolume10Day": 2216590,
+        "averageDailyVolume3Month": 3224001,
+        "regularMarketPreviousClose": 3.6,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 3.6,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ADMA",
+        "underlyingSymbol": null,
+        "shortName": "ADMA Biologics Inc",
+        "longName": "ADMA Biologics, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 801877952
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 836053696,
+        "forwardPE": -20.166666,
+        "profitMargins": -0.53894,
+        "floatShares": 193506869,
+        "sharesOutstanding": 220903008,
+        "sharesShort": 12500177,
+        "sharesShortPriorMonth": 21737600,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.056599997,
+        "heldPercentInsiders": 0.01829,
+        "heldPercentInstitutions": 0.72003,
+        "shortRatio": 3.1,
+        "shortPercentOfFloat": 0.0587,
+        "beta": 1.005747,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 0.51,
+        "priceToBook": 7.1176476,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -70321688,
+        "trailingEps": -0.49,
+        "forwardEps": -0.18,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 6.407,
+        "enterpriseToEbitda": -21.005,
+        "52WeekChange": 1.7089553,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "465 State Route 17",
+        "city": "Ramsey",
+        "state": "NJ",
+        "zip": "07446",
+        "country": "United States",
+        "phone": "201 478 5552",
+        "fax": "201 478 5553",
+        "website": "https://www.admabiologics.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "ADMA Biologics, Inc., a biopharmaceutical company, engages in developing, manufacturing, and marketing specialty plasma-derived biologics for the treatment of immune deficiencies and infectious diseases in the United States and internationally. It offers BIVIGAM, an intravenous immune globulin (IVIG) product indicated for the treatment of primary humoral immunodeficiency (PI); ASCENIV, an IVIG product for the treatment of PI; and Nabi-HB for the treatment of acute exposure to blood containing Hepatitis B surface antigen and other listed exposures to Hepatitis B. The company also develops a pipeline of plasma-derived therapeutics, including products related to the methods of treatment and prevention of S. pneumonia infection for an immunoglobulin. In addition, it operates source plasma collection facilities. The company sells its products through independent distributors, sales agents, specialty pharmacies, and other alternate site providers. ADMA Biologics, Inc. was incorporated in 2004 and is headquartered in Ramsey, New Jersey.",
+        "fullTimeEmployees": 527,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 3.63,
+        "targetHighPrice": 6,
+        "targetLowPrice": 4.5,
+        "targetMeanPrice": 5.13,
+        "targetMedianPrice": 5,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 34906020,
+        "totalCashPerShare": 0.177,
+        "ebitda": -39803512,
+        "totalDebt": 152722544,
+        "quickRatio": 1.256,
+        "currentRatio": 5.043,
+        "totalRevenue": 130481104,
+        "debtToEquity": 152.137,
+        "revenuePerShare": 0.678,
+        "returnOnAssets": -0.10779,
+        "returnOnEquity": -0.69225997,
+        "grossProfits": 1173284,
+        "freeCashflow": -75901424,
+        "operatingCashflow": -85594176,
+        "revenueGrowth": 0.987,
+        "grossMargins": 0.18853001,
+        "ebitdaMargins": -0.30505,
+        "operatingMargins": -0.35636002,
+        "profitMargins": -0.53894,
+        "financialCurrency": "USD"
+    }
+}

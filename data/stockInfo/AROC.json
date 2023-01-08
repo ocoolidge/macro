@@ -1,0 +1,449 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AROC",
+        "Security_Name": "Archrock, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AROC",
+        "NASDAQ_Symbol": "AROC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 6,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 8.88,
+        "open": 9.04,
+        "dayLow": 8.99,
+        "dayHigh": 9.31,
+        "regularMarketPreviousClose": 8.88,
+        "regularMarketOpen": 9.04,
+        "regularMarketDayLow": 8.99,
+        "regularMarketDayHigh": 9.31,
+        "dividendRate": 0.58,
+        "dividendYield": 0.0784,
+        "exDividendDate": "2022-08-08T00:00:00.000Z",
+        "payoutRatio": 2.5681,
+        "fiveYearAvgDividendYield": 6.53,
+        "beta": 1.693072,
+        "forwardPE": 23.099998,
+        "volume": 808958,
+        "regularMarketVolume": 808958,
+        "averageVolume": 844772,
+        "averageVolume10days": 816530,
+        "averageDailyVolume10Day": 816530,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1400,
+        "askSize": 1800,
+        "marketCap": 1423421952,
+        "fiftyTwoWeekLow": 6.28,
+        "fiftyTwoWeekHigh": 10.44,
+        "priceToSalesTrailing12Months": 1.7716506,
+        "fiftyDayAverage": 8.4142,
+        "twoHundredDayAverage": 8.30265,
+        "trailingAnnualDividendRate": 0.58,
+        "trailingAnnualDividendYield": 0.06531531,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.06,
+                    "estimate": 0.07
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.04,
+                    "estimate": 0.02
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.01,
+                    "estimate": 0.06
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.11,
+                    "estimate": 0.12
+                }
+            ],
+            "currentQuarterEstimate": 0.04,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676851200,
+                1677196800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 904441000,
+                    "earnings": 21063000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 965485000,
+                    "earnings": 97330000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 874970000,
+                    "earnings": -68445000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 781461000,
+                    "earnings": 28217000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 195166000,
+                    "earnings": 9304000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 195249000,
+                    "earnings": 5992000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 197201000,
+                    "earnings": 1721000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 215828000,
+                    "earnings": 16746000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676851200,
+                1677196800
+            ],
+            "earningsAverage": 0.04,
+            "earningsLow": 0.04,
+            "earningsHigh": 0.04
+        },
+        "exDividendDate": "2022-08-08T00:00:00.000Z",
+        "dividendDate": "2021-08-16T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2020-03-17T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-24T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-06T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-22T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-09T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-01T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-03-22T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-02-23T00:00:00.000Z",
+                "firm": "Capital One",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-01-26T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-08-23T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-01-06T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-11-14T00:00:00.000Z",
+                "firm": "Capital One",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-08-22T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-08-05T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-07-15T00:00:00.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-06-22T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "",
+                "fromGrade": "Sector Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-05-03T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Underperform",
+                "fromGrade": "Sector Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-05T00:00:00.000Z",
+                "firm": "RF Lafferty",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-03-28T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.0194805,
+        "postMarketChange": -0.179999,
+        "postMarketTime": "2023-01-06T21:22:14.000Z",
+        "postMarketPrice": 9.06,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.0405405,
+        "regularMarketChange": 0.35999966,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 9.24,
+        "regularMarketDayHigh": 9.31,
+        "regularMarketDayLow": 8.99,
+        "regularMarketVolume": 808958,
+        "averageDailyVolume10Day": 816530,
+        "averageDailyVolume3Month": 844772,
+        "regularMarketPreviousClose": 8.88,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 9.04,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AROC",
+        "underlyingSymbol": null,
+        "shortName": "Archrock, Inc.",
+        "longName": "Archrock, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1423421952
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 2697096960,
+        "forwardPE": 24.972973,
+        "profitMargins": 0.04202,
+        "floatShares": 135080577,
+        "sharesOutstanding": 154050000,
+        "sharesShort": 5579861,
+        "sharesShortPriorMonth": 5267843,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0359,
+        "heldPercentInsiders": 0.13432,
+        "heldPercentInstitutions": 0.83892,
+        "shortRatio": 6.21,
+        "shortPercentOfFloat": 0.0594,
+        "beta": 1.693072,
+        "category": null,
+        "bookValue": 5.992,
+        "priceToBook": 1.542056,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.913,
+        "netIncomeToCommon": 32226000,
+        "trailingEps": -0.028,
+        "forwardEps": 0.4,
+        "pegRatio": -2.48,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 3.357,
+        "enterpriseToEbitda": 8.818
+    },
+    "summaryProfile": {
+        "address1": "9807 Katy Freeway",
+        "address2": "Suite 100",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77024",
+        "country": "United States",
+        "phone": "281 836 8000",
+        "fax": "713 466 6720",
+        "website": "https://www.archrock.com",
+        "industry": "Oil & Gas Equipment & Services",
+        "sector": "Energy",
+        "longBusinessSummary": "Archrock, Inc., together with its subsidiaries, operates as an energy infrastructure company in the United States. It operates in two segments, Contract Operations and Aftermarket Services. The company engages in the designing, sourcing, owning, installing, operating, servicing, repairing, and maintaining its owned fleet of natural gas compression equipment to provide natural gas compression services to customers in the oil and natural gas industry. It also offers various aftermarket services, such as sale of parts and components; and provision of operation, maintenance, overhaul, and reconfiguration services to customers who own compression equipment. The company was formerly known as Exterran Holdings, Inc. and changed its name to Archrock, Inc. in November 2015. Archrock, Inc. was founded in 1990 and is headquartered in Houston, Texas.",
+        "fullTimeEmployees": 1100,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 9.24,
+        "targetHighPrice": 11,
+        "targetLowPrice": 10,
+        "targetMeanPrice": 10.5,
+        "targetMedianPrice": 10.5,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 1950000,
+        "totalCashPerShare": 0.013,
+        "ebitda": 305878016,
+        "totalDebt": 1547425024,
+        "quickRatio": 0.866,
+        "currentRatio": 1.432,
+        "totalRevenue": 803443968,
+        "debtToEquity": 177.067,
+        "revenuePerShare": 5.274,
+        "returnOnAssets": 0.03125,
+        "returnOnEquity": 0.03777,
+        "grossProfits": 422544000,
+        "freeCashflow": 65209000,
+        "operatingCashflow": 200307008,
+        "earningsGrowth": 0.929,
+        "revenueGrowth": 0.103,
+        "grossMargins": 0.51945,
+        "ebitdaMargins": 0.38071,
+        "operatingMargins": 0.16484,
+        "profitMargins": 0.04202,
+        "financialCurrency": "USD"
+    }
+}

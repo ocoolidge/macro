@@ -1,0 +1,463 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AVID",
+        "Security_Name": "Avid Technology, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AVID",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 4,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 4,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 26.24,
+        "open": 26.61,
+        "dayLow": 26.3,
+        "dayHigh": 27.5,
+        "regularMarketPreviousClose": 26.24,
+        "regularMarketOpen": 26.61,
+        "regularMarketDayLow": 26.3,
+        "regularMarketDayHigh": 27.5,
+        "payoutRatio": 0,
+        "beta": 1.201149,
+        "trailingPE": 27.039604,
+        "forwardPE": 16.7546,
+        "volume": 142854,
+        "regularMarketVolume": 142854,
+        "averageVolume": 277991,
+        "averageVolume10days": 182590,
+        "averageDailyVolume10Day": 182590,
+        "bid": 27.37,
+        "ask": 28.09,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 1193206656,
+        "fiftyTwoWeekLow": 20.83,
+        "fiftyTwoWeekHigh": 37.31,
+        "priceToSalesTrailing12Months": 2.8384137,
+        "fiftyDayAverage": 26.673,
+        "twoHundredDayAverage": 27.45975,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.46,
+                    "estimate": 0.42
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.33,
+                    "estimate": 0.34
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.26,
+                    "estimate": 0.25
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.38,
+                    "estimate": 0.31
+                }
+            ],
+            "currentQuarterEstimate": 0.48,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677531600,
+                1677877200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 413282000,
+                    "earnings": -10674000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 411788000,
+                    "earnings": 7601000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 360466000,
+                    "earnings": 11062000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 409944000,
+                    "earnings": 41388000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 119064000,
+                    "earnings": 15216000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 100649000,
+                    "earnings": 10586000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 97680000,
+                    "earnings": 7373000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 102985000,
+                    "earnings": 12022000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677531600,
+                1677877200
+            ],
+            "earningsAverage": 0.48,
+            "earningsLow": 0.46,
+            "earningsHigh": 0.49,
+            "revenueAverage": 115020000,
+            "revenueLow": 111000000,
+            "revenueHigh": 117420000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-09T12:59:53.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-12T09:27:25.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-07-06T08:50:35.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-05-25T13:45:36.000Z",
+                "firm": "Northland Capital Markets",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-19T13:27:33.000Z",
+                "firm": "Northland Capital Markets",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-11-15T11:09:34.000Z",
+                "firm": "B. Riley",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-05-01T12:37:41.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-01-30T14:44:19.000Z",
+                "firm": "Dougherty",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-11-16T15:25:13.000Z",
+                "firm": "BWS Financial",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-14T13:45:11.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-12-09T11:31:19.000Z",
+                "firm": "Singular Research",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-08-11T09:21:35.000Z",
+                "firm": "Dougherty",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-06-17T09:32:13.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-12-02T00:00:00.000Z",
+                "firm": "BWS Financial",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-07-01T06:40:32.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-22T11:12:00.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-22T10:12:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-04-27T11:00:00.000Z",
+                "firm": "Dougherty",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-04-12T09:20:00.000Z",
+                "firm": "Dougherty",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-04-12T06:23:00.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-02-09T08:30:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.0292933,
+        "postMarketChange": -0.799999,
+        "postMarketTime": "2023-01-06T23:09:33.000Z",
+        "postMarketPrice": 26.51,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.040777426,
+        "regularMarketChange": 1.0699997,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 27.31,
+        "regularMarketDayHigh": 27.5,
+        "regularMarketDayLow": 26.3,
+        "regularMarketVolume": 142854,
+        "averageDailyVolume10Day": 182590,
+        "averageDailyVolume3Month": 277991,
+        "regularMarketPreviousClose": 26.24,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 26.61,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AVID",
+        "underlyingSymbol": null,
+        "shortName": "Avid Technology, Inc.",
+        "longName": "Avid Technology, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1193206656
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1325700224,
+        "forwardPE": 16.7546,
+        "profitMargins": 0.10752,
+        "floatShares": 33198769,
+        "sharesOutstanding": 43691200,
+        "sharesShort": 2041756,
+        "sharesShortPriorMonth": 2068178,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0467,
+        "heldPercentInsiders": 0.08035,
+        "heldPercentInstitutions": 0.91271,
+        "shortRatio": 9.18,
+        "shortPercentOfFloat": 0.059699997,
+        "beta": 1.201149,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": -3.219,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.186,
+        "netIncomeToCommon": 45197000,
+        "trailingEps": 1.01,
+        "forwardEps": 1.63,
+        "pegRatio": 1.21,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 3.154,
+        "enterpriseToEbitda": 22.103,
+        "52WeekChange": -0.06280029,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "75 Network Drive",
+        "city": "Burlington",
+        "state": "MA",
+        "zip": "01803",
+        "country": "United States",
+        "phone": "978 640 6789",
+        "fax": "978 851 7216",
+        "website": "https://www.avid.com",
+        "industry": "Software—Application",
+        "sector": "Technology",
+        "longBusinessSummary": "Avid Technology, Inc., together with its subsidiaries, develops, markets, sells, and supports software and integrated solutions for video and audio content creation, management, and distribution worldwide. The company's video products and solutions include the Media Composer, a cloud-enabled solution used to edit video content; Avid NEXIS shared storage systems; Maestro solutions for the integration of virtual sets, augmented reality, and video wall control into existing workflows; AirSpeed 5000 and AirSpeed 5500 on-air server solutions; and MediaCentral, a media production suite. Its audio products and solutions comprise Pro Tools digital audio software solutions to facilitate the audio production process; Sibelius solution to create, edit, and publish musical scores; S6 line of complementary control surfaces and consoles; S1 and S4 audio control surfaces; and VENUE | S6L live sound system for mixing audio for live sound reinforcement. The company also provides Avid Link, a mobile application to connect with other artists, producers, mixers, composers, editors, videographers, movie makers, and graphic designers; FastServe video server that assists broadcasters in making the move to UHD and IP based workflows with a new and modular architecture; and hardware products, such as I/O devices, interfaces, and audio and video processing equipment. In addition, it offers various maintenance contracts and support services; professional services, such as workflow design and consulting, program and project management, system installation and commissioning, and custom development and role-based product level training; and public and private training to customers and alliance partners, as well as develops and licenses curriculum content for use by third party Avid Learning partners to deliver training to customers, users, and alliance partners. The company was incorporated in 1987 and is headquartered in Burlington, Massachusetts.",
+        "fullTimeEmployees": 1405,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 27.31,
+        "targetHighPrice": 51,
+        "targetLowPrice": 25,
+        "targetMeanPrice": 34.33,
+        "targetMedianPrice": 32,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 31344000,
+        "totalCashPerShare": 0.717,
+        "ebitda": 59977000,
+        "totalDebt": 209276000,
+        "quickRatio": 0.643,
+        "currentRatio": 0.862,
+        "totalRevenue": 420377984,
+        "revenuePerShare": 9.389,
+        "returnOnAssets": 0.14165,
+        "grossProfits": 265804000,
+        "freeCashflow": 36746248,
+        "operatingCashflow": 52634000,
+        "earningsGrowth": -0.156,
+        "revenueGrowth": 0.013,
+        "grossMargins": 0.66192,
+        "ebitdaMargins": 0.14267,
+        "operatingMargins": 0.13113,
+        "profitMargins": 0.10752,
+        "financialCurrency": "USD"
+    }
+}

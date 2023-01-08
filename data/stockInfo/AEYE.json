@@ -1,0 +1,417 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AEYE",
+        "Security_Name": "AudioEye, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AEYE",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 3.85,
+        "open": 3.9722,
+        "dayLow": 3.82,
+        "dayHigh": 4,
+        "regularMarketPreviousClose": 3.85,
+        "regularMarketOpen": 3.9722,
+        "regularMarketDayLow": 3.82,
+        "regularMarketDayHigh": 4,
+        "payoutRatio": 0,
+        "beta": 1.252873,
+        "forwardPE": -5.96875,
+        "volume": 6335,
+        "regularMarketVolume": 6335,
+        "averageVolume": 13130,
+        "averageVolume10days": 31410,
+        "averageDailyVolume10Day": 31410,
+        "bid": 2.5,
+        "ask": 6,
+        "bidSize": 1100,
+        "askSize": 3000,
+        "marketCap": 43963232,
+        "fiftyTwoWeekLow": 3.1,
+        "fiftyTwoWeekHigh": 7.78,
+        "priceToSalesTrailing12Months": 1.5335833,
+        "fiftyDayAverage": 4.6316,
+        "twoHundredDayAverage": 5.29645,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.44,
+                    "estimate": -0.45
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.32,
+                    "estimate": -0.42
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.23,
+                    "estimate": -0.32
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.2,
+                    "estimate": -0.24
+                }
+            ],
+            "currentQuarterEstimate": -0.22,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674075600,
+                1674507600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 5660427,
+                    "earnings": -5019874
+                },
+                {
+                    "date": 2019,
+                    "revenue": 10765000,
+                    "earnings": -7783000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 20475000,
+                    "earnings": -7158000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 24503000,
+                    "earnings": -14209000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 6492000,
+                    "earnings": -5003000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 6906000,
+                    "earnings": -3616000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 7569000,
+                    "earnings": -2610000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 7700000,
+                    "earnings": -2283000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674075600,
+                1674507600
+            ],
+            "earningsAverage": -0.22,
+            "earningsLow": -0.23,
+            "earningsHigh": -0.21,
+            "revenueAverage": 7750000,
+            "revenueLow": 7710000,
+            "revenueHigh": 7790000
+        },
+        "dividendDate": "2018-08-08T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-10T14:04:55.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-06T10:11:25.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-20T11:05:08.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-12T11:29:08.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-12T13:16:41.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-12T10:03:18.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-07T10:06:08.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-02-08T15:33:49.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:23.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:19.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:19.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:15.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:03.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:02.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:01.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.0077922004,
+        "regularMarketChange": -0.029999971,
+        "regularMarketTime": "2023-01-06T20:39:00.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 3.82,
+        "regularMarketDayHigh": 4,
+        "regularMarketDayLow": 3.82,
+        "regularMarketVolume": 6335,
+        "averageDailyVolume10Day": 31410,
+        "averageDailyVolume3Month": 13130,
+        "regularMarketPreviousClose": 3.85,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 3.9722,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AEYE",
+        "underlyingSymbol": null,
+        "shortName": "AudioEye, Inc.",
+        "longName": "AudioEye, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 43963232
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 39271448,
+        "forwardPE": -5.96875,
+        "profitMargins": -0.47134,
+        "floatShares": 5775169,
+        "sharesOutstanding": 11508700,
+        "sharesShort": 27349,
+        "sharesShortPriorMonth": 41927,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0023999999,
+        "heldPercentInsiders": 0.48793998,
+        "heldPercentInstitutions": 0.18062,
+        "shortRatio": 3.53,
+        "shortPercentOfFloat": 0.0039,
+        "beta": 1.252873,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 1.004,
+        "priceToBook": 3.804781,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -13512000,
+        "trailingEps": -1.339,
+        "forwardEps": -0.64,
+        "lastSplitFactor": "1:25",
+        "lastSplitDate": "2018-08-08T00:00:00.000Z",
+        "enterpriseToRevenue": 1.37,
+        "enterpriseToEbitda": -4.313,
+        "52WeekChange": -0.41768295,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "5210 East Williams Circle",
+        "address2": "Suite 750",
+        "city": "Tucson",
+        "state": "AZ",
+        "zip": "85711",
+        "country": "United States",
+        "phone": "866 331 5324",
+        "website": "https://www.audioeye.com",
+        "industry": "Software—Application",
+        "sector": "Technology",
+        "longBusinessSummary": "AudioEye, Inc. provides patented, internet content publication, distribution software, and related services to Internet, print, broadcast, and other media to people regardless of their network connection, device, location, or disabilities in the United States. Its software and services enable conversion of digital content into accessible formats and allows for real time distribution to end users on any Internet connected device. The company offers AudioEye, an always-on testing, remediation, and monitoring solution that improves conformance with web content accessibility guidelines; identifies and fixes the common accessibility errors and addresses a range of disabilities including dyslexia, color blindness, epilepsy, and others; and provides additional solutions to provide for enhanced compliance and accessibility, including periodic manual auditing, manual remediations, and legal support services, as well as PDF remediation services and audit reports to help customers with their digital accessibility needs. The company serves small- and medium-sized businesses, corporate enterprises, non-profit organizations, and federal government agencies, as well as federal, state, and local governments and agencies through content management system partners, platform and agency partners, authorized resellers, and the marketplace. AudioEye, Inc. was incorporated in 2005 and is based in Tucson, Arizona.",
+        "fullTimeEmployees": 111,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 3.82,
+        "targetHighPrice": 10,
+        "targetLowPrice": 9,
+        "targetMeanPrice": 9.5,
+        "targetMedianPrice": 9.5,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 7823000,
+        "totalCashPerShare": 0.68,
+        "ebitda": -9106000,
+        "totalDebt": 1405000,
+        "quickRatio": 1.135,
+        "currentRatio": 1.215,
+        "totalRevenue": 28667000,
+        "debtToEquity": 12.181,
+        "revenuePerShare": 2.506,
+        "returnOnAssets": -0.22857,
+        "returnOnEquity": -0.84273005,
+        "grossProfits": 18382000,
+        "freeCashflow": 848250,
+        "operatingCashflow": -7001000,
+        "revenueGrowth": 0.242,
+        "grossMargins": 0.75013,
+        "ebitdaMargins": -0.31765,
+        "operatingMargins": -0.35696,
+        "profitMargins": -0.47134,
+        "financialCurrency": "USD"
+    }
+}

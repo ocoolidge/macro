@@ -1,0 +1,315 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATOM",
+        "Security_Name": "Atomera Incorporated - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ATOM",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 5.9,
+        "open": 6.05,
+        "dayLow": 5.76,
+        "dayHigh": 6.2682,
+        "regularMarketPreviousClose": 5.9,
+        "regularMarketOpen": 6.05,
+        "regularMarketDayLow": 5.76,
+        "regularMarketDayHigh": 6.2682,
+        "payoutRatio": 0,
+        "beta": 1.667649,
+        "forwardPE": -9.313433,
+        "volume": 172083,
+        "regularMarketVolume": 172083,
+        "averageVolume": 166877,
+        "averageVolume10days": 156090,
+        "averageDailyVolume10Day": 156090,
+        "bid": 6.16,
+        "ask": 6.83,
+        "bidSize": 3000,
+        "askSize": 800,
+        "marketCap": 144505296,
+        "fiftyTwoWeekLow": 5.75,
+        "fiftyTwoWeekHigh": 18.95,
+        "priceToSalesTrailing12Months": 385.34744,
+        "fiftyDayAverage": 7.84,
+        "twoHundredDayAverage": 10.38055,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.15,
+                    "estimate": -0.12
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.15,
+                    "estimate": -0.16
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.15,
+                    "estimate": -0.16
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.16,
+                    "estimate": -0.17
+                }
+            ],
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676246400,
+                1676592000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 246000,
+                    "earnings": -12897000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 533000,
+                    "earnings": -13300000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 62000,
+                    "earnings": -14878000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 400000,
+                    "earnings": -15714000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 0,
+                    "earnings": -4203000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -4165000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 375000,
+                    "earnings": -4086000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -4481000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676246400,
+                1676592000
+            ]
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2021-06-09T00:00:00.000Z",
+                "firm": "Craig-Hallum",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-10-18T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-22T00:00:00.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0945513,
+        "postMarketChange": 0.59000015,
+        "postMarketTime": "2023-01-06T22:19:35.000Z",
+        "postMarketPrice": 6.83,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.057627063,
+        "regularMarketChange": 0.33999968,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 6.24,
+        "regularMarketDayHigh": 6.2682,
+        "regularMarketDayLow": 5.76,
+        "regularMarketVolume": 172083,
+        "averageDailyVolume10Day": 156090,
+        "averageDailyVolume3Month": 166877,
+        "regularMarketPreviousClose": 5.9,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 6.05,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATOM",
+        "underlyingSymbol": null,
+        "shortName": "Atomera Incorporated",
+        "longName": "Atomera Incorporated",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 144505296
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 204248064,
+        "forwardPE": -13.866667,
+        "profitMargins": 0,
+        "floatShares": 21950695,
+        "sharesOutstanding": 23157900,
+        "sharesShort": 3900301,
+        "sharesShortPriorMonth": 3811787,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.16510001,
+        "heldPercentInsiders": 0.04814,
+        "heldPercentInstitutions": 0.31998,
+        "shortRatio": 24.79,
+        "shortPercentOfFloat": 0.173,
+        "beta": 1.667649,
+        "category": null,
+        "bookValue": 1.616,
+        "priceToBook": 3.8613858,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -16935000,
+        "trailingEps": -0.74,
+        "forwardEps": -0.67,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 544.661,
+        "enterpriseToEbitda": -13.242
+    },
+    "summaryProfile": {
+        "address1": "750 University Avenue",
+        "address2": "Suite 280",
+        "city": "Los Gatos",
+        "state": "CA",
+        "zip": "95032",
+        "country": "United States",
+        "phone": "408 442 5248",
+        "website": "https://www.atomera.com",
+        "industry": "Semiconductor Equipment & Materials",
+        "sector": "Technology",
+        "longBusinessSummary": "Atomera Incorporated develops, commercializes, and licenses proprietary materials, processes, and technologies for the semiconductor industry in North America and the Asia Pacific. The company's lead technology is the Mears Silicon Technology, a thin film of reengineered silicon that can be applied as a transistor channel enhancement to CMOS-type transistors. Its customers include foundries, integrated device manufacturers, fabless semiconductor manufacturers, original equipment manufacturers, and electronic design automation companies. The company was formerly known as Mears Technologies, Inc. and changed its name to Atomera Incorporated in January 2016. Atomera Incorporated was incorporated in 2001 and is headquartered in Los Gatos, California.",
+        "fullTimeEmployees": 19,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 6.24,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "totalCash": 21838000,
+        "totalCashPerShare": 0.924,
+        "ebitda": -15424000,
+        "totalDebt": 5875000,
+        "quickRatio": 7.813,
+        "currentRatio": 8.046,
+        "totalRevenue": 375000,
+        "debtToEquity": 27.011,
+        "revenuePerShare": 0.016,
+        "returnOnAssets": -0.31845,
+        "returnOnEquity": -0.60012,
+        "grossProfits": 400000,
+        "freeCashflow": -5961750,
+        "operatingCashflow": -12422000,
+        "grossMargins": 0.78400004,
+        "ebitdaMargins": 0,
+        "operatingMargins": -44.464,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

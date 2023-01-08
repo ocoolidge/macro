@@ -1,0 +1,326 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ADIL",
+        "Security_Name": "Adial Pharmaceuticals, Inc - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ADIL",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.255,
+        "open": 0.2958,
+        "dayLow": 0.272,
+        "dayHigh": 0.36,
+        "regularMarketPreviousClose": 0.255,
+        "regularMarketOpen": 0.2958,
+        "regularMarketDayLow": 0.272,
+        "regularMarketDayHigh": 0.36,
+        "payoutRatio": 0,
+        "beta": 0.533095,
+        "forwardPE": -0.6251786,
+        "volume": 824149,
+        "regularMarketVolume": 824149,
+        "averageVolume": 125137,
+        "averageVolume10days": 277470,
+        "averageDailyVolume10Day": 277470,
+        "bid": 0.3425,
+        "ask": 0.36,
+        "bidSize": 1400,
+        "askSize": 1800,
+        "marketCap": 9401586,
+        "fiftyTwoWeekLow": 0.2,
+        "fiftyTwoWeekHigh": 2.8,
+        "fiftyDayAverage": 0.265,
+        "twoHundredDayAverage": 0.845,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.28,
+                    "estimate": -0.21
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.13,
+                    "estimate": -0.17
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.16,
+                    "estimate": -0.14
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.12,
+                    "estimate": -0.18
+                }
+            ],
+            "currentQuarterEstimate": -0.16,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1668432600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 0,
+                    "earnings": -11631378
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -8591429
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -10892990
+                },
+                {
+                    "date": 2021,
+                    "revenue": 0,
+                    "earnings": -19423326
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -5830844
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -2907839
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -3847532
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 0,
+                    "earnings": -3109350
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1668432600
+            ],
+            "earningsAverage": -0.16,
+            "earningsLow": -0.24,
+            "earningsHigh": -0.09
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-17T12:04:17.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-10-13T15:55:08.000Z",
+                "firm": "Brookline Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-06-29T14:48:38.000Z",
+                "firm": "Litchfield Hills",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.027992,
+        "postMarketChange": 0.00979999,
+        "postMarketTime": "2023-01-07T00:55:17.000Z",
+        "postMarketPrice": 0.3599,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.37294126,
+        "regularMarketChange": 0.095100015,
+        "regularMarketTime": "2023-01-06T20:59:54.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.3501,
+        "regularMarketDayHigh": 0.36,
+        "regularMarketDayLow": 0.272,
+        "regularMarketVolume": 824149,
+        "averageDailyVolume10Day": 277470,
+        "averageDailyVolume3Month": 125137,
+        "regularMarketPreviousClose": 0.255,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 0.2958,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ADIL",
+        "underlyingSymbol": null,
+        "shortName": "Adial Pharmaceuticals, Inc",
+        "longName": "Adial Pharmaceuticals, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 9401586
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 1127366,
+        "forwardPE": -0.6251786,
+        "profitMargins": 0,
+        "floatShares": 22637890,
+        "sharesOutstanding": 26854000,
+        "sharesShort": 134087,
+        "sharesShortPriorMonth": 134098,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.005,
+        "heldPercentInsiders": 0.15368,
+        "heldPercentInstitutions": 0.07147,
+        "shortRatio": 1.36,
+        "shortPercentOfFloat": 0.0057,
+        "beta": 0.533095,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 0.201,
+        "priceToBook": 1.741791,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -15695565,
+        "trailingEps": -0.858,
+        "forwardEps": -0.56,
+        "lastSplitFactor": null,
+        "enterpriseToEbitda": -0.078,
+        "52WeekChange": -0.86742425,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "1180 Seminole Trail",
+        "address2": "Suite 495",
+        "city": "Charlottesville",
+        "state": "VA",
+        "zip": "22901",
+        "country": "United States",
+        "phone": "434 422 9800",
+        "fax": "434 422 9797",
+        "website": "https://www.adialpharma.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Adial Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, focuses on the development of therapeutics for the treatment or prevention of addiction and related disorders. Its lead product is AD04, a selective serotonin-3 antagonist, which is in Phase III clinical trial for the treatment of alcohol use disorder. The company also focuses on developing drug candidates for non-opioid pain reduction and other diseases and disorders. Adial Pharmaceuticals, Inc. was founded in 2010 and is based in Charlottesville, Virginia.",
+        "fullTimeEmployees": 16,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.3501,
+        "targetHighPrice": 9,
+        "targetLowPrice": 8,
+        "targetMeanPrice": 8.5,
+        "targetMedianPrice": 8.5,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 5752665,
+        "totalCashPerShare": 0.214,
+        "ebitda": -14453626,
+        "totalDebt": 220249,
+        "quickRatio": 4.335,
+        "currentRatio": 5.104,
+        "debtToEquity": 4.072,
+        "returnOnAssets": -0.99406,
+        "returnOnEquity": -2.48955,
+        "freeCashflow": -6307973,
+        "operatingCashflow": -11808146,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,332 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ALRS",
+        "Security_Name": "Alerus Financial Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ALRS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 22.19,
+        "open": 22.53,
+        "dayLow": 22.23,
+        "dayHigh": 22.99,
+        "regularMarketPreviousClose": 22.19,
+        "regularMarketOpen": 22.53,
+        "regularMarketDayLow": 22.23,
+        "regularMarketDayHigh": 22.99,
+        "dividendRate": 0.72,
+        "dividendYield": 0.033,
+        "exDividendDate": "2022-09-29T00:00:00.000Z",
+        "payoutRatio": 0.2588,
+        "fiveYearAvgDividendYield": 2.47,
+        "beta": 0.721812,
+        "trailingPE": 7.463462,
+        "forwardPE": 12.48913,
+        "volume": 16580,
+        "regularMarketVolume": 16580,
+        "averageVolume": 31977,
+        "averageVolume10days": 31340,
+        "averageDailyVolume10Day": 31340,
+        "bid": 9.16,
+        "ask": 36.6,
+        "bidSize": 1000,
+        "askSize": 800,
+        "marketCap": 395442144,
+        "fiftyTwoWeekLow": 20.2,
+        "fiftyTwoWeekHigh": 30.49,
+        "priceToSalesTrailing12Months": 1.8267082,
+        "fiftyDayAverage": 22.8754,
+        "twoHundredDayAverage": 24.00625,
+        "trailingAnnualDividendRate": 0.6,
+        "trailingAnnualDividendYield": 0.027039208,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.72,
+                    "estimate": 0.53
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.57,
+                    "estimate": 0.54
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.52,
+                    "estimate": 0.55
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.47,
+                    "estimate": 0.54
+                }
+            ],
+            "currentQuarterEstimate": 0.64,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674518400,
+                1675036800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 169363000,
+                    "earnings": 25866000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 181433000,
+                    "earnings": 29540000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 222317000,
+                    "earnings": 44675000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 237986000,
+                    "earnings": 52681000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 58007000,
+                    "earnings": 12705000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 51143000,
+                    "earnings": 10184000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 52002000,
+                    "earnings": 9293000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 55326000,
+                    "earnings": 9619000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674518400,
+                1675036800
+            ],
+            "earningsAverage": 0.64,
+            "earningsLow": 0.55,
+            "earningsHigh": 0.7,
+            "revenueAverage": 58970000,
+            "revenueLow": 57000000,
+            "revenueHigh": 60800000
+        },
+        "exDividendDate": "2022-09-29T00:00:00.000Z",
+        "dividendDate": "2023-01-13T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2020-09-23T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-17T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-10-08T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:11.000Z",
+        "postMarketPrice": 22.98,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.03560158,
+        "regularMarketChange": 0.789999,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 22.98,
+        "regularMarketDayHigh": 22.99,
+        "regularMarketDayLow": 22.23,
+        "regularMarketVolume": 16580,
+        "averageDailyVolume10Day": 31340,
+        "averageDailyVolume3Month": 31977,
+        "regularMarketPreviousClose": 22.19,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 22.53,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ALRS",
+        "underlyingSymbol": null,
+        "shortName": "Alerus Financial Corporation",
+        "longName": "Alerus Financial Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 395442144
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 684299328,
+        "forwardPE": 8.804598,
+        "profitMargins": 0.19309,
+        "floatShares": 17545029,
+        "sharesOutstanding": 17208100,
+        "sharesShort": 268102,
+        "sharesShortPriorMonth": 247105,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0134000005,
+        "heldPercentInsiders": 0.116960004,
+        "heldPercentInstitutions": 0.36124,
+        "shortRatio": 5.53,
+        "shortPercentOfFloat": 0.0150999995,
+        "beta": 0.721812,
+        "category": null,
+        "bookValue": 19.152,
+        "priceToBook": 1.1998746,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.264,
+        "netIncomeToCommon": 40999000,
+        "trailingEps": 3.079,
+        "forwardEps": 1.84,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": "2014-09-15T00:00:00.000Z",
+        "enterpriseToRevenue": 3.161
+    },
+    "summaryProfile": {
+        "address1": "401 Demers Avenue",
+        "city": "Grand Forks",
+        "state": "ND",
+        "zip": "58201",
+        "country": "United States",
+        "phone": "701 795 3200",
+        "website": "https://alerus.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Alerus Financial Corporation, through its subsidiary, Alerus Financial, National Association, provides various financial services to businesses and consumers. The company operates in four segments: Banking, Retirement and Benefit Services, Wealth Management, and Mortgage. It offers various deposit products, including demand deposits, interest-bearing transaction accounts, money market accounts, time and savings deposits, checking accounts, and certificates of deposit; and treasury management products, including electronic receivables management, remote deposit capture, cash vault services, merchant services, and other cash management services. The company also provides commercial loans, business term loans, lines of credit, and commercial real estate loans, as well as construction and land development loans; consumer lending products, including residential first mortgage loans; installment loans and lines of credit; and second mortgage loans. In addition, it offers retirement plan administration and investment advisory services, employee stock ownership plan, fiduciary services, payroll, health savings accounts, and other benefit services, as well as individual retirement accounts; and financial planning, investment management, personal and corporate trust, estate administration, and custody services. Further, the company provides debit and credit cards, online banking, mobile banking/wallet, payment, private banking, payroll accounts, flex spending accounts, administration, and government health insurance program services. It offers banking services through fourteen offices in North Dakota, Minnesota, and Arizona; and retirement and benefit plans in 50 states through offices located in Michigan, Minnesota, and Colorado. The company was formerly known as First National Bank North Dakota and changed its name to Alerus Financial Corporation in 2000. Alerus Financial Corporation was founded in 1879 and is headquartered in Grand Forks, North Dakota.",
+        "fullTimeEmployees": 779,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 22.98,
+        "targetHighPrice": 28,
+        "targetLowPrice": 23,
+        "targetMeanPrice": 25,
+        "targetMedianPrice": 24,
+        "recommendationMean": 2.7,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 68291000,
+        "totalCashPerShare": 3.417,
+        "totalDebt": 316468000,
+        "totalRevenue": 216478000,
+        "revenuePerShare": 12.065,
+        "returnOnAssets": 0.012180001,
+        "returnOnEquity": 0.119770005,
+        "grossProfits": 237986000,
+        "earningsGrowth": -0.365,
+        "revenueGrowth": -0.065,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.27191,
+        "profitMargins": 0.19309,
+        "financialCurrency": "USD"
+    }
+}

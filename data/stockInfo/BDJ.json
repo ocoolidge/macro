@@ -1,0 +1,267 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BDJ",
+        "Security_Name": "Blackrock Enhanced Equity Dividend Trust",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BDJ",
+        "NASDAQ_Symbol": "BDJ",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 8.94,
+        "open": 9,
+        "dayLow": 8.96,
+        "dayHigh": 9.0999,
+        "regularMarketPreviousClose": 8.94,
+        "regularMarketOpen": 9,
+        "regularMarketDayLow": 8.96,
+        "regularMarketDayHigh": 9.0999,
+        "dividendRate": 0.82,
+        "dividendYield": 0.0937,
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 6.86,
+        "beta": 1.070375,
+        "volume": 295564,
+        "regularMarketVolume": 295564,
+        "averageVolume": 474540,
+        "averageVolume10days": 730990,
+        "averageDailyVolume10Day": 730990,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 900,
+        "marketCap": 1688907264,
+        "fiftyTwoWeekLow": 8,
+        "fiftyTwoWeekHigh": 10.45,
+        "priceToSalesTrailing12Months": 38.342148,
+        "fiftyDayAverage": 9.0026,
+        "twoHundredDayAverage": 9.16485,
+        "trailingAnnualDividendRate": 0.6,
+        "trailingAnnualDividendYield": 0.0671141,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1657843200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 49275881,
+                    "earnings": -125121833
+                },
+                {
+                    "date": 2019,
+                    "revenue": 51074171,
+                    "earnings": 384318011
+                },
+                {
+                    "date": 2020,
+                    "revenue": 48319743,
+                    "earnings": -18856419
+                },
+                {
+                    "date": 2021,
+                    "revenue": 43648025,
+                    "earnings": 325319315
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 10468334,
+                    "earnings": 32942878
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 10468334,
+                    "earnings": 32942878
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 11555826,
+                    "earnings": -75886258
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 11555826,
+                    "earnings": -75886258
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1657843200
+            ]
+        },
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "dividendDate": "2022-12-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T22:57:01.000Z",
+        "postMarketPrice": 9.08,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.015659994,
+        "regularMarketChange": 0.14000034,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 9.08,
+        "regularMarketDayHigh": 9.0999,
+        "regularMarketDayLow": 8.96,
+        "regularMarketVolume": 295564,
+        "averageDailyVolume10Day": 730990,
+        "averageDailyVolume3Month": 474540,
+        "regularMarketPreviousClose": 8.94,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 9,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BDJ",
+        "underlyingSymbol": null,
+        "shortName": "Blackrock Enhanced Equity Divid",
+        "longName": "BlackRock Enhanced Equity Dividend Trust",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1688907264
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1622428160,
+        "profitMargins": -1.94983,
+        "sharesOutstanding": 186003008,
+        "sharesShort": 84260,
+        "sharesShortPriorMonth": 206896,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0005,
+        "heldPercentInsiders": 0.00013,
+        "heldPercentInstitutions": 0.18320999,
+        "shortRatio": 0.16,
+        "shortPercentOfFloat": 0.0005,
+        "beta": 1.070375,
+        "category": null,
+        "bookValue": 9.35,
+        "priceToBook": 0.9711229,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -85886760,
+        "trailingEps": -0.101,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 36.833
+    },
+    "summaryProfile": {
+        "address1": "55 East 52nd Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10055",
+        "country": "United States",
+        "phone": "212 810 5300",
+        "website": "https://www.blackrock.com/investing/products/240225/blackrock-enhanced-equity-dividend-trust-usd-fund",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "BlackRock Enhanced Equity Dividend Trust is a closed-ended equity mutual fund launched by BlackRock, Inc. The fund is managed by BlackRock Advisors, LLC. It invests in the public equity markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in dividend paying stocks of companies across all market capitalizations. The fund also invests through derivatives, with an emphasis on option writing. It benchmarks the performance of its portfolio against the Russell 1000 Value Index. The fund was formerly known as BlackRock Enhanced Dividend Achievers TM Trust. BlackRock Enhanced Equity Dividend Trust was formed on August 31, 2005 and is domiciled in the United States.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 9.08,
+        "recommendationMean": 3,
+        "recommendationKey": "hold",
+        "totalCash": 1381875,
+        "totalCashPerShare": 0.007,
+        "totalDebt": 0,
+        "quickRatio": 0.491,
+        "currentRatio": 0.514,
+        "totalRevenue": 44048320,
+        "revenuePerShare": 0.237,
+        "returnOnAssets": 0.00961,
+        "returnOnEquity": -0.047280002,
+        "grossProfits": 43648025,
+        "freeCashflow": 21157172,
+        "operatingCashflow": 167362176,
+        "revenueGrowth": 0.018,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.64268994,
+        "profitMargins": -1.94983,
+        "financialCurrency": "USD"
+    }
+}

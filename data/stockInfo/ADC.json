@@ -1,0 +1,859 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ADC",
+        "Security_Name": "Agree Realty Corporation Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ADC",
+        "NASDAQ_Symbol": "ADC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 4,
+                "buy": 3,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 7,
+                "buy": 6,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 7,
+                "buy": 6,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 6,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 69.04,
+        "open": 69.17,
+        "dayLow": 69.17,
+        "dayHigh": 70.79,
+        "regularMarketPreviousClose": 69.04,
+        "regularMarketOpen": 69.17,
+        "regularMarketDayLow": 69.17,
+        "regularMarketDayHigh": 70.79,
+        "dividendRate": 2.88,
+        "dividendYield": 0.040700004,
+        "exDividendDate": "2022-12-29T00:00:00.000Z",
+        "payoutRatio": 1.5114999,
+        "fiveYearAvgDividendYield": 3.7,
+        "beta": 0.464248,
+        "trailingPE": 38.677593,
+        "forwardPE": 40.215908,
+        "volume": 520499,
+        "regularMarketVolume": 520499,
+        "averageVolume": 794596,
+        "averageVolume10days": 555340,
+        "averageDailyVolume10Day": 555340,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 6293820928,
+        "fiftyTwoWeekLow": 61.62,
+        "fiftyTwoWeekHigh": 80.44,
+        "priceToSalesTrailing12Months": 15.552011,
+        "fiftyDayAverage": 69.9264,
+        "twoHundredDayAverage": 70.8981,
+        "trailingAnnualDividendRate": 2.766,
+        "trailingAnnualDividendYield": 0.04006373,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.44,
+                    "estimate": 0.47
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.48,
+                    "estimate": 0.45
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.45,
+                    "estimate": 0.45
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.46,
+                    "estimate": 0.44
+                }
+            ],
+            "currentQuarterEstimate": 0.42,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676890740,
+                1677240000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 137122000,
+                    "earnings": 58172000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 187478000,
+                    "earnings": 80081000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 248568000,
+                    "earnings": 91381000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 339323000,
+                    "earnings": 122273000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 91412000,
+                    "earnings": 33150000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": 0
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 104876000,
+                    "earnings": 35973000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 110065000,
+                    "earnings": 39425000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676890740,
+                1677240000
+            ],
+            "earningsAverage": 0.42,
+            "earningsLow": 0.4,
+            "earningsHigh": 0.45,
+            "revenueAverage": 115220000,
+            "revenueLow": 110140000,
+            "revenueHigh": 118580000
+        },
+        "exDividendDate": "2022-12-29T00:00:00.000Z",
+        "dividendDate": "2023-01-13T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-08T13:27:04.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-12-05T14:13:09.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-11-02T11:33:03.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-18T12:09:36.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-04T12:02:46.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-22T12:36:12.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-04T11:41:31.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-03T12:00:46.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-12T12:40:21.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-08T12:12:46.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-30T13:43:43.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-23T09:28:24.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-06-02T10:20:15.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-06-01T14:01:37.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-10T11:27:58.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-04-01T09:32:10.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-02-24T09:32:50.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-23T13:46:49.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-08T12:12:20.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-09-17T09:30:39.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-06-25T11:18:11.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-03T12:29:13.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-09T12:14:05.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-12T11:33:29.000Z",
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-09-30T10:07:05.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-06-10T11:35:43.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-21T14:08:01.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-17T13:26:04.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-08T16:20:12.000Z",
+                "firm": "Odeon Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-04-07T20:31:06.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-02T12:50:34.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-20T14:53:02.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-21T13:29:57.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-12T11:40:25.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-12-05T13:17:31.000Z",
+                "firm": "Capital One Financial",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-10-30T12:55:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-01T10:46:24.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-03-04T14:45:52.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Strong Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-02-27T13:17:18.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-01-08T15:15:09.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-12-13T11:41:04.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-12-11T16:09:13.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-12-10T15:53:46.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-09-10T10:41:13.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-24T11:37:36.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-12-19T12:00:53.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-09-18T12:33:15.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-18T12:19:18.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-02-27T14:01:50.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-01-26T15:29:27.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-01-05T13:37:04.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-12-16T13:15:05.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-12T12:36:49.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-14T11:52:33.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-07T07:42:47.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-05-31T10:40:06.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-04-21T07:35:21.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-03-24T06:08:29.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-01-27T09:00:00.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-05-21T06:11:59.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-11-26T08:38:18.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-10-30T07:11:54.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-10-04T07:18:20.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-09-10T07:00:00.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-08-01T07:56:53.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-07-31T08:51:14.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-31T07:11:06.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-05-02T07:30:44.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-27T08:51:35.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-03-04T08:12:45.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-01T08:08:08.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-01T06:31:24.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-31T08:30:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-05T08:12:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-03T05:59:00.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-07-17T08:01:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.00049467897,
+        "postMarketChange": 0.034996,
+        "postMarketTime": "2023-01-06T21:10:01.000Z",
+        "postMarketPrice": 70.78,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.02520275,
+        "regularMarketChange": 1.7399979,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 70.78,
+        "regularMarketDayHigh": 70.79,
+        "regularMarketDayLow": 69.17,
+        "regularMarketVolume": 520499,
+        "averageDailyVolume10Day": 555340,
+        "averageDailyVolume3Month": 794596,
+        "regularMarketPreviousClose": 69.04,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 69.17,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ADC",
+        "underlyingSymbol": null,
+        "shortName": "Agree Realty Corporation",
+        "longName": "Agree Realty Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 6293820928
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 8068935680,
+        "forwardPE": 40.215908,
+        "profitMargins": 0.35746,
+        "floatShares": 86960578,
+        "sharesOutstanding": 88573200,
+        "sharesShort": 7217420,
+        "sharesShortPriorMonth": 5301789,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.081499994,
+        "heldPercentInsiders": 0.01604,
+        "heldPercentInstitutions": 1.08226,
+        "shortRatio": 8.81,
+        "shortPercentOfFloat": 0.1157,
+        "beta": 0.464248,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 49.467,
+        "priceToBook": 1.4308529,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.075,
+        "netIncomeToCommon": 136852000,
+        "trailingEps": 1.83,
+        "forwardEps": 1.76,
+        "pegRatio": 15.08,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 19.938,
+        "enterpriseToEbitda": 22.56,
+        "52WeekChange": 0.025351286,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.24,
+        "lastDividendDate": 1672272000
+    },
+    "summaryProfile": {
+        "address1": "70 East Long Lake Road",
+        "city": "Bloomfield Hills",
+        "state": "MI",
+        "zip": "48304",
+        "country": "United States",
+        "phone": "248-737-4190",
+        "fax": "248-737-9110",
+        "website": "https://www.agreerealty.com",
+        "industry": "REIT—Retail",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Agree Realty Corporation is a publicly traded real estate investment trust primarily engaged in the acquisition and development of properties net leased to industry-leading retail tenants. As of September 30, 2020, the Company owned and operated a portfolio of 1,027 properties, located in 45 states and containing approximately 21.0 million square feet of gross leasable area. The Company's common stock is listed on the New York Stock Exchange under the symbol \"ADC\".",
+        "fullTimeEmployees": 57,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 70.78,
+        "targetHighPrice": 82,
+        "targetLowPrice": 71,
+        "targetMeanPrice": 76.05,
+        "targetMedianPrice": 76,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 15,
+        "totalCash": 250487008,
+        "totalCashPerShare": 2.834,
+        "ebitda": 357670016,
+        "totalDebt": 1886910976,
+        "quickRatio": 4.77,
+        "currentRatio": 4.785,
+        "totalRevenue": 404695008,
+        "debtToEquity": 41.482,
+        "revenuePerShare": 5.461,
+        "returnOnAssets": 0.02201,
+        "returnOnEquity": 0.03683,
+        "grossProfits": 298262000,
+        "freeCashflow": 250627872,
+        "operatingCashflow": 329292992,
+        "earningsGrowth": -0.115,
+        "revenueGrowth": 0.257,
+        "grossMargins": 0.87626,
+        "ebitdaMargins": 0.88379997,
+        "operatingMargins": 0.50278,
+        "profitMargins": 0.35746,
+        "financialCurrency": "USD"
+    }
+}

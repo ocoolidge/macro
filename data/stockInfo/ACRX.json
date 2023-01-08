@@ -1,0 +1,603 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ACRX",
+        "Security_Name": "AcelRx Pharmaceuticals, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ACRX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 2.28,
+        "open": 2.3,
+        "dayLow": 2.13,
+        "dayHigh": 2.35,
+        "regularMarketPreviousClose": 2.28,
+        "regularMarketOpen": 2.3,
+        "regularMarketDayLow": 2.13,
+        "regularMarketDayHigh": 2.35,
+        "payoutRatio": 0,
+        "beta": 0.240301,
+        "trailingPE": 0.3087819,
+        "forwardPE": -0.7440273,
+        "volume": 198991,
+        "regularMarketVolume": 198991,
+        "averageVolume": 155298,
+        "averageVolume10days": 216700,
+        "averageDailyVolume10Day": 216700,
+        "bid": 2.12,
+        "ask": 2.19,
+        "bidSize": 1800,
+        "askSize": 800,
+        "marketCap": 17871880,
+        "fiftyTwoWeekLow": 1.76,
+        "fiftyTwoWeekHigh": 11.6,
+        "priceToSalesTrailing12Months": 11.750086,
+        "fiftyDayAverage": 2.2828,
+        "twoHundredDayAverage": 4.2577,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -1.2,
+                    "estimate": -1.4
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -1.2,
+                    "estimate": -1.2
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 9.6,
+                    "estimate": -1.5
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.94,
+                    "estimate": -1.2
+                }
+            ],
+            "currentQuarterEstimate": -0.51,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678273140,
+                1678708800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 2151000,
+                    "earnings": -47149000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 2289000,
+                    "earnings": -53240000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 5416000,
+                    "earnings": -40379000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 2818000,
+                    "earnings": -35099000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 2000,
+                    "earnings": -7917000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 442000,
+                    "earnings": -8674000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 570000,
+                    "earnings": 70663000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 507000,
+                    "earnings": -6750000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678273140,
+                1678708800
+            ],
+            "earningsAverage": -0.51,
+            "earningsLow": -0.92,
+            "earningsHigh": -0.1,
+            "revenueAverage": 4500000,
+            "revenueLow": 500000,
+            "revenueHigh": 8500000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-03-14T10:23:49.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-17T10:22:51.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-13T13:02:45.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-20T09:09:41.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-17T12:35:59.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-11T12:23:04.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-04-24T10:30:08.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-02-15T13:34:08.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-10-23T11:28:42.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-10-15T11:19:16.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-10-10T13:59:21.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2018-08-16T12:12:06.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-07-13T13:17:38.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-12T10:33:17.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-10-13T11:37:56.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-05-06T07:46:30.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "Accumulate",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-05-03T07:03:15.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-02T07:07:36.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-04-27T09:12:37.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Accumulate",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-03-10T10:44:49.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-03-10T09:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-10T08:42:36.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-10T08:42:20.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-10T05:55:50.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-03-09T11:05:50.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-02-26T04:55:18.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-11-06T05:47:40.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-09-26T12:44:25.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-08-12T09:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-29T06:17:59.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-07-28T22:03:03.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-28T06:25:18.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-04-17T07:22:05.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-04-14T08:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-01-06T16:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-12-17T06:34:19.000Z",
+                "firm": "McNicoll Lewis Vlak",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-08-13T06:29:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-06-18T07:32:10.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-04-08T06:19:06.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-02-04T12:47:36.000Z",
+                "firm": "McNicoll Lewis Vlak",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-01-29T16:39:58.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0045871497,
+        "postMarketChange": 0.00999999,
+        "postMarketTime": "2023-01-06T22:53:07.000Z",
+        "postMarketPrice": 2.19,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.043859612,
+        "regularMarketChange": -0.099999905,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 2.18,
+        "regularMarketDayHigh": 2.35,
+        "regularMarketDayLow": 2.13,
+        "regularMarketVolume": 198991,
+        "averageDailyVolume10Day": 216700,
+        "averageDailyVolume3Month": 155298,
+        "regularMarketPreviousClose": 2.28,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 2.3,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ACRX",
+        "underlyingSymbol": null,
+        "shortName": "AcelRx Pharmaceuticals, Inc.",
+        "longName": "AcelRx Pharmaceuticals, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 17871880
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 12879137,
+        "forwardPE": -0.7440273,
+        "profitMargins": 31.112429,
+        "floatShares": 7360197,
+        "sharesOutstanding": 8198110,
+        "sharesShort": 878538,
+        "sharesShortPriorMonth": 783539,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.1179,
+        "heldPercentInsiders": 0.011829999,
+        "heldPercentInstitutions": 0.12358,
+        "shortRatio": 5.22,
+        "shortPercentOfFloat": 0.1193,
+        "beta": 0.240301,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 3.676,
+        "priceToBook": 0.59303594,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": 47007000,
+        "trailingEps": 7.06,
+        "forwardEps": -2.93,
+        "lastSplitFactor": "1:20",
+        "lastSplitDate": "2022-10-26T00:00:00.000Z",
+        "enterpriseToRevenue": 8.468,
+        "enterpriseToEbitda": -0.426,
+        "52WeekChange": -0.79814816,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "25821 Industrial Boulevard",
+        "address2": "Suite 400",
+        "city": "Hayward",
+        "state": "CA",
+        "zip": "94545",
+        "country": "United States",
+        "phone": "650 216 3500",
+        "website": "https://www.acelrx.com",
+        "industry": "Drug Manufacturers—Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "AcelRx Pharmaceuticals, Inc., a specialty pharmaceutical company, focuses on the development and commercialization of therapies for the treatment of acute pain. Its lead product candidate is DSUVIA and DZUVEO, a 30 mcg sufentanil sublingual tablet for the treatment of moderate-to-severe acute pain. The company develops ZALVISO, a pre-programmed and patient-controlled analgesia system that allows hospital patients with moderate-to-severe acute pain to self-dose with sufentanil sublingual tablets to manage their pain; ARX-02, which is in Phase 2 clinical trial for the treatment of cancer breakthrough pain in opioid-tolerant patients; and 4ARX-03 for mild sedation and pain relief during painful procedures. Its product candidates also include Niyad, a regional anticoagulant for the extracorporeal circuit; and LTX-608, a nafamostat formulation for direct IV infusion being explored as an investigational product for antiviral treatment of COVID, acute respiratory distress syndrome, disseminated intravascular coagulation, and acute pancreatitis. The company was formerly known as SuRx, Inc. and changed its name to AcelRx Pharmaceuticals, Inc. in August 2006. AcelRx Pharmaceuticals, Inc. was incorporated in 2005 and is based in Hayward, California.",
+        "fullTimeEmployees": 20,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 2.18,
+        "targetHighPrice": 80,
+        "targetLowPrice": 80,
+        "targetMeanPrice": 80,
+        "targetMedianPrice": 80,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 15926000,
+        "totalCashPerShare": 2.138,
+        "ebitda": -30208000,
+        "totalDebt": 12474000,
+        "quickRatio": 1.05,
+        "currentRatio": 1.568,
+        "totalRevenue": 1521000,
+        "debtToEquity": 45.292,
+        "revenuePerShare": 0.214,
+        "returnOnAssets": -0.33148,
+        "grossProfits": -5030000,
+        "freeCashflow": -22809124,
+        "operatingCashflow": -30922000,
+        "revenueGrowth": -0.728,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": -21.0217,
+        "profitMargins": 31.112429,
+        "financialCurrency": "USD"
+    }
+}

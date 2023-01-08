@@ -1,0 +1,680 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AVAV",
+        "Security_Name": "AeroVironment, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AVAV",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 82.45,
+        "open": 83.46,
+        "dayLow": 83.065,
+        "dayHigh": 86.39,
+        "regularMarketPreviousClose": 82.45,
+        "regularMarketOpen": 83.46,
+        "regularMarketDayLow": 83.065,
+        "regularMarketDayHigh": 86.39,
+        "payoutRatio": 0,
+        "beta": 0.520265,
+        "trailingPE": 69.61197,
+        "forwardPE": 32.617424,
+        "volume": 230107,
+        "regularMarketVolume": 230107,
+        "averageVolume": 188756,
+        "averageVolume10days": 140540,
+        "averageDailyVolume10Day": 140540,
+        "bid": 87.03,
+        "ask": 87.75,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 2136664704,
+        "fiftyTwoWeekLow": 52.03,
+        "fiftyTwoWeekHigh": 114.11,
+        "priceToSalesTrailing12Months": 4.714212,
+        "fiftyDayAverage": 87.1514,
+        "twoHundredDayAverage": 88.1309,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.78,
+                    "estimate": 0.62
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.32,
+                    "estimate": 0.3
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.3,
+                    "estimate": 0.39
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.1,
+                    "estimate": 0.11
+                }
+            ],
+            "currentQuarterEstimate": 0.2,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677628800,
+                1678060800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 314274000,
+                    "earnings": 47438000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 367296000,
+                    "earnings": 41074000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 394912000,
+                    "earnings": 23331000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 445732000,
+                    "earnings": -4188000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 122008000,
+                    "earnings": 2525000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 90093000,
+                    "earnings": 10000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 132622000,
+                    "earnings": 7258000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 108516000,
+                    "earnings": -8395000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677628800,
+                1678060800
+            ],
+            "earningsAverage": 0.2,
+            "earningsLow": -0.05,
+            "earningsHigh": 0.44,
+            "revenueAverage": 113240000,
+            "revenueLow": 106000000,
+            "revenueHigh": 125000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-22T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-01T00:00:00.000Z",
+                "firm": "Alembic Global",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-06-29T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-18T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-04-22T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-03-04T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-04T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-01-21T00:00:00.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-12-08T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-08T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-10-22T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-08-27T00:00:00.000Z",
+                "firm": "Imperial Capital",
+                "toGrade": "In-Line",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-15T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-01-14T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-12-09T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-03T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-03T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-25T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-06-24T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-04T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-04T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-04T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-14T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-12-02T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-10-16T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-05-14T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-01-24T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-09-06T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Hold",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-28T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-06-28T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-06-06T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-11T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-10-04T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-08-30T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-03T00:00:00.000Z",
+                "firm": "",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-06T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-09-14T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-09-02T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-09T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-06-17T00:00:00.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-03-05T00:00:00.000Z",
+                "firm": "CRT Capital",
+                "toGrade": "Fair Value",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-06T00:00:00.000Z",
+                "firm": "BB&T Capital",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-03-06T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-06T00:00:00.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-03-06T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-12-05T00:00:00.000Z",
+                "firm": "Sterne Agee",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-12-05T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-09T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-09-06T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-06-27T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-03-07T00:00:00.000Z",
+                "firm": "Morgan Keegan",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-03-07T00:00:00.000Z",
+                "firm": "Early Bird Capital",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-03-07T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.016025981,
+        "postMarketChange": 1.3799973,
+        "postMarketTime": "2023-01-07T00:59:29.000Z",
+        "postMarketPrice": 87.49,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.04439058,
+        "regularMarketChange": 3.6600037,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 86.11,
+        "regularMarketDayHigh": 86.39,
+        "regularMarketDayLow": 83.065,
+        "regularMarketVolume": 230107,
+        "averageDailyVolume10Day": 140540,
+        "averageDailyVolume3Month": 188756,
+        "regularMarketPreviousClose": 82.45,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 83.46,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AVAV",
+        "underlyingSymbol": null,
+        "shortName": "AeroVironment, Inc.",
+        "longName": "AeroVironment, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2136664704
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 2297931264,
+        "forwardPE": 39.5,
+        "profitMargins": 0.00308,
+        "floatShares": 24483826,
+        "sharesOutstanding": 24813200,
+        "sharesShort": 1262682,
+        "sharesShortPriorMonth": 1160554,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0505,
+        "heldPercentInsiders": 0.013049999,
+        "heldPercentInstitutions": 0.88339996,
+        "shortRatio": 4.81,
+        "shortPercentOfFloat": 0.0679,
+        "beta": 0.520265,
+        "category": null,
+        "bookValue": 21.974,
+        "priceToBook": 3.918722,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-04-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-04-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-07-30T00:00:00.000Z",
+        "netIncomeToCommon": 1398000,
+        "trailingEps": 1.237,
+        "forwardEps": 2.64,
+        "pegRatio": 3.13,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 5.07,
+        "enterpriseToEbitda": 39.401
+    },
+    "summaryProfile": {
+        "address1": "241 18th Street South",
+        "address2": "Suite 415",
+        "city": "Arlington",
+        "state": "VA",
+        "zip": "22202",
+        "country": "United States",
+        "phone": "805 520 8350",
+        "website": "https://www.avinc.com",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfolio of robotic systems and related services for government agencies and businesses in the United States and internationally. It operates through four segments: Unmanned Aircraft Systems (UAS), Tactical Missile System (TMS), Medium Unmanned Aircraft Systems (MUAS), and High Altitude Pseudo-Satellite Systems (HAPS). The company supplies UAS, TMS, unmanned ground vehicle, and related services primarily to organizations within the U.S. Department of Defense and to international allied governments. It also designs, engineers, tools, and manufactures unmanned aerial and aircraft systems, including airborne platforms, payloads and payload integration, ground control systems, and ground support equipment and other items and services related to unmanned aircraft systems. In addition, the company offers small UAS products, including spare equipment, alternative payload modules, batteries, chargers, repair services, and customer support, as well as multiple aircraft, hand-held ground control system, and spare parts and accessories. Further, it develops high-altitude pseudo-satellite UAS systems. The company was incorporated in 1971 and is headquartered in Arlington, Virginia.",
+        "fullTimeEmployees": 1214,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 86.11,
+        "targetHighPrice": 115,
+        "targetLowPrice": 85,
+        "targetMeanPrice": 98,
+        "targetMedianPrice": 97.5,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 105838000,
+        "totalCashPerShare": 4.266,
+        "ebitda": 58322000,
+        "totalDebt": 212880992,
+        "quickRatio": 2.579,
+        "currentRatio": 3.726,
+        "totalRevenue": 453239008,
+        "debtToEquity": 35.47,
+        "revenuePerShare": 18.326,
+        "returnOnAssets": -0.0019699999,
+        "returnOnEquity": 0.00224,
+        "grossProfits": 141236000,
+        "freeCashflow": 34803000,
+        "operatingCashflow": 21573000,
+        "revenueGrowth": 0.074,
+        "grossMargins": 0.32263002,
+        "ebitdaMargins": 0.12868,
+        "operatingMargins": -0.00629,
+        "profitMargins": 0.00308,
+        "financialCurrency": "USD"
+    }
+}

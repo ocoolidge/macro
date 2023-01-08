@@ -1,0 +1,366 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BIOC",
+        "Security_Name": "Biocept, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "D",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BIOC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.561,
+        "open": 0.6,
+        "dayLow": 0.5985,
+        "dayHigh": 0.6721,
+        "regularMarketPreviousClose": 0.561,
+        "regularMarketOpen": 0.6,
+        "regularMarketDayLow": 0.5985,
+        "regularMarketDayHigh": 0.6721,
+        "payoutRatio": 0,
+        "beta": 0.783345,
+        "forwardPE": -0.5794392,
+        "volume": 2999915,
+        "regularMarketVolume": 2999915,
+        "averageVolume": 121904,
+        "averageVolume10days": 440090,
+        "averageDailyVolume10Day": 440090,
+        "bid": 0.601,
+        "ask": 0.638,
+        "bidSize": 1800,
+        "askSize": 1100,
+        "marketCap": 10442164,
+        "fiftyTwoWeekLow": 0.46,
+        "fiftyTwoWeekHigh": 3.69,
+        "priceToSalesTrailing12Months": 0.16460425,
+        "fiftyDayAverage": 0.6974,
+        "twoHundredDayAverage": 1.10755,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "2Q2021",
+                    "actual": -0.14,
+                    "estimate": -0.16
+                },
+                {
+                    "date": "3Q2021",
+                    "actual": 0.03,
+                    "estimate": 0.06
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.18,
+                    "estimate": -0.19
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.16,
+                    "estimate": -0.14
+                }
+            ],
+            "currentQuarterEstimate": -0.16,
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1680048000,
+                1680480000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 3250298,
+                    "earnings": -24571601
+                },
+                {
+                    "date": 2019,
+                    "revenue": 5528566,
+                    "earnings": -25138039
+                },
+                {
+                    "date": 2020,
+                    "revenue": 27461000,
+                    "earnings": -17807000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 61249000,
+                    "earnings": -2824000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "2Q2021",
+                    "revenue": 12047166,
+                    "earnings": -1827479
+                },
+                {
+                    "date": "3Q2021",
+                    "revenue": 17469502,
+                    "earnings": -624703
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 13976141,
+                    "earnings": -2971110
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 19945000,
+                    "earnings": -2768000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1680048000,
+                1680480000
+            ],
+            "earningsAverage": -0.16,
+            "earningsLow": -0.23,
+            "earningsHigh": -0.09,
+            "revenueAverage": 12470000,
+            "revenueLow": 8950000,
+            "revenueHigh": 16000000
+        },
+        "dividendDate": "2020-09-08T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2019-03-26T00:00:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-06-02T00:00:00.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-11-10T00:00:00.000Z",
+                "firm": "Feltl & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-08-19T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-06-03T00:00:00.000Z",
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-01-31T00:00:00.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-18T00:00:00.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-03T00:00:00.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-07T00:59:25.000Z",
+        "postMarketPrice": 0.62,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.10516937,
+        "regularMarketChange": 0.059000015,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.62,
+        "regularMarketDayHigh": 0.6721,
+        "regularMarketDayLow": 0.5985,
+        "regularMarketVolume": 2999915,
+        "averageDailyVolume10Day": 440090,
+        "averageDailyVolume3Month": 121904,
+        "regularMarketPreviousClose": 0.561,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 0.6,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BIOC",
+        "underlyingSymbol": null,
+        "shortName": "Biocept, Inc.",
+        "longName": "Biocept, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 10442164
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": -1400248,
+        "forwardPE": -0.43356645,
+        "profitMargins": -0.12911999,
+        "floatShares": 16916945,
+        "sharesOutstanding": 16842200,
+        "sharesShort": 87416,
+        "sharesShortPriorMonth": 80999,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0052,
+        "heldPercentInsiders": 0.00035,
+        "heldPercentInstitutions": 0.11301,
+        "shortRatio": 1.51,
+        "shortPercentOfFloat": 0.0052,
+        "beta": 0.783345,
+        "category": null,
+        "bookValue": 1.768,
+        "priceToBook": 0.35067874,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-03-31T00:00:00.000Z",
+        "netIncomeToCommon": -8191000,
+        "trailingEps": -1.504,
+        "forwardEps": -1.07,
+        "pegRatio": -0.03,
+        "lastSplitFactor": "1:10",
+        "lastSplitDate": "2020-09-08T00:00:00.000Z",
+        "enterpriseToRevenue": -0.022,
+        "enterpriseToEbitda": 0.225
+    },
+    "summaryProfile": {
+        "address1": "9955 Mesa Rim Road",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92121",
+        "country": "United States",
+        "phone": "858 320 8200",
+        "fax": "858 320 8225",
+        "website": "https://biocept.com",
+        "industry": "Diagnostics & Research",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Biocept, Inc., a molecular oncology diagnostics company, develops and commercializes proprietary circulating tumor cell and circulating cell-free tumor DNA and RNA assays utilizing a standard blood sample. Its cancer assays provide information to healthcare providers to identify oncogenic alterations that qualify a subset of cancer patients for targeted therapy at diagnosis, progression, and monitoring to identify resistance mechanisms. The company offers assays for solid tumor indications, such as breast cancer, non-small cell lung cancer (NSCLC), gastric cancer, colorectal cancer, prostate cancer, pancreaticobiliary cancer, and ovarian cancer. It also provides cerebrospinal fluid tumor cell and ctDNA and ctRNA testing services to medical oncologists, neuro-oncologists, surgical oncologists, urologists, pulmonologists, pathologists, and other physicians; clinical trial and research services to pharmaceutical companies, biopharmaceutical companies and clinical research organizations; and RT-PCR testing services for COVID-19. The company has a collaboration with CLEARED4 to develop a system for tracking and managing COVID-19 testing requirements and test results for its customers; and with Protean BioDiagnostics, Inc. to research the ability of its Target Selector molecular assay to determine EGFR status in NSCLC patients. Biocept, Inc. was incorporated in 1997 and is headquartered in San Diego, California.",
+        "fullTimeEmployees": 177,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.62,
+        "targetHighPrice": 11,
+        "targetLowPrice": 4,
+        "targetMeanPrice": 7.5,
+        "targetMedianPrice": 7.5,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 27566000,
+        "totalCashPerShare": 1.629,
+        "ebitda": -6211000,
+        "totalDebt": 12289000,
+        "quickRatio": 3.116,
+        "currentRatio": 3.376,
+        "totalRevenue": 63438000,
+        "debtToEquity": 33.188,
+        "revenuePerShare": 4.057,
+        "returnOnAssets": -0.08663999,
+        "returnOnEquity": -0.25677,
+        "grossProfits": 23485000,
+        "freeCashflow": 2915190,
+        "operatingCashflow": 1914000,
+        "revenueGrowth": 0.123,
+        "grossMargins": 0.38376,
+        "ebitdaMargins": -0.09791,
+        "operatingMargins": -0.12264,
+        "profitMargins": -0.12911999,
+        "financialCurrency": "USD"
+    }
+}

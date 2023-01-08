@@ -1,0 +1,266 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMS",
+        "Security_Name": "American Shared Hospital Services Common Stock",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AMS",
+        "NASDAQ_Symbol": "AMS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 2.94,
+        "open": 2.9216,
+        "dayLow": 2.92,
+        "dayHigh": 2.9216,
+        "regularMarketPreviousClose": 2.94,
+        "regularMarketOpen": 2.9216,
+        "regularMarketDayLow": 2.92,
+        "regularMarketDayHigh": 2.9216,
+        "exDividendDate": "2007-06-28T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 0.833824,
+        "volume": 800,
+        "regularMarketVolume": 800,
+        "averageVolume": 11856,
+        "averageVolume10days": 10360,
+        "averageDailyVolume10Day": 10360,
+        "bid": 2.92,
+        "ask": 2.94,
+        "bidSize": 1100,
+        "askSize": 3100,
+        "marketCap": 17134560,
+        "fiftyTwoWeekLow": 2.08,
+        "fiftyTwoWeekHigh": 3.1,
+        "priceToSalesTrailing12Months": 0.9178081,
+        "fiftyDayAverage": 2.8244,
+        "twoHundredDayAverage": 2.53815,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1679443200,
+                1679875200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 19714000,
+                    "earnings": 1023000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 20605000,
+                    "earnings": 659000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 17837000,
+                    "earnings": -7058000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 17628000,
+                    "earnings": 194000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 4099000,
+                    "earnings": 33000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 4689000,
+                    "earnings": 219000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 4847000,
+                    "earnings": 269000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 5034000,
+                    "earnings": 497000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1679443200,
+                1679875200
+            ]
+        },
+        "exDividendDate": "2007-06-28T00:00:00.000Z",
+        "dividendDate": "2007-07-16T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.0068027144,
+        "regularMarketChange": -0.01999998,
+        "regularMarketTime": "2023-01-06T18:03:26.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 2.92,
+        "regularMarketDayHigh": 2.9216,
+        "regularMarketDayLow": 2.92,
+        "regularMarketVolume": 800,
+        "averageDailyVolume10Day": 10360,
+        "averageDailyVolume3Month": 11856,
+        "regularMarketPreviousClose": 2.94,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 2.9216,
+        "exchange": "ASE",
+        "exchangeName": "NYSE American",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMS",
+        "underlyingSymbol": null,
+        "shortName": "American Shared Hospital Servic",
+        "longName": "American Shared Hospital Services",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 17134560
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 24794280,
+        "profitMargins": 0.054530002,
+        "floatShares": 3692443,
+        "sharesOutstanding": 5868000,
+        "sharesShort": 1907,
+        "sharesShortPriorMonth": 9629,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.00029999999,
+        "heldPercentInsiders": 0.3827,
+        "heldPercentInstitutions": 0.13506,
+        "shortRatio": 0.25,
+        "shortPercentOfFloat": 0.0004,
+        "beta": 0.833824,
+        "category": null,
+        "bookValue": 3.328,
+        "priceToBook": 0.87740386,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": 1018000,
+        "trailingEps": -1.142,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.328,
+        "enterpriseToEbitda": 3.156
+    },
+    "summaryProfile": {
+        "address1": "601 Montgomery Street",
+        "address2": "Suite 1112",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94111-2619",
+        "country": "United States",
+        "phone": "415 788 5300",
+        "website": "https://ashs.com",
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare",
+        "longBusinessSummary": "American Shared Hospital Services leases radiosurgery and radiation therapy equipment to health care providers. The company offers radiosurgery equipment for the Gamma Knife stereotactic radiosurgery, a non-invasive procedure to treat malignant and benign brain tumors, and arteriovenous malformations, as well as for trigeminal neuralgia. It also provides financing services for Leksell Gamma Knife units. In addition, the company offers proton beam radiation therapy services in Orlando, Florida and Long Beach, California, as well as offers planning, installation, reimbursement, and marketing support services to its customers. As of December 31, 2021, it had 115 operating Gamma Knife units located in the United States, as well as two in South America in Lima, Peru and Guayaquil, Ecuador. The company also operates one PBRT system. American Shared Hospital Services was founded in 1980 and is based in San Francisco, California.",
+        "fullTimeEmployees": 19,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 2.92,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "totalCash": 11849000,
+        "totalCashPerShare": 1.939,
+        "ebitda": 7856000,
+        "totalDebt": 15688000,
+        "quickRatio": 3.446,
+        "currentRatio": 3.637,
+        "totalRevenue": 18669000,
+        "debtToEquity": 61.917,
+        "revenuePerShare": 2.993,
+        "returnOnAssets": 0.042150002,
+        "returnOnEquity": 0.06328,
+        "grossProfits": 11582000,
+        "freeCashflow": 4028750,
+        "operatingCashflow": 6532000,
+        "revenueGrowth": 0.125,
+        "grossMargins": 0.67475,
+        "ebitdaMargins": 0.42080003,
+        "operatingMargins": 0.16166,
+        "profitMargins": 0.054530002,
+        "financialCurrency": "USD"
+    }
+}

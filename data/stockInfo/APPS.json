@@ -1,0 +1,620 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "APPS",
+        "Security_Name": "Digital Turbine, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "APPS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 15.06,
+        "open": 15.12,
+        "dayLow": 14.34,
+        "dayHigh": 15.64,
+        "regularMarketPreviousClose": 15.06,
+        "regularMarketOpen": 15.12,
+        "regularMarketDayLow": 14.34,
+        "regularMarketDayHigh": 15.64,
+        "payoutRatio": 0,
+        "beta": 2.423728,
+        "trailingPE": 37.86408,
+        "forwardPE": 14.716982,
+        "volume": 2223584,
+        "regularMarketVolume": 2223584,
+        "averageVolume": 2781951,
+        "averageVolume10days": 1849330,
+        "averageDailyVolume10Day": 1849330,
+        "bid": 15.55,
+        "ask": 15.9,
+        "bidSize": 1300,
+        "askSize": 800,
+        "marketCap": 1507360896,
+        "fiftyTwoWeekLow": 10.65,
+        "fiftyTwoWeekHigh": 55.74,
+        "priceToSalesTrailing12Months": 1.9370985,
+        "fiftyDayAverage": 15.685,
+        "twoHundredDayAverage": 21.20745,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.44,
+                    "estimate": 0.39
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.49,
+                    "estimate": 0.43
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.39,
+                    "estimate": 0.39
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.38,
+                    "estimate": 0.35
+                }
+            ],
+            "currentQuarterEstimate": 0.33,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675641600,
+                1675987200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 103569000,
+                    "earnings": -6010000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 138715000,
+                    "earnings": 13900000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 313579000,
+                    "earnings": 54884000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 747596000,
+                    "earnings": 35546000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 188568000,
+                    "earnings": -5852000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 216818000,
+                    "earnings": 7014000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 184135000,
+                    "earnings": 20100000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 188633000,
+                    "earnings": 14922000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675641600,
+                1675987200
+            ],
+            "earningsAverage": 0.33,
+            "earningsLow": 0.32,
+            "earningsHigh": 0.35,
+            "revenueAverage": 175010000,
+            "revenueLow": 171800000,
+            "revenueHigh": 178000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-17T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-10-05T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-04T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-29T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-06-01T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-01T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-09T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-07T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-11-03T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-31T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-08-31T00:00:00.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-06-02T00:00:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-02T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-03T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-24T00:00:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-23T00:00:00.000Z",
+                "firm": "Craig-Hallum",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-23T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-01T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-04T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-04T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-04T00:00:00.000Z",
+                "firm": "Craig-Hallum",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-22T00:00:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-12-21T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-10-30T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-06T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-07T00:00:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-06-25T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-27T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-23T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-05T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-04T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-17T00:00:00.000Z",
+                "firm": "National Securities Corporation",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-06-27T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-02-26T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2018-02-08T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-11-08T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-03-30T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-10-12T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-09-26T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-08-31T00:00:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-06-14T00:00:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-01-29T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-08T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-05-06T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0192307,
+        "postMarketChange": 0.299999,
+        "postMarketTime": "2023-01-07T00:53:04.000Z",
+        "postMarketPrice": 15.9,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.03585657,
+        "regularMarketChange": 0.53999996,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 15.6,
+        "regularMarketDayHigh": 15.64,
+        "regularMarketDayLow": 14.34,
+        "regularMarketVolume": 2223584,
+        "averageDailyVolume10Day": 1849330,
+        "averageDailyVolume3Month": 2781951,
+        "regularMarketPreviousClose": 15.06,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 15.12,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "APPS",
+        "underlyingSymbol": null,
+        "shortName": "Digital Turbine, Inc.",
+        "longName": "Digital Turbine, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1507360896
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1818540416,
+        "forwardPE": 9.1228075,
+        "profitMargins": 0.0465,
+        "floatShares": 89335505,
+        "sharesOutstanding": 96625696,
+        "sharesShort": 5757748,
+        "sharesShortPriorMonth": 5175596,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0583,
+        "heldPercentInsiders": 0.03788,
+        "heldPercentInstitutions": 0.74581003,
+        "shortRatio": 2.46,
+        "shortPercentOfFloat": 0.0671,
+        "beta": 2.423728,
+        "category": null,
+        "bookValue": 1.254,
+        "priceToBook": 12.440192,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-03-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-03-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.045,
+        "netIncomeToCommon": 36184000,
+        "trailingEps": 0.412,
+        "forwardEps": 1.06,
+        "pegRatio": 0.99,
+        "lastSplitFactor": "1:5",
+        "lastSplitDate": "2013-04-15T00:00:00.000Z",
+        "enterpriseToRevenue": 2.337,
+        "enterpriseToEbitda": 9.903
+    },
+    "summaryProfile": {
+        "address1": "110 San Antonio Street",
+        "address2": "Suite 160",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701",
+        "country": "United States",
+        "phone": "512 387 7717",
+        "website": "https://www.digitalturbine.com",
+        "industry": "Software—Application",
+        "sector": "Technology",
+        "longBusinessSummary": "Digital Turbine, Inc., through its subsidiaries, operates a mobile growth platform for advertisers, publishers, carriers, and device original equipment manufacturers (OEMs). The company operates through three segments: On Device Media, In App Media  AdColony, and In App Media  Fyber. Its application media platform delivers mobile applications to various publishers, carriers, OEMs, and devices; and content media platform offers news, weather, sports, and other content, as well as programmatic advertising, and sponsored and editorial content media. The company also provides an end-to-end platform for brands, agencies, publishers, and application developers to deliver advertising to consumers on mobile devices; and a platform that allows mobile application developers and digital publishers to monetize their content through display, native, and video advertising. It operates in the United States, Canada, Europe, the Middle East, Africa, the Asia Pacific, China, Mexico, Central America, and South America. The company is headquartered in Austin, Texas.",
+        "fullTimeEmployees": 844,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 15.6,
+        "targetHighPrice": 60,
+        "targetLowPrice": 19,
+        "targetMeanPrice": 29.56,
+        "targetMedianPrice": 24,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 89292000,
+        "totalCashPerShare": 0.903,
+        "ebitda": 183636992,
+        "totalDebt": 487444992,
+        "quickRatio": 1.098,
+        "currentRatio": 1.18,
+        "totalRevenue": 778153984,
+        "debtToEquity": 84.328,
+        "revenuePerShare": 8.042,
+        "returnOnAssets": 0.052399997,
+        "returnOnEquity": 0.06566,
+        "grossProfits": 347110000,
+        "freeCashflow": -191184880,
+        "operatingCashflow": 150364000,
+        "earningsGrowth": 0.071,
+        "revenueGrowth": 0.193,
+        "grossMargins": 0.47505,
+        "ebitdaMargins": 0.23599,
+        "operatingMargins": 0.15224,
+        "profitMargins": 0.0465,
+        "financialCurrency": "USD"
+    }
+}

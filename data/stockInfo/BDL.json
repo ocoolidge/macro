@@ -1,0 +1,272 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BDL",
+        "Security_Name": "Flanigan's Enterprises, Inc. Common Stock",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BDL",
+        "NASDAQ_Symbol": "BDL",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 26.2,
+        "open": 25.71,
+        "dayLow": 25.77,
+        "dayHigh": 25.79,
+        "regularMarketPreviousClose": 26.2,
+        "regularMarketOpen": 25.71,
+        "regularMarketDayLow": 25.77,
+        "regularMarketDayHigh": 25.79,
+        "dividendRate": 1,
+        "dividendYield": 0.0392,
+        "exDividendDate": "2022-03-30T00:00:00.000Z",
+        "payoutRatio": 0.2899,
+        "beta": 0.798783,
+        "trailingPE": 34.314247,
+        "volume": 44,
+        "regularMarketVolume": 44,
+        "averageVolume": 1095,
+        "averageVolume10days": 980,
+        "averageDailyVolume10Day": 980,
+        "bid": 10.55,
+        "ask": 27.5,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 47897412,
+        "fiftyTwoWeekLow": 25,
+        "fiftyTwoWeekHigh": 40,
+        "priceToSalesTrailing12Months": 0.31540298,
+        "fiftyDayAverage": 27.569,
+        "twoHundredDayAverage": 29.9585,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1673827200,
+                1674172800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 113280000,
+                    "earnings": 3677000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 115989000,
+                    "earnings": 3648000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 112868000,
+                    "earnings": 1110000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 137045000,
+                    "earnings": 11784000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 33596000,
+                    "earnings": 1354000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 37368000,
+                    "earnings": 1564000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 40269000,
+                    "earnings": 1660000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 40628000,
+                    "earnings": 1835000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1673827200,
+                1674172800
+            ]
+        },
+        "exDividendDate": "2022-03-30T00:00:00.000Z",
+        "dividendDate": "2022-04-19T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0,
+        "regularMarketChange": 0,
+        "regularMarketTime": "2023-01-05T20:07:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 25.77,
+        "regularMarketDayHigh": 25.79,
+        "regularMarketDayLow": 25.77,
+        "regularMarketVolume": 44,
+        "averageDailyVolume10Day": 980,
+        "averageDailyVolume3Month": 1095,
+        "regularMarketPreviousClose": 26.2,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 25.71,
+        "exchange": "ASE",
+        "exchangeName": "NYSE American",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BDL",
+        "underlyingSymbol": null,
+        "shortName": "Flanigan's Enterprises, Inc.",
+        "longName": "Flanigan's Enterprises, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 47897412
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 78518496,
+        "profitMargins": 0.04223,
+        "floatShares": 553319,
+        "sharesOutstanding": 1858650,
+        "sharesShort": 3447,
+        "sharesShortPriorMonth": 3787,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0019,
+        "heldPercentInsiders": 0.7023,
+        "heldPercentInstitutions": 0.1319,
+        "shortRatio": 5.38,
+        "shortPercentOfFloat": 0.0041,
+        "beta": 0.798783,
+        "category": null,
+        "bookValue": 21.635,
+        "priceToBook": 1.1911255,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-10-02T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-10-02T00:00:00.000Z",
+        "mostRecentQuarter": "2022-07-02T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.745,
+        "netIncomeToCommon": 6413000,
+        "trailingEps": 0.751,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "1999-04-05T00:00:00.000Z",
+        "enterpriseToRevenue": 0.517,
+        "enterpriseToEbitda": 8.143
+    },
+    "summaryProfile": {
+        "address1": "5059 N.E. 18th Avenue",
+        "city": "Fort Lauderdale",
+        "state": "FL",
+        "zip": "33334",
+        "country": "United States",
+        "phone": "954 377 1961",
+        "website": "https://www.flanigans.net",
+        "industry": "Restaurants",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Flanigan's Enterprises, Inc., together with its subsidiaries, operates a chain of full-service restaurants and package liquor stores in South Florida. It operates in two segments, Package Stores and Restaurants. The company operates package liquor stores under the Big Daddy's Liquors name, which offer private label liquors, beer, and wines; and restaurants under the Flanigan's Seafood Bar and Grill service mark that provide alcoholic beverages and full food services. As of October 2, 2021, it operated 27 units consisting of restaurants, package liquor stores, and combination restaurants/package liquor stores; and franchised 5 units comprising 2 restaurants and 3 combination restaurants/package liquor stores. Flanigan's Enterprises, Inc. was incorporated in 1959 and is headquartered in Fort Lauderdale, Florida.",
+        "fullTimeEmployees": 665,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 25.77,
+        "recommendationKey": "none",
+        "totalCash": 35659000,
+        "totalCashPerShare": 19.185,
+        "ebitda": 9642000,
+        "totalDebt": 48846000,
+        "quickRatio": 1.574,
+        "currentRatio": 1.976,
+        "totalRevenue": 151860992,
+        "debtToEquity": 67.512,
+        "revenuePerShare": 81.705,
+        "returnOnAssets": 0.031770002,
+        "returnOnEquity": 0.13448,
+        "grossProfits": 28663000,
+        "freeCashflow": -959000,
+        "operatingCashflow": 10351000,
+        "earningsGrowth": -0.745,
+        "revenueGrowth": 0.073,
+        "grossMargins": 0.20229,
+        "ebitdaMargins": 0.06349,
+        "operatingMargins": 0.043959998,
+        "profitMargins": 0.04223,
+        "financialCurrency": "USD"
+    }
+}

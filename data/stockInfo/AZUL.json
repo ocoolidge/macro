@@ -1,0 +1,614 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AZUL",
+        "Security_Name": "Azul S.A. American Depositary Shares (each representing three preferred shares)",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AZUL",
+        "NASDAQ_Symbol": "AZUL",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 2,
+                "sell": 3,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 2,
+                "sell": 3,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 3,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 6.5,
+        "open": 6.79,
+        "dayLow": 6.585,
+        "dayHigh": 6.85,
+        "regularMarketPreviousClose": 6.5,
+        "regularMarketOpen": 6.79,
+        "regularMarketDayLow": 6.585,
+        "regularMarketDayHigh": 6.85,
+        "payoutRatio": 0,
+        "beta": 1.356764,
+        "trailingPE": 5.5983605,
+        "forwardPE": -4.216049,
+        "volume": 2194578,
+        "regularMarketVolume": 2194578,
+        "averageVolume": 2322927,
+        "averageVolume10days": 2116360,
+        "averageDailyVolume10Day": 2116360,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1400,
+        "askSize": 2900,
+        "marketCap": 791904320,
+        "fiftyTwoWeekLow": 5.29,
+        "fiftyTwoWeekHigh": 17.46,
+        "priceToSalesTrailing12Months": 0.052015625,
+        "fiftyDayAverage": 7.0836,
+        "twoHundredDayAverage": 9.54125,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.59,
+                    "estimate": -0.49
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -1.14,
+                    "estimate": -1.05
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.94,
+                    "estimate": -0.86
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.71,
+                    "estimate": -0.59
+                }
+            ],
+            "currentQuarterEstimate": -0.39,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677072600,
+                1677504600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 9057064000,
+                    "earnings": -635731000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 11442317000,
+                    "earnings": -2403086000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 5744126000,
+                    "earnings": -10834709000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 9975729000,
+                    "earnings": -4213208000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 3729740000,
+                    "earnings": -392337000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 3193041000,
+                    "earnings": 2667048000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 3924763000,
+                    "earnings": -2480471000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 4376811000,
+                    "earnings": -2014994000
+                }
+            ]
+        },
+        "financialCurrency": "BRL"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677072600,
+                1677504600
+            ],
+            "earningsAverage": -0.39,
+            "earningsLow": -1.06,
+            "earningsHigh": 0.52,
+            "revenueAverage": 912420000,
+            "revenueLow": 877980000,
+            "revenueHigh": 951570000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-06T12:39:23.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-22T11:24:19.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-19T14:29:26.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-07T12:28:08.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-06T10:07:21.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-05T11:24:17.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-10T13:31:49.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-26T12:23:31.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-04-25T11:15:27.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-07T13:35:56.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-09-16T09:17:12.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-09-13T12:14:45.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-31T10:00:08.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-05-07T12:47:31.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-04-12T10:23:31.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-23T10:35:43.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-22T11:43:09.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-05T12:41:10.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-01-28T13:35:48.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-12-10T14:21:17.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-23T12:39:52.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-09T14:50:45.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-10-01T11:16:59.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-09-15T10:52:04.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-09-09T10:27:10.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-09-04T13:22:59.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-04T11:56:10.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-17T15:58:41.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-12-19T11:09:34.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-10-29T12:01:09.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-28T11:58:04.000Z",
+                "firm": "Buckingham",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-08-13T12:29:43.000Z",
+                "firm": "Buckingham",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-13T11:59:41.000Z",
+                "firm": "Buckingham Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-09T12:29:23.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-09T12:21:16.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-07-29T10:59:07.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-03-19T12:40:02.000Z",
+                "firm": "Buckingham",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-12-03T11:15:52.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-16T12:40:09.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-13T12:23:59.000Z",
+                "firm": "Buckingham",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-03-09T13:48:43.000Z",
+                "firm": "Buckingham",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-09-25T15:22:36.000Z",
+                "firm": "Buckingham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-08-07T16:54:59.000Z",
+                "firm": "Buckingham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.0351391,
+        "postMarketChange": -0.24,
+        "postMarketTime": "2023-01-07T00:53:12.000Z",
+        "postMarketPrice": 6.59,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.05076922,
+        "regularMarketChange": 0.32999992,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 6.83,
+        "regularMarketDayHigh": 6.85,
+        "regularMarketDayLow": 6.585,
+        "regularMarketVolume": 2194578,
+        "averageDailyVolume10Day": 2116360,
+        "averageDailyVolume3Month": 2322927,
+        "regularMarketPreviousClose": 6.5,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 6.79,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AZUL",
+        "underlyingSymbol": null,
+        "shortName": "Azul S.A.",
+        "longName": "Azul S.A.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 791904320
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 24360499200,
+        "forwardPE": -4.216049,
+        "profitMargins": -0.14587,
+        "floatShares": 93200309,
+        "sharesOutstanding": 115945000,
+        "sharesShort": 11250846,
+        "sharesShortPriorMonth": 11621290,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.096999995,
+        "heldPercentInsiders": 0,
+        "heldPercentInstitutions": 0.32287997,
+        "shortRatio": 4.1,
+        "beta": 1.356764,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": -173.583,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -2220756992,
+        "trailingEps": 1.22,
+        "forwardEps": -1.62,
+        "pegRatio": 0.02,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.6,
+        "enterpriseToEbitda": 65.015,
+        "52WeekChange": -0.4549082,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "Av. Marcos Penteado de UlhÃ´a Rodrigues",
+        "address2": "no. 939, 8th floor, EdifÃ­cio JatobÃi, CondomÃ­nio Castelo Branco Office Park TamborE",
+        "city": "Barueri",
+        "state": "SP",
+        "zip": "06460-040",
+        "country": "Brazil",
+        "phone": "55 11 4831 2880",
+        "website": "https://www.voeazul.com.br",
+        "industry": "Airlines",
+        "sector": "Industrials",
+        "longBusinessSummary": "Azul S.A., together with its subsidiaries, provides passenger and cargo transportation services in Brazil. As of December 31, 2021, the company operated 850 daily departures to 125 destinations through a network of 259 non-stop routes with a fleet of 179 aircraft. It is also involved in the loyalty programs, travel packages, investment fund, logistics solutions, and aircraft financing activities. The company was incorporated in 2008 and is headquartered in Barueri, Brazil.",
+        "fullTimeEmployees": 13215,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 6.83,
+        "targetHighPrice": 32.5,
+        "targetLowPrice": 5.7,
+        "targetMeanPrice": 12.92,
+        "targetMedianPrice": 9.1,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 1159460992,
+        "totalCashPerShare": 9.998,
+        "ebitda": 374692992,
+        "totalDebt": 24766146560,
+        "quickRatio": 0.241,
+        "currentRatio": 0.345,
+        "totalRevenue": 15224354816,
+        "revenuePerShare": 131.553,
+        "returnOnAssets": -0.01217,
+        "grossProfits": 775843000,
+        "freeCashflow": -738789888,
+        "operatingCashflow": 1260295040,
+        "revenueGrowth": 0.61,
+        "grossMargins": 0.10585,
+        "ebitdaMargins": 0.02461,
+        "operatingMargins": -0.02309,
+        "profitMargins": -0.14587,
+        "financialCurrency": "BRL"
+    }
+}

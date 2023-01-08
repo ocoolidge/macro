@@ -1,0 +1,593 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AIT",
+        "Security_Name": "Applied Industrial Technologies, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AIT",
+        "NASDAQ_Symbol": "AIT",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 6,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 6,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 117.28,
+        "open": 119,
+        "dayLow": 118.73,
+        "dayHigh": 123.5,
+        "regularMarketPreviousClose": 117.28,
+        "regularMarketOpen": 119,
+        "regularMarketDayLow": 118.73,
+        "regularMarketDayHigh": 123.5,
+        "dividendRate": 1.36,
+        "dividendYield": 0.0108,
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "payoutRatio": 0.1878,
+        "fiveYearAvgDividendYield": 1.71,
+        "beta": 1.188218,
+        "trailingPE": 16.918653,
+        "forwardPE": 15.7275095,
+        "volume": 219340,
+        "regularMarketVolume": 219340,
+        "averageVolume": 180493,
+        "averageVolume10days": 140230,
+        "averageDailyVolume10Day": 140230,
+        "bid": 49.65,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 4652940288,
+        "fiftyTwoWeekLow": 88.09,
+        "fiftyTwoWeekHigh": 133.74,
+        "priceToSalesTrailing12Months": 1.1686693,
+        "fiftyDayAverage": 126.8012,
+        "twoHundredDayAverage": 108.7494,
+        "trailingAnnualDividendRate": 1.35,
+        "trailingAnnualDividendYield": 0.011510914,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 1.46,
+                    "estimate": 1.08
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.75,
+                    "estimate": 1.51
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 2.02,
+                    "estimate": 1.66
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 1.97,
+                    "estimate": 1.63
+                }
+            ],
+            "currentQuarterEstimate": 1.66,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674653400,
+                1675085400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 3472739000,
+                    "earnings": 143993000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 3245652000,
+                    "earnings": 24042000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 3235919000,
+                    "earnings": 144757000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 3810676000,
+                    "earnings": 257414000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 876874000,
+                    "earnings": 57026000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 980662000,
+                    "earnings": 68306000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 1061459000,
+                    "earnings": 79113000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 1062405000,
+                    "earnings": 76880000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674653400,
+                1675085400
+            ],
+            "earningsAverage": 1.66,
+            "earningsLow": 1.62,
+            "earningsHigh": 1.7,
+            "revenueAverage": 993130000,
+            "revenueLow": 985100000,
+            "revenueHigh": 1000400000
+        },
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "dividendDate": "2022-11-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-28T08:31:26.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-28T08:39:30.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-12T11:33:59.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-12T08:30:39.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-29T08:31:59.000Z",
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-18T12:41:59.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-03T12:01:06.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-04-05T12:18:10.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-19T10:05:53.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-09T10:03:58.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-14T10:19:27.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-13T08:37:33.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-13T14:09:12.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-11T08:41:26.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-30T10:17:42.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-14T13:19:01.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-12-11T10:43:32.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-09T14:48:58.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-19T11:08:09.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-15T11:54:05.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-15T10:15:43.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-03-08T11:42:42.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-01-15T11:16:19.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "Sector Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-12-21T14:13:42.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Perform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-01T16:10:46.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Perform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-13T13:37:15.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Perform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-25T18:16:13.000Z",
+                "firm": "Northcoast Research",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-03-21T05:48:49.000Z",
+                "firm": "Avondale Partners",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-01-05T17:18:30.000Z",
+                "firm": "Avondale Partners",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-07-21T05:15:39.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Sector Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-06-19T07:52:25.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-07-07T06:14:58.000Z",
+                "firm": "BB&T Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-10-31T09:41:16.000Z",
+                "firm": "Wellington Shields",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-08-15T09:09:28.000Z",
+                "firm": "CJS Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-08-02T06:51:38.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-11-29T06:00:00.000Z",
+                "firm": "Longbow Research",
+                "toGrade": "",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-06-11T12:10:00.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-25T07:26:00.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:10:01.000Z",
+        "postMarketPrice": 120.63,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.028564107,
+        "regularMarketChange": 3.3499985,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 120.63,
+        "regularMarketDayHigh": 123.5,
+        "regularMarketDayLow": 118.73,
+        "regularMarketVolume": 219340,
+        "averageDailyVolume10Day": 140230,
+        "averageDailyVolume3Month": 180493,
+        "regularMarketPreviousClose": 117.28,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 119,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AIT",
+        "underlyingSymbol": null,
+        "shortName": "Applied Industrial Technologies",
+        "longName": "Applied Industrial Technologies, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 4652940288
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 5304689664,
+        "forwardPE": 15.7275095,
+        "profitMargins": 0.07066,
+        "floatShares": 37940925,
+        "sharesOutstanding": 38572000,
+        "sharesShort": 468431,
+        "sharesShortPriorMonth": 498913,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0121,
+        "heldPercentInsiders": 0.014680001,
+        "heldPercentInstitutions": 0.94898003,
+        "shortRatio": 2.9,
+        "shortPercentOfFloat": 0.0175,
+        "beta": 1.188218,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 31.667,
+        "priceToBook": 3.8093283,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-06-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-06-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.451,
+        "netIncomeToCommon": 281324992,
+        "trailingEps": 7.13,
+        "forwardEps": 7.67,
+        "pegRatio": 1.35,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": "2006-06-16T00:00:00.000Z",
+        "enterpriseToRevenue": 1.332,
+        "enterpriseToEbitda": 11.992,
+        "52WeekChange": 0.20065689,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.34,
+        "lastDividendDate": 1668384000
+    },
+    "summaryProfile": {
+        "address1": "1 Applied Plaza",
+        "city": "Cleveland",
+        "state": "OH",
+        "zip": "44115",
+        "country": "United States",
+        "phone": "216 426 4000",
+        "website": "https://www.applied.com",
+        "industry": "Industrial Distribution",
+        "sector": "Industrials",
+        "longBusinessSummary": "Applied Industrial Technologies, Inc. distributes industrial motion, power, control, and automation technology solutions in North America, Australia, New Zealand, and Singapore. It operates through two segments, Service Center Based Distribution, and Fluid Power & Flow Control. The company distributes bearings, power transmission products, engineered fluid power components and systems, specialty flow control solutions, advanced automation products, industrial rubber products, linear motion components, automation solutions, tools, safety products, oilfield supplies, and other industrial and maintenance supplies; and motors, belting, drives, couplings, pumps, hydraulic and pneumatic components, filtration supplies, valves, fittings, process instrumentation, actuators, and hoses, filtration supplies, as well as other related supplies for general operational needs of customers' machinery and equipment. It also operates fabricated rubber shops and service field crews that install, modify, and repair conveyor belts and rubber linings, as well as offer hose assemblies. In addition, the company provides equipment repair and technical support services. It distributes industrial products through a network of service centers. The company serves various industries, including agriculture and food processing, cement, chemicals and petrochemicals, fabricated metals, forest products, industrial machinery and equipment, life sciences, mining, oil and gas, primary metals, technology, transportation, and utilities, as well as government entities. The company was formerly known as Bearings, Inc. and changed its to name to Applied Industrial Technologies, Inc. in 1997. The company was founded in 1923 and is headquartered in Cleveland, Ohio.",
+        "fullTimeEmployees": 6067,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 120.63,
+        "targetHighPrice": 150,
+        "targetLowPrice": 137,
+        "targetMeanPrice": 141.67,
+        "targetMedianPrice": 138,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 147575008,
+        "totalCashPerShare": 3.826,
+        "ebitda": 442368000,
+        "totalDebt": 649283968,
+        "quickRatio": 1.861,
+        "currentRatio": 3.081,
+        "totalRevenue": 3981400064,
+        "debtToEquity": 53.157,
+        "revenuePerShare": 103.475,
+        "returnOnAssets": 0.10183,
+        "returnOnEquity": 0.25597998,
+        "grossProfits": 1106916000,
+        "freeCashflow": 64922500,
+        "operatingCashflow": 164871008,
+        "earningsGrowth": 0.449,
+        "revenueGrowth": 0.191,
+        "grossMargins": 0.29094,
+        "ebitdaMargins": 0.11111,
+        "operatingMargins": 0.09774999,
+        "profitMargins": 0.07066,
+        "financialCurrency": "USD"
+    }
+}

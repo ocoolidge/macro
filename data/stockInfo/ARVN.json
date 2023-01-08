@@ -1,0 +1,623 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARVN",
+        "Security_Name": "Arvinas, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ARVN",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 6,
+                "buy": 12,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 6,
+                "buy": 11,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 34.94,
+        "open": 35.2,
+        "dayLow": 33.52,
+        "dayHigh": 35.2,
+        "regularMarketPreviousClose": 34.94,
+        "regularMarketOpen": 35.2,
+        "regularMarketDayLow": 33.52,
+        "regularMarketDayHigh": 35.2,
+        "payoutRatio": 0,
+        "beta": 1.933207,
+        "forwardPE": -8.264564,
+        "volume": 230230,
+        "regularMarketVolume": 230230,
+        "averageVolume": 470829,
+        "averageVolume10days": 393540,
+        "averageDailyVolume10Day": 393540,
+        "bid": 28.37,
+        "ask": 53.94,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 1800277888,
+        "fiftyTwoWeekLow": 31.54,
+        "fiftyTwoWeekHigh": 81.13,
+        "priceToSalesTrailing12Months": 19.761557,
+        "fiftyDayAverage": 41.2098,
+        "twoHundredDayAverage": 47.33125,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.94,
+                    "estimate": 2.3
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -1,
+                    "estimate": -0.79
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -1.2,
+                    "estimate": -0.89
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -1.32,
+                    "estimate": -1.04
+                }
+            ],
+            "currentQuarterEstimate": -1.13,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 14323920,
+                    "earnings": -41480466
+                },
+                {
+                    "date": 2019,
+                    "revenue": 43000000,
+                    "earnings": -70300000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 21800000,
+                    "earnings": -119300000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 46700000,
+                    "earnings": -191000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 9284785,
+                    "earnings": -46751752
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 26331432,
+                    "earnings": -52995395
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 24200000,
+                    "earnings": -63400000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 31300000,
+                    "earnings": -70000000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ],
+            "earningsAverage": -1.13,
+            "earningsLow": -1.66,
+            "earningsHigh": 0.29,
+            "revenueAverage": 34080000,
+            "revenueLow": 3000000,
+            "revenueHigh": 81300000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-09T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-08-08T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-05T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-05T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-05T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-21T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-05-24T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-23T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-20T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-09T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-05-09T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-28T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-04-06T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-03-01T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-01T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-18T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-10T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-01-19T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-12-07T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-10-14T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-09-30T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-09-09T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-08-09T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-23T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-23T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-22T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-21T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-04-21T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-03-31T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-12T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-04-29T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-01-24T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-06T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-20T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-12-19T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-11-25T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-11-14T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-11-13T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-25T00:00:00.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-09-12T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-08-06T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-06-05T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-04-12T00:00:00.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-10-22T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-10-22T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0058737397,
+        "postMarketChange": 0.200001,
+        "postMarketTime": "2023-01-06T21:50:28.000Z",
+        "postMarketPrice": 34.25,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.025472222,
+        "regularMarketChange": -0.8899994,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 34.05,
+        "regularMarketDayHigh": 35.2,
+        "regularMarketDayLow": 33.52,
+        "regularMarketVolume": 230230,
+        "averageDailyVolume10Day": 393540,
+        "averageDailyVolume3Month": 470829,
+        "regularMarketPreviousClose": 34.94,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 35.2,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARVN",
+        "underlyingSymbol": null,
+        "shortName": "Arvinas, Inc.",
+        "longName": "Arvinas, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1800277888
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1247281408,
+        "forwardPE": -5.7711864,
+        "profitMargins": -2.5587301,
+        "floatShares": 41789570,
+        "sharesOutstanding": 52871600,
+        "sharesShort": 5638420,
+        "sharesShortPriorMonth": 5431264,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.106000006,
+        "heldPercentInsiders": 0.09243,
+        "heldPercentInstitutions": 0.96889997,
+        "shortRatio": 15.81,
+        "shortPercentOfFloat": 0.1259,
+        "beta": 1.933207,
+        "category": null,
+        "bookValue": 13.255,
+        "priceToBook": 2.568842,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -233100000,
+        "trailingEps": -3.018,
+        "forwardEps": -4.12,
+        "pegRatio": 0.35,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 13.691,
+        "enterpriseToEbitda": -5.586
+    },
+    "summaryProfile": {
+        "address1": "5 Science Park",
+        "address2": "395 Winchester Avenue",
+        "city": "New Haven",
+        "state": "CT",
+        "zip": "06511",
+        "country": "United States",
+        "phone": "203 535 1456",
+        "website": "https://www.arvinas.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Arvinas, Inc., a clinical-stage biopharmaceutical company, engages in the discovery, development, and commercialization of therapies to degrade disease-causing proteins. Its lead product candidates include Bavdegalutamide, a proteolysis targeting chimera (PROTAC) protein degrader that is in phase I clinical trial targeting the androgen receptor (AR) protein for the treatment of men with metastatic castration-resistant prostate cancer (mCRPC); ARV-471, a PROTAC protein degrader targeting the estrogen receptor protein for the treatment of patients with metastatic ER positive/HER2 negative breast cancer; and ARV-766 an investigational orally bioavailable PROTAC protein degrader for the treatment of men with mCRPC. The company has collaborations with Pfizer Inc., Genentech, Inc., F. Hoffman-La Roche Ltd., and Bayer AG. Arvinas, Inc. was founded in 2013 and is based in New Haven, Connecticut.",
+        "fullTimeEmployees": 280,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 34.05,
+        "targetHighPrice": 170,
+        "targetLowPrice": 42,
+        "targetMeanPrice": 91.14,
+        "targetMedianPrice": 88,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 21,
+        "totalCash": 1343200000,
+        "totalCashPerShare": 25.246,
+        "ebitda": -223300000,
+        "totalDebt": 6300000,
+        "quickRatio": 5.673,
+        "currentRatio": 5.778,
+        "totalRevenue": 91100000,
+        "debtToEquity": 0.939,
+        "revenuePerShare": 1.745,
+        "returnOnAssets": -0.14017001,
+        "returnOnEquity": -0.3719,
+        "grossProfits": 46700000,
+        "freeCashflow": 116446712,
+        "operatingCashflow": 510100000,
+        "revenueGrowth": 4.691,
+        "grossMargins": 1,
+        "ebitdaMargins": -2.45115,
+        "operatingMargins": -2.5247,
+        "profitMargins": -2.5587301,
+        "financialCurrency": "USD"
+    }
+}

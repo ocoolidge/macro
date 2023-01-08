@@ -1,0 +1,642 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATRA",
+        "Security_Name": "Atara Biotherapeutics, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ATRA",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 1
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 1
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 1
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 1
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 3.56,
+        "open": 3.59,
+        "dayLow": 3.4,
+        "dayHigh": 3.605,
+        "regularMarketPreviousClose": 3.56,
+        "regularMarketOpen": 3.59,
+        "regularMarketDayLow": 3.4,
+        "regularMarketDayHigh": 3.605,
+        "payoutRatio": 0,
+        "beta": 0.942888,
+        "forwardPE": -0.9668509,
+        "volume": 1180179,
+        "regularMarketVolume": 1180179,
+        "averageVolume": 1453408,
+        "averageVolume10days": 1580540,
+        "averageDailyVolume10Day": 1580540,
+        "bid": 3.46,
+        "ask": 3.55,
+        "bidSize": 1200,
+        "askSize": 1800,
+        "marketCap": 314710912,
+        "fiftyTwoWeekLow": 2.83,
+        "fiftyTwoWeekHigh": 16.35,
+        "priceToSalesTrailing12Months": 4.3824887,
+        "fiftyDayAverage": 4.155,
+        "twoHundredDayAverage": 5.17265,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.9,
+                    "estimate": -0.94
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.96,
+                    "estimate": -0.69
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.87,
+                    "estimate": -0.98
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.18,
+                    "estimate": -0.93
+                }
+            ],
+            "currentQuarterEstimate": -0.78,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 0,
+                    "earnings": -230699000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -290976000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -306620000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 20340000,
+                    "earnings": -340141000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 5370000,
+                    "earnings": -84664000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 7548000,
+                    "earnings": -93349000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 7314000,
+                    "earnings": -88105000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 51579000,
+                    "earnings": 18466000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ],
+            "earningsAverage": -0.78,
+            "earningsLow": -0.89,
+            "earningsHigh": -0.7,
+            "revenueAverage": 5270000,
+            "revenueHigh": 11000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-16T00:00:00.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-09T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-20T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-13T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-13T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-05-24T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-23T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-10T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-03-28T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-03T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-13T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-05-05T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-08T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-10T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-15T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-06T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-06T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-30T00:00:00.000Z",
+                "firm": "Evercore ISI Group",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-06-15T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-12T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-23T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-11-08T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-09-27T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-09-16T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-06-04T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-05-30T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-05-23T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-01-23T00:00:00.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-11T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Sell",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-10T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-03-16T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-28T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-02-15T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-01-26T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-01-03T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-09-15T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-08-22T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-08-19T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-03-09T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-12-15T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-12-15T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-09-25T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-09-09T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-06-04T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-05-08T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-11-10T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-11-10T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-11-10T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0142857,
+        "postMarketChange": 0.05,
+        "postMarketTime": "2023-01-06T23:57:42.000Z",
+        "postMarketPrice": 3.55,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.016853917,
+        "regularMarketChange": -0.059999943,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 3.5,
+        "regularMarketDayHigh": 3.605,
+        "regularMarketDayLow": 3.4,
+        "regularMarketVolume": 1180179,
+        "averageDailyVolume10Day": 1580540,
+        "averageDailyVolume3Month": 1453408,
+        "regularMarketPreviousClose": 3.56,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 3.59,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATRA",
+        "underlyingSymbol": null,
+        "shortName": "Atara Biotherapeutics, Inc.",
+        "longName": "Atara Biotherapeutics, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 314710912
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 173649184,
+        "forwardPE": -1.4893618,
+        "profitMargins": 0,
+        "floatShares": 71470021,
+        "sharesOutstanding": 89917400,
+        "sharesShort": 11901339,
+        "sharesShortPriorMonth": 12345091,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.1261,
+        "heldPercentInsiders": 0.00712,
+        "heldPercentInstitutions": 1.0792,
+        "shortRatio": 6.95,
+        "shortPercentOfFloat": 0.1294,
+        "beta": 0.942888,
+        "category": null,
+        "bookValue": 5.545,
+        "priceToBook": 0.63119924,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -247652000,
+        "trailingEps": -4.145,
+        "forwardEps": -3.62,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 2.418,
+        "enterpriseToEbitda": -0.597
+    },
+    "summaryProfile": {
+        "address1": "611 Gateway Boulevard",
+        "address2": "Suite 900",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zip": "94080",
+        "country": "United States",
+        "phone": "650 278 8930",
+        "website": "https://www.atarabio.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Atara Biotherapeutics, Inc., an off-the-shelf T-cell immunotherapy company, develops treatments for patients with cancer, autoimmune, and viral diseases in the United States. It is developing tabelecleucel, a T-cell immunotherapy that is Phase 3 clinical trials for the treatment of epstein-barr virus (EBV) driven post-transplant lymphoproliferative disease, as well as hematologic and solid tumors, including nasopharyngeal carcinoma. The company is also developing next-generation CAR T immunotherapies for patients with hematologic malignancies and solid tumors, including ATA2271 and ATA3271 for mesothelin; and ATA2431 and ATA3219 for B-cell malignancies, as well as ATA188 for the treatment of multiple sclerosis. In addition, it develops ATA368 program for patients with human papillomavirus associated cancers. Atara Biotherapeutics, Inc. has a license agreement with Memorial Sloan Kettering Cancer Center; license, and research and development collaboration agreement with QIMR Berghofer Medical Research Institute; and strategic collaboration with H. Lee Moffitt Cancer Center, as well as Bayer AG for mesothelin-targeted CAR T-cell therapies for solid tumors. The company was incorporated in 2012 and is headquartered in South San Francisco, California.",
+        "fullTimeEmployees": 578,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 3.5,
+        "targetHighPrice": 50,
+        "targetLowPrice": 3,
+        "targetMeanPrice": 18.79,
+        "targetMedianPrice": 14.65,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 331311008,
+        "totalCashPerShare": 3.511,
+        "ebitda": -290643008,
+        "totalDebt": 74668000,
+        "quickRatio": 5.067,
+        "currentRatio": 5.282,
+        "totalRevenue": 71811000,
+        "debtToEquity": 29,
+        "revenuePerShare": 0.73,
+        "returnOnAssets": -0.41797,
+        "returnOnEquity": -0.84089994,
+        "grossProfits": -229598000,
+        "freeCashflow": -163323376,
+        "operatingCashflow": -241740000,
+        "revenueGrowth": 12.328,
+        "grossMargins": -2.58253,
+        "ebitdaMargins": 0,
+        "operatingMargins": -4.15768,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

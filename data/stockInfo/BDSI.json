@@ -1,0 +1,407 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BDSI",
+        "Security_Name": "BioDelivery Sciences International, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BDSI",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 5,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 5.595,
+        "open": 5.6,
+        "dayLow": 5.59,
+        "dayHigh": 5.6,
+        "regularMarketPreviousClose": 5.595,
+        "regularMarketOpen": 5.6,
+        "regularMarketDayLow": 5.59,
+        "regularMarketDayHigh": 5.6,
+        "trailingPE": 23.291668,
+        "forwardPE": 10.163636,
+        "volume": 2107479,
+        "regularMarketVolume": 2107479,
+        "averageVolume": 3352473,
+        "averageVolume10days": 1173619,
+        "averageDailyVolume10Day": 1173619,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 28000,
+        "askSize": 36200,
+        "marketCap": 552269120,
+        "fiftyTwoWeekLow": 2.5,
+        "fiftyTwoWeekHigh": 5.62,
+        "fiftyDayAverage": 4.9601,
+        "twoHundredDayAverage": 3.881475,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "1Q2021",
+                    "actual": 0.05,
+                    "estimate": 0.07
+                },
+                {
+                    "date": "2Q2021",
+                    "actual": 0.09,
+                    "estimate": 0.05
+                },
+                {
+                    "date": "3Q2021",
+                    "actual": 0.07,
+                    "estimate": 0.05
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.62,
+                    "estimate": 0.02
+                }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678147200,
+                1678665600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 55640000,
+                    "earnings": -33867000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 111389000,
+                    "earnings": -15305000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 156471000,
+                    "earnings": 25711000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 166703000,
+                    "earnings": 84860000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2021",
+                    "revenue": 41020000,
+                    "earnings": 5237000
+                },
+                {
+                    "date": "2Q2021",
+                    "revenue": 41439000,
+                    "earnings": 9064000
+                },
+                {
+                    "date": "3Q2021",
+                    "revenue": 41092000,
+                    "earnings": 6669000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 43154000,
+                    "earnings": 63890000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678147200,
+                1678665600
+            ],
+            "revenueAverage": 48340000,
+            "revenueLow": 42100000,
+            "revenueHigh": 55810000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-02-15T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-01-21T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-04T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-05T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-11T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-18T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-03-20T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-05-23T00:00:00.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-01-26T00:00:00.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-05-17T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-09-23T00:00:00.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-05-11T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-11T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-11-04T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-05-12T00:00:00.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-05-12T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-08T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-04-02T00:00:00.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-10-10T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-05-15T00:00:00.000Z",
+                "firm": "Summer Street",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-11-26T00:00:00.000Z",
+                "firm": "Laidlaw & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-04-10T00:00:00.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-03-11T00:00:00.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-01-04T00:00:00.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-11-16T00:00:00.000Z",
+                "firm": "Brinson Patrick",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-05-14T00:00:00.000Z",
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.0008935903,
+        "regularMarketChange": -0.0049996376,
+        "regularMarketTime": "2022-03-22T20:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 5.59,
+        "regularMarketDayHigh": 5.6,
+        "regularMarketDayLow": 5.59,
+        "regularMarketVolume": 2107479,
+        "averageDailyVolume10Day": 1173619,
+        "averageDailyVolume3Month": 3352473,
+        "regularMarketPreviousClose": 5.595,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 5.6,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BDSI",
+        "underlyingSymbol": null,
+        "shortName": "BioDelivery Sciences Internatio",
+        "longName": "BioDelivery Sciences International, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 552269120
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 5.59,
+        "recommendationMean": 2.7,
+        "recommendationKey": "hold",
+        "grossProfits": 143330000,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,376 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ADXS",
+        "Security_Name": "Advaxis, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ADXS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 1.2625,
+        "open": 1.25,
+        "dayLow": 1.1,
+        "dayHigh": 1.35,
+        "regularMarketPreviousClose": 1.2625,
+        "regularMarketOpen": 1.25,
+        "regularMarketDayLow": 1.1,
+        "regularMarketDayHigh": 1.35,
+        "payoutRatio": 0,
+        "beta": 2.149784,
+        "forwardPE": -9,
+        "volume": 2059,
+        "regularMarketVolume": 2059,
+        "averageVolume": 3693,
+        "averageVolume10days": 6282,
+        "averageDailyVolume10Day": 6282,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 800,
+        "askSize": 900,
+        "marketCap": 2451532,
+        "fiftyTwoWeekLow": 1,
+        "fiftyTwoWeekHigh": 13.12,
+        "priceToSalesTrailing12Months": 9.806128,
+        "fiftyDayAverage": 1.576844,
+        "twoHundredDayAverage": 3.532531,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2020",
+                    "actual": -7.2,
+                    "estimate": -12
+                },
+                {
+                    "date": "2Q2021",
+                    "actual": -3.2,
+                    "estimate": -4
+                },
+                {
+                    "date": "3Q2021",
+                    "actual": -1.6,
+                    "estimate": -3.2
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -3.2,
+                    "estimate": -3.2
+                }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 6063000,
+                    "earnings": -66515000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 20884000,
+                    "earnings": -16612000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 253000,
+                    "earnings": -26469000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 3240000,
+                    "earnings": -17862000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -5444000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -365000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 250000,
+                    "earnings": -2440000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 0,
+                    "earnings": -6963000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ]
+        },
+        "dividendDate": "2019-03-29T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2020-11-25T09:37:03.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:58.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:56.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:56.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:50.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:50.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:50.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:50.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:50.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:50.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:50.000Z",
+                "firm": "MLV & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.06930691,
+        "regularMarketChange": 0.087499976,
+        "regularMarketTime": "2023-01-06T20:28:53.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 1.35,
+        "regularMarketDayHigh": 1.35,
+        "regularMarketDayLow": 1.1,
+        "regularMarketVolume": 2059,
+        "averageDailyVolume10Day": 6282,
+        "averageDailyVolume3Month": 3693,
+        "regularMarketPreviousClose": 1.2625,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 1.25,
+        "exchange": "PNK",
+        "exchangeName": "Other OTC",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ADXS",
+        "underlyingSymbol": null,
+        "shortName": "Advaxis, Inc.",
+        "longName": "Advaxis, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2451532
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": -25861062,
+        "profitMargins": 0,
+        "floatShares": 1815061,
+        "sharesOutstanding": 1815950,
+        "sharesShort": 39892,
+        "sharesShortPriorMonth": 44986,
+        "sharesShortPreviousMonthDate": 1636934400,
+        "dateShortInterest": 1639526400,
+        "sharesPercentSharesOut": 0.0219,
+        "heldPercentInsiders": 0.00049,
+        "heldPercentInstitutions": 0,
+        "shortRatio": 0.95,
+        "shortPercentOfFloat": 0.0219,
+        "beta": 2.149784,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 15.526,
+        "priceToBook": 0.08695092,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-10-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-10-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-07-31T00:00:00.000Z",
+        "netIncomeToCommon": -16237000,
+        "trailingEps": -0.099,
+        "forwardEps": -0.15,
+        "lastSplitFactor": "1:80",
+        "lastSplitDate": "2022-06-06T00:00:00.000Z",
+        "enterpriseToRevenue": -103.444,
+        "enterpriseToEbitda": 1.689,
+        "52WeekChange": -0.8921725,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "9 Deer Park Drive",
+        "address2": "Suite K-1",
+        "city": "Monmouth Junction",
+        "state": "NJ",
+        "zip": "08852",
+        "country": "United States",
+        "phone": "609 452 9813",
+        "fax": "609 452 9818",
+        "website": "https://www.advaxis.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Advaxis, Inc., a clinical-stage biotechnology company, focuses on the discovery, development, and commercialization of proprietary Listeria monocytogenes (Lm) technology antigen delivery products in the United States. The company is developing ADXS-PSA, which is in Phase 2 clinical trials for the treatment of metastatic prostate cancer; ADXS-503 that is in Phase 1/2 clinical trials for the treatment of non-small cell lung cancer; and ADXS-504 for the treatment of prostate cancer. It is also conducting clinical studies of Lm Technology immunotherapies in the following areas of disease focused hotspot/off-the-shelf neoantigen-directed therapies; human papilloma virus-associated cancers; and prostate cancer. The company has collaborations and partnerships with Merck & Co., Inc.; OS Therapies, LLC; Aratana Therapeutics Inc.; Biocon Limited; Global BioPharma Inc.; Knight Therapeutics Inc; and others. Advaxis, Inc. was founded in 2002 and is based in Monmouth Junction, New Jersey.",
+        "fullTimeEmployees": 14,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 1.35,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "totalCash": 28150000,
+        "totalCashPerShare": 15.502,
+        "ebitda": -15315000,
+        "totalDebt": 19000,
+        "quickRatio": 14.769,
+        "currentRatio": 15.644,
+        "totalRevenue": 250000,
+        "debtToEquity": 0.067,
+        "revenuePerShare": 0.137,
+        "returnOnAssets": -0.24131,
+        "returnOnEquity": -0.41979998,
+        "grossProfits": 3240000,
+        "freeCashflow": -13967125,
+        "operatingCashflow": -16043000,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": -62.643997,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

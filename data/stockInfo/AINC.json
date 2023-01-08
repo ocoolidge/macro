@@ -1,0 +1,383 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AINC",
+        "Security_Name": "Ashford Inc. (Holding Company) Common Stock",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AINC",
+        "NASDAQ_Symbol": "AINC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 13.4,
+        "open": 13.33,
+        "dayLow": 13.04,
+        "dayHigh": 13.6,
+        "regularMarketPreviousClose": 13.4,
+        "regularMarketOpen": 13.33,
+        "regularMarketDayLow": 13.04,
+        "regularMarketDayHigh": 13.6,
+        "payoutRatio": 0,
+        "beta": 2.001077,
+        "forwardPE": 2.3464222,
+        "volume": 7147,
+        "regularMarketVolume": 7147,
+        "averageVolume": 11359,
+        "averageVolume10days": 6970,
+        "averageDailyVolume10Day": 6970,
+        "bid": 13.22,
+        "ask": 14.99,
+        "bidSize": 1000,
+        "askSize": 1000,
+        "marketCap": 41881980,
+        "fiftyTwoWeekLow": 11.396,
+        "fiftyTwoWeekHigh": 21.74,
+        "priceToSalesTrailing12Months": 0.15622708,
+        "fiftyDayAverage": 14.36974,
+        "twoHundredDayAverage": 15.449805,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 2.24,
+                    "estimate": 0.76
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.5,
+                    "estimate": 0.79
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 2.21,
+                    "estimate": 1.21
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 1.48,
+                    "estimate": 1.35
+                }
+            ],
+            "currentQuarterEstimate": 1.16,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677099600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 150969000,
+                    "earnings": 10182000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 206082000,
+                    "earnings": -13855000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 134792000,
+                    "earnings": -212365000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 180592000,
+                    "earnings": -9925000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 62043000,
+                    "earnings": 4132000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 59908000,
+                    "earnings": 948000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 78176000,
+                    "earnings": 5482000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 67957000,
+                    "earnings": -989000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677099600
+            ],
+            "earningsAverage": 1.16,
+            "earningsLow": 1.16,
+            "earningsHigh": 1.16,
+            "revenueAverage": 176990000,
+            "revenueLow": 154400000,
+            "revenueHigh": 199580000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-18T14:59:01.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-14T09:03:15.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-04-06T12:24:23.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-05T14:13:47.000Z",
+                "firm": "B. Riley",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-05T14:00:39.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-05T14:00:39.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-05T14:00:39.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-08-08T13:00:34.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-13T17:46:52.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-12-19T04:30:21.000Z",
+                "firm": "MLV & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.015247298,
+        "postMarketChange": 0.20499992,
+        "postMarketTime": "2023-01-06T21:54:56.000Z",
+        "postMarketPrice": 13.65,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.00711605,
+        "regularMarketChange": 0.0949993,
+        "regularMarketTime": "2023-01-06T19:53:21.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 13.445,
+        "regularMarketDayHigh": 13.6,
+        "regularMarketDayLow": 13.04,
+        "regularMarketVolume": 7147,
+        "averageDailyVolume10Day": 6970,
+        "averageDailyVolume3Month": 11359,
+        "regularMarketPreviousClose": 13.4,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 13.33,
+        "exchange": "ASE",
+        "exchangeName": "NYSE American",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AINC",
+        "underlyingSymbol": null,
+        "shortName": "Ashford Inc. (Holding Company)",
+        "longName": "Ashford Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 41881980
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 641258816,
+        "forwardPE": 2.3464222,
+        "profitMargins": 0.03571,
+        "floatShares": 1953392,
+        "sharesOutstanding": 3115060,
+        "sharesShort": 2934,
+        "sharesShortPriorMonth": 2867,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.00090000004,
+        "heldPercentInsiders": 0.38678002,
+        "heldPercentInstitutions": 0.13784,
+        "shortRatio": 0.21,
+        "shortPercentOfFloat": 0.0015,
+        "beta": 2.001077,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": -84.079,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -26968000,
+        "trailingEps": -13.39,
+        "forwardEps": 5.73,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 2.392,
+        "enterpriseToEbitda": 9.096,
+        "52WeekChange": -0.24466294,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "14185 Dallas Parkway",
+        "address2": "Suite 1100",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75254",
+        "country": "United States",
+        "phone": "972-490-9600",
+        "fax": "972-980-2705",
+        "website": "https://www.ashfordinc.com",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Ashford, Inc is an asset management firm. The firm provides investment management and related services to the real estate and hospitality sectors. Ashford, Inc was formed on April 2, 2014 and is based in Dallas, Texas. Ashford Inc.(NYSEAM:AINC) operates independently of Ashford Hospitality Trust, Inc. as of November 5, 2019.",
+        "fullTimeEmployees": 5526,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 13.445,
+        "targetHighPrice": 30,
+        "targetLowPrice": 18,
+        "targetMeanPrice": 25.33,
+        "targetMedianPrice": 28,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 44071000,
+        "totalCashPerShare": 14.148,
+        "ebitda": 70499000,
+        "totalDebt": 163284000,
+        "quickRatio": 0.688,
+        "currentRatio": 1.086,
+        "totalRevenue": 268084000,
+        "debtToEquity": 74.766,
+        "revenuePerShare": 93.482,
+        "returnOnAssets": 0.03093,
+        "returnOnEquity": 0.03861,
+        "grossProfits": 72993000,
+        "freeCashflow": 44659248,
+        "operatingCashflow": 32561000,
+        "revenueGrowth": 0.407,
+        "grossMargins": 0.41459,
+        "ebitdaMargins": 0.26297,
+        "operatingMargins": 0.09665,
+        "profitMargins": 0.03571,
+        "financialCurrency": "USD"
+    }
+}

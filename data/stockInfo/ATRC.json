@@ -1,0 +1,756 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATRC",
+        "Security_Name": "AtriCure, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ATRC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 4,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 3,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 3,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 4,
+                "hold": 1,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 45.09,
+        "open": 45.34,
+        "dayLow": 44.11,
+        "dayHigh": 46.37,
+        "regularMarketPreviousClose": 45.09,
+        "regularMarketOpen": 45.34,
+        "regularMarketDayLow": 44.11,
+        "regularMarketDayHigh": 46.37,
+        "payoutRatio": 0,
+        "beta": 1.244657,
+        "forwardPE": -50.241756,
+        "volume": 240437,
+        "regularMarketVolume": 240437,
+        "averageVolume": 284193,
+        "averageVolume10days": 221770,
+        "averageDailyVolume10Day": 221770,
+        "bid": 32.81,
+        "ask": 73.12,
+        "bidSize": 800,
+        "askSize": 1000,
+        "marketCap": 2100001920,
+        "fiftyTwoWeekLow": 32.51,
+        "fiftyTwoWeekHigh": 72.31,
+        "priceToSalesTrailing12Months": 6.9356666,
+        "fiftyDayAverage": 43.6304,
+        "twoHundredDayAverage": 45.61,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 2.11,
+                    "estimate": -0.32
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.3,
+                    "estimate": -0.29
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.33,
+                    "estimate": -0.32
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.32,
+                    "estimate": -0.29
+                }
+            ],
+            "currentQuarterEstimate": -0.25,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676246400,
+                1676592000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 201630000,
+                    "earnings": -21137000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 230807000,
+                    "earnings": -35194000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 206531000,
+                    "earnings": -48155000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 274329000,
+                    "earnings": 50199000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 70460000,
+                    "earnings": 97108000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 73218000,
+                    "earnings": -13741000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 74576000,
+                    "earnings": -15183000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 84529000,
+                    "earnings": -14841000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676246400,
+                1676592000
+            ],
+            "earningsAverage": -0.25,
+            "earningsLow": -0.29,
+            "earningsHigh": -0.22,
+            "revenueAverage": 81330000,
+            "revenueLow": 79200000,
+            "revenueHigh": 82600000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-17T00:00:00.000Z",
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-03T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-03T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-18T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-28T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-24T00:00:00.000Z",
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-04T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-04T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-16T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-16T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-04T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-04T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-05T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-05T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-05T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-05T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-05-26T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-14T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-30T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-28T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-28T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-24T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-24T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-14T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-06T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-29T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-29T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-29T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-11T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-11T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-04-30T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-28T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-13T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-07T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-02-19T00:00:00.000Z",
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-19T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-24T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-04-12T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-04-02T00:00:00.000Z",
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-10-09T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-02T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-06-27T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-27T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-27T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-11-02T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-03-06T00:00:00.000Z",
+                "firm": "BTIG",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-08-05T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-08-05T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-06-30T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-03-29T00:00:00.000Z",
+                "firm": "Northland Capital Markets",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-10-06T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-08-07T00:00:00.000Z",
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-07-29T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-25T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-11T00:00:00.000Z",
+                "firm": "Dougherty & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-03-09T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-02-24T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-05-30T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-11-16T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-08-06T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-08-03T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-07-03T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-06-01T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-02-28T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:10.000Z",
+        "postMarketPrice": 45.72,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.013972079,
+        "regularMarketChange": 0.63000107,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 45.72,
+        "regularMarketDayHigh": 46.37,
+        "regularMarketDayLow": 44.11,
+        "regularMarketVolume": 240437,
+        "averageDailyVolume10Day": 221770,
+        "averageDailyVolume3Month": 284193,
+        "regularMarketPreviousClose": 45.09,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 45.34,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATRC",
+        "underlyingSymbol": null,
+        "shortName": "AtriCure, Inc.",
+        "longName": "AtriCure, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2100001920
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1837176704,
+        "forwardPE": -53.162792,
+        "profitMargins": 0.17617,
+        "floatShares": 45119655,
+        "sharesOutstanding": 45931800,
+        "sharesShort": 1358114,
+        "sharesShortPriorMonth": 1688443,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0293,
+        "heldPercentInsiders": 0.028180001,
+        "heldPercentInstitutions": 1.0078701,
+        "shortRatio": 4.65,
+        "shortPercentOfFloat": 0.0299,
+        "beta": 1.244657,
+        "category": null,
+        "bookValue": 8.576,
+        "priceToBook": 5.3311567,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": 53343000,
+        "trailingEps": -1.116,
+        "forwardEps": -0.91,
+        "pegRatio": -1.84,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 6.068,
+        "enterpriseToEbitda": -49.628
+    },
+    "summaryProfile": {
+        "address1": "7555 Innovation Way",
+        "city": "Mason",
+        "state": "OH",
+        "zip": "45040",
+        "country": "United States",
+        "phone": "513 755 4100",
+        "fax": "513 755 4567",
+        "website": "https://www.atricure.com",
+        "industry": "Medical Instruments & Supplies",
+        "sector": "Healthcare",
+        "longBusinessSummary": "AtriCure, Inc. develops, manufactures, and sells devices for the surgical ablation of cardiac tissue and systems, and intercostal nerves to medical centers in the United States, Europe, Asia, and internationally. The company offers Isolator Synergy Clamps, a single-use disposable radio frequency products; multifunctional pens and linear ablation devices, such as the MAX Pen device that enables surgeons to evaluate cardiac arrhythmias, perform temporary cardiac pacing, sensing, and stimulation and ablate cardiac tissue with the same device; and the Coolrail device, which enable users to make longer linear lines of ablation. It also provides cryoICE Cryoablation System that enables the user to make linear ablations of varied lengths; EPi-Sense Guided Coagulation System, a single-use disposable device used for the treatment of symptomatic, drug-refractory, and long-standing persistent atrial fibrillation; AtriClip System, an implantable device coupled to a single-use disposable applier; and LARIAT System, a suture-based solution for soft-tissue closure compatible with a range of anatomical shapes. In addition, the company sells Lumitip Dissectors to separate tissues to provide access to key anatomical structures that are targeted for ablation; Glidepath guides for placement of clamps; Subtle Cannula's to support access for EPi-Sense catheters; and various reusable cardiac surgery instruments, which are used during surgical procedures for repair or replacement of certain heart valves. It markets and sells its products through independent distributors and direct sales personnel. The company was incorporated in 2000 and is headquartered in Mason, Ohio.",
+        "fullTimeEmployees": 875,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 45.72,
+        "targetHighPrice": 72,
+        "targetLowPrice": 55,
+        "targetMeanPrice": 63.6,
+        "targetMedianPrice": 65,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 118454000,
+        "totalCashPerShare": 2.552,
+        "ebitda": -37019000,
+        "totalDebt": 74968000,
+        "quickRatio": 2.84,
+        "currentRatio": 3.661,
+        "totalRevenue": 302783008,
+        "debtToEquity": 16.415,
+        "revenuePerShare": 6.661,
+        "returnOnAssets": -0.04704,
+        "returnOnEquity": 0.12674,
+        "grossProfits": 205860000,
+        "freeCashflow": -9918125,
+        "operatingCashflow": -20334000,
+        "revenueGrowth": 0.184,
+        "grossMargins": 0.74758005,
+        "ebitdaMargins": -0.12226,
+        "operatingMargins": -0.16013001,
+        "profitMargins": 0.17617,
+        "financialCurrency": "USD"
+    }
+}

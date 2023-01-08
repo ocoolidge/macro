@@ -1,0 +1,289 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMTD",
+        "Security_Name": "TD Ameritrade Holding Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AMTD",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 7,
+                "hold": 9,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 13,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 13,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 7,
+                "sell": 2,
+                "strongSell": 2
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 2.1,
+        "open": 2.09,
+        "dayLow": 1.77,
+        "dayHigh": 2.3,
+        "regularMarketPreviousClose": 2.1,
+        "regularMarketOpen": 2.09,
+        "regularMarketDayLow": 1.77,
+        "regularMarketDayHigh": 2.3,
+        "payoutRatio": 0,
+        "beta": -0.029933,
+        "volume": 9307677,
+        "regularMarketVolume": 9307677,
+        "averageVolume": 1187745,
+        "averageVolume10days": 3750290,
+        "averageDailyVolume10Day": 3750290,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1200,
+        "askSize": 3100,
+        "fiftyTwoWeekLow": 1.59,
+        "fiftyTwoWeekHigh": 25.8,
+        "fiftyDayAverage": 1.88262,
+        "twoHundredDayAverage": 3.164555,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2019",
+                    "actual": 0.04,
+                    "estimate": 0.04
+                },
+                {
+                    "date": "1Q2020",
+                    "actual": 0.18,
+                    "estimate": 0.06
+                },
+                {
+                    "date": "2Q2020",
+                    "actual": 0.13,
+                    "estimate": 0.11
+                },
+                {
+                    "date": "4Q2020",
+                    "actual": 0.2,
+                    "estimate": 0.11
+                }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2021,
+            "earningsDate": [
+                1664496000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 714179071,
+                    "earnings": 468061079
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1176468056,
+                    "earnings": 938272885
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1097030094,
+                    "earnings": 1138960984
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1385018294,
+                    "earnings": 1222194927
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 334035358,
+                    "earnings": 296186813
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 334035358,
+                    "earnings": 296186813
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 222348635,
+                    "earnings": 401415806
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 222348635,
+                    "earnings": 401415806
+                }
+            ]
+        },
+        "financialCurrency": "HKD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1664496000
+            ],
+            "revenueAverage": 22000000,
+            "revenueLow": 22000000,
+            "revenueHigh": 22000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2019-08-30T00:00:00.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.031578917,
+        "postMarketChange": -0.059999943,
+        "postMarketTime": "2023-01-07T00:59:36.000Z",
+        "postMarketPrice": 1.84,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.09523807,
+        "regularMarketChange": -0.19999993,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 1.9,
+        "regularMarketDayHigh": 2.3,
+        "regularMarketDayLow": 1.77,
+        "regularMarketVolume": 9307677,
+        "averageDailyVolume10Day": 3750290,
+        "averageDailyVolume3Month": 1187745,
+        "regularMarketPreviousClose": 2.1,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 2.09,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMTD",
+        "underlyingSymbol": null,
+        "shortName": "AMTD IDEA Group",
+        "longName": "AMTD IDEA Group",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": -1096344832,
+        "profitMargins": 1.29574,
+        "floatShares": 66941884,
+        "sharesShort": 1917805,
+        "sharesShortPriorMonth": 124664,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0050999997,
+        "heldPercentInsiders": 0,
+        "heldPercentInstitutions": 0.023039998,
+        "shortRatio": 0.2,
+        "beta": -0.029933,
+        "category": null,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.275,
+        "netIncomeToCommon": 1271021568,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": -1.018
+    },
+    "summaryProfile": {
+        "address1": "Nexxus Building",
+        "address2": "23rd Floor 41 Connaught Road",
+        "city": "Central",
+        "country": "Hong Kong",
+        "phone": "852 3163 3389",
+        "fax": "852 3163 3289",
+        "website": "https://www.amtdinc.com",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "AMTD IDEA Group, an investment holding company, engages in investment banking activities in Hong Kong, Mainland China, the United States, and internationally. The company operates through three segments: Investment Banking, Asset Management, and Strategic Investment. It offers a range of investment banking services, including equity underwriting, debt underwriting, securities brokerage, institutional sales and distribution, and research, as well as advisory services on credit rating, financing, and mergers and acquisitions transactions. The company also provides professional investment management and advisory services primarily to corporate and other institutional clients. In addition, it makes long-term strategic investments focusing on Asia's financial and new economy sectors. The company was formerly known as AMTD International Inc. AMTD IDEA Group was incorporated in 2019 and is based in Central, Hong Kong. AMTD IDEA Group operates as a subsidiary of AMTD Group Company Limited.",
+        "fullTimeEmployees": 39,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 1.9,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "totalCash": 1683053312,
+        "totalCashPerShare": 5.456,
+        "totalDebt": 163910896,
+        "quickRatio": 8.64,
+        "currentRatio": 9.061,
+        "totalRevenue": 1076762624,
+        "debtToEquity": 1.853,
+        "revenuePerShare": 4.153,
+        "returnOnAssets": 0.13404,
+        "returnOnEquity": 0.14554,
+        "grossProfits": 1385018294,
+        "earningsGrowth": 0.026,
+        "revenueGrowth": -0.409,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.80202,
+        "profitMargins": 1.29574,
+        "financialCurrency": "HKD"
+    }
+}

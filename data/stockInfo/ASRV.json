@@ -1,0 +1,264 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ASRV",
+        "Security_Name": "AmeriServ Financial Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ASRV",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 3.98,
+        "open": 3.9579,
+        "dayLow": 3.94,
+        "dayHigh": 3.99,
+        "regularMarketPreviousClose": 3.98,
+        "regularMarketOpen": 3.9579,
+        "regularMarketDayLow": 3.94,
+        "regularMarketDayHigh": 3.99,
+        "dividendRate": 0.12,
+        "dividendYield": 0.0293,
+        "exDividendDate": "2022-11-04T00:00:00.000Z",
+        "payoutRatio": 0.2292,
+        "fiveYearAvgDividendYield": 2.35,
+        "beta": 0.639277,
+        "trailingPE": 12.815535,
+        "volume": 8829,
+        "regularMarketVolume": 8829,
+        "averageVolume": 15966,
+        "averageVolume10days": 22600,
+        "averageDailyVolume10Day": 22600,
+        "bid": 3.88,
+        "ask": 3.99,
+        "bidSize": 1000,
+        "askSize": 800,
+        "marketCap": 67642744,
+        "fiftyTwoWeekLow": 3.66,
+        "fiftyTwoWeekHigh": 4.52,
+        "priceToSalesTrailing12Months": 1.169804,
+        "fiftyDayAverage": 3.9926,
+        "twoHundredDayAverage": 3.95035,
+        "trailingAnnualDividendRate": 0.1,
+        "trailingAnnualDividendYield": 0.025125628,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1674432000,
+                1674777600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 50318000,
+                    "earnings": 7768000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 49415000,
+                    "earnings": 6028000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 50267000,
+                    "earnings": 4598000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 55744000,
+                    "earnings": 7072000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 14539000,
+                    "earnings": 1852000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 14502000,
+                    "earnings": 2418000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 14587000,
+                    "earnings": 1981000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 14355000,
+                    "earnings": 2102000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674432000,
+                1674777600
+            ]
+        },
+        "exDividendDate": "2022-11-04T00:00:00.000Z",
+        "dividendDate": "2022-11-21T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.005025121,
+        "regularMarketChange": -0.01999998,
+        "regularMarketTime": "2023-01-06T19:50:34.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 3.96,
+        "regularMarketDayHigh": 3.99,
+        "regularMarketDayLow": 3.94,
+        "regularMarketVolume": 8829,
+        "averageDailyVolume10Day": 22600,
+        "averageDailyVolume3Month": 15966,
+        "regularMarketPreviousClose": 3.98,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 3.9579,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ASRV",
+        "underlyingSymbol": null,
+        "shortName": "AmeriServ Financial Inc.",
+        "longName": "AmeriServ Financial, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 67642744
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 151420608,
+        "profitMargins": 0.14445,
+        "floatShares": 14828767,
+        "sharesOutstanding": 17081500,
+        "sharesShort": 4978,
+        "sharesShortPriorMonth": 4486,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.00029999999,
+        "heldPercentInsiders": 0.09776,
+        "heldPercentInstitutions": 0.39913,
+        "shortRatio": 0.55,
+        "shortPercentOfFloat": 0.00029999999,
+        "beta": 0.639277,
+        "category": null,
+        "bookValue": 6.171,
+        "priceToBook": 0.64171124,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.469,
+        "netIncomeToCommon": 8353000,
+        "trailingEps": 0.309,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": "1998-08-03T00:00:00.000Z",
+        "enterpriseToRevenue": 2.619
+    },
+    "summaryProfile": {
+        "address1": "216 Franklin Street",
+        "city": "Johnstown",
+        "state": "PA",
+        "zip": "15901",
+        "country": "United States",
+        "phone": "814 533 5300",
+        "website": "https://www.ameriserv.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "AmeriServ Financial, Inc. operates as the bank holding company for AmeriServ Financial Bank that provides various consumer, mortgage, and commercial financial products. It offers retail banking services, such as demand, savings, and time deposits; checking and money market accounts; secured and unsecured consumer loans, and mortgage loans; and safe deposit boxes, holiday club accounts, and money orders. The company also provides lending, depository, and related financial services, such as commercial real estate mortgage loans, short and medium-term loans, revolving credit arrangements, lines of credit, inventory and accounts receivable financing, real estate-construction loans, business savings accounts, certificates of deposit, wire transfers, night depository, and lock box services to commercial, industrial, financial, and governmental customers. In addition, the company offers personal trust products and services, including personal portfolio investment management, estate planning and administration, custodial services, and pre-need trusts; institutional trust products and services comprising 401(k) plans, defined benefit and defined contribution employee benefit plans, and individual retirement accounts; financial services consisting of the sale of mutual funds, annuities, and insurance products; and union collective investment funds to invest union pension dollars in construction projects that utilize union labor. Further, it engages in underwriting as reinsurer of credit life and disability insurance. The company operates through a network of 17 banking locations in Allegheny, Cambria, Centre, Somerset, and Westmoreland counties, Pennsylvania, and Washington County, Maryland; and operates 18 automated bank teller machines. AmeriServ Financial, Inc. is headquartered in Johnstown, Pennsylvania.",
+        "fullTimeEmployees": 306,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 3.96,
+        "recommendationKey": "none",
+        "totalDebt": 81430000,
+        "totalRevenue": 57824000,
+        "revenuePerShare": 3.382,
+        "returnOnAssets": 0.00621,
+        "returnOnEquity": 0.07758,
+        "grossProfits": 55744000,
+        "earningsGrowth": 0.5,
+        "revenueGrowth": 0.08,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.19654,
+        "profitMargins": 0.14445,
+        "financialCurrency": "USD"
+    }
+}

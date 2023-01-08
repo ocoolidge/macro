@@ -10,11 +10,11 @@ let app = express()
 app.use(express.static(__dirname + '/public'))
 
 app.get('/gross', function(req, res) {
-    res.sendFile(__dirname + '/public/gross.html')
+    res.sendFile(__dirname + '/public/html/gross.html')
 })
 
-app.get('/real', function(req, res) {
-    res.sendFile(__dirname + '/public/real.html')
+app.get('/macro', function(req, res) {
+    res.sendFile(__dirname + '/public/macro.html')
 })
 
 app.get('/', function(req, res){
@@ -31,9 +31,17 @@ httpServer.listen(portNumber, function(){
 })
 
 app.post('/getData', readData)
+app.post('/getStockList', getStockList)
 
 function readData(request, response){
 	fs.readFile('data/FREDdata.json', 'utf8', function (err, data) {
+		if (err) throw err
+		response.send(JSON.parse(data))
+	})
+}
+
+function getStockList(request, response){
+	fs.readFile('data/companyList.json', 'utf8', function (err, data) {
 		if (err) throw err
 		response.send(JSON.parse(data))
 	})

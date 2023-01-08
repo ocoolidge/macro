@@ -1,0 +1,289 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "APM",
+        "Security_Name": "Aptorum Group Limited - Class A Ordinary Shares",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "APM",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.56,
+        "open": 0.56,
+        "dayLow": 0.4101,
+        "dayHigh": 0.56,
+        "regularMarketPreviousClose": 0.56,
+        "regularMarketOpen": 0.56,
+        "regularMarketDayLow": 0.4101,
+        "regularMarketDayHigh": 0.56,
+        "payoutRatio": 0,
+        "beta": 0.197229,
+        "trailingPE": 2.7495,
+        "forwardPE": -0.9165,
+        "volume": 112983,
+        "regularMarketVolume": 112983,
+        "averageVolume": 48627,
+        "averageVolume10days": 47650,
+        "averageDailyVolume10Day": 47650,
+        "bid": 0.4651,
+        "ask": 0.53,
+        "bidSize": 1200,
+        "askSize": 1000,
+        "marketCap": 19591178,
+        "fiftyTwoWeekLow": 0.4,
+        "fiftyTwoWeekHigh": 2.35,
+        "priceToSalesTrailing12Months": 13.68619,
+        "fiftyDayAverage": 0.57558,
+        "twoHundredDayAverage": 1.109515,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1664496000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 383450,
+                    "earnings": -14831723
+                },
+                {
+                    "date": 2019,
+                    "revenue": 535166,
+                    "earnings": -18686762
+                },
+                {
+                    "date": 2020,
+                    "revenue": 911509,
+                    "earnings": 7066854
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1541778,
+                    "earnings": -25048389
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 451997,
+                    "earnings": -4483483
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 451997,
+                    "earnings": -4483483
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 263731,
+                    "earnings": -942626
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 263731,
+                    "earnings": -942626
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1664496000
+            ]
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-07T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-04-02T00:00:00.000Z",
+                "firm": "China Renaissance",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.0361884,
+        "postMarketChange": -0.0199,
+        "postMarketTime": "2023-01-06T22:59:26.000Z",
+        "postMarketPrice": 0.53,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.018035727,
+        "regularMarketChange": -0.010100007,
+        "regularMarketTime": "2023-01-06T20:32:52.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.5499,
+        "regularMarketDayHigh": 0.56,
+        "regularMarketDayLow": 0.4101,
+        "regularMarketVolume": 112983,
+        "averageDailyVolume10Day": 47650,
+        "averageDailyVolume3Month": 48627,
+        "regularMarketPreviousClose": 0.56,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 0.56,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "APM",
+        "underlyingSymbol": null,
+        "shortName": "Aptorum Group Limited",
+        "longName": "Aptorum Group Limited",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 19591178
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 15515302,
+        "profitMargins": 0,
+        "floatShares": 8938310,
+        "sharesOutstanding": 13189000,
+        "sharesShort": 102315,
+        "sharesShortPriorMonth": 130075,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0029,
+        "heldPercentInsiders": 0.31659,
+        "heldPercentInstitutions": 0.04427,
+        "shortRatio": 0.85,
+        "shortPercentOfFloat": 0.0126,
+        "beta": 0.197229,
+        "category": null,
+        "bookValue": 1.23,
+        "priceToBook": 0.44707316,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -10852217,
+        "trailingEps": 0.2,
+        "forwardEps": -0.6,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": "2011-05-02T00:00:00.000Z",
+        "enterpriseToRevenue": 10.839,
+        "enterpriseToEbitda": -0.913
+    },
+    "summaryProfile": {
+        "address1": "17 Hanover Square",
+        "city": "London",
+        "zip": "W1S 1BN",
+        "country": "United Kingdom",
+        "phone": "44 20 8092 9299",
+        "fax": "44 20 3928 8277",
+        "website": "https://www.aptorumgroup.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Aptorum Group Limited, a biopharmaceutical company, engages in the discovery, development, and commercialization of therapeutic products for the treatment of infectious diseases and cancer. The company operates in the Therapeutics and Non-Therapeutics segments. Its pipeline products include SACT- 1 for neuroblastoma and other cancer types; SACT-COV19 for the treatment of coronavirus disease; ALS-4 to treat bacterial infections caused by staphylococcus aureus, including MRSA; and ALS-1 to treat viral infections caused by influenza virus A. The company is also developing ALS-2/3 for the treatment of gram+ve bacterial infections; RPIDD, a pathogen molecular diagnostic; NativusWell DOI (NLS-2), a dietary supplement; NLS-1 for the treatment of endometriosis; DLS-1+2 to treat NSCLC with mutation; DLS-3, an autoimmune small molecule; and CLS-1 for the treatment of obesity. Its pipeline products enable the discovery of new therapeutics assets, such as systematic screening of existing approved drug molecules, and microbiome-based research platforms for treatment of metabolic diseases. The company also focuses on therapeutic and diagnostic projects in neurology, gastroenterology, metabolic disorders, women's health, and other disease areas. In addition, it operates a medical clinic. Aptorum Group Limited was incorporated in 2010 and is headquartered in London, the United Kingdom.",
+        "fullTimeEmployees": 26,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.5499,
+        "targetHighPrice": 15,
+        "targetLowPrice": 8,
+        "targetMeanPrice": 11.5,
+        "targetMedianPrice": 11.5,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 4219693,
+        "totalCashPerShare": 0.118,
+        "ebitda": -16987172,
+        "totalDebt": 3525661,
+        "quickRatio": 0.55,
+        "currentRatio": 1.136,
+        "totalRevenue": 1431456,
+        "debtToEquity": 22.53,
+        "revenuePerShare": 0.04,
+        "returnOnAssets": -0.40739,
+        "returnOnEquity": -0.60503,
+        "grossProfits": 81854,
+        "freeCashflow": -11451070,
+        "operatingCashflow": -14810888,
+        "revenueGrowth": -0.173,
+        "grossMargins": 0.04997,
+        "ebitdaMargins": 0,
+        "operatingMargins": -12.68935,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

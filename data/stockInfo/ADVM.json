@@ -1,0 +1,610 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ADVM",
+        "Security_Name": "Adverum Biotechnologies, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ADVM",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 7,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.6412,
+        "open": 0.6412,
+        "dayLow": 0.62,
+        "dayHigh": 0.67,
+        "regularMarketPreviousClose": 0.6412,
+        "regularMarketOpen": 0.6412,
+        "regularMarketDayLow": 0.62,
+        "regularMarketDayHigh": 0.67,
+        "payoutRatio": 0,
+        "beta": 1.02658,
+        "forwardPE": -0.4421379,
+        "volume": 184534,
+        "regularMarketVolume": 184534,
+        "averageVolume": 567343,
+        "averageVolume10days": 503630,
+        "averageDailyVolume10Day": 503630,
+        "bid": 0.6514,
+        "ask": 0.68,
+        "bidSize": 4000,
+        "askSize": 900,
+        "marketCap": 63936260,
+        "fiftyTwoWeekLow": 0.531,
+        "fiftyTwoWeekHigh": 1.82,
+        "priceToSalesTrailing12Months": "Infinity",
+        "fiftyDayAverage": 0.6883,
+        "twoHundredDayAverage": 1.04513,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.35,
+                    "estimate": -0.34
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.38,
+                    "estimate": -0.31
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.44,
+                    "estimate": -0.34
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.4,
+                    "estimate": -0.34
+                }
+            ],
+            "currentQuarterEstimate": -0.36,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1679947500,
+                1680293100
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1612000,
+                    "earnings": -72627000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 250000,
+                    "earnings": -64486000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -117507000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 7500000,
+                    "earnings": -145540000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -34409000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -37908000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -43761000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 0,
+                    "earnings": -40131000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1679947500,
+                1680293100
+            ],
+            "earningsAverage": -0.36,
+            "earningsLow": -0.43,
+            "earningsHigh": -0.27
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-11T13:23:04.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-11-11T13:06:33.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-12T13:04:43.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-07T10:41:54.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-07-23T12:46:42.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-23T10:31:05.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-07-23T08:38:14.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-03T11:47:32.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-29T16:12:11.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-29T13:00:58.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-29T10:58:02.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-29T10:11:35.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-12T16:40:53.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-08-11T10:44:04.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-13T09:07:05.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-05T12:05:15.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-05T10:18:35.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-28T11:23:23.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-03-16T10:57:34.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-02-10T14:56:38.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-02-10T11:24:19.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-13T12:41:01.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-09-13T12:15:37.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-05T12:43:37.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-02T12:47:14.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-02T11:50:09.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-09-21T12:43:30.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-08-30T16:33:32.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-10-12T13:19:12.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-06-08T04:02:33.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-01T07:58:48.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-06-23T08:52:59.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-16T08:20:18.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-06-16T06:49:44.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-06-16T05:27:56.000Z",
+                "firm": "William Blair",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-03-26T09:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-10T07:13:04.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-02-19T06:44:47.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-02-13T09:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-08-25T07:50:41.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-08-25T06:42:47.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-08-25T06:42:02.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-08-25T05:56:38.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.04975821,
+        "postMarketChange": 0.03189999,
+        "postMarketTime": "2023-01-07T00:10:31.000Z",
+        "postMarketPrice": 0.673,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.00015598346,
+        "regularMarketChange": -0.000100016594,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.6411,
+        "regularMarketDayHigh": 0.67,
+        "regularMarketDayLow": 0.62,
+        "regularMarketVolume": 184534,
+        "averageDailyVolume10Day": 503630,
+        "averageDailyVolume3Month": 567343,
+        "regularMarketPreviousClose": 0.6412,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 0.6412,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ADVM",
+        "underlyingSymbol": null,
+        "shortName": "Adverum Biotechnologies, Inc.",
+        "longName": "Adverum Biotechnologies, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 63936260
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": -33089186,
+        "forwardPE": -0.4421379,
+        "profitMargins": 0,
+        "floatShares": 85380013,
+        "sharesOutstanding": 99729000,
+        "sharesShort": 2140493,
+        "sharesShortPriorMonth": 2426724,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0215,
+        "heldPercentInsiders": 0.03672,
+        "heldPercentInstitutions": 0.62911,
+        "shortRatio": 3.24,
+        "shortPercentOfFloat": 0.024400001,
+        "beta": 1.02658,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 2.089,
+        "priceToBook": 0.30689326,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -156208992,
+        "trailingEps": -1.578,
+        "forwardEps": -1.45,
+        "lastSplitFactor": null,
+        "enterpriseToEbitda": 0.229,
+        "52WeekChange": -0.60914636,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "800 Saginaw Drive",
+        "city": "Redwood City",
+        "state": "CA",
+        "zip": "94063",
+        "country": "United States",
+        "phone": "650 656 9323",
+        "website": "https://www.adverum.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Adverum Biotechnologies, Inc., a clinical-stage gene therapy company, develops gene therapy product candidates to treat ocular and rare diseases. Its lead product candidate is ADVM-022, a single intravitreal injection gene therapy candidate used for the treatment of patients with chronic retinal, including wet age-related macular degeneration and diabetic macular edema. Adverum Biotechnologies, Inc. has license and collaboration agreements with University of California; Cornell University; GenSight; Lexeo; and Virovek. The company was formerly known as Avalanche Biotechnologies, Inc. and changed its name to Adverum Biotechnologies, Inc. in May 2016. Adverum Biotechnologies, Inc. was incorporated in 2006 and is headquartered in Redwood City, California.",
+        "fullTimeEmployees": 188,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.6411,
+        "targetHighPrice": 6,
+        "targetLowPrice": 2,
+        "targetMeanPrice": 3.67,
+        "targetMedianPrice": 3,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 203264000,
+        "totalCashPerShare": 2.038,
+        "ebitda": -144788992,
+        "totalDebt": 105700000,
+        "quickRatio": 7.102,
+        "currentRatio": 7.451,
+        "totalRevenue": 0,
+        "debtToEquity": 50.735,
+        "revenuePerShare": 0,
+        "returnOnAssets": -0.22925,
+        "returnOnEquity": -0.56359,
+        "grossProfits": -81681000,
+        "freeCashflow": -83512376,
+        "operatingCashflow": -115431000,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,421 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMSC",
+        "Security_Name": "American Superconductor Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AMSC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 3.59,
+        "open": 3.65,
+        "dayLow": 3.54,
+        "dayHigh": 3.8,
+        "regularMarketPreviousClose": 3.59,
+        "regularMarketOpen": 3.65,
+        "regularMarketDayLow": 3.54,
+        "regularMarketDayHigh": 3.8,
+        "payoutRatio": 0,
+        "beta": 1.443257,
+        "forwardPE": -8.853659,
+        "volume": 116816,
+        "regularMarketVolume": 116816,
+        "averageVolume": 209195,
+        "averageVolume10days": 148340,
+        "averageDailyVolume10Day": 148340,
+        "bid": 3.59,
+        "ask": 3.68,
+        "bidSize": 800,
+        "askSize": 1100,
+        "marketCap": 103075304,
+        "fiftyTwoWeekLow": 3.2,
+        "fiftyTwoWeekHigh": 10.17,
+        "priceToSalesTrailing12Months": 0.9752238,
+        "fiftyDayAverage": 3.7912,
+        "twoHundredDayAverage": 5.04335,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.19,
+                    "estimate": -0.16
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.17,
+                    "estimate": -0.17
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.17,
+                    "estimate": -0.16
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.25,
+                    "estimate": -0.24
+                }
+            ],
+            "currentQuarterEstimate": -0.22,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675123200,
+                1675641600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 56207000,
+                    "earnings": 26761000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 63838000,
+                    "earnings": -17096000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 87125000,
+                    "earnings": -22678000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 108435000,
+                    "earnings": -19193000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 27908000,
+                    "earnings": -4434000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 26799000,
+                    "earnings": -4324000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 28309000,
+                    "earnings": -5032000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 22679000,
+                    "earnings": -8710000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675123200,
+                1675641600
+            ],
+            "earningsAverage": -0.22,
+            "earningsLow": -0.23,
+            "earningsHigh": -0.18,
+            "revenueAverage": 25120000,
+            "revenueLow": 23900000,
+            "revenueHigh": 25900000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-08T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-04T00:00:00.000Z",
+                "firm": "EF Hutton",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-06T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-01-24T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-06-11T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-21T00:00:00.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-10-10T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-06-21T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-05-19T00:00:00.000Z",
+                "firm": "FBR Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-01-13T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-12-22T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-12-02T00:00:00.000Z",
+                "firm": "Ascendiant Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-06-28T00:00:00.000Z",
+                "firm": "Ascendiant Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-06-28T00:00:00.000Z",
+                "firm": "Ascendiant Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-06-07T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-02-10T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.011019301,
+        "postMarketChange": 0.04,
+        "postMarketTime": "2023-01-06T23:02:28.000Z",
+        "postMarketPrice": 3.67,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.011142117,
+        "regularMarketChange": 0.0400002,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 3.63,
+        "regularMarketDayHigh": 3.8,
+        "regularMarketDayLow": 3.54,
+        "regularMarketVolume": 116816,
+        "averageDailyVolume10Day": 148340,
+        "averageDailyVolume3Month": 209195,
+        "regularMarketPreviousClose": 3.59,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 3.65,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMSC",
+        "underlyingSymbol": null,
+        "shortName": "American Superconductor Corpora",
+        "longName": "American Superconductor Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 103075304
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 92369536,
+        "forwardPE": -9.552632,
+        "profitMargins": -0.21288,
+        "floatShares": 25969503,
+        "sharesOutstanding": 28395400,
+        "sharesShort": 593868,
+        "sharesShortPriorMonth": 507328,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0208,
+        "heldPercentInsiders": 0.03973,
+        "heldPercentInstitutions": 0.49983,
+        "shortRatio": 2.53,
+        "shortPercentOfFloat": 0.0215,
+        "beta": 1.443257,
+        "category": null,
+        "bookValue": 4.457,
+        "priceToBook": 0.81444925,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-03-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-03-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -22500000,
+        "trailingEps": -0.925,
+        "forwardEps": -0.41,
+        "pegRatio": -0.23,
+        "lastSplitFactor": "1:10",
+        "lastSplitDate": "2015-03-25T00:00:00.000Z",
+        "enterpriseToRevenue": 0.874,
+        "enterpriseToEbitda": -4.167
+    },
+    "summaryProfile": {
+        "address1": "114 East Main Street",
+        "city": "Ayer",
+        "state": "MA",
+        "zip": "01432",
+        "country": "United States",
+        "phone": "978 842 3000",
+        "fax": "978 842 3024",
+        "website": "https://www.amsc.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "American Superconductor Corporation, together with its subsidiaries, provides megawatt-scale power resiliency solutions worldwide. The company operates in two segments, Grid and Wind. The Grid segment offers products and services that enable electric utilities, industrial facilities, and renewable energy project developers to connect, transmit, and distribute power under the Gridtec Solutions brand; and engineering planning services. It provides transmission planning services, which identify power grid congestion, poor power quality, and other risks; grid interconnection solutions for wind farms and solar power plants, power quality systems, and transmission and distribution cable systems; resilient electric grid systems, resilient electric grid systems; D-VAR systems used for controlling power flow and voltage in the AC transmission system; actiVAR system, a fast-switching medium-voltage reactive compensation solution; armorVAR system installed for reactive compensation, power factor correction, loss reduction, utility bill savings, and mitigation of common power quality concerns related to power converter-based generation and load devices; and D-VAR volt var optimization (VVO) that serves the distribution power grid market. This segment also offers ship protection systems, which reduce a naval ship's magnetic signature; and in board power delivery systems, power generation systems, and propulsion systems; and transformers and rectifiers systems. The Wind segment designs wind turbine systems and licenses these designs to third parties under the Windtec Solutions brand. It supplies power electronics and software-based control systems, engineered designs, and support services; and provides customer support services to wind turbine manufacturers. This segment's design portfolio comprises a range of drivetrains and power ratings of 2 megawatts and higher. The company was incorporated in 1987 and is headquartered in Ayer, Massachusetts.",
+        "fullTimeEmployees": 326,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 3.63,
+        "targetHighPrice": 27,
+        "targetLowPrice": 10,
+        "targetMeanPrice": 15.75,
+        "targetMedianPrice": 13,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 33355000,
+        "totalCashPerShare": 1.168,
+        "ebitda": -22165000,
+        "totalDebt": 3747000,
+        "quickRatio": 0.851,
+        "currentRatio": 1.518,
+        "totalRevenue": 105694000,
+        "debtToEquity": 3.677,
+        "revenuePerShare": 3.859,
+        "returnOnAssets": -0.093710005,
+        "returnOnEquity": -0.20411,
+        "grossProfits": 14092000,
+        "freeCashflow": -15947375,
+        "operatingCashflow": -19011000,
+        "revenueGrowth": -0.108,
+        "grossMargins": 0.12247,
+        "ebitdaMargins": -0.20971,
+        "operatingMargins": -0.2615,
+        "profitMargins": -0.21288,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AXGT",
+        "Security_Name": "Axovant Gene Therapies Ltd. - Common Shares",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AXGT",
+        "NextShares": "N"
+    },
+    "history": [],
+    "error": {
+        "name": "Error",
+        "message": "Failed to download data (404 - {\"quoteSummary\":{\"result\":null,\"error\":{\"code\":\"Not Found\",\"description\":\"Quote not found for ticker symbol: AXGT\"}}})"
+    }
+}

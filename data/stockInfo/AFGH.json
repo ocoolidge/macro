@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AFGH",
+        "Security_Name": "American Financial Group, Inc. 6% Subordinated Debentures due 2055",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AFGH",
+        "NASDAQ_Symbol": "AFGH",
+        "NextShares": "N"
+    },
+    "history": [],
+    "error": {
+        "name": "Error",
+        "message": "Failed to download data (404 - {\"quoteSummary\":{\"result\":null,\"error\":{\"code\":\"Not Found\",\"description\":\"Quote not found for ticker symbol: AFGH\"}}})"
+    }
+}

@@ -1,0 +1,602 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARGO",
+        "Security_Name": "Argo Group International Holdings, Ltd.",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ARGO",
+        "NASDAQ_Symbol": "ARGO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 25.12,
+        "open": 25.36,
+        "dayLow": 25.169,
+        "dayHigh": 27.028,
+        "regularMarketPreviousClose": 25.12,
+        "regularMarketOpen": 25.36,
+        "regularMarketDayLow": 25.169,
+        "regularMarketDayHigh": 27.028,
+        "dividendRate": 1.24,
+        "dividendYield": 0.0471,
+        "exDividendDate": "2022-11-29T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 2.6,
+        "beta": 0.993372,
+        "forwardPE": 7.6505685,
+        "volume": 135503,
+        "regularMarketVolume": 135503,
+        "averageVolume": 185135,
+        "averageVolume10days": 151080,
+        "averageDailyVolume10Day": 151080,
+        "bid": 25.02,
+        "ask": 30,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 944044608,
+        "fiftyTwoWeekLow": 19,
+        "fiftyTwoWeekHigh": 60.29,
+        "priceToSalesTrailing12Months": 0.4963692,
+        "fiftyDayAverage": 25.7774,
+        "twoHundredDayAverage": 30.8469,
+        "trailingAnnualDividendRate": 1.24,
+        "trailingAnnualDividendYield": 0.049363054,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -1.77,
+                    "estimate": -2.66
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.24,
+                    "estimate": 1.1
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.89,
+                    "estimate": 1.15
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.44,
+                    "estimate": -2.2
+                }
+            ],
+            "currentQuarterEstimate": -1.5,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676890740,
+                1677240000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1800800000,
+                    "earnings": 57000000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1960900000,
+                    "earnings": -14100000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1889600000,
+                    "earnings": -54100000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 2130300000,
+                    "earnings": 6700000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 530700000,
+                    "earnings": -115300000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": 0
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 443200000,
+                    "earnings": -16200000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 444300000,
+                    "earnings": -48800000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676890740,
+                1677240000
+            ],
+            "earningsAverage": -1.5,
+            "earningsLow": -1.97,
+            "earningsHigh": -0.93,
+            "revenueAverage": 469950000,
+            "revenueLow": 460000000,
+            "revenueHigh": 479900000
+        },
+        "exDividendDate": "2022-11-29T00:00:00.000Z",
+        "dividendDate": "2022-12-15T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-10T11:25:07.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-09T11:12:47.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-08T11:24:04.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-09T12:23:03.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-02-09T09:53:40.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-11-04T11:22:43.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-18T10:35:50.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-07-09T10:14:03.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-05-05T11:29:03.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-22T10:24:40.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-12T16:17:50.000Z",
+                "firm": "Boenning & Scattergood",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-15T11:45:50.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-03-15T11:14:53.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-22T13:16:36.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-26T13:14:44.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-18T12:03:23.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-15T12:22:25.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-04-17T13:42:30.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-12T11:07:33.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-11-08T11:11:43.000Z",
+                "firm": "William Blair",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-04-26T10:21:15.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-03-19T10:43:11.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-01-15T12:37:14.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-10-19T12:59:56.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Strong Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-08T13:27:20.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Strong Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-12-28T11:45:23.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-08-04T13:21:34.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-05-13T12:46:21.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-02-10T14:51:36.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-12-10T08:05:51.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-07-20T06:38:19.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-05-12T07:47:51.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-11-20T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-11-20T03:54:45.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-11-03T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-14T08:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-01-16T08:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-10-16T07:55:17.000Z",
+                "firm": "Macquarie",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-09-18T07:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-04-04T06:31:26.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:10:41.000Z",
+        "postMarketPrice": 26.92,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.07205412,
+        "regularMarketChange": 1.8099995,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 26.93,
+        "regularMarketDayHigh": 27.028,
+        "regularMarketDayLow": 25.169,
+        "regularMarketVolume": 135503,
+        "averageDailyVolume10Day": 151080,
+        "averageDailyVolume3Month": 185135,
+        "regularMarketPreviousClose": 25.12,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 25.36,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARGO",
+        "underlyingSymbol": null,
+        "shortName": "Argo Group International Holdin",
+        "longName": "Argo Group International Holdings, Ltd.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 944044608
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 938344576,
+        "forwardPE": 7.6505685,
+        "profitMargins": -0.09533,
+        "floatShares": 31410427,
+        "sharesOutstanding": 35055500,
+        "sharesShort": 285341,
+        "sharesShortPriorMonth": 301295,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0081,
+        "heldPercentInsiders": 0.054920003,
+        "heldPercentInstitutions": 0.89252,
+        "shortRatio": 1.78,
+        "shortPercentOfFloat": 0.009,
+        "beta": 0.993372,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 33.719,
+        "priceToBook": 0.7986595,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -191800000,
+        "trailingEps": -1.002,
+        "forwardEps": 3.52,
+        "pegRatio": 3.35,
+        "lastSplitFactor": "115:100",
+        "lastSplitDate": "2018-03-06T00:00:00.000Z",
+        "enterpriseToRevenue": 0.493,
+        "enterpriseToEbitda": -63.833,
+        "52WeekChange": -0.5424737,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.31,
+        "lastDividendDate": 1669680000
+    },
+    "summaryProfile": {
+        "address1": "90 Pitts Bay Road",
+        "city": "Pembroke",
+        "zip": "HM 08",
+        "country": "Bermuda",
+        "fax": "441 296 6162",
+        "website": "https://www.argolimited.com",
+        "industry": "Insurance—Property & Casualty",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Argo Group International Holdings, Ltd. underwrites specialty insurance and reinsurance products in the property and casualty markets. The company operates in two segments, U.S. Operations and International Operations. It offers primary and excess specialty casualty, general liability, commercial multi-peril, and workers compensation, as well as product, environmental, and auto liability insurance products; management liability, transaction liability, and errors and omissions liability insurance; primary and excess property, inland marine, and auto physical damage insurance; and surety, animal mortality, and ocean marine insurance products. The company also provides directors and officers liability, errors and omissions liability, and employment practices liability insurance; international casualty and motor treaties insurance; professional indemnity and medical malpractice insurance; direct and facultative excess insurance, North American and international binders, and residential collateral protection for lending institutions; and personal accident, aviation, cargo, yachts, and onshore and offshore marine insurance products. It markets its products through wholesale and retail agents, managing general agents, brokers, and third-party intermediaries. The company was founded in 1948 and is headquartered in Pembroke, Bermuda.",
+        "fullTimeEmployees": 1273,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 26.93,
+        "targetHighPrice": 29.5,
+        "targetLowPrice": 29.5,
+        "targetMeanPrice": 29.5,
+        "targetMedianPrice": 29.5,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 670099968,
+        "totalCashPerShare": 19.115,
+        "ebitda": -14700000,
+        "totalDebt": 520400000,
+        "quickRatio": 0.174,
+        "currentRatio": 0.572,
+        "totalRevenue": 1901900032,
+        "debtToEquity": 39.278,
+        "revenuePerShare": 54.437,
+        "returnOnAssets": -0.00274,
+        "returnOnEquity": -0.11287,
+        "grossProfits": 113400000,
+        "freeCashflow": -185075008,
+        "operatingCashflow": 158400000,
+        "revenueGrowth": -0.159,
+        "grossMargins": -0.024500001,
+        "ebitdaMargins": -0.00773,
+        "operatingMargins": -0.02345,
+        "profitMargins": -0.09533,
+        "financialCurrency": "USD"
+    }
+}

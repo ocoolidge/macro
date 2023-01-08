@@ -1,0 +1,420 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AGEN",
+        "Security_Name": "Agenus Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AGEN",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 2.45,
+        "open": 2.46,
+        "dayLow": 2.37,
+        "dayHigh": 2.46,
+        "regularMarketPreviousClose": 2.45,
+        "regularMarketOpen": 2.46,
+        "regularMarketDayLow": 2.37,
+        "regularMarketDayHigh": 2.46,
+        "payoutRatio": 0,
+        "beta": 1.298491,
+        "trailingPE": 9.6,
+        "forwardPE": -3.3333333,
+        "volume": 2456584,
+        "regularMarketVolume": 2456584,
+        "averageVolume": 4374080,
+        "averageVolume10days": 3395830,
+        "averageDailyVolume10Day": 3395830,
+        "bid": 2.4,
+        "ask": 2.41,
+        "bidSize": 4000,
+        "askSize": 4000,
+        "marketCap": 731548800,
+        "fiftyTwoWeekLow": 1.25,
+        "fiftyTwoWeekHigh": 3.37,
+        "priceToSalesTrailing12Months": 8.137452,
+        "fiftyDayAverage": 2.5902,
+        "twoHundredDayAverage": 2.36305,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.26,
+                    "estimate": -0.16
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.19,
+                    "estimate": -0.3
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.17,
+                    "estimate": -0.23
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.19,
+                    "estimate": -0.19
+                }
+            ],
+            "currentQuarterEstimate": -0.21,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677504600,
+                1677850200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 36784000,
+                    "earnings": -159692000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 150048000,
+                    "earnings": -107657000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 88170000,
+                    "earnings": -180914000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 295665000,
+                    "earnings": -23926000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 20261000,
+                    "earnings": -65511000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 25941000,
+                    "earnings": -48325000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 20926000,
+                    "earnings": -46434000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 22772000,
+                    "earnings": -54222000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677504600,
+                1677850200
+            ],
+            "earningsAverage": -0.21,
+            "earningsLow": -0.23,
+            "earningsHigh": -0.19,
+            "revenueAverage": 21900000,
+            "revenueLow": 17500000,
+            "revenueHigh": 25600000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-22T09:34:20.000Z",
+                "firm": "EF Hutton",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-12-08T12:11:57.000Z",
+                "firm": "EF Hutton",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-03-02T11:27:54.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-16T11:19:37.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-04-22T10:51:04.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-10-28T11:33:16.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-07-29T13:09:40.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-03-11T13:30:33.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-03-09T12:24:42.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-27T15:03:51.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-06-10T06:38:52.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-04-03T06:41:03.000Z",
+                "firm": "McNicoll Lewis Vlak",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-02-24T06:55:21.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-06-18T13:32:43.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-04-02T08:39:02.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-07T00:55:42.000Z",
+        "postMarketPrice": 2.4,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.020408144,
+        "regularMarketChange": -0.049999952,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 2.4,
+        "regularMarketDayHigh": 2.46,
+        "regularMarketDayLow": 2.37,
+        "regularMarketVolume": 2456584,
+        "averageDailyVolume10Day": 3395830,
+        "averageDailyVolume3Month": 4374080,
+        "regularMarketPreviousClose": 2.45,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 2.46,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AGEN",
+        "underlyingSymbol": null,
+        "shortName": "Agenus Inc.",
+        "longName": "Agenus Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 731548800
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 637617920,
+        "forwardPE": -3.3333333,
+        "profitMargins": -2.38592,
+        "floatShares": 250485098,
+        "sharesOutstanding": 304812000,
+        "sharesShort": 18988340,
+        "sharesShortPriorMonth": 22501794,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0623,
+        "heldPercentInsiders": 0.09641,
+        "heldPercentInstitutions": 0.59725,
+        "shortRatio": 4.6,
+        "shortPercentOfFloat": 0.0656,
+        "beta": 1.298491,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": -0.069,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -214704000,
+        "trailingEps": 0.25,
+        "forwardEps": -0.72,
+        "lastSplitFactor": "1:6",
+        "lastSplitDate": "2011-10-03T00:00:00.000Z",
+        "enterpriseToRevenue": 7.093,
+        "enterpriseToEbitda": -3.707,
+        "52WeekChange": -0.20792079,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "3 Forbes Road",
+        "city": "Lexington",
+        "state": "MA",
+        "zip": "02421-7305",
+        "country": "United States",
+        "phone": "781 674 4400",
+        "fax": "781 674 4200",
+        "website": "https://www.agenusbio.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Agenus Inc., a clinical-stage immuno-oncology company, discovers and develops immuno-oncology products in the United States and internationally. The company offers Retrocyte Display, an antibody expression platform for the identification of fully human and humanized monoclonal antibodies; and display technologies. It develops vaccine programs comprising Prophage vaccine candidate; and QS-21 Stimulon adjuvant, a saponin-based vaccine adjuvant. The company also develops Balstilimab, an anti-PD-1 antagonist that has completed Phase II clinical trial to treat second line cervical cancer; AGEN1181, an anti-CTLA-4 monospecific antibody that is in Phase 1/2 clinical trial; AGEN2373, an anti-CD137 monospecific antibody that is in Phase 1 clinical trial; AGEN1423, a tumor microenvironment conditioning anti-CD73/TGFß TRAP bi-functional antibody that has completed Phase 1 clinical trial; AGEN1777, an anti-TIGIT bispecific antibodies; and AGEN1327, a human monoclonal antibody. In addition, the company develops INCAGN1876, an anti-GITR monospecific antibody; INCAGN1949, an anti-OX40 monospecific antibody; INCAGN2390, an anti-TIM-3 monospecific antibody; INCAGN2385, an anti-LAG-3 monospecific antibody; MK-4830, a monospecific antibody targeting ILT4; AGENT 797, an iNKT cells that is in Phase 1 clinical trial for solid tumors, multiple myeloma, and viral ARDS, as well as in clinical stage to treat hematological malignancies and multiple myeloma/B cells; and AGEN1884, a first-generation anti-CTLA-4 monospecific antibody. Agenus Inc. operates under ASV, Agenus, AutoSynVax, EVAMPLIX, MiNK, PSV, PhosPhoSynVax, Prophage, Retrocyte Display, and Stimulon trademarks. It has collaborations with Incyte Corporation, Merck Sharpe & Dohme, Recepta Biopharma SA, and Gilead Sciences, Inc. The company was formerly known as Antigenics Inc. and changed its name to Agenus Inc. in January 2011. Agenus Inc. was founded in 1994 and is headquartered in Lexington, Massachusetts.",
+        "fullTimeEmployees": 441,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 2.4,
+        "targetHighPrice": 14,
+        "targetLowPrice": 5,
+        "targetMeanPrice": 8.26,
+        "targetMedianPrice": 8,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 218230000,
+        "totalCashPerShare": 0.716,
+        "ebitda": -171984992,
+        "totalDebt": 79173000,
+        "quickRatio": 1.312,
+        "currentRatio": 1.453,
+        "totalRevenue": 89899000,
+        "revenuePerShare": 0.333,
+        "returnOnAssets": -0.25774,
+        "returnOnEquity": -18.902979,
+        "grossProfits": 113587000,
+        "freeCashflow": -147845376,
+        "operatingCashflow": -150962000,
+        "revenueGrowth": -0.91,
+        "grossMargins": -1.12076,
+        "ebitdaMargins": -1.9130901,
+        "operatingMargins": -1.9877499,
+        "profitMargins": -2.38592,
+        "financialCurrency": "USD"
+    }
+}

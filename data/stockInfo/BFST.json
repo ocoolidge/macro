@@ -1,0 +1,395 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BFST",
+        "Security_Name": "Business First Bancshares, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BFST",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 20.96,
+        "open": 21.12,
+        "dayLow": 20.94,
+        "dayHigh": 21.38,
+        "regularMarketPreviousClose": 20.96,
+        "regularMarketOpen": 21.12,
+        "regularMarketDayLow": 20.94,
+        "regularMarketDayHigh": 21.38,
+        "dividendRate": 0.48,
+        "dividendYield": 0.0208,
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "payoutRatio": 0.2152,
+        "beta": 0.836545,
+        "trailingPE": 11.351496,
+        "forwardPE": 9.837962,
+        "volume": 67926,
+        "regularMarketVolume": 67926,
+        "averageVolume": 83669,
+        "averageVolume10days": 51910,
+        "averageDailyVolume10Day": 51910,
+        "bid": 11.37,
+        "ask": 26,
+        "bidSize": 800,
+        "askSize": 1000,
+        "marketCap": 433478752,
+        "fiftyTwoWeekLow": 20.19,
+        "fiftyTwoWeekHigh": 29.29,
+        "priceToSalesTrailing12Months": 2.3386786,
+        "fiftyDayAverage": 23.0304,
+        "twoHundredDayAverage": 22.69105,
+        "trailingAnnualDividendRate": 0.42,
+        "trailingAnnualDividendYield": 0.020038169,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.59,
+                    "estimate": 0.51
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.49,
+                    "estimate": 0.51
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.64,
+                    "estimate": 0.57
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.72,
+                    "estimate": 0.7
+                }
+            ],
+            "currentQuarterEstimate": 0.66,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674432000,
+                1674777600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 67618000,
+                    "earnings": 14091000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 88300000,
+                    "earnings": 23772000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 137775000,
+                    "earnings": 29994000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 181619000,
+                    "earnings": 52136000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 42495000,
+                    "earnings": 10311000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 44019000,
+                    "earnings": 12068000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 44754000,
+                    "earnings": 8731000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 53638000,
+                    "earnings": 13757000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674432000,
+                1674777600
+            ],
+            "earningsAverage": 0.66,
+            "earningsLow": 0.61,
+            "earningsHigh": 0.72,
+            "revenueAverage": 61600000,
+            "revenueLow": 60600000,
+            "revenueHigh": 62330000
+        },
+        "exDividendDate": "2022-11-14T00:00:00.000Z",
+        "dividendDate": "2022-11-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-07-07T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-25T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-05-20T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-01T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-04-29T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-01-27T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-27T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-01-03T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-08-29T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-07-11T00:00:00.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-09T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-09-24T00:00:00.000Z",
+                "firm": "FIG Partners",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:19.000Z",
+        "postMarketPrice": 21.25,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.013835921,
+        "regularMarketChange": 0.29000092,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 21.25,
+        "regularMarketDayHigh": 21.38,
+        "regularMarketDayLow": 20.94,
+        "regularMarketVolume": 67926,
+        "averageDailyVolume10Day": 51910,
+        "averageDailyVolume3Month": 83669,
+        "regularMarketPreviousClose": 20.96,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 21.12,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BFST",
+        "underlyingSymbol": null,
+        "shortName": "Business First Bancshares, Inc.",
+        "longName": "Business First Bancshares, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 433478752
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 775123584,
+        "forwardPE": 7.535461,
+        "profitMargins": 0.24205999,
+        "floatShares": 21189234,
+        "sharesOutstanding": 20399000,
+        "sharesShort": 242110,
+        "sharesShortPriorMonth": 220656,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0107,
+        "heldPercentInsiders": 0.06145,
+        "heldPercentInstitutions": 0.30693,
+        "shortRatio": 5.11,
+        "shortPercentOfFloat": 0.0115,
+        "beta": 0.836545,
+        "category": null,
+        "bookValue": 20.029,
+        "priceToBook": 1.0609616,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.211,
+        "netIncomeToCommon": 44867000,
+        "trailingEps": 1.872,
+        "forwardEps": 2.16,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 4.182
+    },
+    "summaryProfile": {
+        "address1": "500 Laurel Street",
+        "address2": "Suite 101",
+        "city": "Baton Rouge",
+        "state": "LA",
+        "zip": "70801",
+        "country": "United States",
+        "phone": "225 248 7600",
+        "website": "https://www.b1bank.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Business First Bancshares, Inc. operates as the bank holding company for b1BANK that provides various banking products and services. It offers various deposit products and services, including checking, demand, money market, time, and savings accounts; and certificates of deposits, remote deposit capture, and direct deposit services. The company also provides commercial and industrial loans, such as commercial lines of credit, letters of credit, working capital, term, equipment financing, asset acquisition, expansion and development, borrowing base, and other loan products; construction and development loans; commercial real estate loans; residential real estate loans comprising first and second lien 1-4 family mortgage loans, and home equity lines of credit; and consumer loans, including secured and unsecured installment and term loans. In addition, it offers wealth management products, including mutual funds, annuities, individual retirement accounts, and other financial products, as well as other fiduciary services and private banking products and services. Further, the company provides a range of other financial services comprising debit and credit cards, treasury and cash management, merchant, automated clearing house, lock-box, receivables factoring, correspondent banking, and other treasury services, as well as employee and payroll benefits solutions; and drive-through banking facilities, automated teller machines, night depository, personalized checks, electronic funds transfer, domestic and foreign wire transfer, traveler's checks, vault, loan and deposit sweep accounts, online and mobile banking, e-statements, and bank-by-mail services. As of March 01, 2022, it operates approximately 48 full-service banking centers and three loan production offices across Louisiana, and in the Dallas and Houston markets. Business First Bancshares, Inc. was incorporated in 2006 and is headquartered in Baton Rouge, Louisiana.",
+        "fullTimeEmployees": 648,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 21.25,
+        "targetHighPrice": 32,
+        "targetLowPrice": 27,
+        "targetMeanPrice": 28.75,
+        "targetMedianPrice": 28,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 165511008,
+        "totalCashPerShare": 7.33,
+        "totalDebt": 412727008,
+        "totalRevenue": 185352000,
+        "revenuePerShare": 8.808,
+        "returnOnAssets": 0.00911,
+        "returnOnEquity": 0.10238,
+        "grossProfits": 181619000,
+        "operatingCashflow": 64277000,
+        "earningsGrowth": -0.274,
+        "revenueGrowth": 0.015,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.31565002,
+        "profitMargins": 0.24205999,
+        "financialCurrency": "USD"
+    }
+}

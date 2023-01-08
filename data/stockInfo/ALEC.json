@@ -1,0 +1,492 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ALEC",
+        "Security_Name": "Alector, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ALEC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 4,
+                "buy": 4,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 4,
+                "buy": 4,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 8.76,
+        "open": 8.8,
+        "dayLow": 8.01,
+        "dayHigh": 8.8,
+        "regularMarketPreviousClose": 8.76,
+        "regularMarketOpen": 8.8,
+        "regularMarketDayLow": 8.01,
+        "regularMarketDayHigh": 8.8,
+        "payoutRatio": 0,
+        "beta": 0.938742,
+        "trailingPE": 13.749999,
+        "forwardPE": -4.508197,
+        "volume": 1038868,
+        "regularMarketVolume": 1038868,
+        "averageVolume": 545643,
+        "averageVolume10days": 559750,
+        "averageDailyVolume10Day": 559750,
+        "bid": 7.1,
+        "ask": 10.75,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 682287424,
+        "fiftyTwoWeekLow": 6.845,
+        "fiftyTwoWeekHigh": 18.847,
+        "priceToSalesTrailing12Months": 5.1233935,
+        "fiftyDayAverage": 8.644,
+        "twoHundredDayAverage": 9.98925,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.68,
+                    "estimate": -0.19
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.54,
+                    "estimate": 0.47
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.12,
+                    "estimate": -0.47
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.56,
+                    "estimate": -0.54
+                }
+            ],
+            "currentQuarterEstimate": -0.46,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677063540,
+                1677499200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 27677000,
+                    "earnings": -52248000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 21219000,
+                    "earnings": -105385000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 21098000,
+                    "earnings": -190228000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 207085000,
+                    "earnings": -36329000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 13994000,
+                    "earnings": -55608000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 24474000,
+                    "earnings": -44617000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 79851000,
+                    "earnings": 9883000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 14852000,
+                    "earnings": -46148000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677063540,
+                1677499200
+            ],
+            "earningsAverage": -0.46,
+            "earningsLow": -0.82,
+            "earningsHigh": -0.14,
+            "revenueAverage": 30160000,
+            "revenueLow": 5000000,
+            "revenueHigh": 60100000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-10T12:53:39.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-09T10:16:03.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-11T11:02:13.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-07T09:12:16.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-05-24T11:17:02.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-11T13:18:41.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-13T09:21:20.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-03-08T11:13:23.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-02-25T12:44:18.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-27T11:12:15.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-08-03T14:25:11.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-16T12:21:36.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-19T13:09:35.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-29T11:18:32.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-24T10:23:50.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-06-04T12:15:33.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-28T11:22:17.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-04-15T12:26:13.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-06T09:58:36.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-02-19T10:50:54.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-11-21T12:33:52.000Z",
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-03-04T12:46:49.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-03-04T12:45:21.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-03-04T12:44:14.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-03-04T12:39:25.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:14.000Z",
+        "postMarketPrice": 8.25,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.058219206,
+        "regularMarketChange": -0.5100002,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 8.25,
+        "regularMarketDayHigh": 8.8,
+        "regularMarketDayLow": 8.01,
+        "regularMarketVolume": 1038868,
+        "averageDailyVolume10Day": 559750,
+        "averageDailyVolume3Month": 545643,
+        "regularMarketPreviousClose": 8.76,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 8.8,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ALEC",
+        "underlyingSymbol": null,
+        "shortName": "Alector, Inc.",
+        "longName": "Alector, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 682287424
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 55263312,
+        "forwardPE": -4.508197,
+        "profitMargins": -1.02492,
+        "floatShares": 61805341,
+        "sharesOutstanding": 82701504,
+        "sharesShort": 4563445,
+        "sharesShortPriorMonth": 5052151,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0552,
+        "heldPercentInsiders": 0.113809995,
+        "heldPercentInstitutions": 0.8062,
+        "shortRatio": 8.5,
+        "shortPercentOfFloat": 0.0736,
+        "beta": 0.938742,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 3.06,
+        "priceToBook": 2.6960785,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -136490000,
+        "trailingEps": 0.6,
+        "forwardEps": -1.83,
+        "pegRatio": 0.39,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.415,
+        "enterpriseToEbitda": -0.418,
+        "52WeekChange": -0.5296465,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "131 Oyster Point Boulevard",
+        "address2": "Suite 600",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zip": "94080",
+        "country": "United States",
+        "phone": "415 231 5660",
+        "website": "https://www.alector.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Alector, Inc., a clinical stage biopharmaceutical company, develops therapies for the treatment of neurodegeneration diseases. Its products include AL001, a humanized recombinant monoclonal antibody, which is in Phase III clinical trial for the treatment of frontotemporal dementia, Alzheimer's, Parkinson's, and amyotrophic lateral sclerosis diseases; and AL101 that is in Phase I clinical trial for the treatment of neurodegenerative diseases, including Alzheimer's and Parkinson's diseases. The company also offers AL002, a product candidate that is in Phase II clinical trial for the treatment of Alzheimer's disease; and AL003, which is in Phase I clinical trial for the treatment of Alzheimer's disease. In addition, its products in development stage include AL044 that targets MS4A4A, a risk gene for Alzheimer's disease. Alector, Inc. has a collaboration agreement with Adimab, LLC for the research and development of antibodies; and a strategic collaboration agreement with GlaxoSmithKline plc for the development and commercialization of monoclonal antibodies, such as AL001 and AL101 to treat neurodegenerative diseases. The company was founded in 2013 and is headquartered in South San Francisco, California.",
+        "fullTimeEmployees": 269,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 8.25,
+        "targetHighPrice": 54,
+        "targetLowPrice": 6,
+        "targetMeanPrice": 21.56,
+        "targetMedianPrice": 15,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 758305984,
+        "totalCashPerShare": 9.169,
+        "ebitda": -132211000,
+        "totalDebt": 44445000,
+        "quickRatio": 4.754,
+        "currentRatio": 4.817,
+        "totalRevenue": 133171000,
+        "debtToEquity": 17.56,
+        "revenuePerShare": 1.621,
+        "returnOnAssets": -0.10208999,
+        "returnOnEquity": -0.46347,
+        "grossProfits": 17678000,
+        "freeCashflow": -12459125,
+        "operatingCashflow": -20669000,
+        "revenueGrowth": -0.919,
+        "grossMargins": -0.56727004,
+        "ebitdaMargins": -0.99279,
+        "operatingMargins": -1.0372,
+        "profitMargins": -1.02492,
+        "financialCurrency": "USD"
+    }
+}

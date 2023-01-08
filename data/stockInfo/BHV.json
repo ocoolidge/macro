@@ -1,0 +1,253 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BHV",
+        "Security_Name": "BlackRock Virginia Municipal Bond Trust",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BHV",
+        "NASDAQ_Symbol": "BHV",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 11.4789,
+        "open": 11.53,
+        "dayLow": 11.5,
+        "dayHigh": 11.62,
+        "regularMarketPreviousClose": 11.4789,
+        "regularMarketOpen": 11.53,
+        "regularMarketDayLow": 11.5,
+        "regularMarketDayHigh": 11.62,
+        "dividendRate": 0.43,
+        "dividendYield": 0.038399998,
+        "exDividendDate": "2022-10-13T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 3.76,
+        "beta": 0.551952,
+        "trailingPE": 40.701756,
+        "volume": 1430,
+        "regularMarketVolume": 1430,
+        "averageVolume": 5719,
+        "averageVolume10days": 7560,
+        "averageDailyVolume10Day": 7560,
+        "bid": 4.59,
+        "ask": 0,
+        "bidSize": 1800,
+        "askSize": 1200,
+        "marketCap": 18677624,
+        "fiftyTwoWeekLow": 10.8,
+        "fiftyTwoWeekHigh": 21.47,
+        "priceToSalesTrailing12Months": 13.629711,
+        "fiftyDayAverage": 11.3052,
+        "twoHundredDayAverage": 13.2371,
+        "trailingAnnualDividendRate": 0.273,
+        "trailingAnnualDividendYield": 0.023782767,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 1685522,
+                    "earnings": 2124628
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1533776,
+                    "earnings": 457634
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1392084,
+                    "earnings": 1444006
+                },
+                {
+                    "date": 2022,
+                    "revenue": 1370361,
+                    "earnings": -3364740
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "2Q2021",
+                    "revenue": 336049,
+                    "earnings": 483615
+                },
+                {
+                    "date": "3Q2021",
+                    "revenue": 336049,
+                    "earnings": 483615
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 343577,
+                    "earnings": -581611
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 343577,
+                    "earnings": -581611
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": []
+        },
+        "exDividendDate": "2022-10-13T00:00:00.000Z",
+        "dividendDate": "2019-02-01T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.010549829,
+        "regularMarketChange": 0.121100426,
+        "regularMarketTime": "2023-01-06T20:58:40.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 11.6,
+        "regularMarketDayHigh": 11.62,
+        "regularMarketDayLow": 11.5,
+        "regularMarketVolume": 1430,
+        "averageDailyVolume10Day": 7560,
+        "averageDailyVolume3Month": 5719,
+        "regularMarketPreviousClose": 11.4789,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 11.53,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BHV",
+        "underlyingSymbol": null,
+        "shortName": "BlackRock Virginia Municipal Bo",
+        "longName": "BlackRock Virginia Municipal Bond Trust",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 18677624
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 34281992,
+        "profitMargins": -2.45537,
+        "sharesOutstanding": 1610140,
+        "sharesShort": 1294,
+        "sharesShortPriorMonth": 1378,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0008,
+        "heldPercentInsiders": 0.00214,
+        "heldPercentInstitutions": 0.07798,
+        "shortRatio": 0.23,
+        "shortPercentOfFloat": 0.0008,
+        "beta": 0.551952,
+        "category": null,
+        "bookValue": 15.377,
+        "priceToBook": 0.75437343,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-07-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-07-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-02-28T00:00:00.000Z",
+        "netIncomeToCommon": -3364740,
+        "trailingEps": 0.285,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 25.017
+    },
+    "summaryProfile": {
+        "address1": "55 East 52nd Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10055",
+        "country": "United States",
+        "phone": "212 810 5300",
+        "website": "https://www.blackrock.com/investing/products/240231/blackrock-virginia-municipal-bond-trust-usd-fund",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Blackrock Virginia Municipal Bond Trust is a closed-ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in fixed income markets of United States. It primarily invests in the investment grade municipal bonds exempt from federal income taxes and Virginia personal income taxes. Blackrock Virginia Municipal Bond Trust was formed on April 25, 2002 and is domiciled in United States.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 11.6,
+        "recommendationKey": "none",
+        "totalDebt": 16425607,
+        "quickRatio": 0.085,
+        "currentRatio": 0.109,
+        "totalRevenue": 1370361,
+        "debtToEquity": 69.192,
+        "grossProfits": 1370361,
+        "operatingCashflow": 2937380,
+        "revenueGrowth": -0.046,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.73390996,
+        "profitMargins": -2.45537,
+        "financialCurrency": "USD"
+    }
+}

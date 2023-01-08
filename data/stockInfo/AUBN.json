@@ -1,0 +1,265 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AUBN",
+        "Security_Name": "Auburn National Bancorporation, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AUBN",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 23,
+        "open": 23.6399,
+        "dayLow": 23,
+        "dayHigh": 23.6399,
+        "regularMarketPreviousClose": 23,
+        "regularMarketOpen": 23.6399,
+        "regularMarketDayLow": 23,
+        "regularMarketDayHigh": 23.6399,
+        "dividendRate": 1.06,
+        "dividendYield": 0.0442,
+        "exDividendDate": "2022-09-08T00:00:00.000Z",
+        "payoutRatio": 0.4795,
+        "fiveYearAvgDividendYield": 2.67,
+        "beta": 0.591378,
+        "trailingPE": 10.707635,
+        "volume": 34,
+        "regularMarketVolume": 34,
+        "averageVolume": 1488,
+        "averageVolume10days": 2720,
+        "averageDailyVolume10Day": 2720,
+        "bid": 9.12,
+        "ask": 23.84,
+        "bidSize": 1100,
+        "askSize": 900,
+        "marketCap": 81135952,
+        "fiftyTwoWeekLow": 21.77,
+        "fiftyTwoWeekHigh": 37.11,
+        "priceToSalesTrailing12Months": 2.76537,
+        "fiftyDayAverage": 23.0628,
+        "twoHundredDayAverage": 26.8992,
+        "trailingAnnualDividendRate": 1.025,
+        "trailingAnnualDividendYield": 0.044565216,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1674604800,
+                1675036800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 28895000,
+                    "earnings": 8834000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 29791000,
+                    "earnings": 9741000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 28313000,
+                    "earnings": 7454000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 28878000,
+                    "earnings": 8039000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 7104000,
+                    "earnings": 1872000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 7236000,
+                    "earnings": 2081000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 7222000,
+                    "earnings": 1801000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 7845000,
+                    "earnings": 1998000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674604800,
+                1675036800
+            ]
+        },
+        "exDividendDate": "2022-09-08T00:00:00.000Z",
+        "dividendDate": "2022-12-27T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0,
+        "regularMarketChange": 0,
+        "regularMarketTime": "2023-01-04T15:18:14.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 23,
+        "regularMarketDayHigh": 23.6399,
+        "regularMarketDayLow": 23,
+        "regularMarketVolume": 34,
+        "averageDailyVolume10Day": 2720,
+        "averageDailyVolume3Month": 1488,
+        "regularMarketPreviousClose": 23,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 23.6399,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AUBN",
+        "underlyingSymbol": null,
+        "shortName": "Auburn National Bancorporation,",
+        "longName": "Auburn National Bancorporation, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 81135952
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": -44838480,
+        "profitMargins": 0.26421,
+        "floatShares": 2253733,
+        "sharesOutstanding": 3527650,
+        "sharesShort": 2565,
+        "sharesShortPriorMonth": 2369,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0007,
+        "heldPercentInsiders": 0.35734,
+        "heldPercentInstitutions": 0.07789,
+        "shortRatio": 0.77,
+        "shortPercentOfFloat": 0.0011,
+        "beta": 0.591378,
+        "category": null,
+        "bookValue": 29.06,
+        "priceToBook": 0.79146594,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.066,
+        "netIncomeToCommon": 7752000,
+        "trailingEps": 2.148,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": "1998-06-26T00:00:00.000Z",
+        "enterpriseToRevenue": -1.528
+    },
+    "summaryProfile": {
+        "address1": "132 North Gay Street",
+        "city": "Auburn",
+        "state": "AL",
+        "zip": "36830",
+        "country": "United States",
+        "phone": "334 821 9200",
+        "fax": "334 887 2772",
+        "website": "https://www.auburnbank.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Auburn National Bancorporation, Inc. operates as the bank holding company for AuburnBank that provides various banking products and services in East Alabama. The company's deposit products include checking, savings, and transaction deposit accounts, as well as certificates of deposit. It also provides commercial, financial, agricultural, real estate construction, and consumer loan products; and other financial services. In addition, the company offers automated teller services; debit cards; online banking, bill payment, and other electronic services; and safe deposit boxes. It operates through seven full-service branches in Auburn, Opelika, Notasulga, and Valley, Alabama; as well as loan production offices in Auburn and Phenix City, Alabama. Auburn National Bancorporation, Inc. was founded in 1907 and is headquartered in Auburn, Alabama.",
+        "fullTimeEmployees": 152,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 23,
+        "recommendationKey": "none",
+        "totalCash": 133114000,
+        "totalCashPerShare": 37.974,
+        "totalDebt": 4147000,
+        "totalRevenue": 29340000,
+        "revenuePerShare": 8.345,
+        "grossProfits": 28878000,
+        "earningsGrowth": 0.074,
+        "revenueGrowth": 0.126,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.31766,
+        "profitMargins": 0.26421,
+        "financialCurrency": "USD"
+    }
+}

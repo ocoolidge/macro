@@ -1,0 +1,528 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ASTE",
+        "Security_Name": "Astec Industries, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ASTE",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 3,
+                "buy": 0,
+                "hold": 4,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 41.78,
+        "open": 40.8,
+        "dayLow": 35.73,
+        "dayHigh": 41.44,
+        "regularMarketPreviousClose": 41.78,
+        "regularMarketOpen": 40.8,
+        "regularMarketDayLow": 35.73,
+        "regularMarketDayHigh": 41.44,
+        "dividendRate": 0.48,
+        "dividendYield": 0.0115,
+        "exDividendDate": "2022-08-11T00:00:00.000Z",
+        "payoutRatio": 9.4,
+        "fiveYearAvgDividendYield": 0.96,
+        "beta": 1.429255,
+        "trailingPE": 17.917074,
+        "forwardPE": 10.375707,
+        "volume": 370263,
+        "regularMarketVolume": 370263,
+        "averageVolume": 118601,
+        "averageVolume10days": 90110,
+        "averageDailyVolume10Day": 90110,
+        "bid": 35,
+        "ask": 58.54,
+        "bidSize": 800,
+        "askSize": 1100,
+        "marketCap": 836147392,
+        "fiftyTwoWeekLow": 31.04,
+        "fiftyTwoWeekHigh": 71.88,
+        "priceToSalesTrailing12Months": 0.7305149,
+        "fiftyDayAverage": 42.3672,
+        "twoHundredDayAverage": 41.2388,
+        "trailingAnnualDividendRate": 0.44,
+        "trailingAnnualDividendYield": 0.010531355,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.5,
+                    "estimate": 0.31
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.03,
+                    "estimate": 0.02
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.41,
+                    "estimate": 0.11
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.19,
+                    "estimate": 0.52
+                }
+            ],
+            "currentQuarterEstimate": 0.3,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1171600000,
+                    "earnings": -60400000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1169600000,
+                    "earnings": 22300000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1024400000,
+                    "earnings": 46900000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1097200000,
+                    "earnings": 17800000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 267000000,
+                    "earnings": 9300000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 267800000,
+                    "earnings": -9200000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 291200000,
+                    "earnings": 4100000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 318200000,
+                    "earnings": -3900000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ],
+            "earningsAverage": 0.3,
+            "earningsLow": 0.22,
+            "earningsHigh": 0.38,
+            "revenueAverage": 301930000,
+            "revenueLow": 293700000,
+            "revenueHigh": 308100000
+        },
+        "exDividendDate": "2022-08-11T00:00:00.000Z",
+        "dividendDate": "2022-12-02T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-04-08T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-11-08T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-05-06T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-07T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-01T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-03-05T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-05T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-17T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-03-04T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-10-24T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-25T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-25T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-25T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-21T00:00:00.000Z",
+                "firm": "Dougherty & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-01-02T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-10-03T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-07-26T00:00:00.000Z",
+                "firm": "Dougherty & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-12-20T00:00:00.000Z",
+                "firm": "Dougherty & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-19T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-07-12T00:00:00.000Z",
+                "firm": "BB&T Capital",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-07-06T00:00:00.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-09-28T00:00:00.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Accumulate",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-08-31T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-17T00:00:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-03-10T00:00:00.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-06-12T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-06-11T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-02-05T00:00:00.000Z",
+                "firm": "Sterne Agee",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-31T00:00:00.000Z",
+                "firm": "Sterne Agee",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-25T00:00:00.000Z",
+                "firm": "Barrington Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0141574005,
+        "postMarketChange": 0.52,
+        "postMarketTime": "2023-01-06T23:25:29.000Z",
+        "postMarketPrice": 37.25,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.120871216,
+        "regularMarketChange": -5.049999,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 36.73,
+        "regularMarketDayHigh": 41.44,
+        "regularMarketDayLow": 35.73,
+        "regularMarketVolume": 370263,
+        "averageDailyVolume10Day": 90110,
+        "averageDailyVolume3Month": 118601,
+        "regularMarketPreviousClose": 41.78,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 40.8,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ASTE",
+        "underlyingSymbol": null,
+        "shortName": "Astec Industries, Inc.",
+        "longName": "Astec Industries, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 836147392
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 904910016,
+        "forwardPE": 16.324444,
+        "profitMargins": 0.00105,
+        "floatShares": 22512563,
+        "sharesOutstanding": 22764700,
+        "sharesShort": 427397,
+        "sharesShortPriorMonth": 426330,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0187,
+        "heldPercentInsiders": 0.01449,
+        "heldPercentInstitutions": 0.96690005,
+        "shortRatio": 3.48,
+        "shortPercentOfFloat": 0.025899999,
+        "beta": 1.429255,
+        "category": null,
+        "bookValue": 28.414,
+        "priceToBook": 1.2926726,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": 1200000,
+        "trailingEps": 2.05,
+        "forwardEps": 3.54,
+        "pegRatio": 3.07,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "1999-01-19T00:00:00.000Z",
+        "enterpriseToRevenue": 0.791,
+        "enterpriseToEbitda": 27.339
+    },
+    "summaryProfile": {
+        "address1": "1725 Shepherd Road",
+        "city": "Chattanooga",
+        "state": "TN",
+        "zip": "37421",
+        "country": "United States",
+        "phone": "423 899 5898",
+        "fax": "423 899 4456",
+        "website": "https://www.astecindustries.com",
+        "industry": "Farm & Heavy Construction Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Astec Industries, Inc. designs, engineers, manufactures, and markets equipment and components used primarily in road building and related construction activities in the United States and internationally. The company operates in two segments, Infrastructure Solutions and Materials Solutions. The Infrastructure Solutions segment offers asphalt plants and related components, heaters, concrete dust control systems, asphalt pavers, vaporizers, concrete material handling systems, screeds, heat recovery units, paste back-fill plants, asphalt storage tanks, hot oil heaters, bagging plants, fuel storage tanks, industrial and asphalt burners and systems, custom batch plants, material transfer vehicles, soil stabilizing-reclaiming machinery, blower trucks and trailers, milling machines, soil remediation plants, wood chippers and grinders, pump trailers, concrete batch plants, control systems, liquid terminals, storage equipment and related parts, construction and retrofits, polymer plants, and concrete mixers, as well as engineering and environmental permitting services. This segment provides its products to asphalt producers, highway and heavy equipment contractors, ready mix concrete producers, contractors in the construction and demolition recycling markets, and governmental agencies. The Materials Solutions segment designs and manufactures crushing equipment, mobile plants, bulk material handling solutions, vibrating equipment, screening equipment, electrical control centers, modular plants and systems, conveying equipment, plant automation products, portable plants, and mineral processing equipment, as well as offers consulting and engineering services. Astec Industries, Inc. was incorporated in 1972 and is headquartered in Chattanooga, Tennessee.",
+        "fullTimeEmployees": 4041,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 36.73,
+        "targetHighPrice": 58,
+        "targetLowPrice": 36,
+        "targetMeanPrice": 48.33,
+        "targetMedianPrice": 51,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 56400000,
+        "totalCashPerShare": 2.467,
+        "ebitda": 33100000,
+        "totalDebt": 6100000,
+        "quickRatio": 0.819,
+        "currentRatio": 2.42,
+        "totalRevenue": 1144600064,
+        "debtToEquity": 0.947,
+        "revenuePerShare": 50.222,
+        "returnOnAssets": 0.0029699998,
+        "returnOnEquity": 0.002,
+        "grossProfits": 251700000,
+        "freeCashflow": -87912496,
+        "operatingCashflow": -65000000,
+        "revenueGrowth": 0.146,
+        "grossMargins": 0.21326,
+        "ebitdaMargins": 0.02892,
+        "operatingMargins": 0.0038400001,
+        "profitMargins": 0.00105,
+        "financialCurrency": "USD"
+    }
+}

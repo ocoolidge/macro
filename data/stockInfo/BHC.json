@@ -1,0 +1,672 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BHC",
+        "Security_Name": "Bausch Health Companies Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BHC",
+        "NASDAQ_Symbol": "BHC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 6,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 6,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 7,
+                "hold": 5,
+                "sell": 1,
+                "strongSell": 1
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 7.16,
+        "open": 7.22,
+        "dayLow": 7.07,
+        "dayHigh": 7.56,
+        "regularMarketPreviousClose": 7.16,
+        "regularMarketOpen": 7.22,
+        "regularMarketDayLow": 7.07,
+        "regularMarketDayHigh": 7.56,
+        "exDividendDate": "2010-11-10T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 1.050478,
+        "forwardPE": 1.5307376,
+        "volume": 5418044,
+        "regularMarketVolume": 5418044,
+        "averageVolume": 5068233,
+        "averageVolume10days": 5073070,
+        "averageDailyVolume10Day": 5073070,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 4000,
+        "askSize": 1800,
+        "marketCap": 2684202496,
+        "fiftyTwoWeekLow": 4,
+        "fiftyTwoWeekHigh": 27.9,
+        "priceToSalesTrailing12Months": 0.32766142,
+        "fiftyDayAverage": 7.0324,
+        "twoHundredDayAverage": 9.70395,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 1.47,
+                    "estimate": 1.32
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 1.63,
+                    "estimate": 1.42
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.01,
+                    "estimate": 1.42
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.77,
+                    "estimate": 1.23
+                }
+            ],
+            "currentQuarterEstimate": 1.26,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676937600,
+                1677456000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 8380000000,
+                    "earnings": -4148000000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 8601000000,
+                    "earnings": -1788000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 8027000000,
+                    "earnings": -560000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 8434000000,
+                    "earnings": -948000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 2111000000,
+                    "earnings": 188000000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 2196000000,
+                    "earnings": 69000000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 1918000000,
+                    "earnings": -69000000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 1967000000,
+                    "earnings": -145000000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676937600,
+                1677456000
+            ],
+            "earningsAverage": 1.26,
+            "earningsLow": 0.98,
+            "earningsHigh": 1.5,
+            "revenueAverage": 2804880000,
+            "revenueLow": 2747940000,
+            "revenueHigh": 2840270000
+        },
+        "exDividendDate": "2010-11-10T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-09T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-09-01T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-10T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-10T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-29T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-29T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-29T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-07-26T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-13T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-09T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-03T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-24T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-16T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-26T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-17T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-05T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-28T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-17T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-08-24T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-19T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-10T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-07T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-17T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-08T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-08T00:00:00.000Z",
+                "firm": "CFRA",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-08T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-30T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-28T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-23T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-23T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-23T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-20T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-12T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-11T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-29T00:00:00.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Peer Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-12-30T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-12T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-12-02T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-12-02T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-10-25T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-09-12T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-08-15T00:00:00.000Z",
+                "firm": "TD Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-08-07T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-05-13T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-03-20T00:00:00.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-01-02T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-12-14T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-11-30T00:00:00.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-05T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-10-08T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Sector Perform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-09-13T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-13T00:00:00.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Perform",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.0066934,
+        "postMarketChange": -0.0499997,
+        "postMarketTime": "2023-01-07T00:48:26.000Z",
+        "postMarketPrice": 7.42,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.043296084,
+        "regularMarketChange": 0.30999994,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 7.47,
+        "regularMarketDayHigh": 7.56,
+        "regularMarketDayLow": 7.07,
+        "regularMarketVolume": 5418044,
+        "averageDailyVolume10Day": 5073070,
+        "averageDailyVolume3Month": 5068233,
+        "regularMarketPreviousClose": 7.16,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 7.22,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BHC",
+        "underlyingSymbol": null,
+        "shortName": "Bausch Health Companies Inc.",
+        "longName": "Bausch Health Companies Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2684202496
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 24510111744,
+        "forwardPE": 1.3128295,
+        "profitMargins": 0.00525,
+        "floatShares": 299677585,
+        "sharesOutstanding": 359331008,
+        "sharesShort": 28002311,
+        "sharesShortPriorMonth": 29103012,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0774,
+        "heldPercentInsiders": 0.02994,
+        "heldPercentInstitutions": 0.70197,
+        "shortRatio": 4.52,
+        "shortPercentOfFloat": 0.088199995,
+        "beta": 1.050478,
+        "category": null,
+        "bookValue": 1.505,
+        "priceToBook": 4.963455,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": 43000000,
+        "trailingEps": -1.58,
+        "forwardEps": 4.88,
+        "pegRatio": 0.17,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "2000-10-16T00:00:00.000Z",
+        "enterpriseToRevenue": 2.992,
+        "enterpriseToEbitda": 8.063
+    },
+    "summaryProfile": {
+        "address1": "2150 St. ElzEar Boulevard West",
+        "city": "Laval",
+        "state": "QC",
+        "zip": "H7L 4A8",
+        "country": "Canada",
+        "website": "https://www.bauschhealth.com",
+        "industry": "Drug Manufacturers—Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Bausch Health Companies Inc., together with its subsidiaries, develops, manufactures, and markets a range of pharmaceutical, medical device, and over-the-counter (OTC) products primarily in the therapeutic areas of eye health, gastroenterology, and dermatology. The company operates through five segments: Bausch + Lomb, Salix, International Rx, Ortho Dermatologics, and Diversified Products. The Bausch + Lomb segment offers products with a focus on the vision care, surgical, and consumer, surgical, and ophthalmic pharmaceuticals products. The Salix segment provides gastroenterology products in the United States. The International Rx segment offers Solta products, branded and generic pharmaceutical products, OTC products, and medical device products, and Bausch + Lomb products in Canada, Europe, Asia, Australia, Latin America, Africa, and the Middle East. The Ortho Dermatologics segment provides dermatological products in the United States; and Solta medical aesthetic devices internationally. The Diversified Products segment offers pharmaceutical products in the areas of neurology and other therapeutic classes, as well as generic and dentistry products in the United States. The company was formerly known as Valeant Pharmaceuticals International, Inc. and changed its name to Bausch Health Companies Inc. in July 2018. Bausch Health Companies Inc. is headquartered in Laval, Canada.",
+        "fullTimeEmployees": 19600,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 7.47,
+        "targetHighPrice": 27.1,
+        "targetLowPrice": 10.84,
+        "targetMeanPrice": 17.28,
+        "targetMedianPrice": 15.58,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 659000000,
+        "totalCashPerShare": 1.822,
+        "ebitda": 3040000000,
+        "totalDebt": 21813999616,
+        "quickRatio": 0.461,
+        "currentRatio": 1.084,
+        "totalRevenue": 8192000000,
+        "debtToEquity": 8622.134,
+        "revenuePerShare": 22.715,
+        "returnOnAssets": 0.03427,
+        "grossProfits": 6040000000,
+        "freeCashflow": 859249984,
+        "operatingCashflow": 648000000,
+        "revenueGrowth": -0.063,
+        "grossMargins": 0.71484,
+        "ebitdaMargins": 0.37109002,
+        "operatingMargins": 0.19482,
+        "profitMargins": 0.00525,
+        "financialCurrency": "USD"
+    }
+}

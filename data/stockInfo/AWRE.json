@@ -1,0 +1,308 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AWRE",
+        "Security_Name": "Aware, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AWRE",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 1.72,
+        "open": 1.73,
+        "dayLow": 1.7,
+        "dayHigh": 1.75,
+        "regularMarketPreviousClose": 1.72,
+        "regularMarketOpen": 1.73,
+        "regularMarketDayLow": 1.7,
+        "regularMarketDayHigh": 1.75,
+        "exDividendDate": "2014-07-25T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 0.264367,
+        "forwardPE": -3.5,
+        "volume": 34243,
+        "regularMarketVolume": 34243,
+        "averageVolume": 58359,
+        "averageVolume10days": 14510,
+        "averageDailyVolume10Day": 14510,
+        "bid": 1.75,
+        "ask": 1.85,
+        "bidSize": 3200,
+        "askSize": 1400,
+        "marketCap": 37897824,
+        "fiftyTwoWeekLow": 1.32,
+        "fiftyTwoWeekHigh": 3.8,
+        "priceToSalesTrailing12Months": 2.3772314,
+        "fiftyDayAverage": 1.7662,
+        "twoHundredDayAverage": 2.2051,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.06,
+                    "estimate": -0.1
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.06,
+                    "estimate": -0.09
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.06,
+                    "estimate": -0.06
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.12,
+                    "estimate": -0.08
+                }
+            ],
+            "currentQuarterEstimate": -0.14,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677495540,
+                1677844800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 16131000,
+                    "earnings": 1233000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 12204000,
+                    "earnings": -8340000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 11309000,
+                    "earnings": -7614000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 16854000,
+                    "earnings": -5824000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 3997000,
+                    "earnings": -1255000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 4692000,
+                    "earnings": -1279000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 4238000,
+                    "earnings": -1289000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 3015000,
+                    "earnings": 2599000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677495540,
+                1677844800
+            ],
+            "earningsAverage": -0.14,
+            "earningsLow": -0.14,
+            "earningsHigh": -0.14,
+            "revenueAverage": 3100000,
+            "revenueLow": 3100000,
+            "revenueHigh": 3100000
+        },
+        "exDividendDate": "2014-07-25T00:00:00.000Z",
+        "dividendDate": "2014-07-24T00:00:00.000Z"
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.017441843,
+        "regularMarketChange": 0.029999971,
+        "regularMarketTime": "2023-01-06T20:59:53.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 1.75,
+        "regularMarketDayHigh": 1.75,
+        "regularMarketDayLow": 1.7,
+        "regularMarketVolume": 34243,
+        "averageDailyVolume10Day": 14510,
+        "averageDailyVolume3Month": 58359,
+        "regularMarketPreviousClose": 1.72,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 1.73,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AWRE",
+        "underlyingSymbol": null,
+        "shortName": "Aware, Inc.",
+        "longName": "Aware, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 37897824
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 4651963,
+        "forwardPE": -3.5,
+        "profitMargins": -0.07678,
+        "floatShares": 15476393,
+        "sharesOutstanding": 21655900,
+        "sharesShort": 72817,
+        "sharesShortPriorMonth": 65999,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0034,
+        "heldPercentInsiders": 0.41177,
+        "heldPercentInstitutions": 0.33073002,
+        "shortRatio": 1.89,
+        "shortPercentOfFloat": 0.0045,
+        "beta": 0.264367,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 1.967,
+        "priceToBook": 0.88967973,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -1224000,
+        "trailingEps": -0.262,
+        "forwardEps": -0.5,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.292,
+        "enterpriseToEbitda": -0.701,
+        "52WeekChange": -0.4243421,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 1.75,
+        "lastDividendDate": 1406246400
+    },
+    "summaryProfile": {
+        "address1": "76 Blanchard Road",
+        "city": "Burlington",
+        "state": "MA",
+        "zip": "01803",
+        "country": "United States",
+        "phone": "781 687 0300",
+        "website": "https://www.aware.com",
+        "industry": "Software—Application",
+        "sector": "Technology",
+        "longBusinessSummary": "Aware, Inc. provides biometrics software products and solutions in the United States, Brazil, the United Kingdom, and internationally. It offers biometrics software products, including biometric search and matching software development kits (SDKs); biometric enrollment SDKs and application programming interfaces (APIs); and imaging products for medical and advanced imaging applications, such as JPEG2000 product to compress, store, and display images, as well as software maintenance services. The company also provides Knomi mobile biometric authentication framework; AwareABIS, an automated biometric identification system; AFIX suite of products for small-scale law enforcement focused biometric identification; BioSP, a biometric services platform; WebEnroll, a browser-based biometric enrollment and data management solution; AwareID, a software-as-a-service that provides biometric face and voice analysis for liveness-verification, and document validation; and Fortress Identity Biometric Authenticator and Onboarding Authentication Platform, which offers multi-factor authentication through passive and active biometrics for multiple modalities, including voice, fingerprint, face, and behavior to enable online onboarding and identity proofing. In addition, it offers program management and software engineering services, including project planning and management; system and architecture design; software design, development, customization, configuration, and testing; and software integration and installation. The company's software portfolio enables government agencies and commercial entities to enroll, identify, authenticate, and enable using biometrics, such as fingerprints, faces, irises, and voices. The company sells its products through systems integrators, original equipment manufacturers, value added resellers, and partners, as well as directly to end user customers. Aware, Inc. was incorporated in 1986 and is headquartered in Burlington, Massachusetts.",
+        "fullTimeEmployees": 81,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 1.75,
+        "targetHighPrice": 2.5,
+        "targetLowPrice": 2.5,
+        "targetMeanPrice": 2.5,
+        "targetMedianPrice": 2.5,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 30972000,
+        "totalCashPerShare": 1.43,
+        "ebitda": -6640000,
+        "totalDebt": 0,
+        "quickRatio": 6.142,
+        "currentRatio": 6.364,
+        "totalRevenue": 15942000,
+        "revenuePerShare": 0.736,
+        "returnOnAssets": -0.09434,
+        "returnOnEquity": -0.028870001,
+        "grossProfits": 15644000,
+        "freeCashflow": -3072250,
+        "operatingCashflow": -5577000,
+        "revenueGrowth": -0.278,
+        "grossMargins": 0.92491996,
+        "ebitdaMargins": -0.41651002,
+        "operatingMargins": -0.46381,
+        "profitMargins": -0.07678,
+        "financialCurrency": "USD"
+    }
+}

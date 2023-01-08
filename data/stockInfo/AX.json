@@ -1,0 +1,488 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AX",
+        "Security_Name": "Axos Financial, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AX",
+        "NASDAQ_Symbol": "AX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 37.47,
+        "open": 37.95,
+        "dayLow": 37.625,
+        "dayHigh": 39.08,
+        "regularMarketPreviousClose": 37.47,
+        "regularMarketOpen": 37.95,
+        "regularMarketDayLow": 37.625,
+        "regularMarketDayHigh": 39.08,
+        "payoutRatio": 0,
+        "beta": 1.439295,
+        "trailingPE": 10.069768,
+        "forwardPE": 7.7475147,
+        "volume": 191359,
+        "regularMarketVolume": 191359,
+        "averageVolume": 310769,
+        "averageVolume10days": 216640,
+        "averageDailyVolume10Day": 216640,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1000,
+        "askSize": 1100,
+        "marketCap": 2338172672,
+        "fiftyTwoWeekLow": 33.91,
+        "fiftyTwoWeekHigh": 61.79,
+        "priceToSalesTrailing12Months": 3.1959279,
+        "fiftyDayAverage": 38.7176,
+        "twoHundredDayAverage": 39.28215,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 1,
+                    "estimate": 0.98
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.02,
+                    "estimate": 0.99
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.96,
+                    "estimate": 0.99
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.97,
+                    "estimate": 1.12
+                }
+            ],
+            "currentQuarterEstimate": 1.23,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674766800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 464012000,
+                    "earnings": 155131000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 538398000,
+                    "earnings": 183438000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 620253000,
+                    "earnings": 215707000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 702021000,
+                    "earnings": 240716000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 172355000,
+                    "earnings": 60787000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 173812000,
+                    "earnings": 61823000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 186510000,
+                    "earnings": 57896000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 198933000,
+                    "earnings": 58407000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674766800
+            ],
+            "earningsAverage": 1.23,
+            "earningsLow": 1.16,
+            "earningsHigh": 1.26,
+            "revenueAverage": 217870000,
+            "revenueLow": 211400000,
+            "revenueHigh": 226780000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-31T10:10:56.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-11T14:31:44.000Z",
+                "firm": "Keefe, Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-06-30T11:44:45.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-05-02T09:00:35.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-28T10:49:27.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-11-01T13:04:45.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-06T12:17:02.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-08-02T11:35:40.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-03T11:56:39.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-30T11:37:56.000Z",
+                "firm": "Janney Montgomery Scott",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-03-22T12:55:33.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-02-01T12:32:24.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-15T13:37:51.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-02T13:12:16.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-18T13:17:48.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-27T11:19:24.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-30T17:43:20.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-15T12:25:16.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-05-01T11:42:17.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-13T11:30:31.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-18T11:03:34.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-31T11:15:57.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-05-01T12:40:15.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-02-06T12:13:13.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-10-03T12:30:25.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.008981327,
+        "postMarketChange": -0.3500023,
+        "postMarketTime": "2023-01-06T21:49:18.000Z",
+        "postMarketPrice": 38.62,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.040032025,
+        "regularMarketChange": 1.5,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 38.97,
+        "regularMarketDayHigh": 39.08,
+        "regularMarketDayLow": 37.625,
+        "regularMarketVolume": 191359,
+        "averageDailyVolume10Day": 216640,
+        "averageDailyVolume3Month": 310769,
+        "regularMarketPreviousClose": 37.47,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 37.95,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AX",
+        "underlyingSymbol": null,
+        "shortName": "Axos Financial, Inc.",
+        "longName": "Axos Financial, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2338172672
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1741655680,
+        "forwardPE": 7.7475147,
+        "profitMargins": 0.32656,
+        "floatShares": 53491811,
+        "sharesOutstanding": 59999300,
+        "sharesShort": 1914706,
+        "sharesShortPriorMonth": 1913047,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0319,
+        "heldPercentInsiders": 0.10797,
+        "heldPercentInstitutions": 0.80204004,
+        "shortRatio": 6.92,
+        "shortPercentOfFloat": 0.039100002,
+        "beta": 1.439295,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 28.35,
+        "priceToBook": 1.3746032,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-06-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-06-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.03,
+        "netIncomeToCommon": 238912992,
+        "trailingEps": 3.87,
+        "forwardEps": 5.03,
+        "pegRatio": 0.81,
+        "lastSplitFactor": "4:1",
+        "lastSplitDate": "2015-11-18T00:00:00.000Z",
+        "enterpriseToRevenue": 2.381,
+        "52WeekChange": -0.3460312,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "9205 West Russell Road",
+        "address2": "Suite 400",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89148",
+        "country": "United States",
+        "phone": "858 649 2218",
+        "fax": "858 350 0443",
+        "website": "https://axosfinancial.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Axos Financial, Inc., together with its subsidiaries, provides consumer and business banking products in the United States. It operates through two segments, Banking Business and Securities Business. The company offers deposits products, including consumer and business checking, demand, savings, time deposit, money market, zero balance, and insured cash sweep accounts. It also provides residential single family, multifamily, and commercial mortgage loans; commercial real estate secured loans; commercial and industrial non-real estate, asset-backed, lines of credit, and term loans; automobile loans; fixed rate unsecured loans; and other loans, such as structure settlements, small business administration consumer loans, and securities-backed loans. In addition, the company offers ACH origination, wire transfer, commercial check printing, business bill pay and account transfer; remote deposit capture, mobile deposit, lockbox, merchant, and online payment portal; concierge banking; mobile and text message banking; and payment services, as well as debit and credit cards, and digital wallets. Further, it provides disclosed clearing services; back-office services, such as record keeping, trade reporting, accounting, general back-office support, securities and margin lending, reorganization assistance, and custody of securities; and financing to brokerage customers. The company was formerly known as BofI Holding, Inc. and changed its name to Axos Financial, Inc. in September 2018. Axos Financial, Inc. was incorporated in 1999 and is based in Las Vegas, Nevada.",
+        "fullTimeEmployees": 1409,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 38.97,
+        "targetHighPrice": 54,
+        "targetLowPrice": 42,
+        "targetMeanPrice": 48.5,
+        "targetMedianPrice": 49,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 1370141952,
+        "totalCashPerShare": 22.836,
+        "totalDebt": 818622976,
+        "totalRevenue": 731609984,
+        "revenuePerShare": 12.267,
+        "returnOnAssets": 0.01434,
+        "returnOnEquity": 0.15123,
+        "grossProfits": 702021000,
+        "operatingCashflow": 474142016,
+        "earningsGrowth": -0.02,
+        "revenueGrowth": 0.175,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.49507,
+        "profitMargins": 0.32656,
+        "financialCurrency": "USD"
+    }
+}

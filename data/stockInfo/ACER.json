@@ -1,0 +1,359 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ACER",
+        "Security_Name": "Acer Therapeutics Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ACER",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 2.81,
+        "open": 2.8,
+        "dayLow": 2.76,
+        "dayHigh": 2.885,
+        "regularMarketPreviousClose": 2.81,
+        "regularMarketOpen": 2.8,
+        "regularMarketDayLow": 2.76,
+        "regularMarketDayHigh": 2.885,
+        "payoutRatio": 0,
+        "beta": 1.202586,
+        "forwardPE": -4.5737705,
+        "volume": 276759,
+        "regularMarketVolume": 276759,
+        "averageVolume": 478380,
+        "averageVolume10days": 991580,
+        "averageDailyVolume10Day": 991580,
+        "bid": 2.75,
+        "ask": 3,
+        "bidSize": 1000,
+        "askSize": 1000,
+        "marketCap": 54963000,
+        "fiftyTwoWeekLow": 1.11,
+        "fiftyTwoWeekHigh": 4.56,
+        "priceToSalesTrailing12Months": 152.675,
+        "fiftyDayAverage": 1.9452,
+        "twoHundredDayAverage": 1.80965,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.31,
+                    "estimate": -0.01
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.64,
+                    "estimate": -0.41
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.17,
+                    "estimate": -0.57
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.31,
+                    "estimate": -0.68
+                }
+            ],
+            "currentQuarterEstimate": -0.37,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677622680,
+                1678141080
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 0,
+                    "earnings": -21280891
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -29417969
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -22885449
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1260000,
+                    "earnings": -15373993
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 360000,
+                    "earnings": -4420643
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -9179004
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -2667036
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 0,
+                    "earnings": -5006945
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677622680,
+                1678141080
+            ],
+            "earningsAverage": -0.37,
+            "earningsLow": -0.42,
+            "earningsHigh": -0.34
+        },
+        "dividendDate": "2017-09-21T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-02-02T14:06:36.000Z",
+                "firm": "EF Hutton",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-06-25T15:22:01.000Z",
+                "firm": "Needham",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-05-23T12:00:40.000Z",
+                "firm": "Wedbush",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-12-20T14:16:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-08-17T18:04:58.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-06-29T12:21:01.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-12-20T12:03:32.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-07T00:51:20.000Z",
+        "postMarketPrice": 2.79,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.007117431,
+        "regularMarketChange": -0.01999998,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 2.79,
+        "regularMarketDayHigh": 2.885,
+        "regularMarketDayLow": 2.76,
+        "regularMarketVolume": 276759,
+        "averageDailyVolume10Day": 991580,
+        "averageDailyVolume3Month": 478380,
+        "regularMarketPreviousClose": 2.81,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 2.8,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ACER",
+        "underlyingSymbol": null,
+        "shortName": "Acer Therapeutics Inc.",
+        "longName": "Acer Therapeutics Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 54963000
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 45870432,
+        "forwardPE": -4.5737705,
+        "profitMargins": 0,
+        "floatShares": 11260951,
+        "sharesOutstanding": 19700000,
+        "sharesShort": 657787,
+        "sharesShortPriorMonth": 55482,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0337,
+        "heldPercentInsiders": 0.18386,
+        "heldPercentInstitutions": 0.26096,
+        "shortRatio": 0.91,
+        "shortPercentOfFloat": 0.044899996,
+        "beta": 1.202586,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": -0.746,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -21273628,
+        "trailingEps": -1.393,
+        "forwardEps": -0.61,
+        "lastSplitFactor": "96:1000",
+        "lastSplitDate": "2017-09-21T00:00:00.000Z",
+        "enterpriseToRevenue": 127.418,
+        "enterpriseToEbitda": -1.936,
+        "52WeekChange": 0.22907484,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "One Gateway Center",
+        "address2": "Suite 351 300 Washington Street",
+        "city": "Newton",
+        "state": "MA",
+        "zip": "02458",
+        "country": "United States",
+        "phone": "844 902 6100",
+        "website": "https://www.acertx.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Acer Therapeutics Inc., a pharmaceutical company, focuses on the acquisition, development, and commercialization of therapies for serious rare and life-threatening diseases. Its pipeline includes four clinical-stage candidates comprising EDSIVO for the treatment of vascular Ehlers-Danlos Syndrome in patients with a confirmed type III collagen mutation; ACER-001, a formulation of sodium phenylbutyrate for the treatment of various inborn errors of metabolism, including urea cycle disorders and maple syrup urine disease; ACER-801 (osanetant) for the treatment of induced Vasomotor Symptoms; and ACER-2820 (emetine), a host-directed therapy against a variety of infectious diseases, including COVID-19. The company has a research collaboration agreement with the National Center for Advancing Translational Sciences (NCATS) to develop emetine hydrochloride as a potential treatment for patients with COVID-19; and a license agreement with Sanofi to acquire worldwide rights to osanetant, a clinical-stage, selective, and non-peptide tachykinin NK3 receptor antagonist. Acer Therapeutics Inc. was incorporated in 1991 and is headquartered in Newton, Massachusetts.",
+        "fullTimeEmployees": 41,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 2.79,
+        "targetHighPrice": 12,
+        "targetLowPrice": 7,
+        "targetMeanPrice": 9.67,
+        "targetMedianPrice": 10,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 6377923,
+        "totalCashPerShare": 0.39,
+        "ebitda": -23698394,
+        "totalDebt": 8367076,
+        "quickRatio": 0.307,
+        "currentRatio": 0.351,
+        "totalRevenue": 360000,
+        "revenuePerShare": 0.024,
+        "returnOnAssets": -0.62065,
+        "grossProfits": 1260000,
+        "freeCashflow": -13972397,
+        "operatingCashflow": -23373906,
+        "grossMargins": 1,
+        "ebitdaMargins": 0,
+        "operatingMargins": -66.030174,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

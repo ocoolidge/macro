@@ -1,0 +1,288 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "APT",
+        "Security_Name": "Alpha Pro Tech, Ltd. Common Stock",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "APT",
+        "NASDAQ_Symbol": "APT",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 4.11,
+        "open": 4.1,
+        "dayLow": 4.1,
+        "dayHigh": 4.22,
+        "regularMarketPreviousClose": 4.11,
+        "regularMarketOpen": 4.1,
+        "regularMarketDayLow": 4.1,
+        "regularMarketDayHigh": 4.22,
+        "payoutRatio": 0,
+        "beta": -0.797347,
+        "trailingPE": 2.1340206,
+        "forwardPE": 3.5689654,
+        "volume": 41407,
+        "regularMarketVolume": 41407,
+        "averageVolume": 55217,
+        "averageVolume10days": 72730,
+        "averageDailyVolume10Day": 72730,
+        "bid": 4.14,
+        "ask": 4.19,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 54782136,
+        "fiftyTwoWeekLow": 3.76,
+        "fiftyTwoWeekHigh": 6.17,
+        "priceToSalesTrailing12Months": 0.87366253,
+        "fiftyDayAverage": 4.0758,
+        "twoHundredDayAverage": 4.2305,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2020",
+                    "actual": 0.58,
+                    "estimate": 0.46
+                },
+                {
+                    "date": "4Q2020",
+                    "actual": 0.53,
+                    "estimate": 0.5
+                },
+                {
+                    "date": "1Q2021",
+                    "actual": 0.27,
+                    "estimate": 0.33
+                }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2021,
+            "earningsDate": [
+                1678147200,
+                1678665600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 46624000,
+                    "earnings": 3625000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 46665000,
+                    "earnings": 3000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 102700000,
+                    "earnings": 26888000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 68637000,
+                    "earnings": 6756000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 14475000,
+                    "earnings": 766000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 13195000,
+                    "earnings": 600000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 17661000,
+                    "earnings": 1522000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 17373000,
+                    "earnings": 693000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678147200,
+                1678665600
+            ],
+            "revenueAverage": 22570000,
+            "revenueLow": 22570000,
+            "revenueHigh": 22570000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.0072992053,
+        "regularMarketChange": 0.029999733,
+        "regularMarketTime": "2023-01-06T21:00:00.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 4.14,
+        "regularMarketDayHigh": 4.22,
+        "regularMarketDayLow": 4.1,
+        "regularMarketVolume": 41407,
+        "averageDailyVolume10Day": 72730,
+        "averageDailyVolume3Month": 55217,
+        "regularMarketPreviousClose": 4.11,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 4.1,
+        "exchange": "ASE",
+        "exchangeName": "NYSE American",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "APT",
+        "underlyingSymbol": null,
+        "shortName": "Alpha Pro Tech, Ltd.",
+        "longName": "Alpha Pro Tech, Ltd.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 54782136
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 39567680,
+        "profitMargins": 0.05711,
+        "floatShares": 9983715,
+        "sharesOutstanding": 13232400,
+        "sharesShort": 225555,
+        "sharesShortPriorMonth": 257867,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0177,
+        "heldPercentInsiders": 0.10457,
+        "heldPercentInstitutions": 0.27241,
+        "shortRatio": 5.47,
+        "shortPercentOfFloat": 0.0198,
+        "beta": -0.797347,
+        "category": null,
+        "bookValue": 4.472,
+        "priceToBook": 0.9257602,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.585,
+        "netIncomeToCommon": 3581000,
+        "trailingEps": 1.94,
+        "forwardEps": 1.16,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.631,
+        "enterpriseToEbitda": 6.83
+    },
+    "summaryProfile": {
+        "address1": "60 Centurian Drive",
+        "address2": "Suite 112",
+        "city": "Markham",
+        "state": "ON",
+        "zip": "L3R 9R2",
+        "country": "Canada",
+        "website": "https://www.alphaprotech.com",
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials",
+        "longBusinessSummary": "Alpha Pro Tech, Ltd., together with its subsidiaries, develops, manufactures, and markets a range of disposable protective apparel, infection control, and building supply products in the United States and internationally. The company operates through two segments, Disposable Protective Apparel and Building Supply. The Disposable Protective Apparel segment provides shoe covers, bouffant caps, coveralls, frocks, lab coats, and gowns, hoods, as well as face masks and shields. The Building Supply segment offers construction weatherization products, such as housewrap and housewrap accessories, including window and door flashing, and seam tape, and synthetic roof underlayment, as well as other woven material. The company markets its products under the Alpha Pro Tech brand name, as well as under private labels. Its products are used primarily in cleanrooms; industrial safety manufacturing environments; health care facilities, such as hospitals, laboratories, and dental offices; building and re-roofing sites. The company distributes its products through a network of purchasing groups, distributors, and independent sales representatives, as well as through its sales and marketing force. Alpha Pro Tech, Ltd. was founded in 1983 and is headquartered in Markham, Canada.",
+        "fullTimeEmployees": 121,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 4.14,
+        "recommendationMean": 1,
+        "recommendationKey": "strong_buy",
+        "totalCash": 15342000,
+        "totalCashPerShare": 1.203,
+        "ebitda": 5793000,
+        "totalDebt": 2243000,
+        "quickRatio": 8.99,
+        "currentRatio": 20.625,
+        "totalRevenue": 62704000,
+        "debtToEquity": 3.547,
+        "revenuePerShare": 4.804,
+        "returnOnAssets": 0.04552,
+        "returnOnEquity": 0.05707,
+        "grossProfits": 25298000,
+        "freeCashflow": 1731250,
+        "operatingCashflow": 3432000,
+        "earningsGrowth": -0.583,
+        "revenueGrowth": -0.024,
+        "grossMargins": 0.34991002,
+        "ebitdaMargins": 0.09239,
+        "operatingMargins": 0.07875,
+        "profitMargins": 0.05711,
+        "financialCurrency": "USD"
+    }
+}

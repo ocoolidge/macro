@@ -1,0 +1,521 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BCYC",
+        "Security_Name": "Bicycle Therapeutics plc - American Depositary Shares",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BCYC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 4,
+                "buy": 9,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 31.19,
+        "open": 30.88,
+        "dayLow": 30.4152,
+        "dayHigh": 31.78,
+        "regularMarketPreviousClose": 31.19,
+        "regularMarketOpen": 30.88,
+        "regularMarketDayLow": 30.4152,
+        "regularMarketDayHigh": 31.78,
+        "payoutRatio": 0,
+        "beta": 0.7761,
+        "forwardPE": -15.228156,
+        "volume": 133641,
+        "regularMarketVolume": 133641,
+        "averageVolume": 235467,
+        "averageVolume10days": 158380,
+        "averageDailyVolume10Day": 158380,
+        "bid": 22.47,
+        "ask": 36.58,
+        "bidSize": 800,
+        "askSize": 900,
+        "marketCap": 922268608,
+        "fiftyTwoWeekLow": 12.08,
+        "fiftyTwoWeekHigh": 54.8,
+        "priceToSalesTrailing12Months": 56.43548,
+        "fiftyDayAverage": 28.568,
+        "twoHundredDayAverage": 24.709576,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.59,
+                    "estimate": -0.61
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.63,
+                    "estimate": -0.61
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.93,
+                    "estimate": -0.68
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.9,
+                    "estimate": -0.85
+                }
+            ],
+            "currentQuarterEstimate": -0.89,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 7136000,
+                    "earnings": -21846000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 13801000,
+                    "earnings": -30608000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 10390000,
+                    "earnings": -51010000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 11697000,
+                    "earnings": -66819000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 4333000,
+                    "earnings": -14678000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 3771000,
+                    "earnings": -18037000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 3860000,
+                    "earnings": -27564000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 4378000,
+                    "earnings": -26828000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677456000,
+                1677801600
+            ],
+            "earningsAverage": -0.89,
+            "earningsLow": -1.15,
+            "earningsHigh": -0.44,
+            "revenueAverage": 5470000,
+            "revenueHigh": 16000000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-12T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-31T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-08-22T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-05T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-05T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-28T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-05-23T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-06T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-13T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-04-12T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-03T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-14T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-12-17T00:00:00.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-12-09T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-10-14T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-08T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-30T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-15T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-13T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-07T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-20T00:00:00.000Z",
+                "firm": "JMP Securities",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-15T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-12T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-09-10T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-12T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-11-14T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-09-11T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-06-17T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-06-17T00:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-06-17T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-06-17T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:01:12.000Z",
+        "postMarketPrice": 31.37,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.0057710903,
+        "regularMarketChange": 0.1800003,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 31.37,
+        "regularMarketDayHigh": 31.78,
+        "regularMarketDayLow": 30.4152,
+        "regularMarketVolume": 133641,
+        "averageDailyVolume10Day": 158380,
+        "averageDailyVolume3Month": 235467,
+        "regularMarketPreviousClose": 31.19,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 30.88,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BCYC",
+        "underlyingSymbol": null,
+        "shortName": "Bicycle Therapeutics plc",
+        "longName": "Bicycle Therapeutics plc",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 922268608
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 377880768,
+        "forwardPE": -7.3811765,
+        "profitMargins": 0,
+        "floatShares": 18843747,
+        "sharesOutstanding": 29399700,
+        "sharesShort": 3280859,
+        "sharesShortPriorMonth": 2913792,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.1106,
+        "heldPercentInsiders": 0.09847,
+        "heldPercentInstitutions": 0.92332,
+        "shortRatio": 16.51,
+        "beta": 0.7761,
+        "category": null,
+        "bookValue": 6.674,
+        "priceToBook": 4.70033,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -87107000,
+        "trailingEps": -2.872,
+        "forwardEps": -2.06,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 23.123,
+        "enterpriseToEbitda": -4.434
+    },
+    "summaryProfile": {
+        "address1": "Babraham Research Campus",
+        "address2": "Building 900",
+        "city": "Cambridge",
+        "zip": "CB22 3AT",
+        "country": "United Kingdom",
+        "phone": "44 1223 261 503",
+        "website": "https://www.bicycletherapeutics.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Bicycle Therapeutics plc, a clinical-stage biopharmaceutical company, develops a class of medicines for diseases that are underserved by existing therapeutics. Its lead product candidate is BT1718, a bicycle toxin conjugate (BTC), which is in Phase I/IIa clinical trials targeting tumors that express Membrane Type 1 matrix metalloprotease. The company's oncology product candidates also comprise BT5528, a BTC that is in a Phase I/II clinical trial targeting EphA2; and BT8009, which is in Phase I/II clinical trial targeting Nectin-4. In addition, it is developing THR-149, a plasma kallikrein inhibitor that completed Phase II clinical trials for the treatment of diabetic macular edema; BT7480, a Bicycle tumor-targeted immune cell agonist (TICA) targeting Nectin-4 and agonizing; BT7455, an EphA2/CD137 Bicycle TICA, which is in preclinical studies; and BT1718, a BTC that target tumors, that is in Phase I/IIa clinical trial that express Membrane Type 1 matrix metalloproteinase. Further, the company collaborates with biopharmaceutical companies and organizations to develop programs in therapeutic areas, such as anti-infective, cardiovascular, ophthalmology, and respiratory indications. It has a clinical trial and license agreement with the Cancer Research Technology Limited and Cancer Research UK; research collaboration agreements with AstraZeneca, Sanofi, Oxurion, and the Dementia Discovery Fund; and discovery collaboration and license agreement with Genentech for the discovery and development of Bicycle peptides for multiple immuno-oncology targets. Bicycle Therapeutics plc was incorporated in 2009 and is headquartered in Cambridge, the United Kingdom.",
+        "fullTimeEmployees": 119,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 31.37,
+        "targetHighPrice": 74,
+        "targetLowPrice": 33,
+        "targetMeanPrice": 53.85,
+        "targetMedianPrice": 57,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 13,
+        "totalCash": 372768992,
+        "totalCashPerShare": 12.561,
+        "ebitda": -85217000,
+        "totalDebt": 45545000,
+        "quickRatio": 9.652,
+        "currentRatio": 9.881,
+        "totalRevenue": 16342000,
+        "debtToEquity": 14.626,
+        "revenuePerShare": 0.576,
+        "returnOnAssets": -0.16194001,
+        "returnOnEquity": -0.38419998,
+        "grossProfits": -33183000,
+        "freeCashflow": -56457000,
+        "operatingCashflow": -38648000,
+        "revenueGrowth": 1.453,
+        "grossMargins": -2.5248399,
+        "ebitdaMargins": 0,
+        "operatingMargins": -5.3237095,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

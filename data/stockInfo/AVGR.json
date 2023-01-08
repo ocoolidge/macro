@@ -1,0 +1,409 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AVGR",
+        "Security_Name": "Avinger, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "D",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AVGR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 1.1746,
+        "open": 1.18,
+        "dayLow": 1.14,
+        "dayHigh": 1.2,
+        "regularMarketPreviousClose": 1.1746,
+        "regularMarketOpen": 1.18,
+        "regularMarketDayLow": 1.14,
+        "regularMarketDayHigh": 1.2,
+        "payoutRatio": 0,
+        "beta": 1.597701,
+        "forwardPE": -0.28846157,
+        "volume": 20809,
+        "regularMarketVolume": 20809,
+        "averageVolume": 41256,
+        "averageVolume10days": 39410,
+        "averageDailyVolume10Day": 39410,
+        "bid": 1.1,
+        "ask": 1.2,
+        "bidSize": 1100,
+        "askSize": 3200,
+        "marketCap": 8922768,
+        "fiftyTwoWeekLow": 0.94,
+        "fiftyTwoWeekHigh": 11.52,
+        "priceToSalesTrailing12Months": 1.0285611,
+        "fiftyDayAverage": 1.12838,
+        "twoHundredDayAverage": 1.66403,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -1.2,
+                    "estimate": -1.32
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -1.26,
+                    "estimate": -1.26
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -2.33,
+                    "estimate": -1.17
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.94,
+                    "estimate": -1.09
+                }
+            ],
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1679342400,
+                1679688000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 7915000,
+                    "earnings": -27558000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 9131000,
+                    "earnings": -19450000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 8761000,
+                    "earnings": -19006000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 10130000,
+                    "earnings": -17412000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 2403000,
+                    "earnings": -4996000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 1888000,
+                    "earnings": -5140000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 2132000,
+                    "earnings": -4214000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 2252000,
+                    "earnings": -4087000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1679342400,
+                1679688000
+            ],
+            "revenueAverage": 2252000,
+            "revenueLow": 2800000,
+            "revenueHigh": 2800000
+        },
+        "dividendDate": "2019-06-24T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-03-18T14:06:45.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-15T17:35:39.000Z",
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-29T10:16:50.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-19T14:27:45.000Z",
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:23.000Z",
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:19.000Z",
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:37:14.000Z",
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:47.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:36:47.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:54.000Z",
+                "firm": "Dougherty",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:54.000Z",
+                "firm": "Dougherty",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:54.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:54.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-25T09:35:54.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.041666724,
+        "postMarketChange": -0.05000007,
+        "postMarketTime": "2023-01-06T23:28:19.000Z",
+        "postMarketPrice": 1.15,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.021624418,
+        "regularMarketChange": 0.025400043,
+        "regularMarketTime": "2023-01-06T20:58:03.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 1.2,
+        "regularMarketDayHigh": 1.2,
+        "regularMarketDayLow": 1.14,
+        "regularMarketVolume": 20809,
+        "averageDailyVolume10Day": 39410,
+        "averageDailyVolume3Month": 41256,
+        "regularMarketPreviousClose": 1.1746,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 1.18,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AVGR",
+        "underlyingSymbol": null,
+        "shortName": "Avinger, Inc.",
+        "longName": "Avinger, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 8922768
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 7474703,
+        "profitMargins": -2.1253,
+        "floatShares": 6739370,
+        "sharesOutstanding": 7435640,
+        "sharesShort": 84149,
+        "sharesShortPriorMonth": 81764,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0113,
+        "heldPercentInsiders": 0.00378,
+        "heldPercentInstitutions": 0.14130001,
+        "shortRatio": 1.92,
+        "shortPercentOfFloat": 0.0113,
+        "beta": 1.597701,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 0.665,
+        "priceToBook": 1.8045113,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -27972000,
+        "trailingEps": -5.596,
+        "forwardEps": -4.16,
+        "lastSplitFactor": "1:20",
+        "lastSplitDate": "2022-03-15T00:00:00.000Z",
+        "enterpriseToRevenue": 0.862,
+        "enterpriseToEbitda": -0.456,
+        "52WeekChange": -0.877551,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "400 Chesapeake Drive",
+        "city": "Redwood City",
+        "state": "CA",
+        "zip": "94063",
+        "country": "United States",
+        "phone": "650 241 7900",
+        "website": "https://avinger.com",
+        "industry": "Medical Instruments & Supplies",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Avinger, Inc., a commercial-stage medical device company, designs, manufactures, and sells a suite of image-guided and catheter-based systems used by physicians to treat patients with peripheral arterial disease (PAD) in the United States and internationally. It develops lumivascular platform that integrates optical coherence tomography visualization with interventional catheters to provide real-time intravascular imaging during the treatment portion of PAD procedures. The company's lumivascular products comprise Lightbox imaging consoles, as well as the Ocelot family of catheters, which are designed to allow physicians to penetrate a total blockage in an artery; and Pantheris, an image-guided atherectomy device that allows physicians to precisely remove arterial plaque in PAD patients. In addition, its first-generation chronic total occlusion (CTO)-crossing catheters, Wildcat and Kittycat 2, which employs a proprietary design that uses a rotational spinning technique allowing the physician to switch between passive and active modes when navigating across a CTO. Further, the company develops IMAGE-BTK for the treatment of PAD lesions below-the-knee. It markets and sells its products to interventional cardiologists, vascular surgeons, and interventional radiologists. Avinger, Inc. was incorporated in 2007 and is headquartered in Redwood City, California.",
+        "fullTimeEmployees": 68,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 1.2,
+        "targetHighPrice": 6,
+        "targetLowPrice": 6,
+        "targetMeanPrice": 6,
+        "targetMedianPrice": 6,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 17342000,
+        "totalCashPerShare": 2.332,
+        "ebitda": -16396000,
+        "totalDebt": 16117000,
+        "quickRatio": 2.672,
+        "currentRatio": 3.478,
+        "totalRevenue": 8675000,
+        "debtToEquity": 325.859,
+        "revenuePerShare": 1.564,
+        "returnOnAssets": -0.33821,
+        "returnOnEquity": -2.23316,
+        "grossProfits": 3424000,
+        "freeCashflow": -11089750,
+        "operatingCashflow": -17574000,
+        "revenueGrowth": -0.048,
+        "grossMargins": 0.30928,
+        "ebitdaMargins": -1.89003,
+        "operatingMargins": -1.92403,
+        "profitMargins": -2.1253,
+        "financialCurrency": "USD"
+    }
+}

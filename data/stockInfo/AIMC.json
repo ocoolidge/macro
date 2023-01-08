@@ -1,0 +1,663 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AIMC",
+        "Security_Name": "Altra Industrial Motion Corp. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AIMC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 3,
+                "buy": 4,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 1,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 59.8,
+        "open": 59.92,
+        "dayLow": 59.75,
+        "dayHigh": 60.11,
+        "regularMarketPreviousClose": 59.8,
+        "regularMarketOpen": 59.92,
+        "regularMarketDayLow": 59.75,
+        "regularMarketDayHigh": 60.11,
+        "dividendRate": 0.36,
+        "dividendYield": 0.006,
+        "exDividendDate": "2022-12-15T00:00:00.000Z",
+        "payoutRatio": 1.3077,
+        "fiveYearAvgDividendYield": 1.38,
+        "beta": 2.227415,
+        "trailingPE": 230.1923,
+        "forwardPE": 18.136364,
+        "volume": 271577,
+        "regularMarketVolume": 271577,
+        "averageVolume": 1118616,
+        "averageVolume10days": 429110,
+        "averageDailyVolume10Day": 429110,
+        "bid": 59.85,
+        "ask": 59.83,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 3900651776,
+        "fiftyTwoWeekLow": 32.18,
+        "fiftyTwoWeekHigh": 60.44,
+        "priceToSalesTrailing12Months": 2.0045488,
+        "fiftyDayAverage": 58.497,
+        "twoHundredDayAverage": 42.87675,
+        "trailingAnnualDividendRate": 0.34,
+        "trailingAnnualDividendYield": 0.005685619,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.67,
+                    "estimate": 0.75
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.78,
+                    "estimate": 0.71
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.84,
+                    "estimate": 0.84
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.8,
+                    "estimate": 0.81
+                }
+            ],
+            "currentQuarterEstimate": 0.76,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676381400,
+                1676899800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1175300000,
+                    "earnings": 35300000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1834100000,
+                    "earnings": 127200000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1726000000,
+                    "earnings": -25500000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1899800000,
+                    "earnings": 27700000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 469800000,
+                    "earnings": -87700000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 511700000,
+                    "earnings": 44800000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 498100000,
+                    "earnings": 26300000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 466300000,
+                    "earnings": 33600000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676381400,
+                1676899800
+            ],
+            "earningsAverage": 0.76,
+            "earningsLow": 0.67,
+            "earningsHigh": 0.85,
+            "revenueAverage": 463230000,
+            "revenueLow": 455000000,
+            "revenueHigh": 469800000
+        },
+        "exDividendDate": "2022-12-15T00:00:00.000Z",
+        "dividendDate": "2023-01-03T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-21T09:39:59.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-11-01T14:02:14.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-08-26T12:58:01.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-07-27T12:18:13.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-26T12:09:13.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-04T11:23:39.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-03T10:53:57.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-14T09:51:30.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Sector Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-18T08:50:11.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-26T11:24:45.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-14T08:44:52.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-27T15:06:24.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-27T11:17:14.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-06-15T10:58:19.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-21T10:24:22.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-01T10:03:31.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-28T11:09:56.000Z",
+                "firm": "Needham",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-04-06T08:48:39.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "Sector Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-09-27T14:12:02.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-24T09:52:18.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Sector Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-07-26T10:15:24.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-10-26T14:57:58.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-30T16:42:40.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-08-30T11:32:14.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-30T16:33:32.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Overweight",
+                "fromGrade": "Sector Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-07-27T13:45:16.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-03-08T12:56:35.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-02-23T14:36:13.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-22T14:36:51.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-22T15:45:53.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-23T15:06:08.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-26T17:24:29.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-10-24T12:37:04.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-04-05T06:22:56.000Z",
+                "firm": "BMO Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-02-04T04:02:41.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-01-22T06:45:45.000Z",
+                "firm": "Baird",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-12-10T09:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-12-05T00:00:00.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-07-25T00:39:29.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-03-11T08:00:00.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-10-29T06:56:15.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-06-03T13:45:24.000Z",
+                "firm": "KeyBanc",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-05-15T07:49:40.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-02-15T07:28:40.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-15T14:09:46.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-12-10T07:48:51.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-30T06:15:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-02-17T06:51:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:10:01.000Z",
+        "postMarketPrice": 59.85,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.00083610765,
+        "regularMarketChange": 0.049999237,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 59.85,
+        "regularMarketDayHigh": 60.11,
+        "regularMarketDayLow": 59.75,
+        "regularMarketVolume": 271577,
+        "averageDailyVolume10Day": 429110,
+        "averageDailyVolume3Month": 1118616,
+        "regularMarketPreviousClose": 59.8,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 59.92,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AIMC",
+        "underlyingSymbol": null,
+        "shortName": "Altra Industrial Motion Corp.",
+        "longName": "Altra Industrial Motion Corp.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 3900651776
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 4800390656,
+        "forwardPE": 18.136364,
+        "profitMargins": 0.00874,
+        "floatShares": 64494279,
+        "sharesOutstanding": 65173800,
+        "sharesShort": 2660691,
+        "sharesShortPriorMonth": 1574679,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.040799998,
+        "heldPercentInsiders": 0.0130900005,
+        "heldPercentInstitutions": 0.90969,
+        "shortRatio": 3.18,
+        "shortPercentOfFloat": 0.0461,
+        "beta": 2.227415,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 29.239,
+        "priceToBook": 2.0469236,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.051,
+        "netIncomeToCommon": 17000000,
+        "trailingEps": 0.26,
+        "forwardEps": 3.3,
+        "pegRatio": 1.25,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 2.467,
+        "enterpriseToEbitda": 13.526,
+        "52WeekChange": 0.1972394,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.09,
+        "lastDividendDate": 1671062400
+    },
+    "summaryProfile": {
+        "address1": "300 Granite Street",
+        "address2": "Suite 201",
+        "city": "Braintree",
+        "state": "MA",
+        "zip": "02184",
+        "country": "United States",
+        "phone": "781 917 0600",
+        "website": "https://www.altramotion.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Altra Industrial Motion Corp. designs, produces, and markets a range of electromechanical power transmission motion control products for use in various motion-related applications, and high-volume manufacturing and non-manufacturing processes. It operates in two segments, Power Transmission Technologies (PTT) and Automation & Specialty (A&S). The PTT segment offers couplings, such as gear couplings, diaphragm and disc couplings, elastomeric couplings, miniature and precision couplings, universal joints, mill spindles, and shaft locking devices under the Ameridrives, Bibby, Guardian, Huco, Lamiflex, Stromag, and TB Wood's brands; clutches and brakes under the Industrial Clutch, Formsprag, Stieber, Stromag, Svendborg, Twiflex, and Wichita brands; electromagnetic clutches and brakes under the Inertia Dynamics, Matrix, Stromag, and Warner Electric brands; and gears under the Bauer Gear Motor, Boston Gear, Delroyd, and Nuttall brands. The A&S segment provides rotary precision motion solutions, including servo and stepper motors, precision linear actuators, and electronic drives and motion controllers, as well as related software under the Kollmorgen brand; and miniature motors, and motion control products, such as brush and brushless DC, can stack, and disc magnet motors under the Portescap brand. This segment also offers linear bearings, guides, glides, lead and ball screws, industrial linear actuators, resolvers, and inductors for the transition of rotary motion to linear motion under the Thomson brand. It serves in North America, the rest of Europe, Germany, China, the rest of Asia, and internationally. The company was formerly known as Altra Holdings, Inc. and changed its name to Altra Industrial Motion Corp. in November 2013. Altra Industrial Motion Corp. was incorporated in 2004 and is headquartered in Braintree, Massachusetts.",
+        "fullTimeEmployees": 9000,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 59.85,
+        "targetHighPrice": 62,
+        "targetLowPrice": 50,
+        "targetMeanPrice": 57.27,
+        "targetMedianPrice": 62,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 198200000,
+        "totalCashPerShare": 3.041,
+        "ebitda": 354900000,
+        "totalDebt": 1098200064,
+        "quickRatio": 1.302,
+        "currentRatio": 2.291,
+        "totalRevenue": 1945900032,
+        "debtToEquity": 57.633,
+        "revenuePerShare": 29.96,
+        "returnOnAssets": 0.040799998,
+        "returnOnEquity": 0.00856,
+        "grossProfits": 675400000,
+        "freeCashflow": 80362496,
+        "operatingCashflow": 119400000,
+        "earningsGrowth": -0.056,
+        "revenueGrowth": -0.006,
+        "grossMargins": 0.3495,
+        "ebitdaMargins": 0.18238,
+        "operatingMargins": 0.13048,
+        "profitMargins": 0.00874,
+        "financialCurrency": "USD"
+    }
+}

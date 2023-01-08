@@ -1,0 +1,722 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AXNX",
+        "Security_Name": "Axonics Modulation Technologies, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AXNX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 5,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 5,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 59.85,
+        "open": 60.27,
+        "dayLow": 58.48,
+        "dayHigh": 60.7,
+        "regularMarketPreviousClose": 59.85,
+        "regularMarketOpen": 60.27,
+        "regularMarketDayLow": 58.48,
+        "regularMarketDayHigh": 60.7,
+        "payoutRatio": 0,
+        "beta": 0.425592,
+        "forwardPE": -62.135418,
+        "volume": 713145,
+        "regularMarketVolume": 713145,
+        "averageVolume": 606000,
+        "averageVolume10days": 575360,
+        "averageDailyVolume10Day": 575360,
+        "bid": 58.05,
+        "ask": 61.34,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 2954464512,
+        "fiftyTwoWeekLow": 38.41,
+        "fiftyTwoWeekHigh": 79.92,
+        "priceToSalesTrailing12Months": 12.26331,
+        "fiftyDayAverage": 64.3092,
+        "twoHundredDayAverage": 63.27345,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.34,
+                    "estimate": -0.37
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.5,
+                    "estimate": -0.63
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.47,
+                    "estimate": -0.54
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.34,
+                    "estimate": -0.48
+                }
+            ],
+            "currentQuarterEstimate": -0.26,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1677099600,
+                1677531600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 707000,
+                    "earnings": -32483000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 13820000,
+                    "earnings": -79935000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 111535000,
+                    "earnings": -54915000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 180290000,
+                    "earnings": -80067000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 53135000,
+                    "earnings": -15166000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 48420000,
+                    "earnings": -22668000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 68980000,
+                    "earnings": -21443000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 70384000,
+                    "earnings": -16252000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677099600,
+                1677531600
+            ],
+            "earningsAverage": -0.26,
+            "earningsLow": -0.38,
+            "earningsHigh": -0.18,
+            "revenueAverage": 73820000,
+            "revenueLow": 70000000,
+            "revenueHigh": 74650000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2023-01-06T13:51:27.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-12-20T13:11:21.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-11-01T13:17:55.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-11-01T12:18:04.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-21T11:05:08.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-10-17T12:17:39.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-12T13:33:46.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-10-11T13:48:40.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-10T09:25:14.000Z",
+                "firm": "Needham",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-10-05T10:45:51.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-02T13:26:38.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-02T12:28:02.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-02T11:58:21.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-02T10:39:07.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-02T10:02:53.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-20T13:49:38.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-19T10:08:16.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-06T10:52:18.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-06T10:32:38.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-06T09:14:52.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-02-25T15:53:21.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-25T13:20:45.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-07T13:47:23.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-14T16:49:24.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-05T11:30:31.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-05T10:22:53.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-09T13:37:46.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-06T11:38:51.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-12T12:26:34.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-06-28T09:21:05.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-07T11:51:44.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-07T10:47:04.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-24T10:43:10.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-26T11:25:44.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-07T15:59:28.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-05T14:28:50.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-11-05T11:35:42.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-23T10:03:50.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-10-12T14:18:20.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-02T10:12:55.000Z",
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-10T12:30:41.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-07T12:58:09.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-07T09:43:48.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-22T10:41:33.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-06T12:26:04.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-08T17:17:49.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-27T19:15:40.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-05T13:49:55.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-05T13:32:25.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-01-08T13:11:50.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-11-15T13:28:58.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-01T11:14:41.000Z",
+                "firm": "Piper Jaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-10-21T10:23:20.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-09-17T12:09:34.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-09-10T13:13:54.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2019-09-03T12:15:13.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-11-26T14:40:37.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-11-26T14:26:35.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:00:56.000Z",
+        "postMarketPrice": 59.65,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": -0.0033416366,
+        "regularMarketChange": -0.19999695,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 59.65,
+        "regularMarketDayHigh": 60.7,
+        "regularMarketDayLow": 58.48,
+        "regularMarketVolume": 713145,
+        "averageDailyVolume10Day": 575360,
+        "averageDailyVolume3Month": 606000,
+        "regularMarketPreviousClose": 59.85,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 60.27,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AXNX",
+        "underlyingSymbol": null,
+        "shortName": "Axonics, Inc.",
+        "longName": "Axonics, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 2954464512
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 2623838720,
+        "forwardPE": -62.135418,
+        "profitMargins": -0.31350002,
+        "floatShares": 49128778,
+        "sharesOutstanding": 49530000,
+        "sharesShort": 3212168,
+        "sharesShortPriorMonth": 3205230,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.064899996,
+        "heldPercentInsiders": 0.0089,
+        "heldPercentInstitutions": 1.00292,
+        "shortRatio": 6.39,
+        "shortPercentOfFloat": 0.0655,
+        "beta": 0.425592,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 11.106,
+        "priceToBook": 5.3709707,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -75529000,
+        "trailingEps": -1.805,
+        "forwardEps": -0.96,
+        "pegRatio": -0.58,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 10.891,
+        "enterpriseToEbitda": -54.577,
+        "52WeekChange": 0.089497685,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "26 Technology Drive",
+        "city": "Irvine",
+        "state": "CA",
+        "zip": "92618",
+        "country": "United States",
+        "phone": "949 396 6322",
+        "fax": "949 396 6321",
+        "website": "https://www.axonics.com",
+        "industry": "Medical Devices",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Axonics, Inc., a medical technology company, engages in the development and commercialization of sacral neuromodulation (SNM) systems. The company's SNM systems are used to treat patients with overactive bladder, including urinary urge incontinence and urinary urgency frequency, as well as fecal incontinence and non-obstructive urinary retention. Its proprietary rechargeable SNM System (r-SNM) delivers mild electrical pulses to the targeted sacral nerve to restore normal communication to and from the brain to reduce the symptoms of bladder and bowel dysfunction. The company also offers Bulkamid, a urethral bulking agent to treat female stress urinary incontinence. It sells its products through a direct salesforce and distributors in the United States, the United Kingdom, Germany, the Netherlands, Nordic countries, and internationally. The company was formerly known as Axonics Modulation Technologies, Inc. and changed its name to Axonics, Inc. in March 2021. Axonics, Inc. was incorporated in 2012 and is based in Irvine, California.",
+        "fullTimeEmployees": 517,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 59.65,
+        "targetHighPrice": 130,
+        "targetLowPrice": 75,
+        "targetMeanPrice": 90.67,
+        "targetMedianPrice": 85,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 350012992,
+        "totalCashPerShare": 7.067,
+        "ebitda": -48076000,
+        "totalDebt": 9483000,
+        "quickRatio": 6.36,
+        "currentRatio": 7.386,
+        "totalRevenue": 240919008,
+        "debtToEquity": 1.726,
+        "revenuePerShare": 5.251,
+        "returnOnAssets": -0.06237,
+        "returnOnEquity": -0.1453,
+        "grossProfits": 115718000,
+        "freeCashflow": 35727500,
+        "operatingCashflow": -12938000,
+        "revenueGrowth": 0.5,
+        "grossMargins": 0.706,
+        "ebitdaMargins": -0.19955,
+        "operatingMargins": -0.24722,
+        "profitMargins": -0.31350002,
+        "financialCurrency": "USD"
+    }
+}

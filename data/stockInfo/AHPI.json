@@ -1,0 +1,276 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AHPI",
+        "Security_Name": "Allied Healthcare Products, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AHPI",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 1,
+        "open": 0.93,
+        "dayLow": 0.93,
+        "dayHigh": 1.03,
+        "regularMarketPreviousClose": 1,
+        "regularMarketOpen": 0.93,
+        "regularMarketDayLow": 0.93,
+        "regularMarketDayHigh": 1.03,
+        "exDividendDate": "1996-06-26T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": -2.639008,
+        "volume": 11378,
+        "regularMarketVolume": 11378,
+        "averageVolume": 34287,
+        "averageVolume10days": 37380,
+        "averageDailyVolume10Day": 37380,
+        "bid": 0.94,
+        "ask": 1.03,
+        "bidSize": 800,
+        "askSize": 1300,
+        "marketCap": 4133946,
+        "fiftyTwoWeekLow": 0.8,
+        "fiftyTwoWeekHigh": 5.31,
+        "priceToSalesTrailing12Months": 0.15284538,
+        "fiftyDayAverage": 1.1188,
+        "twoHundredDayAverage": 1.7966,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 31381521,
+                    "earnings": -2109685
+                },
+                {
+                    "date": 2020,
+                    "revenue": 31894262,
+                    "earnings": -3014100
+                },
+                {
+                    "date": 2021,
+                    "revenue": 36279476,
+                    "earnings": 1687188
+                },
+                {
+                    "date": 2022,
+                    "revenue": 27046587,
+                    "earnings": -5361428
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 7357593,
+                    "earnings": -984006
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 6807339,
+                    "earnings": -1161962
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 6867151,
+                    "earnings": -1280036
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 6014505,
+                    "earnings": -1935424
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676285940,
+                1676635200
+            ]
+        },
+        "exDividendDate": "1996-06-26T00:00:00.000Z",
+        "dividendDate": "2016-12-07T00:00:00.000Z"
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.049999967,
+        "postMarketChange": -0.051499963,
+        "postMarketTime": "2023-01-07T00:51:39.000Z",
+        "postMarketPrice": 0.9785,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.029999971,
+        "regularMarketChange": 0.029999971,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 1.03,
+        "regularMarketDayHigh": 1.03,
+        "regularMarketDayLow": 0.93,
+        "regularMarketVolume": 11378,
+        "averageDailyVolume10Day": 37380,
+        "averageDailyVolume3Month": 34287,
+        "regularMarketPreviousClose": 1,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 0.93,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AHPI",
+        "underlyingSymbol": null,
+        "shortName": "Allied Healthcare Products, Inc",
+        "longName": "Allied Healthcare Products, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 4133946
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 11434587,
+        "profitMargins": -0.19823,
+        "floatShares": 3626191,
+        "sharesOutstanding": 4013540,
+        "sharesShort": 41128,
+        "sharesShortPriorMonth": 52195,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.010199999,
+        "heldPercentInsiders": 0.14423999,
+        "heldPercentInstitutions": 0.04143,
+        "shortRatio": 0.73,
+        "shortPercentOfFloat": 0.0107,
+        "beta": -2.639008,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 1.304,
+        "priceToBook": 0.7898773,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-06-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-06-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -5361428,
+        "trailingEps": -0.467,
+        "lastSplitFactor": "1:2",
+        "lastSplitDate": "2016-12-07T00:00:00.000Z",
+        "enterpriseToRevenue": 0.423,
+        "enterpriseToEbitda": -2.77,
+        "52WeekChange": -0.79922026,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.14,
+        "lastDividendDate": 835747200
+    },
+    "summaryProfile": {
+        "address1": "1720 Sublette Avenue",
+        "city": "Saint Louis",
+        "state": "MO",
+        "zip": "63110",
+        "country": "United States",
+        "phone": "314 771 2400",
+        "website": "https://www.alliedhpi.com",
+        "industry": "Medical Devices",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Allied Healthcare Products, Inc. manufactures and markets respiratory products for use in the health care industry in a range of hospitals and alternate site settings worldwide. The company offers respiratory care/anesthesia products, including air compressors, calibration equipment, humidifiers, croup tents, and equipment dryers, as well as respiratory disposable products, such as oxygen tubing products, facemasks, cannulas, and ventilator circuits; and home respiratory care products comprising aluminum oxygen cylinders, oxygen regulators, pneumatic nebulizers, portable suction equipment, and a line of respiratory disposable products. It also provides medical gas equipment, which includes construction products consisting of in-wall medical system components, central station pumps and compressors, and headwalls; regulation devices and suction equipment comprising flowmeters, vacuum regulators, and pressure regulators, as well as related adapters, fittings, and hoses that measure, regulate, monitor, and transfer medical gases from walled piping or equipment to patients in hospital rooms, operating theaters, and intensive care areas; and disposable oxygen cylinders to provide oxygen for short periods. In addition, the company offers emergency medical products that include respiratory/resuscitation products, such as demand resuscitation valves, portable resuscitation systems, bag masks and related products, emergency transport ventilators, precision oxygen regulators, minilators, multilators, and humidifiers; and trauma and patient handling products that include spine immobilization products, pneumatic anti-shock garments, and trauma burn kits. It serves hospitals, hospital equipment dealers, hospital construction contractors, home health care dealers, emergency medical products dealers, and others. The company was incorporated in 1979 and is headquartered in St. Louis, Missouri.",
+        "fullTimeEmployees": 146,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 1.03,
+        "recommendationKey": "none",
+        "totalCash": 3317047,
+        "totalCashPerShare": 0.826,
+        "ebitda": -4128710,
+        "totalDebt": 10577556,
+        "quickRatio": 0.951,
+        "currentRatio": 2.688,
+        "totalRevenue": 27046588,
+        "debtToEquity": 202.09,
+        "revenuePerShare": 6.739,
+        "returnOnAssets": -0.15319,
+        "returnOnEquity": -0.67806,
+        "grossProfits": 2527413,
+        "freeCashflow": -4349192,
+        "operatingCashflow": -4096356,
+        "revenueGrowth": -0.143,
+        "grossMargins": 0.09345,
+        "ebitdaMargins": -0.15265,
+        "operatingMargins": -0.16934,
+        "profitMargins": -0.19823,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,827 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ABMD",
+        "Security_Name": "ABIOMED, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ABMD",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 5,
+                "buy": 3,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 9,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 5,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 4,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 381.02,
+        "open": 380.78,
+        "dayLow": 380.545,
+        "dayHigh": 381.28,
+        "regularMarketPreviousClose": 381.02,
+        "regularMarketOpen": 380.78,
+        "regularMarketDayLow": 380.545,
+        "regularMarketDayHigh": 381.28,
+        "payoutRatio": 0,
+        "beta": 1.397629,
+        "trailingPE": 65.35506,
+        "forwardPE": 60.768738,
+        "volume": 15702662,
+        "regularMarketVolume": 15702662,
+        "averageVolume": 1625549,
+        "averageVolume10days": 3405113,
+        "averageDailyVolume10Day": 3405113,
+        "bid": 381.31,
+        "ask": 381.5,
+        "bidSize": 1000,
+        "askSize": 900,
+        "marketCap": 17180649472,
+        "fiftyTwoWeekLow": 219.845,
+        "fiftyTwoWeekHigh": 381.99,
+        "priceToSalesTrailing12Months": 15.995451,
+        "fiftyDayAverage": 351.417,
+        "twoHundredDayAverage": 291.67477,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 1.13,
+                    "estimate": 0.95
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.16,
+                    "estimate": 1.09
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.25,
+                    "estimate": 1.06
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 1.3,
+                    "estimate": 1.04
+                }
+            ],
+            "currentQuarterEstimate": 0.67,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675258200,
+                1675690200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 769432000,
+                    "earnings": 259016000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 840883000,
+                    "earnings": 203009000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 847522000,
+                    "earnings": 225525000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 1031753000,
+                    "earnings": 136505000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 261176000,
+                    "earnings": 45752000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 269850000,
+                    "earnings": 60325000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 277149000,
+                    "earnings": 54554000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 265921000,
+                    "earnings": 106133000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675258200,
+                1675690200
+            ],
+            "earningsAverage": 0.67,
+            "earningsLow": 0.67,
+            "earningsHigh": 0.67,
+            "revenueAverage": 295370000,
+            "revenueLow": 295370000,
+            "revenueHigh": 295370000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-02T11:29:53.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Underweight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-11-02T10:12:13.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-11-01T20:43:44.000Z",
+                "firm": "William Blair",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-11-01T13:47:52.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-10-13T09:30:04.000Z",
+                "firm": "Mizuho",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-10-10T14:02:03.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-21T12:57:49.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-19T10:07:31.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-06T09:20:44.000Z",
+                "firm": "Wolfe Research",
+                "toGrade": "Peer Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-02-04T15:07:25.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-04T09:54:14.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-01-07T13:35:53.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-06T09:53:37.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-20T16:07:29.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-18T11:45:01.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-29T14:43:54.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-29T14:38:38.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-15T16:10:20.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-12T14:16:56.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-07T13:12:42.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-07T09:37:08.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-28T10:52:23.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2020-05-01T11:47:22.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-01T10:51:18.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-27T11:29:28.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-27T19:19:24.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-26T13:55:29.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-12T13:49:51.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-12-17T13:54:30.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-29T11:56:27.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-02T12:49:23.000Z",
+                "firm": "BTIG",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-02T12:12:43.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-02T11:18:30.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-01-02T15:30:24.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-07T11:15:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-11-02T11:34:08.000Z",
+                "firm": "BTIG Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-10-11T12:57:14.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-04T14:28:42.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-01T15:41:26.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-04T18:26:51.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-02T14:08:11.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-16T14:27:18.000Z",
+                "firm": "BTIG Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-09-29T11:46:16.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-07-28T14:27:41.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-11T10:33:34.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-04-06T13:44:22.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-12-07T17:09:08.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-08-09T21:57:50.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-29T13:09:40.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-05-04T08:35:33.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-30T07:06:29.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-08-18T07:44:35.000Z",
+                "firm": "Sterne Agee CRT",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-05-06T09:00:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-01-28T09:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-01-28T07:58:03.000Z",
+                "firm": "Northland Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-01-05T09:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-11-03T09:22:10.000Z",
+                "firm": "BTIG Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-03-24T08:00:00.000Z",
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-03-21T08:00:00.000Z",
+                "firm": "BTIG Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-02-20T08:00:00.000Z",
+                "firm": "BTIG Research",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-01-10T06:25:46.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-11-07T08:33:05.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-10-08T16:00:00.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Buy",
+                "fromGrade": "Speculative Buy",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-10-01T06:37:48.000Z",
+                "firm": "Benchmark",
+                "toGrade": "Speculative Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-04-09T06:09:10.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-03-14T08:57:03.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-11-29T08:09:00.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-11-08T17:33:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-11-01T15:26:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-09-25T10:41:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-05-17T06:10:00.000Z",
+                "firm": "Wunderlich",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-17T05:47:00.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-04-23T06:22:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0,
+        "regularMarketChange": 0,
+        "regularMarketTime": "2022-12-21T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 381.02,
+        "regularMarketDayHigh": 381.28,
+        "regularMarketDayLow": 380.545,
+        "regularMarketVolume": 15702662,
+        "averageDailyVolume10Day": 3405113,
+        "averageDailyVolume3Month": 1625549,
+        "regularMarketPreviousClose": 381.02,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 380.78,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ABMD",
+        "underlyingSymbol": null,
+        "shortName": "ABIOMED, Inc.",
+        "longName": "Abiomed, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 17180649472
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 16360270848,
+        "forwardPE": 60.768738,
+        "profitMargins": 0.24836001,
+        "floatShares": 44367020,
+        "sharesOutstanding": 45091200,
+        "sharesShort": 753622,
+        "sharesShortPriorMonth": 2082860,
+        "sharesShortPreviousMonthDate": 1667174400,
+        "dateShortInterest": 1669766400,
+        "sharesPercentSharesOut": 0.0167,
+        "heldPercentInsiders": 0.02024,
+        "heldPercentInstitutions": 0.97089994,
+        "shortRatio": 0.39,
+        "shortPercentOfFloat": 0.0216,
+        "beta": 1.397629,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 34.087,
+        "priceToBook": 11.177868,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-03-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-03-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.864,
+        "netIncomeToCommon": 266764000,
+        "trailingEps": 5.83,
+        "forwardEps": 6.27,
+        "pegRatio": 5.28,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "2000-10-02T00:00:00.000Z",
+        "enterpriseToRevenue": 15.232,
+        "enterpriseToEbitda": 59.669,
+        "52WeekChange": 0.24191654,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "22 Cherry Hill Drive",
+        "city": "Danvers",
+        "state": "MA",
+        "zip": "01923",
+        "country": "United States",
+        "phone": "978 646 1400",
+        "fax": "978 777 8411",
+        "website": "https://www.abiomed.com",
+        "industry": "Medical Devices",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Abiomed, Inc. engages in the research, development, and sale of medical devices to assist or replace the pumping function of the failing heart. It also provides a continuum of care to heart failure patients. The company offers Impella 2.5, a percutaneous micro heart pump with integrated motor and sensors; and Impella CP, a device for use by interventional cardiologists to support patients in the cath lab, as well as by cardiac surgeons in the heart surgery suite. It also provides Impella 5.0, Impella LD, and Impella 5.5, which are percutaneous micro heart pumps with integrated motors and sensors for use primarily in the heart surgery suite; Impella RP, a percutaneous catheter-based axial flow pump; Impella SmartAssist platform that includes optical sensor technology for improved pump positioning and the use of algorithms that enable improved native heart assessment during the weaning process; Impella Connect, a cloud-based technology that enables secure and remote viewing of the automated impella controller for physicians and hospital staffs; and OXY-1 System, a portable external respiratory assistance device. In addition, the company is developing Impella ECP, a pump for blood flow of greater than three liters per minute; Impella XR Sheath, a sheath that expands and recoils allowing small bore access and closure with Impella heart pumps; Impella BTR, a percutaneous micro heart pump with integrated motors and sensors; and preCARDIA, a catheter-mounted superior vena cava therapy system designed to rapidly treat acutely decompensated heart failure. Abiomed, Inc. sells its products through direct sales and clinical support personnel in the Germany, France, United States, Japan, Europe, Canada, Latin America, the Asia-Pacific, and the Middle East. The company was founded in 1981 and is headquartered in Danvers, Massachusetts. As of December 22, 2022, Abiomed, Inc. operates as a subsidiary of Johnson & Johnson.",
+        "fullTimeEmployees": 2003,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 381.02,
+        "targetHighPrice": 392,
+        "targetLowPrice": 300,
+        "targetMeanPrice": 363,
+        "targetMedianPrice": 380,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 820371968,
+        "totalCashPerShare": 18.194,
+        "ebitda": 274184000,
+        "totalDebt": 0,
+        "quickRatio": 6.824,
+        "currentRatio": 7.928,
+        "totalRevenue": 1074096000,
+        "debtToEquity": 0.455,
+        "revenuePerShare": 23.609,
+        "returnOnAssets": 0.09554,
+        "returnOnEquity": 0.18244,
+        "grossProfits": 843595000,
+        "freeCashflow": 202012000,
+        "operatingCashflow": 250983008,
+        "earningsGrowth": 0.871,
+        "revenueGrowth": 0.072,
+        "grossMargins": 0.81324995,
+        "ebitdaMargins": 0.25527,
+        "operatingMargins": 0.22961001,
+        "profitMargins": 0.24836001,
+        "financialCurrency": "USD"
+    }
+}

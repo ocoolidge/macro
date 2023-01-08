@@ -1,0 +1,607 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ABCB",
+        "Security_Name": "Ameris Bancorp - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ABCB",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 46.01,
+        "open": 46.6,
+        "dayLow": 46.27,
+        "dayHigh": 47.67,
+        "regularMarketPreviousClose": 46.01,
+        "regularMarketOpen": 46.6,
+        "regularMarketDayLow": 46.27,
+        "regularMarketDayHigh": 47.67,
+        "dividendRate": 0.6,
+        "dividendYield": 0.0126,
+        "exDividendDate": "2022-12-29T00:00:00.000Z",
+        "payoutRatio": 0.1205,
+        "fiveYearAvgDividendYield": 1.3,
+        "beta": 1.155563,
+        "trailingPE": 9.532128,
+        "forwardPE": 8.823421,
+        "volume": 218944,
+        "regularMarketVolume": 218944,
+        "averageVolume": 337987,
+        "averageVolume10days": 240920,
+        "averageDailyVolume10Day": 240920,
+        "bid": 19,
+        "ask": 75.96,
+        "bidSize": 1000,
+        "askSize": 1100,
+        "marketCap": 3292125184,
+        "fiftyTwoWeekLow": 38.22,
+        "fiftyTwoWeekHigh": 55.62,
+        "priceToSalesTrailing12Months": 3.3148952,
+        "fiftyDayAverage": 50.1848,
+        "twoHundredDayAverage": 46.09155,
+        "trailingAnnualDividendRate": 0.6,
+        "trailingAnnualDividendYield": 0.013040644,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 1.18,
+                    "estimate": 1.17
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.17,
+                    "estimate": 1.07
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.3,
+                    "estimate": 1.19
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 1.34,
+                    "estimate": 1.33
+                }
+            ],
+            "currentQuarterEstimate": 1.34,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1674766800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 439637000,
+                    "earnings": 121027000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 677766000,
+                    "earnings": 161441000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 978316000,
+                    "earnings": 261988000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1041196000,
+                    "earnings": 376913000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 241433000,
+                    "earnings": 81944000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 253230000,
+                    "earnings": 81698000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 249442000,
+                    "earnings": 90066000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 259321000,
+                    "earnings": 92555000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1674766800
+            ],
+            "earningsAverage": 1.34,
+            "earningsLow": 1.32,
+            "earningsHigh": 1.36,
+            "revenueAverage": 281120000,
+            "revenueLow": 278760000,
+            "revenueHigh": 283960000
+        },
+        "exDividendDate": "2022-12-29T00:00:00.000Z",
+        "dividendDate": "2023-01-09T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-31T13:21:12.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-31T09:25:30.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-09-14T13:05:05.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-07T13:15:33.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-28T09:43:25.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-30T12:30:01.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-01T12:58:37.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-09-30T10:56:56.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-04-07T12:02:08.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-03-30T11:22:33.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-02-01T12:29:11.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-12-11T14:29:49.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-26T13:27:48.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-10-26T12:06:57.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-30T12:11:30.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-09-23T10:35:45.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-07-28T12:29:42.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-22T10:12:15.000Z",
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-05-05T15:08:22.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-06T20:01:51.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-02T14:58:02.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-25T11:29:07.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-27T12:39:12.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-07-12T10:37:03.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-01-29T12:19:11.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-12-18T15:19:02.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-06-26T11:12:58.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-11-20T14:47:33.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-04-26T13:25:54.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-07-25T13:03:24.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-04-26T07:27:42.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-12-23T14:29:35.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-10-29T03:59:54.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-08-14T15:21:05.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-09T06:50:59.000Z",
+                "firm": "PiperJaffray",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-04-15T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-01-30T09:00:00.000Z",
+                "firm": "Keefe Bruyette & Woods",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-25T07:28:44.000Z",
+                "firm": "Sandler O'Neill",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-04-24T06:16:20.000Z",
+                "firm": "FIG Partners",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-03-18T08:07:18.000Z",
+                "firm": "FIG Partners",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-12-11T07:30:28.000Z",
+                "firm": "Sterne Agee",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:03.000Z",
+        "postMarketPrice": 47.47,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.031732295,
+        "regularMarketChange": 1.4600029,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 47.47,
+        "regularMarketDayHigh": 47.67,
+        "regularMarketDayLow": 46.27,
+        "regularMarketVolume": 218944,
+        "averageDailyVolume10Day": 240920,
+        "averageDailyVolume3Month": 337987,
+        "regularMarketPreviousClose": 46.01,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 46.6,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ABCB",
+        "underlyingSymbol": null,
+        "shortName": "Ameris Bancorp",
+        "longName": "Ameris Bancorp",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 3292125184
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 2803722752,
+        "forwardPE": 8.823421,
+        "profitMargins": 0.34866002,
+        "floatShares": 65317006,
+        "sharesOutstanding": 69351696,
+        "sharesShort": 1519749,
+        "sharesShortPriorMonth": 1470669,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0219,
+        "heldPercentInsiders": 0.05337,
+        "heldPercentInstitutions": 0.9032,
+        "shortRatio": 5.24,
+        "shortPercentOfFloat": 0.031600002,
+        "beta": 1.155563,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 45.121,
+        "priceToBook": 1.0520601,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.133,
+        "netIncomeToCommon": 346263008,
+        "trailingEps": 4.98,
+        "forwardEps": 5.38,
+        "pegRatio": 1.12,
+        "lastSplitFactor": "211:210",
+        "lastSplitDate": "2010-06-28T00:00:00.000Z",
+        "enterpriseToRevenue": 2.823,
+        "52WeekChange": -0.12108868,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.15,
+        "lastDividendDate": 1672272000
+    },
+    "summaryProfile": {
+        "address1": "3490 Piedmont Road NE",
+        "address2": "Suite 1550",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30305",
+        "country": "United States",
+        "phone": "404 639 6500",
+        "website": "https://www.amerisbank.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Ameris Bancorp operates as the bank holding company for Ameris Bank that provides range of banking services to retail and commercial customers primarily in Georgia, Alabama, Florida, North Carolina, and South Carolina. The company operates through five segments: Banking Division, Retail Mortgage Division, Warehouse Lending Division, SBA Division, and Premium Finance Division. It offers commercial and retail checking, regular interest-bearing savings, money market, individual retirement, and certificates of deposit accounts. The company also provides commercial real estate, residential real estate mortgage, agricultural, and commercial and industrial loans; consumer loans, including motor vehicle, home improvement, and home equity loans, as well as loans secured by savings accounts and small unsecured personal credit lines. In addition, it originates, administers, and services commercial insurance premium loans and small business administration loans. The company operates 165 full service domestic banking offices and 35 mortgage and loan production offices. Ameris Bancorp was founded in 1971 and is headquartered in Atlanta, Georgia.",
+        "fullTimeEmployees": 2868,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 47.47,
+        "targetHighPrice": 63,
+        "targetLowPrice": 56,
+        "targetMeanPrice": 60.2,
+        "targetMedianPrice": 60,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 1331168000,
+        "totalCashPerShare": 19.257,
+        "totalDebt": 853486976,
+        "totalRevenue": 993131008,
+        "revenuePerShare": 14.34,
+        "returnOnAssets": 0.014939999,
+        "returnOnEquity": 0.11504,
+        "grossProfits": 1041196000,
+        "operatingCashflow": 1329481984,
+        "earningsGrowth": 0.144,
+        "revenueGrowth": 0.04,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.46188998,
+        "profitMargins": 0.34866002,
+        "financialCurrency": "USD"
+    }
+}

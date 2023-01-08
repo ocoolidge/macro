@@ -1,0 +1,286 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BH",
+        "Security_Name": "Biglari Holdings Inc. Class B Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "10.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BH",
+        "NASDAQ_Symbol": "BH",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 140.1,
+        "open": 141.5,
+        "dayLow": 140.46,
+        "dayHigh": 143.8899,
+        "regularMarketPreviousClose": 140.1,
+        "regularMarketOpen": 141.5,
+        "regularMarketDayLow": 140.46,
+        "regularMarketDayHigh": 143.8899,
+        "exDividendDate": "1996-06-14T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 1.724721,
+        "forwardPE": -19.238928,
+        "volume": 2264,
+        "regularMarketVolume": 2264,
+        "averageVolume": 1824,
+        "averageVolume10days": 1380,
+        "averageDailyVolume10Day": 1380,
+        "bid": 100.82,
+        "ask": 225.58,
+        "bidSize": 1300,
+        "askSize": 800,
+        "marketCap": 442138656,
+        "fiftyTwoWeekLow": 110.56,
+        "fiftyTwoWeekHigh": 167.39,
+        "priceToSalesTrailing12Months": 1.2323736,
+        "fiftyDayAverage": 140.7938,
+        "twoHundredDayAverage": 132.71906,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1659571200,
+                1659916800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 809894000,
+                    "earnings": 19392000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 668838000,
+                    "earnings": 45380000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 433683000,
+                    "earnings": -37989000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 366106000,
+                    "earnings": 35478000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 82083000,
+                    "earnings": -10669000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 98948000,
+                    "earnings": -4823000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 85372000,
+                    "earnings": -298000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 92367000,
+                    "earnings": -73780000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1659571200,
+                1659916800
+            ]
+        },
+        "exDividendDate": "1996-06-14T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2017-01-31T00:00:00.000Z",
+                "firm": "CL King",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-06-13T00:00:00.000Z",
+                "firm": "Societe Generale",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.00090785505,
+        "postMarketChange": 0.130005,
+        "postMarketTime": "2023-01-06T21:01:56.000Z",
+        "postMarketPrice": 143.33,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.02305493,
+        "regularMarketChange": 3.2299957,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 143.33,
+        "regularMarketDayHigh": 143.8899,
+        "regularMarketDayLow": 140.46,
+        "regularMarketVolume": 2264,
+        "averageDailyVolume10Day": 1380,
+        "averageDailyVolume3Month": 1824,
+        "regularMarketPreviousClose": 140.1,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 141.5,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BH",
+        "underlyingSymbol": null,
+        "shortName": "Biglari Holdings Inc.",
+        "longName": "Biglari Holdings Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 442138656
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 87315152,
+        "profitMargins": -0.24966,
+        "floatShares": 206614,
+        "sharesOutstanding": 2068640,
+        "sharesShort": 18133,
+        "sharesShortPriorMonth": 13877,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0058,
+        "heldPercentInsiders": 0.00437,
+        "heldPercentInstitutions": 0.8069,
+        "shortRatio": 6.92,
+        "beta": 1.724721,
+        "category": null,
+        "bookValue": 910.144,
+        "priceToBook": 0.15748058,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -89570000,
+        "trailingEps": -110.052,
+        "forwardEps": -7.45,
+        "lastSplitFactor": "1:1",
+        "lastSplitDate": "2018-05-01T00:00:00.000Z",
+        "enterpriseToRevenue": 0.243,
+        "enterpriseToEbitda": 1.306
+    },
+    "summaryProfile": {
+        "address1": "17802 IH 10 West",
+        "address2": "Suite 400",
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78257",
+        "country": "United States",
+        "phone": "210 344 3400",
+        "website": "https://www.biglariholdings.com",
+        "industry": "Restaurants",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Biglari Holdings Inc., through its subsidiaries, primarily operates and franchises restaurants in the United States. It owns, operates, and franchises restaurants under the Steak n Shake and Western Sizzlin names. As of December 31, 2021, it operated 199 Steak n Shake company-operated restaurants, 159 franchise partner units, and 178 traditional franchise units, as well as 3 Western Sizzlin company-operated restaurants and 38 franchised units. The company also engages in underwriting commercial trucking insurance; selling physical damage and non-trucking liability insurance to truckers; and providing property and casualty insurance. In addition, it operates oil and natural gas properties in the Gulf of Mexico; and publishes and sells magazines and related publishing products under the MAXIM brand name. Further, it licenses media products and services; and engages in the investment activities. The company was formerly known as The Steak n Shake Company and changed its name to Biglari Holdings Inc. in April 2010. Biglari Holdings Inc. was founded in 1934 and is based in San Antonio, Texas.",
+        "fullTimeEmployees": 2633,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 143.33,
+        "recommendationKey": "none",
+        "totalCash": 112283000,
+        "totalCashPerShare": 180.929,
+        "ebitda": 66849000,
+        "totalDebt": 116414000,
+        "quickRatio": 1.007,
+        "currentRatio": 1.088,
+        "totalRevenue": 358769984,
+        "debtToEquity": 23.019,
+        "revenuePerShare": 1166.242,
+        "returnOnAssets": 0.026129998,
+        "returnOnEquity": -0.16006,
+        "grossProfits": 142776000,
+        "freeCashflow": -18262250,
+        "operatingCashflow": 75763000,
+        "revenueGrowth": 0.017,
+        "grossMargins": 0.395,
+        "ebitdaMargins": 0.18632999,
+        "operatingMargins": 0.09946,
+        "profitMargins": -0.24966,
+        "financialCurrency": "USD"
+    }
+}

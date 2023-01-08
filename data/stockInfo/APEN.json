@@ -1,0 +1,422 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "APEN",
+        "Security_Name": "Apollo Endosurgery, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "APEN",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 9.88,
+        "open": 9.89,
+        "dayLow": 9.88,
+        "dayHigh": 9.91,
+        "regularMarketPreviousClose": 9.88,
+        "regularMarketOpen": 9.89,
+        "regularMarketDayLow": 9.88,
+        "regularMarketDayHigh": 9.91,
+        "payoutRatio": 0,
+        "beta": 2.29182,
+        "forwardPE": -16.213116,
+        "volume": 538597,
+        "regularMarketVolume": 538597,
+        "averageVolume": 877198,
+        "averageVolume10days": 836190,
+        "averageDailyVolume10Day": 836190,
+        "bid": 9.85,
+        "ask": 9.91,
+        "bidSize": 800,
+        "askSize": 3200,
+        "marketCap": 390580832,
+        "fiftyTwoWeekLow": 3.49,
+        "fiftyTwoWeekHigh": 10.3,
+        "priceToSalesTrailing12Months": 5.702659,
+        "fiftyDayAverage": 8.2922,
+        "twoHundredDayAverage": 6.0064,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.23,
+                    "estimate": -0.28
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.27,
+                    "estimate": -0.19
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.21,
+                    "estimate": -0.2
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.26,
+                    "estimate": -0.22
+                }
+            ],
+            "currentQuarterEstimate": -0.23,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676851200,
+                1677196800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 60854000,
+                    "earnings": -45787000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 50713000,
+                    "earnings": -27432000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 42048000,
+                    "earnings": -22611000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 62989000,
+                    "earnings": -24682000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 16351000,
+                    "earnings": -6657000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 16171000,
+                    "earnings": -10405000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 16662000,
+                    "earnings": -8414000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 19307000,
+                    "earnings": -10426000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676851200,
+                1677196800
+            ],
+            "earningsAverage": -0.23,
+            "earningsLow": -0.26,
+            "earningsHigh": -0.21,
+            "revenueAverage": 18150000,
+            "revenueLow": 17630000,
+            "revenueHigh": 18400000
+        },
+        "dividendDate": "2016-12-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-05-04T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-23T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-15T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-12-09T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-09-09T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-06-14T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-17T00:00:00.000Z",
+                "firm": "Lake Street",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-11-30T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-28T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-27T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-11-09T00:00:00.000Z",
+                "firm": "Northland Capital Markets",
+                "toGrade": "Underperform",
+                "fromGrade": "Market Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-17T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-04-13T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-09-26T00:00:00.000Z",
+                "firm": "Northland Capital Markets",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-08-02T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-07-24T00:00:00.000Z",
+                "firm": "Craig-Hallum",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.0040444853,
+        "postMarketChange": -0.03999996,
+        "postMarketTime": "2023-01-06T21:08:47.000Z",
+        "postMarketPrice": 9.85,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.0010121689,
+        "regularMarketChange": 0.010000229,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 9.89,
+        "regularMarketDayHigh": 9.91,
+        "regularMarketDayLow": 9.88,
+        "regularMarketVolume": 538597,
+        "averageDailyVolume10Day": 836190,
+        "averageDailyVolume3Month": 877198,
+        "regularMarketPreviousClose": 9.88,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 9.89,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "APEN",
+        "underlyingSymbol": null,
+        "shortName": "Apollo Endosurgery, Inc.",
+        "longName": "Apollo Endosurgery, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 390580832
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 227466896,
+        "forwardPE": -11.915664,
+        "profitMargins": -0.52419,
+        "floatShares": 28403212,
+        "sharesOutstanding": 39492500,
+        "sharesShort": 1256936,
+        "sharesShortPriorMonth": 1098905,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0309,
+        "heldPercentInsiders": 0.08056,
+        "heldPercentInstitutions": 0.74293,
+        "shortRatio": 12.39,
+        "shortPercentOfFloat": 0.0365,
+        "beta": 2.29182,
+        "category": null,
+        "bookValue": 0.261,
+        "priceToBook": 37.89272,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -35902000,
+        "trailingEps": -0.994,
+        "forwardEps": -0.61,
+        "lastSplitFactor": "10:55",
+        "lastSplitDate": "2016-12-30T00:00:00.000Z",
+        "enterpriseToRevenue": 3.321,
+        "enterpriseToEbitda": -10.806
+    },
+    "summaryProfile": {
+        "address1": "Building 1",
+        "address2": "Suite 300 1120 South Capital of Texas Highway",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78746",
+        "country": "United States",
+        "phone": "512 279 5100",
+        "fax": "512 279 5105",
+        "website": "https://www.apolloendo.com",
+        "industry": "Medical Devices",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Apollo Endosurgery, Inc., a medical technology company, focuses on the design, development, and commercialization of medical devices. The company offers OverStitch and OverStitch Sx Endoscopic Suturing Systems that enable advanced endoscopic procedures by allowing physicians to sutures and secure the approximation of tissue through a flexible endoscope. It also provides Orbera, an intragastric balloon system that reduces stomach capacity causing patients to consume less following the procedure, as well as delays gastric content emptying under the Orbera Intragastric Balloon System, BIB, and Orbera365 Managed Weight Loss System brands. Additionally, the company offers X-Tack Endoscopic HeliX Tacking System, a suture-based device for closing and healing defects in the lower and upper gastrointestinal tract. The company sells its products to medical services providers; and hospitals, outpatient surgical centers, clinics, and physicians in the United States, Australia, Costa Rica, and other European countries. Apollo Endosurgery, Inc. was founded in 2005 and is headquartered in Austin, Texas.",
+        "fullTimeEmployees": 202,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 9.89,
+        "targetHighPrice": 14,
+        "targetLowPrice": 10,
+        "targetMeanPrice": 12.6,
+        "targetMedianPrice": 13,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 74736000,
+        "totalCashPerShare": 1.837,
+        "ebitda": -21051000,
+        "totalDebt": 55643000,
+        "quickRatio": 5.324,
+        "currentRatio": 6.371,
+        "totalRevenue": 68491000,
+        "debtToEquity": 115.547,
+        "revenuePerShare": 1.859,
+        "returnOnAssets": -0.15389,
+        "returnOnEquity": -1.4115199,
+        "grossProfits": 34959000,
+        "freeCashflow": -12389000,
+        "operatingCashflow": -22808000,
+        "revenueGrowth": 0.162,
+        "grossMargins": 0.56447,
+        "ebitdaMargins": -0.30735,
+        "operatingMargins": -0.35083,
+        "profitMargins": -0.52419,
+        "financialCurrency": "USD"
+    }
+}

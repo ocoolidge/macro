@@ -1,0 +1,395 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BELFB",
+        "Security_Name": "Bel Fuse Inc. - Class B Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BELFB",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 31.31,
+        "open": 31.65,
+        "dayLow": 31.595,
+        "dayHigh": 33.1819,
+        "regularMarketPreviousClose": 31.31,
+        "regularMarketOpen": 31.65,
+        "regularMarketDayLow": 31.595,
+        "regularMarketDayHigh": 33.1819,
+        "dividendRate": 0.28,
+        "dividendYield": 0.0087,
+        "exDividendDate": "2022-10-13T00:00:00.000Z",
+        "payoutRatio": 0.09689999,
+        "fiveYearAvgDividendYield": 1.74,
+        "trailingPE": 20.118526,
+        "forwardPE": 29.587154,
+        "volume": 49953,
+        "regularMarketVolume": 49953,
+        "averageVolume": 70919,
+        "averageVolume10days": 56630,
+        "averageDailyVolume10Day": 56630,
+        "bid": 32,
+        "ask": 34.64,
+        "bidSize": 1000,
+        "askSize": 1100,
+        "marketCap": 408107616,
+        "fiftyTwoWeekLow": 11.58,
+        "fiftyTwoWeekHigh": 38.49,
+        "priceToSalesTrailing12Months": 0.6455632,
+        "fiftyDayAverage": 34.3828,
+        "twoHundredDayAverage": 24.1563,
+        "trailingAnnualDividendRate": 0.28,
+        "trailingAnnualDividendYield": 0.00894283,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.69,
+                    "estimate": 0.36
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.41,
+                    "estimate": 0.24
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.38,
+                    "estimate": 0.47
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 1.48,
+                    "estimate": 0.83
+                }
+            ],
+            "currentQuarterEstimate": 0.67,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1604016000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 548184000,
+                    "earnings": 20709000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 492412000,
+                    "earnings": -8743000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 465771000,
+                    "earnings": 12795000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 543494000,
+                    "earnings": 24821000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 147143000,
+                    "earnings": 8008000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 136718000,
+                    "earnings": 5064000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 170572000,
+                    "earnings": 17038000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 177739000,
+                    "earnings": 16548000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1604016000
+            ],
+            "earningsAverage": 0.67,
+            "earningsLow": 0.67,
+            "earningsHigh": 0.67,
+            "revenueAverage": 156000000,
+            "revenueLow": 155000000,
+            "revenueHigh": 157000000
+        },
+        "exDividendDate": "2022-10-13T00:00:00.000Z",
+        "dividendDate": "2023-02-01T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-07-29T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-28T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-05-04T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-19T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-03T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-17T00:00:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-17T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-21T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-01-19T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-01-18T00:00:00.000Z",
+                "firm": "B. Riley",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-07-31T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-02-14T00:00:00.000Z",
+                "firm": "Needham",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.00775194,
+        "postMarketChange": -0.25,
+        "postMarketTime": "2023-01-06T21:30:01.000Z",
+        "postMarketPrice": 32,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.030022375,
+        "regularMarketChange": 0.94000053,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 32.25,
+        "regularMarketDayHigh": 33.1819,
+        "regularMarketDayLow": 31.595,
+        "regularMarketVolume": 49953,
+        "averageDailyVolume10Day": 56630,
+        "averageDailyVolume3Month": 70919,
+        "regularMarketPreviousClose": 31.31,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 31.65,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BELFB",
+        "underlyingSymbol": null,
+        "shortName": "Bel Fuse Inc.",
+        "longName": "Bel Fuse Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 408107616
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 461047648,
+        "forwardPE": 9.347826,
+        "profitMargins": 0.0738,
+        "floatShares": 11841424,
+        "sharesOutstanding": 10260600,
+        "sharesShort": 128562,
+        "sharesShortPriorMonth": 105829,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.010299999,
+        "heldPercentInsiders": 0.02348,
+        "heldPercentInstitutions": 0.61957,
+        "shortRatio": 1.98,
+        "category": null,
+        "bookValue": 15.089,
+        "priceToBook": 2.1373186,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 1.886,
+        "netIncomeToCommon": 46657000,
+        "trailingEps": 1.603,
+        "forwardEps": 1.09,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "1999-12-02T00:00:00.000Z",
+        "enterpriseToRevenue": 0.729,
+        "enterpriseToEbitda": 5.987
+    },
+    "summaryProfile": {
+        "address1": "206 Van Vorst Street",
+        "city": "Jersey City",
+        "state": "NJ",
+        "zip": "07302",
+        "country": "United States",
+        "phone": "201 432 0463",
+        "website": "https://www.belfuse.com",
+        "industry": "Electronic Components",
+        "sector": "Technology",
+        "longBusinessSummary": "Bel Fuse Inc. designs, manufactures, markets, and sells products that are used in the networking, telecommunication, high-speed data transmission, commercial aerospace, military, broadcasting, transportation, e-Mobility and broadcasting, and consumer electronic industries in the United States, Macao, the United Kingdom, Slovakia, Germany, Switzerland, and internationally. It offers magnetic products, such as integrated connector modules; power transformers; SMD power inductors and SMPS transformers; and ethernet discrete components. The company also provides power solutions and protection products comprising front-end power supplies; board-mount power; industrial power; external power; and circuit protection products. In addition, it offers connectivity solutions, which includes expanded beam fiber optic connectors, cable assemblies, and active optical devices; copper-based connectors/cable assemblies; radio frequency connectors, cable assemblies, microwave devices, and low loss cables; and ethernet, I/O, and industrial and power connectivity. The company sells its products under the Bel, TRP Connector, MagJack, Signal, Bel Power Solutions, Melcher, CUI, Stratos, Fibreco, Cinch, Johnson, Trompeter, Midwest Microwave, Semflex, and Stewart Connector brands through direct strategic account managers, regional sales managers working with independent sales representative organizations, and authorized distributors. Bel Fuse Inc. was incorporated in 1949 and is headquartered in Jersey City, New Jersey.",
+        "fullTimeEmployees": 6300,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 32.25,
+        "targetHighPrice": 40,
+        "targetLowPrice": 30,
+        "targetMeanPrice": 35,
+        "targetMedianPrice": 35,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 70895000,
+        "totalCashPerShare": 5.68,
+        "ebitda": 77013000,
+        "totalDebt": 130896000,
+        "quickRatio": 1.27,
+        "currentRatio": 2.753,
+        "totalRevenue": 632172992,
+        "debtToEquity": 55.457,
+        "revenuePerShare": 50.602,
+        "returnOnAssets": 0.07276,
+        "returnOnEquity": 0.21391001,
+        "grossProfits": 134383000,
+        "earningsGrowth": 1.87,
+        "revenueGrowth": 0.209,
+        "grossMargins": 0.26925,
+        "ebitdaMargins": 0.12182,
+        "operatingMargins": 0.09589,
+        "profitMargins": 0.0738,
+        "financialCurrency": "USD"
+    }
+}

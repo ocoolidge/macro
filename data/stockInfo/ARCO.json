@@ -1,0 +1,569 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ARCO",
+        "Security_Name": "Arcos Dorados Holdings Inc. Class A Shares",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ARCO",
+        "NASDAQ_Symbol": "ARCO",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 8,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 8,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 7.86,
+        "open": 7.91,
+        "dayLow": 7.8638,
+        "dayHigh": 8.17,
+        "regularMarketPreviousClose": 7.86,
+        "regularMarketOpen": 7.91,
+        "regularMarketDayLow": 7.8638,
+        "regularMarketDayHigh": 8.17,
+        "dividendRate": 0.12,
+        "dividendYield": 0.0163,
+        "exDividendDate": "2022-12-22T00:00:00.000Z",
+        "payoutRatio": 0.1509,
+        "beta": 1.096904,
+        "forwardPE": 31.307695,
+        "volume": 726472,
+        "regularMarketVolume": 726472,
+        "averageVolume": 867522,
+        "averageVolume10days": 754140,
+        "averageDailyVolume10Day": 754140,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1400,
+        "askSize": 800,
+        "marketCap": 1713291008,
+        "fiftyTwoWeekLow": 5.1,
+        "fiftyTwoWeekHigh": 8.44,
+        "priceToSalesTrailing12Months": 0.5379748,
+        "fiftyDayAverage": 7.5468,
+        "twoHundredDayAverage": 7.38925,
+        "trailingAnnualDividendRate": 0.05,
+        "trailingAnnualDividendYield": 0.006361323,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.12,
+                    "estimate": 0.06
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.22,
+                    "estimate": 0.16
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.12,
+                    "estimate": 0.06
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.07,
+                    "estimate": 0.12
+                }
+            ],
+            "currentQuarterEstimate": 0.11,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678752000,
+                1679270400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 3081571000,
+                    "earnings": 36847000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 2959077000,
+                    "earnings": 79896000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1984219000,
+                    "earnings": -149451000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 2659941000,
+                    "earnings": 45486000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 725836000,
+                    "earnings": 24705000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 780293000,
+                    "earnings": 45561000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 790681000,
+                    "earnings": 24503000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 887895000,
+                    "earnings": 14481000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678752000,
+                1679270400
+            ],
+            "earningsAverage": 0.11,
+            "earningsLow": 0.1,
+            "earningsHigh": 0.13,
+            "revenueAverage": 902190000,
+            "revenueLow": 899000000,
+            "revenueHigh": 905390000
+        },
+        "exDividendDate": "2022-12-22T00:00:00.000Z",
+        "dividendDate": "2022-12-30T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-27T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-08-17T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-15T00:00:00.000Z",
+                "firm": "Bradesco Corretora",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-03-24T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-02-23T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-01-19T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-04-23T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-01-28T00:00:00.000Z",
+                "firm": "Bradesco Corretora",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-07-02T00:00:00.000Z",
+                "firm": "Bradesco Corretora",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-06-02T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-03T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-21T00:00:00.000Z",
+                "firm": "Bradesco Corretora",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-10-21T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-07-26T00:00:00.000Z",
+                "firm": "Bradesco Corretora",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-07-10T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-11-15T00:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-04-11T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-10-24T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-08-12T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-07-15T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-01-27T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-11-11T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-08-26T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-08-21T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-07-22T00:00:00.000Z",
+                "firm": "HSBC",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-06-09T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-01-22T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-10-29T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-07-16T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-06-21T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-06-11T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-05-02T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-04-08T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-05-07T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-04-25T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-03-09T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.0356266,
+        "postMarketChange": -0.29,
+        "postMarketTime": "2023-01-06T22:14:59.000Z",
+        "postMarketPrice": 7.85,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.035623435,
+        "regularMarketChange": 0.2800002,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 8.14,
+        "regularMarketDayHigh": 8.17,
+        "regularMarketDayLow": 7.8638,
+        "regularMarketVolume": 726472,
+        "averageDailyVolume10Day": 754140,
+        "averageDailyVolume3Month": 867522,
+        "regularMarketPreviousClose": 7.86,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 7.91,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ARCO",
+        "underlyingSymbol": null,
+        "shortName": "Arcos Dorados Holdings Inc.",
+        "longName": "Arcos Dorados Holdings Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1713291008
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 2843698944,
+        "forwardPE": 15.074074,
+        "profitMargins": 0.0343,
+        "floatShares": 130593889,
+        "sharesOutstanding": 130478000,
+        "sharesShort": 709849,
+        "sharesShortPriorMonth": 609787,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0034,
+        "heldPercentInsiders": 0.03703,
+        "heldPercentInstitutions": 0.4166,
+        "shortRatio": 0.76,
+        "shortPercentOfFloat": 0.0076,
+        "beta": 1.096904,
+        "category": null,
+        "bookValue": 0.953,
+        "priceToBook": 8.541449,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 1.936,
+        "netIncomeToCommon": 109250000,
+        "trailingEps": -0.73,
+        "forwardEps": 0.26,
+        "pegRatio": 0.37,
+        "lastSplitFactor": "71:70",
+        "lastSplitDate": "2021-07-13T00:00:00.000Z",
+        "enterpriseToRevenue": 0.893,
+        "enterpriseToEbitda": 8.137
+    },
+    "summaryProfile": {
+        "address1": "Dr. Luis Bonavita 1294",
+        "address2": "5th Floor Office 501 WTC Free Zone",
+        "city": "Montevideo",
+        "zip": "11300",
+        "country": "Uruguay",
+        "phone": "598 2626 3000",
+        "fax": "598 2626 3018",
+        "website": "https://www.arcosdorados.com",
+        "industry": "Restaurants",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Arcos Dorados Holdings Inc. operates as a franchisee of McDonald's restaurants. The company has the exclusive right to own, operate, and grant franchises of McDonald's restaurants in 20 countries and territories in Latin America and the Caribbean, including Argentina, Aruba, Brazil, Chile, Colombia, Costa Rica, Curacao, Ecuador, French Guiana, Guadeloupe, Martinique, Mexico, Panama, Peru, Puerto Rico, Trinidad and Tobago, Uruguay, the U.S. Virgin Islands of St. Croix and St. Thomas, and Venezuela. As of December 31, 2021, it operated or franchised 2,261 restaurants. The company was founded in 2007 and is based in Montevideo, Uruguay.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 8.14,
+        "targetHighPrice": 12,
+        "targetLowPrice": 8,
+        "targetMeanPrice": 10.05,
+        "targetMedianPrice": 10,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 289417984,
+        "totalCashPerShare": 1.374,
+        "ebitda": 349488000,
+        "totalDebt": 1584743936,
+        "quickRatio": 0.635,
+        "currentRatio": 0.863,
+        "totalRevenue": 3184705024,
+        "debtToEquity": 739.712,
+        "revenuePerShare": 15.13,
+        "returnOnAssets": 0.06104,
+        "returnOnEquity": 0.56238,
+        "grossProfits": 324059000,
+        "freeCashflow": 206805872,
+        "operatingCashflow": 345388992,
+        "earningsGrowth": 2.432,
+        "revenueGrowth": 0.498,
+        "grossMargins": 0.13954,
+        "ebitdaMargins": 0.10974,
+        "operatingMargins": 0.07179,
+        "profitMargins": 0.0343,
+        "financialCurrency": "USD"
+    }
+}

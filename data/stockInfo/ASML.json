@@ -1,0 +1,927 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ASML",
+        "Security_Name": "ASML Holding N.V. - New York Registry Shares",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ASML",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 6,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 6,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 6,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 565.32,
+        "open": 575.33,
+        "dayLow": 567.47,
+        "dayHigh": 598.6845,
+        "regularMarketPreviousClose": 565.32,
+        "regularMarketOpen": 575.33,
+        "regularMarketDayLow": 567.47,
+        "regularMarketDayHigh": 598.6845,
+        "dividendRate": 6.63,
+        "dividendYield": 0.0137,
+        "exDividendDate": "2022-11-03T00:00:00.000Z",
+        "payoutRatio": 0.495,
+        "fiveYearAvgDividendYield": 0.82,
+        "beta": 1.176294,
+        "trailingPE": 45.983173,
+        "forwardPE": 34.926727,
+        "volume": 1025980,
+        "regularMarketVolume": 1025980,
+        "averageVolume": 1340487,
+        "averageVolume10days": 840890,
+        "averageDailyVolume10Day": 840890,
+        "bid": 595.5,
+        "ask": 596,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 242197512192,
+        "fiftyTwoWeekLow": 363.15,
+        "fiftyTwoWeekHigh": 777.92,
+        "priceToSalesTrailing12Months": 12.276343,
+        "fiftyDayAverage": 558.813,
+        "twoHundredDayAverage": 533.7662,
+        "trailingAnnualDividendRate": 2.75,
+        "trailingAnnualDividendYield": 0.0048645013,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 5.01,
+                    "estimate": 4.26
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.94,
+                    "estimate": 1.78
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 3.77,
+                    "estimate": 3.81
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 4.32,
+                    "estimate": 4.01
+                }
+            ],
+            "currentQuarterEstimate": 4.75,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 10944000000,
+                    "earnings": 2591600000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 11820000000,
+                    "earnings": 2592300000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 13978500000,
+                    "earnings": 3553700000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 18611000000,
+                    "earnings": 5883200000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 4985600000,
+                    "earnings": 1773400000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 3534400000,
+                    "earnings": 695300000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 5430500000,
+                    "earnings": 1410900000
+                },
+                {
+                    "date": "4Q2022",
+                    "revenue": 5778300000,
+                    "earnings": 1701500000
+                }
+            ]
+        },
+        "financialCurrency": "EUR"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [],
+            "earningsAverage": 4.75,
+            "earningsLow": 4.39,
+            "earningsHigh": 5.11,
+            "revenueAverage": 6595700000,
+            "revenueLow": 6241600000,
+            "revenueHigh": 6949800000
+        },
+        "exDividendDate": "2022-11-03T00:00:00.000Z",
+        "dividendDate": "2022-11-14T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-21T00:00:00.000Z",
+                "firm": "New Street Research",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-10-20T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-10-10T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-21T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-15T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-29T00:00:00.000Z",
+                "firm": "Argus Research",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-04-18T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-10-15T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-09-28T00:00:00.000Z",
+                "firm": "New Street Research",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-09-08T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-07-16T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-04-16T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-22T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-02-02T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-07-29T00:00:00.000Z",
+                "firm": "Bernstein",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-07-09T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-16T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-25T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-20T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-01-23T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-20T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-12-04T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-10-14T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-19T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-07-29T00:00:00.000Z",
+                "firm": "ABN Amro",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-07-15T00:00:00.000Z",
+                "firm": "Santander",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-06-20T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-10-31T00:00:00.000Z",
+                "firm": "Santander",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-10-23T00:00:00.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Neutral",
+                "fromGrade": "Positive",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-19T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-19T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Outperform",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-07-16T00:00:00.000Z",
+                "firm": "BlueFin",
+                "toGrade": "Positive",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-06-13T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-15T00:00:00.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-10-19T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-19T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-09-18T00:00:00.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Positive",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-03-10T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-01-19T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-12-19T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-08-17T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-07-21T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-04-21T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-04-19T00:00:00.000Z",
+                "firm": "Summit Insights Group",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-04-19T00:00:00.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Neutral",
+                "fromGrade": "Positive",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-31T00:00:00.000Z",
+                "firm": "Exane BNP Paribas",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-03-17T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-01-22T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-21T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-08-28T00:00:00.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-07-21T00:00:00.000Z",
+                "firm": "SNS Securities",
+                "toGrade": "Accumulate",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-07-10T00:00:00.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Positive",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-07-02T00:00:00.000Z",
+                "firm": "Liberum",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-04-16T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-04-15T00:00:00.000Z",
+                "firm": "Summit Insights Group",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-03-26T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-03-19T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-03-06T00:00:00.000Z",
+                "firm": "Pacific Crest",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-11-20T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-08-27T00:00:00.000Z",
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-07-21T00:00:00.000Z",
+                "firm": "Pacific Crest",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-04-17T00:00:00.000Z",
+                "firm": "Northland Capital Markets",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-17T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-16T00:00:00.000Z",
+                "firm": "ISI Group",
+                "toGrade": "Neutral",
+                "fromGrade": "Cautious",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-04-10T00:00:00.000Z",
+                "firm": "ISI Group",
+                "toGrade": "Cautious",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-01-23T00:00:00.000Z",
+                "firm": "LBBW Research",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-01-22T00:00:00.000Z",
+                "firm": "Commerzbank",
+                "toGrade": "Hold",
+                "fromGrade": "Reduce",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-01-14T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-11-26T00:00:00.000Z",
+                "firm": "Societe Generale",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-10-18T00:00:00.000Z",
+                "firm": "Baader Bank",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-10-17T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-10-10T00:00:00.000Z",
+                "firm": "Susquehanna",
+                "toGrade": "Neutral",
+                "fromGrade": "Positive",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-23T00:00:00.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-07-08T00:00:00.000Z",
+                "firm": "Redburn Partners",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-04-18T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-03-04T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Underperform",
+                "fromGrade": "Sector Perform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-30T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-01-28T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-01-22T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-01-17T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-01-07T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-12-14T00:00:00.000Z",
+                "firm": "Pacific Crest",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-12-14T00:00:00.000Z",
+                "firm": "Caris & Co.",
+                "toGrade": "Average",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-18T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-09T00:00:00.000Z",
+                "firm": "CLSA",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-09-19T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-08-28T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Sell",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-06-21T00:00:00.000Z",
+                "firm": "Bernstein",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.00023488062,
+        "postMarketChange": -0.13995361,
+        "postMarketTime": "2023-01-07T00:58:24.000Z",
+        "postMarketPrice": 595.71,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.054004755,
+        "regularMarketChange": 30.529968,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 595.85,
+        "regularMarketDayHigh": 598.6845,
+        "regularMarketDayLow": 567.47,
+        "regularMarketVolume": 1025980,
+        "averageDailyVolume10Day": 840890,
+        "averageDailyVolume3Month": 1340487,
+        "regularMarketPreviousClose": 565.32,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 575.33,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ASML",
+        "underlyingSymbol": null,
+        "shortName": "ASML Holding N.V. - New York Re",
+        "longName": "ASML Holding N.V.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 242197512192
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 192697466880,
+        "forwardPE": 30.03276,
+        "profitMargins": 0.28289,
+        "floatShares": 396089064,
+        "sharesOutstanding": 406473984,
+        "sharesShort": 918241,
+        "sharesShortPriorMonth": 643284,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0023,
+        "heldPercentInsiders": 0.000040000003,
+        "heldPercentInstitutions": 0.19770001,
+        "shortRatio": 0.74,
+        "beta": 1.176294,
+        "category": null,
+        "bookValue": 32.817,
+        "priceToBook": 18.156746,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-10-02T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.022,
+        "netIncomeToCommon": 5581100032,
+        "trailingEps": 12.958,
+        "forwardEps": 17.06,
+        "pegRatio": 1.12,
+        "lastSplitFactor": "77:100",
+        "lastSplitDate": "2012-11-29T00:00:00.000Z",
+        "enterpriseToRevenue": 9.767,
+        "enterpriseToEbitda": 28.739
+    },
+    "summaryProfile": {
+        "address1": "De Run 6501",
+        "city": "Veldhoven",
+        "zip": "5504 DR",
+        "country": "Netherlands",
+        "phone": "31 480 235 0934",
+        "website": "https://www.asml.com",
+        "industry": "Semiconductor Equipment & Materials",
+        "sector": "Technology",
+        "longBusinessSummary": "ASML Holding N.V. develops, produces, markets, sells, and services advanced semiconductor equipment systems consisting of lithography, metrology, and inspection related systems for memory and logic chipmakers. The company provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography solutions to manufacture various range of semiconductor nodes and technologies. It also offers metrology and inspection systems, including YieldStar optical metrology solutions to measure the quality of patterns on the wafers; and HMI e-beam solutions to locate and analyze individual chip defects. In addition, the company provides computational lithography and software solutions to create applications that enhance the setup of the lithography system; and mature products and services that refurbish used lithography equipment and offers associated services. It operates in Japan, South Korea, Singapore, Taiwan, China, the Netherlands, Europe, the United States, and rest of Asia. The company was formerly known as ASM Lithography Holding N.V. and changed its name to ASML Holding N.V. in 2001. ASML Holding N.V. was founded in 1984 and is headquartered in Veldhoven, the Netherlands.",
+        "fullTimeEmployees": 34720,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 595.85,
+        "targetHighPrice": 856.54,
+        "targetLowPrice": 400,
+        "targetMeanPrice": 601.22,
+        "targetMedianPrice": 567.89,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 3362800128,
+        "totalCashPerShare": 8.488,
+        "ebitda": 6705099776,
+        "totalDebt": 3503099904,
+        "quickRatio": 0.714,
+        "currentRatio": 1.259,
+        "totalRevenue": 19728799744,
+        "debtToEquity": 44.036,
+        "revenuePerShare": 49.224,
+        "returnOnAssets": 0.12882,
+        "returnOnEquity": 0.57367,
+        "grossProfits": 9809000000,
+        "freeCashflow": 4658437632,
+        "operatingCashflow": 9553300480,
+        "earningsGrowth": 0.007,
+        "revenueGrowth": 0.102,
+        "grossMargins": 0.51142,
+        "ebitdaMargins": 0.33986,
+        "operatingMargins": 0.31396,
+        "profitMargins": 0.28289,
+        "financialCurrency": "EUR"
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AGX",
+        "Security_Name": "Argan, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AGX",
+        "NASDAQ_Symbol": "AGX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 36.44,
+        "open": 36.91,
+        "dayLow": 36.8,
+        "dayHigh": 37.29,
+        "regularMarketPreviousClose": 36.44,
+        "regularMarketOpen": 36.91,
+        "regularMarketDayLow": 36.8,
+        "regularMarketDayHigh": 37.29,
+        "dividendRate": 1,
+        "dividendYield": 0.0274,
+        "exDividendDate": "2023-01-19T00:00:00.000Z",
+        "payoutRatio": 0.6667,
+        "fiveYearAvgDividendYield": 2.5,
+        "beta": 0.588419,
+        "trailingPE": 24.653334,
+        "forwardPE": 12.62116,
+        "volume": 65512,
+        "regularMarketVolume": 65512,
+        "averageVolume": 63090,
+        "averageVolume10days": 58560,
+        "averageDailyVolume10Day": 58560,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 502051552,
+        "fiftyTwoWeekLow": 31.26,
+        "fiftyTwoWeekHigh": 42.15,
+        "priceToSalesTrailing12Months": 1.0870869,
+        "fiftyDayAverage": 36.0932,
+        "twoHundredDayAverage": 36.37105,
+        "trailingAnnualDividendRate": 1,
+        "trailingAnnualDividendYield": 0.027442371,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "1Q2022",
+                    "actual": 0.14,
+                    "estimate": 0.25
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.5,
+                    "estimate": 0.3
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.3,
+                    "estimate": 0.38
+                },
+                {
+                    "date": "4Q2022",
+                    "actual": 0.56,
+                    "estimate": 0.7
+                }
+            ],
+            "currentQuarterEstimate": 0.71,
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2023,
+            "earningsDate": [
+                1670447700
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 482153000,
+                    "earnings": 52036000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 238997000,
+                    "earnings": -42689000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 392206000,
+                    "earnings": 23851000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 509370000,
+                    "earnings": 38244000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2022",
+                    "revenue": 125570000,
+                    "earnings": 2215000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 100277000,
+                    "earnings": 7485000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 118110000,
+                    "earnings": 4222000
+                },
+                {
+                    "date": "4Q2022",
+                    "revenue": 117875000,
+                    "earnings": 7758000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1670447700
+            ],
+            "earningsAverage": 0.71,
+            "earningsLow": 0.71,
+            "earningsHigh": 0.71,
+            "revenueAverage": 125900000,
+            "revenueLow": 125900000,
+            "revenueHigh": 125900000
+        },
+        "exDividendDate": "2023-01-19T00:00:00.000Z",
+        "dividendDate": "2023-01-31T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2018-03-28T16:48:47.000Z",
+                "firm": "Lake Street",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-12-07T13:43:08.000Z",
+                "firm": "Lake Street",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-10-21T14:03:38.000Z",
+                "firm": "Singular Research",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-09-15T10:52:48.000Z",
+                "firm": "Avondale Partners",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-07-19T11:00:59.000Z",
+                "firm": "Avondale Partners",
+                "toGrade": "Market Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.000541138,
+        "postMarketChange": 0.0200005,
+        "postMarketTime": "2023-01-06T21:02:17.000Z",
+        "postMarketPrice": 36.98,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.014818906,
+        "regularMarketChange": 0.5400009,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 36.98,
+        "regularMarketDayHigh": 37.29,
+        "regularMarketDayLow": 36.8,
+        "regularMarketVolume": 65512,
+        "averageDailyVolume10Day": 58560,
+        "averageDailyVolume3Month": 63090,
+        "regularMarketPreviousClose": 36.44,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 36.91,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AGX",
+        "underlyingSymbol": null,
+        "shortName": "Argan, Inc.",
+        "longName": "Argan, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 502051552
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 210013824,
+        "forwardPE": 12.62116,
+        "profitMargins": 0.04694,
+        "floatShares": 12861358,
+        "sharesOutstanding": 13576300,
+        "sharesShort": 239409,
+        "sharesShortPriorMonth": 239893,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0176,
+        "heldPercentInsiders": 0.05187,
+        "heldPercentInstitutions": 0.86047995,
+        "shortRatio": 3.85,
+        "shortPercentOfFloat": 0.0217,
+        "beta": 0.588419,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 20.075,
+        "priceToBook": 1.842092,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-01-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-01-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-10-31T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.374,
+        "netIncomeToCommon": 21680000,
+        "trailingEps": 1.5,
+        "forwardEps": 2.93,
+        "pegRatio": 1.78,
+        "lastSplitFactor": "1:15",
+        "lastSplitDate": "2001-10-09T00:00:00.000Z",
+        "enterpriseToRevenue": 0.455,
+        "enterpriseToEbitda": 4.914,
+        "52WeekChange": -0.052523673,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.25,
+        "lastDividendDate": 1666224000
+    },
+    "summaryProfile": {
+        "address1": "One Church Street",
+        "address2": "Suite 201",
+        "city": "Rockville",
+        "state": "MD",
+        "zip": "20850",
+        "country": "United States",
+        "phone": "301 315 0027",
+        "fax": "301 315 0064",
+        "website": "https://www.arganinc.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Argan, Inc., through its subsidiaries, provides engineering, procurement, construction, commissioning, operations management, maintenance, project development, technical, and consulting services to the power generation and renewable energy markets. The company operates through Power Industry Services, Industrial Fabrication and Field Services, and Telecommunications Infrastructure Services segments. The Power Industry Services segment offers engineering, procurement, and construction contracting services to the owners of alternative energy facilities, such as biomass plants, wind farms, and solar fields; and design, construction, project management, start-up, and operation services for projects with approximately 15 gigawatts of power-generating capacity. This segment serves independent power project owners, public utilities, power plant equipment suppliers, and energy plant construction companies. The Industrial Fabrication and Field Services segment provides industrial field, and pipe and vessel fabrication services for forest products, industrial gas, fertilizer, and mining companies in southeast region of the United States. The Telecommunications Infrastructure Services segment offers trenchless directional boring and excavation for underground communication and power networks, as well as aerial cabling services; and installs buried cable, high and low voltage electric lines, and private area outdoor lighting systems. It also provides structured cabling, terminations, and connectivity that offers the physical transport for high-speed data, voice, video, and security networks. This segment serves state and local government agencies, regional communications service providers, electric utilities, and other commercial customers, as well as federal government facilities comprising cleared facilities in the mid-Atlantic region of the United States. Argan, Inc. was incorporated in 1961 and is headquartered in Rockville, Maryland.",
+        "fullTimeEmployees": 1358,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 36.98,
+        "targetHighPrice": 61,
+        "targetLowPrice": 46,
+        "targetMeanPrice": 53.5,
+        "targetMedianPrice": 53.5,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 286631008,
+        "totalCashPerShare": 21.113,
+        "ebitda": 42734000,
+        "totalDebt": 2722000,
+        "quickRatio": 2.498,
+        "currentRatio": 2.713,
+        "totalRevenue": 461832000,
+        "debtToEquity": 1.002,
+        "revenuePerShare": 31.636,
+        "returnOnAssets": 0.047399998,
+        "returnOnEquity": 0.0616,
+        "grossProfits": 97632000,
+        "freeCashflow": -92228248,
+        "operatingCashflow": -86272000,
+        "earningsGrowth": -0.282,
+        "revenueGrowth": -0.053,
+        "grossMargins": 0.18722,
+        "ebitdaMargins": 0.092530005,
+        "operatingMargins": 0.08408,
+        "profitMargins": 0.04694,
+        "financialCurrency": "USD"
+    }
+}

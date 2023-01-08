@@ -1,0 +1,420 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AMSWA",
+        "Security_Name": "American Software, Inc. - Class A Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AMSWA",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 15.02,
+        "open": 15.16,
+        "dayLow": 14.657,
+        "dayHigh": 15.235,
+        "regularMarketPreviousClose": 15.02,
+        "regularMarketOpen": 15.16,
+        "regularMarketDayLow": 14.657,
+        "regularMarketDayHigh": 15.235,
+        "dividendRate": 0.44,
+        "dividendYield": 0.026600001,
+        "exDividendDate": "2022-11-17T00:00:00.000Z",
+        "payoutRatio": 1.2941,
+        "fiveYearAvgDividendYield": 2.84,
+        "beta": 0.858142,
+        "trailingPE": 86.19883,
+        "forwardPE": 56.69231,
+        "volume": 134301,
+        "regularMarketVolume": 134301,
+        "averageVolume": 137454,
+        "averageVolume10days": 111280,
+        "averageDailyVolume10Day": 111280,
+        "bid": 12.93,
+        "ask": 23.52,
+        "bidSize": 1200,
+        "askSize": 1100,
+        "marketCap": 493757568,
+        "fiftyTwoWeekLow": 13.39,
+        "fiftyTwoWeekHigh": 25.71,
+        "priceToSalesTrailing12Months": 3.8105047,
+        "fiftyDayAverage": 15.1972,
+        "twoHundredDayAverage": 16.65915,
+        "trailingAnnualDividendRate": 0.44,
+        "trailingAnnualDividendYield": 0.029294273,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.12,
+                    "estimate": 0.07
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.11,
+                    "estimate": 0.07
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.13,
+                    "estimate": 0.08
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.1,
+                    "estimate": 0.07
+                }
+            ],
+            "currentQuarterEstimate": 0.08,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1676937600,
+                1677456000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 108706000,
+                    "earnings": 6803000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 115466000,
+                    "earnings": 6742000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 111408000,
+                    "earnings": 8089000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 127553000,
+                    "earnings": 12782000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 31211000,
+                    "earnings": 3314000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 32422000,
+                    "earnings": 2940000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 34649000,
+                    "earnings": 3581000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 31296000,
+                    "earnings": 2133000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1676937600,
+                1677456000
+            ],
+            "earningsAverage": 0.08,
+            "earningsLow": 0.07,
+            "earningsHigh": 0.1,
+            "revenueAverage": 32890000,
+            "revenueLow": 32500000,
+            "revenueHigh": 33100000
+        },
+        "exDividendDate": "2022-11-17T00:00:00.000Z",
+        "dividendDate": "2023-02-17T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-06-06T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-12-20T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-19T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-09-14T00:00:00.000Z",
+                "firm": "Maxim Group",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-02-21T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-02-21T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-11-19T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-29T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-04-04T00:00:00.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-09-17T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-28T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-06-22T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-12-04T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-08-02T00:00:00.000Z",
+                "firm": "Sidoti & Co.",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-06-07T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.04952507,
+        "postMarketChange": -0.72999954,
+        "postMarketTime": "2023-01-06T23:40:20.000Z",
+        "postMarketPrice": 14.01,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.018641856,
+        "regularMarketChange": -0.2800007,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 14.74,
+        "regularMarketDayHigh": 15.235,
+        "regularMarketDayLow": 14.657,
+        "regularMarketVolume": 134301,
+        "averageDailyVolume10Day": 111280,
+        "averageDailyVolume3Month": 137454,
+        "regularMarketPreviousClose": 15.02,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 15.16,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AMSWA",
+        "underlyingSymbol": null,
+        "shortName": "American Software, Inc.",
+        "longName": "American Software, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 493757568
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 443010624,
+        "forwardPE": 29.48,
+        "profitMargins": 0.09236,
+        "floatShares": 29652041,
+        "sharesOutstanding": 31676200,
+        "sharesShort": 491939,
+        "sharesShortPriorMonth": 373100,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0146,
+        "heldPercentInsiders": 0.01114,
+        "heldPercentInstitutions": 0.76413,
+        "shortRatio": 3.37,
+        "shortPercentOfFloat": 0.0156,
+        "beta": 0.858142,
+        "category": null,
+        "bookValue": 3.681,
+        "priceToBook": 4.0043464,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-04-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-04-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-07-31T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.276,
+        "netIncomeToCommon": 11968000,
+        "trailingEps": 0.171,
+        "forwardEps": 0.26,
+        "pegRatio": 2.95,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": "1990-07-24T00:00:00.000Z",
+        "enterpriseToRevenue": 3.419,
+        "enterpriseToEbitda": 29.573
+    },
+    "summaryProfile": {
+        "address1": "470 East Paces Ferry Road, NE",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30305",
+        "country": "United States",
+        "phone": "404 261 4381",
+        "fax": "404 264 5206",
+        "website": "https://www.amsoftware.com",
+        "industry": "Software—Application",
+        "sector": "Technology",
+        "longBusinessSummary": "American Software, Inc. develops, markets, and supports a range of computer business application software products in the United States and internationally. The company operates in three segments: Supply Chain Management (SCM), Information Technology Consulting (IT Consulting), and Other. The SCM segment offers Logility Digital Supply Chain Platform, a cloud-architected supply chain management platform that helps manage seven critical planning processes, such as product, demand, inventory, supply, deploy, integrated business planning, and supply chain data management. The IT Consulting segment provides IT staffing and consulting services, such as software enhancement, documentation, update, customer education, consulting, systems integration, maintenance, and support services. The Other segment offers American Software ERP, which provides purchasing and materials management, customer order processing, financial, e-commerce, and traditional manufacturing solutions. It also provides ongoing support and maintenance services; cloud hosting and managed services; and implementation and training services. The company markets its products through direct and indirect sales channels to the apparel and other soft goods, food and beverage, consumer packaged goods, consumer durable goods, wholesale distribution, specialty chemicals, and other process manufacturing industries. American Software, Inc. was incorporated in 1970 and is headquartered in Atlanta, Georgia.",
+        "fullTimeEmployees": 406,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 14.74,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "totalCash": 114832000,
+        "totalCashPerShare": 3.408,
+        "ebitda": 14980000,
+        "totalDebt": 837000,
+        "quickRatio": 2.622,
+        "currentRatio": 2.728,
+        "totalRevenue": 129578000,
+        "debtToEquity": 0.628,
+        "revenuePerShare": 3.866,
+        "returnOnAssets": 0.047470003,
+        "returnOnEquity": 0.092159994,
+        "grossProfits": 75795000,
+        "freeCashflow": 21406500,
+        "operatingCashflow": 24468000,
+        "earningsGrowth": -0.327,
+        "revenueGrowth": 0.069,
+        "grossMargins": 0.59889,
+        "ebitdaMargins": 0.115609996,
+        "operatingMargins": 0.107580006,
+        "profitMargins": 0.09236,
+        "financialCurrency": "USD"
+    }
+}

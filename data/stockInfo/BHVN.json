@@ -1,0 +1,265 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BHVN",
+        "Security_Name": "Biohaven Pharmaceutical Holding Company Ltd. Common Shares",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BHVN",
+        "NASDAQ_Symbol": "BHVN",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 3,
+                "buy": 3,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 13.78,
+        "open": 13.8,
+        "dayLow": 13.3401,
+        "dayHigh": 14.545,
+        "regularMarketPreviousClose": 13.78,
+        "regularMarketOpen": 13.8,
+        "regularMarketDayLow": 13.3401,
+        "regularMarketDayHigh": 14.545,
+        "payoutRatio": 0,
+        "forwardPE": -2.1930091,
+        "volume": 700728,
+        "regularMarketVolume": 700728,
+        "averageVolume": 1317901,
+        "averageVolume10days": 965960,
+        "averageDailyVolume10Day": 965960,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1000,
+        "askSize": 1200,
+        "marketCap": 945183808,
+        "fiftyTwoWeekLow": 5.54,
+        "fiftyTwoWeekHigh": 17.86,
+        "fiftyDayAverage": 14.9712,
+        "twoHundredDayAverage": 13.570411,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "currentQuarterEstimate": -2.34,
+            "earningsDate": [
+                1677110400,
+                1677456000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -118668000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 0,
+                    "earnings": -213796000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 0,
+                    "earnings": -53125500
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -53125500
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -150159500
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -150159500
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1677110400,
+                1677456000
+            ],
+            "earningsAverage": -2.34,
+            "earningsLow": -2.34,
+            "earningsHigh": -2.34
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-26T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-10-12T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.039501,
+        "postMarketChange": 0.57,
+        "postMarketTime": "2023-01-07T00:44:59.000Z",
+        "postMarketPrice": 15,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.047169853,
+        "regularMarketChange": 0.6500006,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 14.43,
+        "regularMarketDayHigh": 14.545,
+        "regularMarketDayLow": 13.3401,
+        "regularMarketVolume": 700728,
+        "averageDailyVolume10Day": 965960,
+        "averageDailyVolume3Month": 1317901,
+        "regularMarketPreviousClose": 13.78,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 13.8,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BHVN",
+        "underlyingSymbol": null,
+        "shortName": "Biohaven Ltd.",
+        "longName": "Biohaven Ltd.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 945183808
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "forwardPE": -2.531579,
+        "profitMargins": 0,
+        "sharesOutstanding": 65501300,
+        "sharesShort": 2685241,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0682,
+        "heldPercentInsiders": 0.074,
+        "heldPercentInstitutions": 0.03633,
+        "shortRatio": 0.78,
+        "shortPercentOfFloat": 0.0747,
+        "category": null,
+        "bookValue": -6.459,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -406569984,
+        "trailingEps": -13.056,
+        "forwardEps": -6.58,
+        "lastSplitFactor": null
+    },
+    "summaryProfile": {
+        "address1": "215 Church Street",
+        "city": "New Haven",
+        "state": "CT",
+        "zip": "06510",
+        "country": "United States",
+        "phone": "203 404 0410",
+        "website": "https://www.biohavenpharma.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Biohaven Ltd., a clinical-stage biopharmaceutical company, focuses on discovering and developing therapies for patients with debilitating neurological and neuropsychiatric diseases in the United States. The company's pipeline products include BHV-7000, a potassium channel activator for the treatment of focal epilepsy; Troriluzole, a tripeptide prodrug that is in Phase 3 clinical trial for the treatment of neurological and neuropsychiatric illnesses; BHV-5500, a low-trapping glutamate N-methyl-D-aspartate receptor antagonist for neuropathic pain; and Verdiperstat, an irreversible myeloperoxidase enzyme inhibitor for the treatment of neurodegenerative diseases. It also offers Taldefgrobep Alfa, an anti-myostatin adnectin, which is in Phase 3 clinical trial to treat spinal muscle atrophy; and BHV-1100 that is in Phase 1a/1b clinical trial for multiple myeloma patients. The company was formerly known as Biohaven Research Ltd and changed its name to Biohaven Ltd. in Sept 2022. The company was incorporated in 2022 and is headquartered in New Haven, Connecticut. Biohaven Ltd. is a subsidiary of Biohaven Pharmaceutical Holding Company Ltd.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 14.43,
+        "targetHighPrice": 27,
+        "targetLowPrice": 21,
+        "targetMeanPrice": 24,
+        "targetMedianPrice": 24,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 23209000,
+        "ebitda": -391710016,
+        "totalDebt": 5457000,
+        "quickRatio": 0.475,
+        "currentRatio": 0.71,
+        "debtToEquity": 21.83,
+        "operatingCashflow": -203508992,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

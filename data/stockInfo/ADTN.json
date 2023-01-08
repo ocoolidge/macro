@@ -1,0 +1,939 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ADTN",
+        "Security_Name": "ADTRAN, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ADTN",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 4,
+                "hold": 3,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 3,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 18.35,
+        "open": 18.66,
+        "dayLow": 18.46,
+        "dayHigh": 19.29,
+        "regularMarketPreviousClose": 18.35,
+        "regularMarketOpen": 18.66,
+        "regularMarketDayLow": 18.46,
+        "regularMarketDayHigh": 19.29,
+        "dividendRate": 0.36,
+        "dividendYield": 0.019199999,
+        "exDividendDate": "2022-11-21T00:00:00.000Z",
+        "fiveYearAvgDividendYield": 2.52,
+        "beta": 1.34375,
+        "forwardPE": 15.826446,
+        "volume": 373037,
+        "regularMarketVolume": 373037,
+        "averageVolume": 531941,
+        "averageVolume10days": 319410,
+        "averageDailyVolume10Day": 319410,
+        "bid": 18.9,
+        "ask": 19.2,
+        "bidSize": 900,
+        "askSize": 1000,
+        "marketCap": 1495337344,
+        "fiftyTwoWeekLow": 16.3,
+        "fiftyTwoWeekHigh": 25.47,
+        "priceToSalesTrailing12Months": 1.8204231,
+        "fiftyDayAverage": 20.0762,
+        "twoHundredDayAverage": 19.95635,
+        "trailingAnnualDividendRate": 0.36,
+        "trailingAnnualDividendYield": 0.01961853,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.1,
+                    "estimate": -0.02
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.2,
+                    "estimate": 0.05
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.19,
+                    "estimate": 0.11
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.11,
+                    "estimate": 0.18
+                }
+            ],
+            "currentQuarterEstimate": 0.16,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675202400,
+                1675720800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 529277000,
+                    "earnings": -19342000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 530061000,
+                    "earnings": -52982000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 506510000,
+                    "earnings": 2378000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 563004000,
+                    "earnings": -8635000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 154158000,
+                    "earnings": -4190000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 154518000,
+                    "earnings": -1127000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 172038000,
+                    "earnings": 2143000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 340709000,
+                    "earnings": -41934000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675202400,
+                1675720800
+            ],
+            "earningsAverage": 0.16,
+            "earningsLow": 0.15,
+            "earningsHigh": 0.19,
+            "revenueAverage": 366690000,
+            "revenueLow": 362000000,
+            "revenueHigh": 371210000
+        },
+        "exDividendDate": "2022-11-21T00:00:00.000Z",
+        "dividendDate": "2022-12-06T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-26T11:02:12.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-09-08T11:00:57.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-08T12:19:06.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-14T10:14:01.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-08-23T10:38:58.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-04-12T08:03:10.000Z",
+                "firm": "Rosenblatt",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-02-23T14:29:48.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-08-06T12:16:39.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-06T11:20:34.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-05-18T11:28:58.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2021-05-14T13:16:47.000Z",
+                "firm": "Argus Research",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-02-05T13:14:54.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-04T11:52:42.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-04-17T09:49:49.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-10-10T11:51:11.000Z",
+                "firm": "MKM Partners",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-01-29T13:24:48.000Z",
+                "firm": "Needham",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-07-19T12:46:59.000Z",
+                "firm": "Northland Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-04-19T14:49:33.000Z",
+                "firm": "Argus",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-01-16T13:39:21.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-07-20T15:05:22.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-05T13:32:16.000Z",
+                "firm": "Argus",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-10-31T13:18:23.000Z",
+                "firm": "Northland Securities",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-04-18T17:34:44.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-02-04T07:33:18.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Market Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-21T11:12:17.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-01-21T09:04:23.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-15T08:07:16.000Z",
+                "firm": "Drexel Hamilton",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-08T07:39:04.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-01-07T06:14:01.000Z",
+                "firm": "MKM Partners",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-12-17T06:31:16.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-10-15T10:55:48.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-09-30T16:43:24.000Z",
+                "firm": "Northland Securities",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-04-23T09:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-23T06:50:24.000Z",
+                "firm": "Needham",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-04-23T05:03:28.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-04-06T05:57:43.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-10-03T09:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-17T23:35:43.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-17T22:47:48.000Z",
+                "firm": "MKM Partners",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-17T23:40:26.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-04-17T00:28:22.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-01-31T08:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-10-10T08:52:32.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-10-10T08:52:10.000Z",
+                "firm": "Needham",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-07-11T08:35:29.000Z",
+                "firm": "MKM Partners",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-07-11T08:30:22.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-07-11T08:14:45.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-05-07T09:26:09.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2013-04-11T11:02:36.000Z",
+                "firm": "UBS",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-04-11T07:54:49.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-04-11T07:06:32.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-02-28T07:48:17.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2013-01-17T09:54:50.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-17T06:40:26.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-01-16T19:29:15.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-01-14T10:08:47.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-12-14T07:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2012-12-05T06:11:57.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-11-27T09:41:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-17T05:56:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-10-11T09:42:00.000Z",
+                "firm": "Stephens & Co.",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-10-11T05:45:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-10T15:45:00.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-08T05:53:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-05T12:37:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-05T08:37:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-04T09:36:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-04T06:56:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-05T13:32:14.000Z",
+                "firm": "Argus",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-09-28T07:29:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-09-28T06:31:00.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-09-07T06:57:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Underperform",
+                "fromGrade": "Hold",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-08-29T10:07:00.000Z",
+                "firm": "Zacks Investment Research",
+                "toGrade": "Underperform",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-07-12T12:45:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-12T10:07:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-12T09:33:00.000Z",
+                "firm": "Avondale Partners",
+                "toGrade": "Market Perform",
+                "fromGrade": "Market Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-07-12T09:28:00.000Z",
+                "firm": "Capstone",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-07-12T07:43:00.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-07-12T07:06:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-12T05:55:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-07-10T12:00:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-03T11:58:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-04-12T06:31:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-04-12T06:27:00.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-03-16T10:03:00.000Z",
+                "firm": "Bank oferica",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-03-15T13:17:00.000Z",
+                "firm": "Morgan Keegan",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-03-14T12:13:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-03-01T06:08:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "down"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.013054831,
+        "postMarketChange": -0.25,
+        "postMarketTime": "2023-01-06T22:37:32.000Z",
+        "postMarketPrice": 18.9,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.04359669,
+        "regularMarketChange": 0.79999924,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 19.15,
+        "regularMarketDayHigh": 19.29,
+        "regularMarketDayLow": 18.46,
+        "regularMarketVolume": 373037,
+        "averageDailyVolume10Day": 319410,
+        "averageDailyVolume3Month": 531941,
+        "regularMarketPreviousClose": 18.35,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 18.66,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ADTN",
+        "underlyingSymbol": null,
+        "shortName": "ADTRAN Holdings, Inc.",
+        "longName": "ADTRAN Holdings, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 1495337344
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 1820001920,
+        "forwardPE": 15.826446,
+        "profitMargins": -0.05491,
+        "floatShares": 70308911,
+        "sharesOutstanding": 78085504,
+        "sharesShort": 2160794,
+        "sharesShortPriorMonth": 2122971,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0277,
+        "heldPercentInsiders": 0.0219,
+        "heldPercentInstitutions": 0.90136003,
+        "shortRatio": 4.85,
+        "shortPercentOfFloat": 0.033800002,
+        "beta": 1.34375,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 11.252,
+        "priceToBook": 1.7019197,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -45108000,
+        "trailingEps": -0.22,
+        "forwardEps": 1.21,
+        "pegRatio": 12.09,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": "2003-12-16T00:00:00.000Z",
+        "enterpriseToRevenue": 2.216,
+        "enterpriseToEbitda": 167.157,
+        "52WeekChange": -0.05943024,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 0.09,
+        "lastDividendDate": 1668988800
+    },
+    "summaryProfile": {
+        "address1": "901 Explorer Boulevard",
+        "city": "Huntsville",
+        "state": "AL",
+        "zip": "35806-2807",
+        "country": "United States",
+        "phone": "256 963 8000",
+        "website": "https://www.adtran.com",
+        "industry": "Communication Equipment",
+        "sector": "Technology",
+        "longBusinessSummary": "ADTRAN Holdings, Inc., through its subsidiaries, provides end-to-end fiber networking solutions for communications service provider, enterprises, and government customers in the United States, Germany, the United Kingdom, Mexico, and internationally. It operates through two segments, Network Solutions, and Services & Support. The company offers fiber access and fiber to the node platforms; transceivers, cables, and other miscellaneous materials; passive optical network optical line terminals; fiber to the distribution point Gfast distribution point units; cabinet and outside plant enclosures and services; packet optical transports; fixed wireless access platforms; and network management and subscriber services, and control and orchestration software. It also provides broadband customer premises solutions, ethernet switches and routers, residential gateways, cloud-based software-as-a-service management platforms, virtual wireless local area networks, Internet of Things gateways, pre-sale and post-sale technical support, and multi-gigabit mesh Wi-Fi gateways. In addition, the company offers time division multiplexed and asynchronous transfer mode-based aggregation systems and customer devices; and high-bit-rate and asymmetric digital subscriber line, and other technologies. Further, it provides other access and aggregation, subscriber and experience, and traditional and other products, software, and services. Additionally, the company engages in the provision of planning, engineering, program management, maintenance, installation, and commissioning services to implement customer network solutions; and customer devices solutions into consumer, small business, and enterprise locations. ADTRAN Holdings, Inc. is headquartered in Huntsville, Alabama.",
+        "fullTimeEmployees": 1335,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 19.15,
+        "targetHighPrice": 34,
+        "targetLowPrice": 26,
+        "targetMeanPrice": 29.4,
+        "targetMedianPrice": 29,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 111902000,
+        "totalCashPerShare": 1.441,
+        "ebitda": 10888000,
+        "totalDebt": 135775008,
+        "quickRatio": 0.816,
+        "currentRatio": 1.667,
+        "totalRevenue": 821422976,
+        "debtToEquity": 11.459,
+        "revenuePerShare": 14.905,
+        "returnOnAssets": -0.01447,
+        "returnOnEquity": -0.062030002,
+        "grossProfits": 218393000,
+        "freeCashflow": -188991008,
+        "operatingCashflow": -68616000,
+        "revenueGrowth": 1.467,
+        "grossMargins": 0.33393002,
+        "ebitdaMargins": 0.013250001,
+        "operatingMargins": -0.03376,
+        "profitMargins": -0.05491,
+        "financialCurrency": "USD"
+    }
+}

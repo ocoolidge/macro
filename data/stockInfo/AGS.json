@@ -1,0 +1,506 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AGS",
+        "Security_Name": "PlayAGS, Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AGS",
+        "NASDAQ_Symbol": "AGS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 5,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 5.03,
+        "open": 5.06,
+        "dayLow": 4.95,
+        "dayHigh": 5.21,
+        "regularMarketPreviousClose": 5.03,
+        "regularMarketOpen": 5.06,
+        "regularMarketDayLow": 4.95,
+        "regularMarketDayHigh": 5.21,
+        "payoutRatio": 0,
+        "beta": 2.29683,
+        "forwardPE": 127.75001,
+        "volume": 67032,
+        "regularMarketVolume": 67032,
+        "averageVolume": 345029,
+        "averageVolume10days": 158460,
+        "averageDailyVolume10Day": 158460,
+        "bid": 2.06,
+        "ask": 0,
+        "bidSize": 900,
+        "askSize": 1000,
+        "marketCap": 192949520,
+        "fiftyTwoWeekLow": 4.21,
+        "fiftyTwoWeekHigh": 8.68,
+        "priceToSalesTrailing12Months": 0.64764893,
+        "fiftyDayAverage": 5.4748,
+        "twoHundredDayAverage": 5.849875,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.25,
+                    "estimate": -0.1
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.34,
+                    "estimate": -0.08
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.04,
+                    "estimate": -0.03
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.01,
+                    "estimate": 0
+                }
+            ],
+            "currentQuarterEstimate": -0.07,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678273140,
+                1678708800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 285299000,
+                    "earnings": -20846000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 304714000,
+                    "earnings": -11752000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 167007000,
+                    "earnings": -85378000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 259696000,
+                    "earnings": -22572000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 70223000,
+                    "earnings": -9090000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 72857000,
+                    "earnings": -12594000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 76584000,
+                    "earnings": 1542000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 78259000,
+                    "earnings": 476000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678273140,
+                1678708800
+            ],
+            "earningsAverage": -0.07,
+            "earningsLow": -0.15,
+            "earningsHigh": 0.06,
+            "revenueAverage": 78180000,
+            "revenueLow": 74470000,
+            "revenueHigh": 79600000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-11-09T13:02:38.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-20T13:35:03.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-07-14T12:19:24.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-06-28T13:48:05.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-06-11T10:39:39.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-05-07T10:37:34.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-03-12T11:40:20.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-01-19T11:16:18.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-08-06T14:30:50.000Z",
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-06T15:46:05.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-03-05T14:06:36.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-05T13:51:30.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-03T12:08:39.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-08-08T11:26:35.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Underperform",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-08-08T11:15:33.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-04-08T12:31:40.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-09-17T11:15:02.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-14T10:34:07.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-08-10T10:14:01.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-05-04T15:22:34.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-03-15T13:57:38.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-03-15T12:35:13.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-03-15T11:35:01.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-02-20T14:34:01.000Z",
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-20T13:19:43.000Z",
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-20T12:48:11.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-20T12:37:06.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-20T11:59:43.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.015904557,
+        "regularMarketChange": 0.07999992,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 5.11,
+        "regularMarketDayHigh": 5.21,
+        "regularMarketDayLow": 4.95,
+        "regularMarketVolume": 67032,
+        "averageDailyVolume10Day": 158460,
+        "averageDailyVolume3Month": 345029,
+        "regularMarketPreviousClose": 5.03,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 5.06,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AGS",
+        "underlyingSymbol": null,
+        "shortName": "PlayAGS, Inc.",
+        "longName": "PlayAGS, Inc.",
+        "currency": "USD",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 192949520
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 720787520,
+        "forwardPE": 127.75001,
+        "profitMargins": -0.06601,
+        "floatShares": 31162644,
+        "sharesOutstanding": 37759200,
+        "sharesShort": 309536,
+        "sharesShortPriorMonth": 718292,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0082,
+        "heldPercentInsiders": 0.01647,
+        "heldPercentInstitutions": 0.6082,
+        "shortRatio": 0.48,
+        "shortPercentOfFloat": 0.0107,
+        "beta": 2.29683,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 1.173,
+        "priceToBook": 4.3563514,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -19666000,
+        "trailingEps": -0.751,
+        "forwardEps": 0.04,
+        "pegRatio": -0.2,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 2.419,
+        "enterpriseToEbitda": 6.444,
+        "52WeekChange": -0.22809666,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "6775 S. Edmond St.",
+        "address2": "Suite 300",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89118-3502",
+        "country": "United States",
+        "phone": "702-722-6700",
+        "website": "https://www.playags.com",
+        "industry": "Gambling",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "PlayAGS, Inc. designs and supplies gaming products and services for the gaming industry in the United States and internationally. It operates through three segments: Electronic Gaming Machines (EGM), Table Products, and Interactive Games (Interactive). The EGM segment offers various video slot titles for the marketplace; and EGM cabinets, including the Orion Starwall, Orion Curve Premium, Big Red, Orion Portrait, Orion Slant, Orion Curve, Orion Upright, and ICON. This segment also provides conversion kits that allow existing game titles to be converted to other game titles offered within that operating platform. It serves Class II Native American and Mexico, as well as Class III Native American, commercial, and charitable jurisdictions. The Table Products segment offers table products, including live felt table games, side bet offerings, progressives, card shufflers, signage, and other ancillary table game equipment, as well as table technology related to blackjack, poker, baccarat, craps, and roulette. This segment also provides Dex S, a single deck card shuffler for poker tables. Its brands include In Bet, Buster Blackjack, Double Draw Poker, and Criss Cross Poker. The Interactive segment offers a platform for business-to-business content aggregation used by real-money gaming and sports-betting partners; and business-to-consumer social casino games through its mobile app, Lucky Play Casino. The company was formerly known as AP Gaming Holdco, Inc. and changed its name to PlayAGS, Inc. in December 2017. PlayAGS, Inc. was incorporated in 2005 and is headquartered in Las Vegas, Nevada.",
+        "fullTimeEmployees": 780,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 5.11,
+        "targetHighPrice": 15,
+        "targetLowPrice": 7,
+        "targetMeanPrice": 11.38,
+        "targetMedianPrice": 11,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 43143000,
+        "totalCashPerShare": 1.143,
+        "ebitda": 111848000,
+        "totalDebt": 570225984,
+        "quickRatio": 1.686,
+        "currentRatio": 2.392,
+        "totalRevenue": 297923008,
+        "debtToEquity": 1289.433,
+        "revenuePerShare": 8.037,
+        "returnOnAssets": 0.026349999,
+        "returnOnEquity": -0.4341,
+        "grossProfits": 197035000,
+        "freeCashflow": 30548500,
+        "operatingCashflow": 76709000,
+        "revenueGrowth": 0.163,
+        "grossMargins": 0.72413003,
+        "ebitdaMargins": 0.37542,
+        "operatingMargins": 0.1007,
+        "profitMargins": -0.06601,
+        "financialCurrency": "USD"
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATHX",
+        "Security_Name": "Athersys, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ATHX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 3,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.8451,
+        "open": 0.85,
+        "dayLow": 0.85,
+        "dayHigh": 0.968,
+        "regularMarketPreviousClose": 0.8451,
+        "regularMarketOpen": 0.85,
+        "regularMarketDayLow": 0.85,
+        "regularMarketDayHigh": 0.968,
+        "payoutRatio": 0,
+        "beta": -0.79182,
+        "forwardPE": -9.599999,
+        "volume": 505221,
+        "regularMarketVolume": 505221,
+        "averageVolume": 668046,
+        "averageVolume10days": 211160,
+        "averageDailyVolume10Day": 211160,
+        "bid": 0.9425,
+        "ask": 0.93,
+        "bidSize": 900,
+        "askSize": 900,
+        "marketCap": 225825600,
+        "fiftyTwoWeekLow": 0.5,
+        "fiftyTwoWeekHigh": 33.25,
+        "priceToSalesTrailing12Months": 21.022676,
+        "fiftyDayAverage": 1.017,
+        "twoHundredDayAverage": 5.798,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -1.75,
+                    "estimate": -2.31
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -2.25,
+                    "estimate": -1.87
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -2.25,
+                    "estimate": -2.42
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -2.25,
+                    "estimate": -1.75
+                }
+            ],
+            "currentQuarterEstimate": -1.96,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678665600,
+                1679011200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 24291000,
+                    "earnings": -24283000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 5633000,
+                    "earnings": -44582000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1440000,
+                    "earnings": -78765000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 5514000,
+                    "earnings": -86955000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 4792000,
+                    "earnings": -16177000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 722000,
+                    "earnings": -21711000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 2912000,
+                    "earnings": -22216000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 2316000,
+                    "earnings": -23648000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678665600,
+                1679011200
+            ],
+            "earningsAverage": -1.96,
+            "earningsLow": -1.96,
+            "earningsHigh": -1.96
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-07T00:59:39.000Z",
+        "postMarketPrice": 0.96,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.13596024,
+        "regularMarketChange": 0.11489999,
+        "regularMarketTime": "2023-01-06T20:59:25.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.96,
+        "regularMarketDayHigh": 0.968,
+        "regularMarketDayLow": 0.85,
+        "regularMarketVolume": 505221,
+        "averageDailyVolume10Day": 211160,
+        "averageDailyVolume3Month": 668046,
+        "regularMarketPreviousClose": 0.8451,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 0.85,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATHX",
+        "underlyingSymbol": null,
+        "shortName": "Athersys, Inc.",
+        "longName": "Athersys, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 225825600
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 18003824,
+        "forwardPE": -0.10983982,
+        "profitMargins": 0,
+        "floatShares": 10343686,
+        "sharesOutstanding": 235235008,
+        "sharesShort": 953784,
+        "sharesShortPriorMonth": 539819,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0031,
+        "heldPercentInsiders": 0.07103,
+        "heldPercentInstitutions": 0.12928,
+        "shortRatio": 0.32,
+        "shortPercentOfFloat": 0.0033000002,
+        "beta": -0.79182,
+        "category": null,
+        "bookValue": 0.155,
+        "priceToBook": 6.193548,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -83752000,
+        "trailingEps": -0.42,
+        "forwardEps": -0.1,
+        "pegRatio": 0,
+        "lastSplitFactor": "0:1",
+        "lastSplitDate": "2007-06-05T00:00:00.000Z",
+        "enterpriseToRevenue": 1.676,
+        "enterpriseToEbitda": -0.231
+    },
+    "summaryProfile": {
+        "address1": "3201 Carnegie Avenue",
+        "city": "Cleveland",
+        "state": "OH",
+        "zip": "44115-2634",
+        "country": "United States",
+        "phone": "216 431 9900",
+        "fax": "216 361 9495",
+        "website": "https://www.athersys.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Athersys, Inc., a biotechnology company, focuses on the research and development activities in the field of regenerative medicine. Its clinical development programs are focused on treating neurological conditions, cardiovascular diseases, inflammatory and immune disorders, and pulmonary and other conditions. The company's lead platform product includes MultiStem cell therapy, an allogeneic stem cell product, which is in Phase III clinical study for the treatment of patients suffering from neurological damage from an ischemic stroke, as well as for acute respiratory distress syndrome, trauma complications, HSC transplant support, and other indications. It also develops MultiStem cell therapy to promote tissue repair and healing for animal patients, including those suffering from serious conditions with unmet medical needs. The company has license and collaboration agreements with Healios K.K. to develop and commercialize MultiStem cell therapy for ischemic stroke, acute respiratory distress syndrome, and ophthalmological indications, as well as for the treatment of liver, kidney, pancreas, and intestinal tissue diseases; and the University of Minnesota to develop MultiStem cell therapy platform. Athersys, Inc. was founded in 1995 and is headquartered in Cleveland, Ohio.",
+        "fullTimeEmployees": 104,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.96,
+        "targetHighPrice": 3,
+        "targetLowPrice": 3,
+        "targetMeanPrice": 3,
+        "targetMedianPrice": 3,
+        "recommendationMean": 4,
+        "recommendationKey": "underperform",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 13378000,
+        "totalCashPerShare": 1.216,
+        "ebitda": -77862000,
+        "totalDebt": 9263000,
+        "quickRatio": 0.511,
+        "currentRatio": 0.643,
+        "totalRevenue": 10742000,
+        "revenuePerShare": 1.107,
+        "returnOnAssets": -0.91226,
+        "returnOnEquity": -8.67537,
+        "grossProfits": -65566000,
+        "freeCashflow": -44705876,
+        "operatingCashflow": -75597000,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": -7.37172,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

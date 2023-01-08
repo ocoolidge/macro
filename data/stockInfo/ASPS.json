@@ -1,0 +1,368 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ASPS",
+        "Security_Name": "Altisource Portfolio Solutions S.A. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "Q",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ASPS",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 8.25,
+        "open": 8.1,
+        "dayLow": 7.6711,
+        "dayHigh": 8.38,
+        "regularMarketPreviousClose": 8.25,
+        "regularMarketOpen": 8.1,
+        "regularMarketDayLow": 7.6711,
+        "regularMarketDayHigh": 8.38,
+        "exDividendDate": "2012-12-14T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 1.174649,
+        "forwardPE": 30.037035,
+        "volume": 263641,
+        "regularMarketVolume": 263641,
+        "averageVolume": 120904,
+        "averageVolume10days": 209510,
+        "averageDailyVolume10Day": 209510,
+        "bid": 7.7,
+        "ask": 8.58,
+        "bidSize": 1100,
+        "askSize": 1200,
+        "marketCap": 128983864,
+        "fiftyTwoWeekLow": 7.66,
+        "fiftyTwoWeekHigh": 17.67,
+        "priceToSalesTrailing12Months": 0.79676723,
+        "fiftyDayAverage": 12.9006,
+        "twoHundredDayAverage": 11.77345,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": -0.8,
+                    "estimate": -0.45
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": -0.86,
+                    "estimate": -0.77
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.58,
+                    "estimate": -0.73
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.69,
+                    "estimate": -0.65
+                }
+            ],
+            "currentQuarterEstimate": -0.48,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1667433600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 838202000,
+                    "earnings": -5382000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 648651000,
+                    "earnings": -307969000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 365547000,
+                    "earnings": -67156000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 178453000,
+                    "earnings": 11812000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 43243000,
+                    "earnings": -18269000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 38704000,
+                    "earnings": 70558000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 39516000,
+                    "earnings": -12190000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 40421000,
+                    "earnings": -15495000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1667433600
+            ],
+            "earningsAverage": -0.48,
+            "earningsLow": -0.53,
+            "earningsHigh": -0.44,
+            "revenueAverage": 44080000,
+            "revenueLow": 42600000,
+            "revenueHigh": 45550000
+        },
+        "exDividendDate": "2012-12-14T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2020-01-31T00:00:00.000Z",
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-07-25T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-11-01T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Sell",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-08-10T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-05-02T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Underweight",
+                "fromGrade": "Neutral",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-12-07T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-10-30T00:00:00.000Z",
+                "firm": "Compass Point",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-08-28T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-08-16T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-07-26T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.0012330739,
+        "postMarketChange": 0.010000229,
+        "postMarketTime": "2023-01-06T23:50:59.000Z",
+        "postMarketPrice": 8.12,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.016969739,
+        "regularMarketChange": -0.14000034,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 8.11,
+        "regularMarketDayHigh": 8.38,
+        "regularMarketDayLow": 7.6711,
+        "regularMarketVolume": 263641,
+        "averageDailyVolume10Day": 209510,
+        "averageDailyVolume3Month": 120904,
+        "regularMarketPreviousClose": 8.25,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 8.1,
+        "exchange": "NMS",
+        "exchangeName": "NasdaqGS",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ASPS",
+        "underlyingSymbol": null,
+        "shortName": "Altisource Portfolio Solutions ",
+        "longName": "Altisource Portfolio Solutions S.A.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 128983864
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 369655296,
+        "forwardPE": 6.8728814,
+        "profitMargins": 0.15198,
+        "floatShares": 5251193,
+        "sharesOutstanding": 15904300,
+        "sharesShort": 225328,
+        "sharesShortPriorMonth": 145047,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0139999995,
+        "heldPercentInsiders": 0.41963002,
+        "heldPercentInstitutions": 0.34019002,
+        "shortRatio": 2.55,
+        "shortPercentOfFloat": 0.04,
+        "beta": 1.174649,
+        "category": null,
+        "bookValue": -5.348,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": 24604000,
+        "trailingEps": -4.31,
+        "forwardEps": 0.27,
+        "pegRatio": -0.3,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 2.283,
+        "enterpriseToEbitda": -10.565
+    },
+    "summaryProfile": {
+        "address1": "33, Boulevard Prince Henri",
+        "city": "Luxembourg City",
+        "zip": "1724",
+        "country": "Luxembourg",
+        "phone": "352 27 61 49 00",
+        "website": "https://www.altisource.com",
+        "industry": "Real Estate Services",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Altisource Portfolio Solutions S.A. operates as an integrated service provider and marketplace for the real estate and mortgage industries in the United States, India, Luxembourg, Uruguay, and internationally. It provides property preservation and inspection services, payment management technologies, and a vendor management oversight software-as-a-service (SaaS) platform. The company also offers Hubzu, an online real estate auction platform, as well as real estate auction, real estate brokerage, and asset management services; and Equator, a SaaS-based technology to manage real estate owned, short sales, foreclosure, bankruptcy, and eviction processes. In addition, it provides mortgage loan fulfillment, certification and certification insurance services, technologies, title insurance agent, settlement, real estate valuation services, residential and commercial construction inspection and risk mitigation, foreclosure trustee, and commercial loan servicing technology services. Further, the company operates TrelixTM Connect, Vendorly, RentRange, REALSynergy, Lenders One Loan Automation, and other platform solutions. It serves financial institutions, government-sponsored enterprises, banks, asset managers, servicers, investors, originators, correspondent lenders, and mortgage bankers. Altisource Portfolio Solutions S.A. was incorporated in 1999 and is headquartered in Luxembourg City, Luxembourg.",
+        "fullTimeEmployees": 2024,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 8.11,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "totalCash": 70693000,
+        "totalCashPerShare": 4.388,
+        "ebitda": -34989000,
+        "totalDebt": 250982000,
+        "quickRatio": 1.975,
+        "currentRatio": 2.314,
+        "totalRevenue": 161884000,
+        "revenuePerShare": 10.142,
+        "returnOnAssets": -0.12758,
+        "grossProfits": 7087000,
+        "freeCashflow": -41599124,
+        "operatingCashflow": -63414000,
+        "revenueGrowth": -0.122,
+        "grossMargins": 0.089499995,
+        "ebitdaMargins": -0.21614,
+        "operatingMargins": -0.28179002,
+        "profitMargins": 0.15198,
+        "financialCurrency": "USD"
+    }
+}

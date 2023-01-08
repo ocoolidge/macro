@@ -1,0 +1,369 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AKTX",
+        "Security_Name": "Akari Therapeutics Plc - American Depositary Shares",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "AKTX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "previousClose": 0.5102,
+        "open": 0.5172,
+        "dayLow": 0.48,
+        "dayHigh": 0.53,
+        "regularMarketPreviousClose": 0.5102,
+        "regularMarketOpen": 0.5172,
+        "regularMarketDayLow": 0.48,
+        "regularMarketDayHigh": 0.53,
+        "payoutRatio": 0,
+        "beta": 1.302083,
+        "forwardPE": -1.7506633,
+        "volume": 74738,
+        "regularMarketVolume": 74738,
+        "averageVolume": 79308,
+        "averageVolume10days": 79260,
+        "averageDailyVolume10Day": 79260,
+        "bid": 0.2091,
+        "ask": 0.545,
+        "bidSize": 800,
+        "askSize": 1100,
+        "marketCap": 31170140,
+        "fiftyTwoWeekLow": 0.38,
+        "fiftyTwoWeekHigh": 1.61,
+        "fiftyDayAverage": 0.512,
+        "twoHundredDayAverage": 0.887975,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2019",
+                    "actual": -0.14,
+                    "estimate": -0.12
+                },
+                {
+                    "date": "4Q2019",
+                    "actual": -0.39,
+                    "estimate": -0.14
+                },
+                {
+                    "date": "1Q2020",
+                    "actual": -0.13,
+                    "estimate": 0
+                },
+                {
+                    "date": "1Q2021",
+                    "actual": 0,
+                    "estimate": 0
+                }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2021,
+            "earningsDate": [
+                1673261940,
+                1673438400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 0,
+                    "earnings": -20499459
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -16846203
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -17081617
+                },
+                {
+                    "date": 2021,
+                    "revenue": 0,
+                    "earnings": -17424237
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 0,
+                    "earnings": -1451361
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -5788040
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -5176395
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -5679978
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1673261940,
+                1673438400
+            ]
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-12-05T11:10:30.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-11-01T12:57:37.000Z",
+                "firm": "Alliance Global Partners",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-03-13T11:29:33.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-03-29T16:54:03.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-05-05T14:00:39.000Z",
+                "firm": "B. Riley FBR",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-09-22T12:56:03.000Z",
+                "firm": "William Blair",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-05-31T10:30:18.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2017-05-12T12:22:08.000Z",
+                "firm": "William Blair",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-04-17T17:16:36.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "reit"
+            },
+            {
+                "epochGradeDate": "2016-07-11T06:15:51.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Sell",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.0474196,
+        "postMarketChange": 0.0249,
+        "postMarketTime": "2023-01-06T23:58:02.000Z",
+        "postMarketPrice": 0.55,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.02939822,
+        "regularMarketChange": 0.014998972,
+        "regularMarketTime": "2023-01-06T20:55:19.000Z",
+        "priceHint": 4,
+        "regularMarketPrice": 0.525199,
+        "regularMarketDayHigh": 0.53,
+        "regularMarketDayLow": 0.48,
+        "regularMarketVolume": 74738,
+        "averageDailyVolume10Day": 79260,
+        "averageDailyVolume3Month": 79308,
+        "regularMarketPreviousClose": 0.5102,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 0.5172,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AKTX",
+        "underlyingSymbol": null,
+        "shortName": "Akari Therapeutics Plc",
+        "longName": "Akari Therapeutics, Plc",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 31170140
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 4,
+        "enterpriseValue": 22627304,
+        "forwardPE": -1.7506633,
+        "profitMargins": 0,
+        "floatShares": 35672413,
+        "sharesOutstanding": 59349200,
+        "sharesShort": 77271,
+        "sharesShortPriorMonth": 147582,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0013,
+        "heldPercentInsiders": 0.03899,
+        "heldPercentInstitutions": 0.13718,
+        "shortRatio": 1.44,
+        "beta": 1.302083,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 0.14,
+        "priceToBook": 3.7514215,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -18095774,
+        "trailingEps": -0.406,
+        "forwardEps": -0.3,
+        "lastSplitFactor": "1:10",
+        "lastSplitDate": "2015-09-17T00:00:00.000Z",
+        "enterpriseToEbitda": -1.23,
+        "52WeekChange": -0.6376811,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "75/76 Wimpole Street",
+        "city": "London",
+        "zip": "W1G 9RT",
+        "country": "United Kingdom",
+        "phone": "44 20 8004 0270",
+        "website": "https://www.akaritx.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Akari Therapeutics, Plc, a clinical-stage biopharmaceutical company, focuses on developing advanced therapies for autoimmune and inflammatory diseases. Its lead product candidate is nomacopan, a second-generation complement inhibitor that prevents inflammatory and prothrombotic activities, including paroxysmal nocturnal hemoglobinuria, Guillain-Barré syndrome, hematopoietic stem cell transplant-associated thrombotic microangiopathy, and bullous pemphigoid. Akari Therapeutics, Plc is based in London, the United Kingdom.",
+        "fullTimeEmployees": 9,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 0.525199,
+        "targetHighPrice": 4,
+        "targetLowPrice": 1.5,
+        "targetMeanPrice": 2.75,
+        "targetMedianPrice": 2.75,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 8151177,
+        "totalCashPerShare": 0.137,
+        "ebitda": -18391610,
+        "totalDebt": 0,
+        "quickRatio": 2.677,
+        "currentRatio": 3.728,
+        "returnOnAssets": -1.41935,
+        "returnOnEquity": -3.65064,
+        "freeCashflow": -13508817,
+        "operatingCashflow": -20185992,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

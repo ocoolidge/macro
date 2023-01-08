@@ -1,0 +1,540 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ANIP",
+        "Security_Name": "ANI Pharmaceuticals, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "G",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ANIP",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 0,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 39.83,
+        "open": 40.47,
+        "dayLow": 40.1,
+        "dayHigh": 44.86,
+        "regularMarketPreviousClose": 39.83,
+        "regularMarketOpen": 40.47,
+        "regularMarketDayLow": 40.1,
+        "regularMarketDayHigh": 44.86,
+        "payoutRatio": 0,
+        "beta": 1.005158,
+        "forwardPE": 10.004556,
+        "volume": 222732,
+        "regularMarketVolume": 222732,
+        "averageVolume": 68824,
+        "averageVolume10days": 75040,
+        "averageDailyVolume10Day": 75040,
+        "bid": 43.71,
+        "ask": 44.9,
+        "bidSize": 800,
+        "askSize": 900,
+        "marketCap": 732137600,
+        "fiftyTwoWeekLow": 22.31,
+        "fiftyTwoWeekHigh": 45.05,
+        "priceToSalesTrailing12Months": 2.9131458,
+        "fiftyDayAverage": 39.033,
+        "twoHundredDayAverage": 33.528,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 1.01,
+                    "estimate": 0.7
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.54,
+                    "estimate": 0.74
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.12,
+                    "estimate": 0.09
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.13,
+                    "estimate": 0.22
+                }
+            ],
+            "currentQuarterEstimate": 0.53,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678665600,
+                1679011200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 201576000,
+                    "earnings": 15494000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 206547000,
+                    "earnings": 6094000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 208475000,
+                    "earnings": -22548000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 216136000,
+                    "earnings": -42603000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 52061000,
+                    "earnings": -4447000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 60929000,
+                    "earnings": -24136000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 64477000,
+                    "earnings": -20130000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 73855000,
+                    "earnings": -14923000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678665600,
+                1679011200
+            ],
+            "earningsAverage": 0.53,
+            "earningsLow": 0.47,
+            "earningsHigh": 0.61,
+            "revenueAverage": 77660000,
+            "revenueLow": 76400000,
+            "revenueHigh": 79230000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-09-07T00:00:00.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-08-09T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-03-16T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-02T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-02T00:00:00.000Z",
+                "firm": "Truist Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-05-10T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-08-03T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-08T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-07T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-04-30T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-02-28T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-07T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-09-12T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2019-05-10T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Outperform",
+                "fromGrade": "Strong Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-11-12T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-17T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-08-08T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "Overweight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-06-12T00:00:00.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-02-28T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-16T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-07-31T00:00:00.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-08-05T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-19T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Perform",
+                "fromGrade": "Outperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-06-23T00:00:00.000Z",
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-05-24T00:00:00.000Z",
+                "firm": "Standpoint Research",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2015-11-13T00:00:00.000Z",
+                "firm": "Standpoint Research",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-09-28T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2015-06-23T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-04-10T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2014-12-15T00:00:00.000Z",
+                "firm": "Guggenheim",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-08-05T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-01-22T00:00:00.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-01-07T00:00:00.000Z",
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.00409828,
+        "postMarketChange": -0.179996,
+        "postMarketTime": "2023-01-06T23:57:05.000Z",
+        "postMarketPrice": 43.74,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.102686316,
+        "regularMarketChange": 4.0899963,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 43.92,
+        "regularMarketDayHigh": 44.86,
+        "regularMarketDayLow": 40.1,
+        "regularMarketVolume": 222732,
+        "averageDailyVolume10Day": 75040,
+        "averageDailyVolume3Month": 68824,
+        "regularMarketPreviousClose": 39.83,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 40.47,
+        "exchange": "NGM",
+        "exchangeName": "NasdaqGM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ANIP",
+        "underlyingSymbol": null,
+        "shortName": "ANI Pharmaceuticals, Inc.",
+        "longName": "ANI Pharmaceuticals, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 732137600
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 869228608,
+        "forwardPE": 13.854889,
+        "profitMargins": -0.2532,
+        "floatShares": 11347809,
+        "sharesOutstanding": 16658900,
+        "sharesShort": 568019,
+        "sharesShortPriorMonth": 689190,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0326,
+        "heldPercentInsiders": 0.13147001,
+        "heldPercentInstitutions": 0.72730005,
+        "shortRatio": 8.31,
+        "shortPercentOfFloat": 0.059299998,
+        "beta": 1.005158,
+        "category": null,
+        "bookValue": 16.305,
+        "priceToBook": 2.6936522,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -64638000,
+        "trailingEps": -1.885,
+        "forwardEps": 4.39,
+        "pegRatio": 12.71,
+        "lastSplitFactor": "1:6",
+        "lastSplitDate": "2013-07-18T00:00:00.000Z",
+        "enterpriseToRevenue": 3.459,
+        "enterpriseToEbitda": 57.825
+    },
+    "summaryProfile": {
+        "address1": "210 Main Street West",
+        "city": "Baudette",
+        "state": "MN",
+        "zip": "56623",
+        "country": "United States",
+        "phone": "218 634 3500",
+        "fax": "218 634 3540",
+        "website": "https://www.anipharmaceuticals.com",
+        "industry": "Drug Manufacturers—Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "ANI Pharmaceuticals, Inc., a biopharmaceutical company, develops, manufactures, and markets branded and generic prescription pharmaceuticals in the United States and Canada. It focuses on producing controlled substances, oncology products, hormones and steroids, injectables, and other formulations. The company manufactures oral solid dose products; semi-solids, liquids, and topicals; and potent products, as well as performs contract development and manufacturing of pharmaceutical products for other companies. It markets its products through retail pharmacy chains, wholesalers, distributors and mail order pharmacies, and group purchasing organizations. The company was incorporated in 2001 and is headquartered in Baudette, Minnesota.",
+        "fullTimeEmployees": 601,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 43.92,
+        "targetHighPrice": 50,
+        "targetLowPrice": 30,
+        "targetMeanPrice": 43.25,
+        "targetMedianPrice": 46.5,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 63385000,
+        "totalCashPerShare": 3.893,
+        "ebitda": 15032000,
+        "totalDebt": 288356992,
+        "quickRatio": 2.22,
+        "currentRatio": 3.347,
+        "totalRevenue": 251322000,
+        "debtToEquity": 85.576,
+        "revenuePerShare": 17.125,
+        "returnOnAssets": -0.03931,
+        "returnOnEquity": -0.24065,
+        "grossProfits": 117426000,
+        "freeCashflow": -48366624,
+        "operatingCashflow": -48013000,
+        "revenueGrowth": 0.519,
+        "grossMargins": 0.49875,
+        "ebitdaMargins": 0.059809998,
+        "operatingMargins": -0.1541,
+        "profitMargins": -0.2532,
+        "financialCurrency": "USD"
+    }
+}

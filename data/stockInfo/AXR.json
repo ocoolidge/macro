@@ -1,0 +1,274 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "AXR",
+        "Security_Name": "AMREP Corporation Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "AXR",
+        "NASDAQ_Symbol": "AXR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 11.8278,
+        "open": 11.31,
+        "dayLow": 11.31,
+        "dayHigh": 12,
+        "regularMarketPreviousClose": 11.8278,
+        "regularMarketOpen": 11.31,
+        "regularMarketDayLow": 11.31,
+        "regularMarketDayHigh": 12,
+        "exDividendDate": "2007-08-08T00:00:00.000Z",
+        "payoutRatio": 0,
+        "beta": 0.962643,
+        "trailingPE": 4.477612,
+        "volume": 1764,
+        "regularMarketVolume": 1764,
+        "averageVolume": 7503,
+        "averageVolume10days": 3000,
+        "averageDailyVolume10Day": 3000,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1000,
+        "askSize": 1000,
+        "marketCap": 63058920,
+        "fiftyTwoWeekLow": 9.88,
+        "fiftyTwoWeekHigh": 16.72,
+        "priceToSalesTrailing12Months": 0.9971839,
+        "fiftyDayAverage": 11.6128,
+        "twoHundredDayAverage": 12.2679,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1678273140,
+                1678708800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 12754000,
+                    "earnings": 1527000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 18783000,
+                    "earnings": -5903000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 40069000,
+                    "earnings": 7392000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 62479000,
+                    "earnings": 15862000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2022",
+                    "revenue": 9816000,
+                    "earnings": 910000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 25920000,
+                    "earnings": 9989000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 11232000,
+                    "earnings": 1912000
+                },
+                {
+                    "date": "4Q2022",
+                    "revenue": 16149000,
+                    "earnings": 3621000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678273140,
+                1678708800
+            ]
+        },
+        "exDividendDate": "2007-08-08T00:00:00.000Z"
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.014558938,
+        "regularMarketChange": 0.1722002,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 12,
+        "regularMarketDayHigh": 12,
+        "regularMarketDayLow": 11.31,
+        "regularMarketVolume": 1764,
+        "averageDailyVolume10Day": 3000,
+        "averageDailyVolume3Month": 7503,
+        "regularMarketPreviousClose": 11.8278,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 11.31,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "AXR",
+        "underlyingSymbol": null,
+        "shortName": "AMREP Corporation",
+        "longName": "AMREP Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 63058920
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 49207332,
+        "profitMargins": 0.25985,
+        "floatShares": 3207667,
+        "sharesOutstanding": 5254910,
+        "sharesShort": 16418,
+        "sharesShortPriorMonth": 12814,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0031,
+        "heldPercentInsiders": 0.40591,
+        "heldPercentInstitutions": 0.33620998,
+        "shortRatio": 4.24,
+        "shortPercentOfFloat": 0.0062,
+        "beta": 0.962643,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 17.027,
+        "priceToBook": 0.704763,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-04-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-04-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-10-31T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.089,
+        "netIncomeToCommon": 16432000,
+        "trailingEps": 2.68,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": "1986-12-02T00:00:00.000Z",
+        "enterpriseToRevenue": 0.778,
+        "enterpriseToEbitda": 2.211,
+        "52WeekChange": -0.1891892,
+        "SandP52WeekChange": -0.16598755,
+        "lastDividendValue": 1,
+        "lastDividendDate": 1186531200
+    },
+    "summaryProfile": {
+        "address1": "850 West Chester Pike",
+        "address2": "Suite 205",
+        "city": "Havertown",
+        "state": "PA",
+        "zip": "19083",
+        "country": "United States",
+        "phone": "610 487 0905",
+        "website": "https://amrepcorp.com",
+        "industry": "Real Estate—Development",
+        "sector": "Real Estate",
+        "longBusinessSummary": "AMREP Corporation, through its subsidiaries, primarily engages in the real estate business. The company operates through two segments, Land Development and Homebuilding. The company sells developed and undeveloped lots to homebuilders, commercial and industrial property developers, and others. As of July 1, 2022, it owned approximately 17,000 acres in Sandoval County, New Mexico. The company owns an approximately 160-acre property in Brighton, Colorado. It also owns mineral interests covering an area of approximately 55,000 surface acres of land in Sandoval County, New Mexico; and owns oil, gas, and minerals and mineral interests covering an area of approximately 147 surface acres of land in Brighton, Colorado. Additionally, the company focuses on selling single-family detached homes and attached homes. AMREP Corporation was founded in 1961 and is headquartered in Havertown, Pennsylvania.",
+        "fullTimeEmployees": 22,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 12,
+        "recommendationKey": "none",
+        "totalCash": 12888000,
+        "totalCashPerShare": 2.465,
+        "ebitda": 22253000,
+        "totalDebt": 252000,
+        "quickRatio": 1.866,
+        "currentRatio": 12.186,
+        "totalRevenue": 63237000,
+        "debtToEquity": 0.283,
+        "revenuePerShare": 10.313,
+        "returnOnAssets": 0.13791001,
+        "returnOnEquity": 0.17942,
+        "grossProfits": 26657000,
+        "freeCashflow": 5981250,
+        "operatingCashflow": 11612000,
+        "earningsGrowth": 0.511,
+        "revenueGrowth": 0.002,
+        "grossMargins": 0.43363997,
+        "ebitdaMargins": 0.35189998,
+        "operatingMargins": 0.35084,
+        "profitMargins": 0.25985,
+        "financialCurrency": "USD"
+    }
+}

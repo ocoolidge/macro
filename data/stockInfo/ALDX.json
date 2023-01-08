@@ -1,0 +1,483 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ALDX",
+        "Security_Name": "Aldeyra Therapeutics, Inc. - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ALDX",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 5,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 5,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 4,
+                "buy": 4,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 7.04,
+        "open": 6.99,
+        "dayLow": 6.75,
+        "dayHigh": 7.18,
+        "regularMarketPreviousClose": 7.04,
+        "regularMarketOpen": 6.99,
+        "regularMarketDayLow": 6.75,
+        "regularMarketDayHigh": 7.18,
+        "payoutRatio": 0,
+        "beta": 1.143006,
+        "forwardPE": -5.2878785,
+        "volume": 651079,
+        "regularMarketVolume": 651079,
+        "averageVolume": 345240,
+        "averageVolume10days": 391450,
+        "averageDailyVolume10Day": 391450,
+        "bid": 6.7,
+        "ask": 7.06,
+        "bidSize": 900,
+        "askSize": 900,
+        "marketCap": 408749504,
+        "fiftyTwoWeekLow": 2.355,
+        "fiftyTwoWeekHigh": 7.99,
+        "fiftyDayAverage": 5.958,
+        "twoHundredDayAverage": 5.094125,
+        "trailingAnnualDividendRate": 0,
+        "trailingAnnualDividendYield": 0,
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": -0.27,
+                    "estimate": -0.28
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": -0.29,
+                    "estimate": -0.31
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": -0.3,
+                    "estimate": -0.31
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": -0.25,
+                    "estimate": -0.34
+                }
+            ],
+            "currentQuarterEstimate": -0.31,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1678883400,
+                1679315400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 0,
+                    "earnings": -38893245
+                },
+                {
+                    "date": 2019,
+                    "revenue": 0,
+                    "earnings": -60826831
+                },
+                {
+                    "date": 2020,
+                    "revenue": 0,
+                    "earnings": -37553729
+                },
+                {
+                    "date": 2021,
+                    "revenue": 0,
+                    "earnings": -57776274
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 0,
+                    "earnings": -15754547
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": -16788292
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 0,
+                    "earnings": -17780951
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 0,
+                    "earnings": -14553231
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1678883400,
+                1679315400
+            ],
+            "earningsAverage": -0.31,
+            "earningsLow": -0.43,
+            "earningsHigh": -0.26
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-06-09T11:07:35.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-21T14:42:26.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-12-21T10:24:50.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-03-12T11:14:39.000Z",
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2021-02-08T11:36:05.000Z",
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-12-16T15:22:59.000Z",
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-10-30T10:06:51.000Z",
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-10-16T09:57:37.000Z",
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2020-08-11T11:08:06.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-12T10:27:30.000Z",
+                "firm": "Oppenheimer",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-12-04T12:52:56.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-09-26T17:36:49.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-09-13T15:01:58.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-01-26T13:04:48.000Z",
+                "firm": "Seaport Global",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-10-25T15:22:22.000Z",
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-09-13T14:56:25.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-09-26T07:05:51.000Z",
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-01T07:10:09.000Z",
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-09-08T06:48:35.000Z",
+                "firm": "Cowen & Co.",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-07-01T05:47:44.000Z",
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-05-27T06:54:16.000Z",
+                "firm": "Janney Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-03-25T08:26:20.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2015-01-26T12:19:45.000Z",
+                "firm": "Laidlaw & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-12-03T00:00:00.000Z",
+                "firm": "Ascendiant Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2014-06-19T08:11:53.000Z",
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": -0.048710622,
+        "postMarketChange": -0.34000015,
+        "postMarketTime": "2023-01-07T00:35:54.000Z",
+        "postMarketPrice": 6.64,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": -0.008522719,
+        "regularMarketChange": -0.059999943,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 6.98,
+        "regularMarketDayHigh": 7.18,
+        "regularMarketDayLow": 6.75,
+        "regularMarketVolume": 651079,
+        "averageDailyVolume10Day": 391450,
+        "averageDailyVolume3Month": 345240,
+        "regularMarketPreviousClose": 7.04,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 6.99,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ALDX",
+        "underlyingSymbol": null,
+        "shortName": "Aldeyra Therapeutics, Inc.",
+        "longName": "Aldeyra Therapeutics, Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "marketCap": 408749504
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 264370240,
+        "forwardPE": -5.2878785,
+        "profitMargins": 0,
+        "floatShares": 35896157,
+        "sharesOutstanding": 58560100,
+        "sharesShort": 1892845,
+        "sharesShortPriorMonth": 1997687,
+        "sharesShortPreviousMonthDate": 1668470400,
+        "dateShortInterest": 1671062400,
+        "sharesPercentSharesOut": 0.0323,
+        "heldPercentInsiders": 0.02349,
+        "heldPercentInstitutions": 0.64884,
+        "shortRatio": 5.59,
+        "shortPercentOfFloat": 0.0397,
+        "beta": 1.143006,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "bookValue": 2.77,
+        "priceToBook": 2.5198557,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "netIncomeToCommon": -64877020,
+        "trailingEps": -1.106,
+        "forwardEps": -1.32,
+        "pegRatio": -0.08,
+        "lastSplitFactor": null,
+        "enterpriseToEbitda": -4.122,
+        "52WeekChange": 0.8177084,
+        "SandP52WeekChange": -0.16598755
+    },
+    "summaryProfile": {
+        "address1": "131 Hartwell Avenue",
+        "address2": "Suite 320",
+        "city": "Lexington",
+        "state": "MA",
+        "zip": "02421",
+        "country": "United States",
+        "phone": "781 761 4904",
+        "fax": "339 674 6495",
+        "website": "https://www.aldeyra.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Aldeyra Therapeutics, Inc., a biotechnology company, develops and commercializes medicines for immune-mediated ocular and systemic diseases. The company's lead product candidate is reproxalap, a reactive aldehyde species (RASP)modulator, which is in Phase III clinical trial for the treatment of dry eye diseases and allergic conjunctivitis. It also develops ADX-629, a first-in-class orally administered RASP modulator that is Phase II clinical trial for psoriasis, asthma, and COVID-19; and ADX-2191, a dihydrofolate reductase inhibitor which is in phase 3 for the prevention of proliferative vitreoretinopathy, and phase II clinical trial for the treatment of retinitis pigmentosa, as well as for treating primary vitreoretinal lymphoma. The company has a license agreement with Madrigal Pharmaceuticals, Inc. for developing ADX-1612, which inhibits the protein chaperome for the treatment of inflammatory diseases. The company was formerly known as Aldexa Therapeutics, Inc. and changed its name to Aldeyra Therapeutics, Inc. in March 2014. Aldeyra Therapeutics, Inc. was incorporated in 2004 and is based in Lexington, Massachusetts.",
+        "fullTimeEmployees": 15,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 6.98,
+        "targetHighPrice": 30,
+        "targetLowPrice": 13,
+        "targetMeanPrice": 19.88,
+        "targetMedianPrice": 17,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 163829408,
+        "totalCashPerShare": 2.798,
+        "ebitda": -64134104,
+        "totalDebt": 15936699,
+        "quickRatio": 6.771,
+        "currentRatio": 7.831,
+        "debtToEquity": 9.826,
+        "returnOnAssets": -0.18421,
+        "returnOnEquity": -0.33979,
+        "freeCashflow": 70009056,
+        "operatingCashflow": -56983708,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

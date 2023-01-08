@@ -1,0 +1,338 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BFC",
+        "Security_Name": "Bank First Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "N",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "BFC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 88.82,
+        "open": 88.85,
+        "dayLow": 88.85,
+        "dayHigh": 90.48,
+        "regularMarketPreviousClose": 88.82,
+        "regularMarketOpen": 88.85,
+        "regularMarketDayLow": 88.85,
+        "regularMarketDayHigh": 90.48,
+        "dividendRate": 1,
+        "dividendYield": 0.0124,
+        "exDividendDate": "2022-12-20T00:00:00.000Z",
+        "payoutRatio": 0.1495,
+        "fiveYearAvgDividendYield": 1.24,
+        "beta": 0.286661,
+        "trailingPE": 16.409142,
+        "forwardPE": 19.048422,
+        "volume": 10485,
+        "regularMarketVolume": 10485,
+        "averageVolume": 18698,
+        "averageVolume10days": 15570,
+        "averageDailyVolume10Day": 15570,
+        "bid": 36.09,
+        "ask": 144.33,
+        "bidSize": 800,
+        "askSize": 800,
+        "marketCap": 690257472,
+        "fiftyTwoWeekLow": 68.28,
+        "fiftyTwoWeekHigh": 99.84,
+        "priceToSalesTrailing12Months": 5.958457,
+        "fiftyDayAverage": 92.3298,
+        "twoHundredDayAverage": 79.61235,
+        "trailingAnnualDividendRate": 0.82,
+        "trailingAnnualDividendYield": 0.009232155,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 1.46,
+                    "estimate": 1.4
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 1.34,
+                    "estimate": 1.39
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.55,
+                    "estimate": 1.48
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 1.26,
+                    "estimate": 1.6
+                }
+            ],
+            "currentQuarterEstimate": 1.77,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1673827200,
+                1674172800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 71664000,
+                    "earnings": 25456000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 77049000,
+                    "earnings": 26694000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 103230000,
+                    "earnings": 38046000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 110500000,
+                    "earnings": 45444000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 28337000,
+                    "earnings": 11164000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 26324000,
+                    "earnings": 10183000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 28531000,
+                    "earnings": 11654000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 32859000,
+                    "earnings": 10533000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1673827200,
+                1674172800
+            ],
+            "earningsAverage": 1.77,
+            "earningsLow": 1.74,
+            "earningsHigh": 1.8,
+            "revenueAverage": 36400000,
+            "revenueLow": 35600000,
+            "revenueHigh": 37200000
+        },
+        "exDividendDate": "2022-12-20T00:00:00.000Z",
+        "dividendDate": "2023-01-04T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-04-21T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-09-29T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-19T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-03-07T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0,
+        "postMarketChange": 0,
+        "postMarketTime": "2023-01-06T21:02:01.000Z",
+        "postMarketPrice": 90.48,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.018689526,
+        "regularMarketChange": 1.6600037,
+        "regularMarketTime": "2023-01-06T21:00:04.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 90.48,
+        "regularMarketDayHigh": 90.48,
+        "regularMarketDayLow": 88.85,
+        "regularMarketVolume": 10485,
+        "averageDailyVolume10Day": 15570,
+        "averageDailyVolume3Month": 18698,
+        "regularMarketPreviousClose": 88.82,
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": 88.85,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BFC",
+        "underlyingSymbol": null,
+        "shortName": "Bank First Corporation",
+        "longName": "Bank First Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 690257472
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 566726208,
+        "forwardPE": 12.636872,
+        "profitMargins": 0.3758,
+        "floatShares": 7110507,
+        "sharesOutstanding": 7628840,
+        "sharesShort": 238812,
+        "sharesShortPriorMonth": 218750,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.026500002,
+        "heldPercentInsiders": 0.12719,
+        "heldPercentInstitutions": 0.23126,
+        "shortRatio": 14.19,
+        "shortPercentOfFloat": 0.028399998,
+        "beta": 0.286661,
+        "category": null,
+        "bookValue": 39.628,
+        "priceToBook": 2.2832344,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": -0.061,
+        "netIncomeToCommon": 43183000,
+        "trailingEps": 5.514,
+        "forwardEps": 4.75,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 4.892
+    },
+    "summaryProfile": {
+        "address1": "402 North 8th Street",
+        "city": "Manitowoc",
+        "state": "WI",
+        "zip": "54220",
+        "country": "United States",
+        "phone": "920 652 3100",
+        "website": "https://www.bankfirst.com",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Bank First Corporation operates as a holding company for Bank First N.A. that provides consumer and commercial financial services to businesses, professionals, consumers, associations, individuals, and governmental authorities in Wisconsin. The company offers checking, savings, money market, cash management, retirement, and health savings accounts; other time deposits; certificates of deposit; and residential mortgage products. It also provides credit cards; ATM processing; insurance; data processing and other information technology; investment and safekeeping; treasury management; and online, telephone, and mobile banking services. The company's loan products include real estate loans, including commercial real estate, residential mortgage, and home equity loans; commercial and industrial loans for working capital, accounts receivable, inventory financing, and other business purposes; construction and development loans; residential 1-4 family loans; and consumer loans for personal and household purposes, including secured and unsecured installment loans, and revolving lines of credit. It operates through 21 offices in Manitowoc, Outagamie, Brown, Winnebago, Sheboygan, Waupaca, Ozaukee, Monroe, and Jefferson counties in Wisconsin. The company was formerly known as Bank First National Corporation and changed its name to Bank First Corporation in June 2019. Bank First Corporation was founded in 1894 and is headquartered in Manitowoc, Wisconsin.",
+        "fullTimeEmployees": 335,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 90.48,
+        "targetHighPrice": 90,
+        "targetLowPrice": 84,
+        "targetMeanPrice": 87,
+        "targetMedianPrice": 87,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 143440992,
+        "totalCashPerShare": 17.48,
+        "totalDebt": 48032000,
+        "totalRevenue": 115845000,
+        "revenuePerShare": 15.054,
+        "returnOnAssets": 0.01342,
+        "returnOnEquity": 0.11537,
+        "grossProfits": 110500000,
+        "earningsGrowth": -0.137,
+        "revenueGrowth": 0.203,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.51744,
+        "profitMargins": 0.3758,
+        "financialCurrency": "USD"
+    }
+}

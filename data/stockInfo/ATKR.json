@@ -1,0 +1,576 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ATKR",
+        "Security_Name": "Atkore International Group Inc. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ATKR",
+        "NASDAQ_Symbol": "ATKR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 2,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 115.02,
+        "open": 117.03,
+        "dayLow": 117.02,
+        "dayHigh": 119.45,
+        "regularMarketPreviousClose": 115.02,
+        "regularMarketOpen": 117.03,
+        "regularMarketDayLow": 117.02,
+        "regularMarketDayHigh": 119.45,
+        "payoutRatio": 0,
+        "beta": 2.203758,
+        "trailingPE": 20.10299,
+        "forwardPE": 20.963028,
+        "volume": 349652,
+        "regularMarketVolume": 349652,
+        "averageVolume": 475967,
+        "averageVolume10days": 350330,
+        "averageDailyVolume10Day": 350330,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 1100,
+        "askSize": 1200,
+        "marketCap": 5519085056,
+        "fiftyTwoWeekLow": 70.5,
+        "fiftyTwoWeekHigh": 128.36,
+        "priceToSalesTrailing12Months": 1.4490755,
+        "fiftyDayAverage": 111.1792,
+        "twoHundredDayAverage": 97.34645,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 4.39,
+                    "estimate": 3.84
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 4.58,
+                    "estimate": 3.56
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 5.39,
+                    "estimate": 3.75
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 6.07,
+                    "estimate": 5.22
+                }
+            ],
+            "currentQuarterEstimate": 5.05,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1675036800,
+                1675382400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1835139000,
+                    "earnings": 136645000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1916538000,
+                    "earnings": 139051000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1765421000,
+                    "earnings": 152302000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 2928014000,
+                    "earnings": 587857000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 923731000,
+                    "earnings": 202561000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 840801000,
+                    "earnings": 204843000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 0,
+                    "earnings": 0
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 1061590000,
+                    "earnings": 254313000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675036800,
+                1675382400
+            ],
+            "earningsAverage": 5.05,
+            "earningsLow": 4.9,
+            "earningsHigh": 5.1,
+            "revenueAverage": 978760000,
+            "revenueLow": 969630000,
+            "revenueHigh": 990100000
+        }
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-10-19T00:00:00.000Z",
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2022-08-03T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-08-03T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-04T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-04T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-05-04T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2022-02-01T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-19T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-19T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-11-19T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-04T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-08-04T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-02-03T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2021-01-04T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-11-25T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2020-05-06T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-05-06T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-04-01T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2020-03-26T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Sector Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2019-11-25T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-11-25T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2019-02-21T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2018-09-07T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-08-30T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-04-09T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2018-01-24T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-11T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2017-10-10T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-10-09T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2017-08-09T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-11-30T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-07-07T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-05T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-05T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-05T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-05T00:00:00.000Z",
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-05T00:00:00.000Z",
+                "firm": "RBC Capital",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2016-07-05T00:00:00.000Z",
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.00562693,
+        "postMarketChange": 0.669998,
+        "postMarketTime": "2023-01-06T23:37:43.000Z",
+        "postMarketPrice": 119.74,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.035211295,
+        "regularMarketChange": 4.050003,
+        "regularMarketTime": "2023-01-06T21:00:02.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 119.07,
+        "regularMarketDayHigh": 119.45,
+        "regularMarketDayLow": 117.02,
+        "regularMarketVolume": 349652,
+        "averageDailyVolume10Day": 350330,
+        "averageDailyVolume3Month": 475967,
+        "regularMarketPreviousClose": 115.02,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 117.03,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ATKR",
+        "underlyingSymbol": null,
+        "shortName": "Atkore Inc.",
+        "longName": "Atkore Inc.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 5519085056
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 4522460672,
+        "forwardPE": 8.885821,
+        "profitMargins": 0.23504,
+        "floatShares": 40967159,
+        "sharesOutstanding": 46351600,
+        "sharesShort": 2787963,
+        "sharesShortPriorMonth": 2504358,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0675,
+        "heldPercentInsiders": 0.00679,
+        "heldPercentInstitutions": 1.01629,
+        "shortRatio": 6,
+        "shortPercentOfFloat": 0.078099996,
+        "beta": 2.203758,
+        "category": null,
+        "bookValue": 12.136,
+        "priceToBook": 9.811305,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-09-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-09-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-24T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.451,
+        "netIncomeToCommon": 880292992,
+        "trailingEps": 5.923,
+        "forwardEps": 5.68,
+        "pegRatio": -1.79,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 1.187,
+        "enterpriseToEbitda": 3.518
+    },
+    "summaryProfile": {
+        "address1": "16100 South Lathrop Avenue",
+        "city": "Harvey",
+        "state": "IL",
+        "zip": "60426",
+        "country": "United States",
+        "phone": "708 339 1610",
+        "website": "https://www.atkore.com",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "Atkore Inc. manufactures and sells electrical, safety, and infrastructure products in the United States and internationally. The company offers electrical products, including conduits cables, and installation accessories. It also provides safety and infrastructure solutions, such as metal framing, mechanical pipe, perimeter security, and cable management. The company offers its products under the Allied Tube & Conduit, AFC Cable Systems, Kaf-Tech, Heritage Plastics, Unistrut, Power-Strut, Cope, US Tray, FRE Composites, Calbond, and Calpipe brands. It serves a group of end markets, including new construction; maintenance, repair, and remodel, as well as infrastructure; diversified industrials; alternative power generation; healthcare; data centers; and government through electrical, industrial, and mechanical contractors, as well as original equipment manufacturers. The company was formerly known as Atkore International Group Inc. and changed its name to Atkore Inc. in February 2021. Atkore Inc. was founded in 1959 and is headquartered in Harvey, Illinois.",
+        "fullTimeEmployees": 3400,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 119.07,
+        "targetHighPrice": 133,
+        "targetLowPrice": 94,
+        "targetMeanPrice": 115.8,
+        "targetMedianPrice": 110,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 186650000,
+        "totalCashPerShare": 4.517,
+        "ebitda": 1285415936,
+        "totalDebt": 803049024,
+        "quickRatio": 1.783,
+        "currentRatio": 2.767,
+        "totalRevenue": 3808694016,
+        "debtToEquity": 70.442,
+        "revenuePerShare": 84.816,
+        "returnOnAssets": 0.33758,
+        "returnOnEquity": 0.98533,
+        "grossProfits": 1125613000,
+        "freeCashflow": 447071488,
+        "operatingCashflow": 626057024,
+        "earningsGrowth": 0.577,
+        "revenueGrowth": 0.244,
+        "grossMargins": 0.41559,
+        "ebitdaMargins": 0.33749,
+        "operatingMargins": 0.31635,
+        "profitMargins": 0.23504,
+        "financialCurrency": "USD"
+    }
+}

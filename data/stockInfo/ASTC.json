@@ -1,0 +1,279 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ASTC",
+        "Security_Name": "Astrotech Corporation - Common Stock",
+        "Listing_Exchange": "Q",
+        "Market_Category": "S",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "D",
+        "CQS_Symbol": "",
+        "NASDAQ_Symbol": "ASTC",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 10.51,
+        "open": 10.235,
+        "dayLow": 10.235,
+        "dayHigh": 11.1538,
+        "regularMarketPreviousClose": 10.51,
+        "regularMarketOpen": 10.235,
+        "regularMarketDayLow": 10.235,
+        "regularMarketDayHigh": 11.1538,
+        "payoutRatio": 0,
+        "beta": -0.632645,
+        "forwardPE": -16.150883,
+        "volume": 8886,
+        "regularMarketVolume": 8886,
+        "averageVolume": 16355,
+        "averageVolume10days": 12420,
+        "averageDailyVolume10Day": 12420,
+        "bid": 8.66,
+        "ask": 11.19,
+        "bidSize": 1200,
+        "askSize": 1000,
+        "marketCap": 543797952,
+        "fiftyTwoWeekLow": 9.28,
+        "fiftyTwoWeekHigh": 23.1,
+        "priceToSalesTrailing12Months": 625.7744,
+        "fiftyDayAverage": 10.9188,
+        "twoHundredDayAverage": 13.9512,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1675900800,
+                1676246400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2019,
+                    "revenue": 127000,
+                    "earnings": -7534000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 488000,
+                    "earnings": -8311000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 334000,
+                    "earnings": -7603000
+                },
+                {
+                    "date": 2022,
+                    "revenue": 869000,
+                    "earnings": -8330000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 187000,
+                    "earnings": -2029000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 561000,
+                    "earnings": -2180000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 97000,
+                    "earnings": -2100000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 24000,
+                    "earnings": -2021000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1675900800,
+                1676246400
+            ]
+        },
+        "dividendDate": "2017-10-16T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2016-10-28T00:00:00.000Z",
+                "firm": "Chardan Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.0143318,
+        "postMarketChange": 0.1574,
+        "postMarketTime": "2023-01-07T00:43:01.000Z",
+        "postMarketPrice": 11.14,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.044966694,
+        "regularMarketChange": 0.47259998,
+        "regularMarketTime": "2023-01-06T20:57:35.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 10.9826,
+        "regularMarketDayHigh": 11.1538,
+        "regularMarketDayLow": 10.235,
+        "regularMarketVolume": 8886,
+        "averageDailyVolume10Day": 12420,
+        "averageDailyVolume3Month": 16355,
+        "regularMarketPreviousClose": 10.51,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 10.235,
+        "exchange": "NCM",
+        "exchangeName": "NasdaqCM",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ASTC",
+        "underlyingSymbol": null,
+        "shortName": "Astrotech Corporation",
+        "longName": "Astrotech Corporation",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 543797952
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": -31235398,
+        "profitMargins": 0,
+        "floatShares": 39439912,
+        "sharesOutstanding": 49514500,
+        "sharesShort": 26006,
+        "sharesShortPriorMonth": 39793,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0005,
+        "heldPercentInsiders": 0.11255,
+        "heldPercentInstitutions": 0.18117,
+        "shortRatio": 0.08,
+        "shortPercentOfFloat": 0.00059999997,
+        "beta": -0.632645,
+        "category": null,
+        "bookValue": 1.014,
+        "priceToBook": 10.830966,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2022-06-30T00:00:00.000Z",
+        "nextFiscalYearEnd": "2024-06-30T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "netIncomeToCommon": -8330000,
+        "trailingEps": -0.845,
+        "forwardEps": -0.68,
+        "lastSplitFactor": "1:5",
+        "lastSplitDate": "2017-10-16T00:00:00.000Z",
+        "enterpriseToRevenue": -35.944,
+        "enterpriseToEbitda": 3.737
+    },
+    "summaryProfile": {
+        "address1": "2105 Donley Drive",
+        "address2": "Suite 100",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78758",
+        "country": "United States",
+        "phone": "512 485 9530",
+        "website": "https://www.astrotechcorp.com",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "Astrotech Corporation operates as a mass spectrometry company worldwide. It owns and licenses the intellectual property related to the Astrotech Mass Spectrometer Technology, a platform mass spectrometry technology. The company also develops TRACER 1000, a mass spectrometer-based explosive trace detector to replace the explosives trace detectors used at airports, cargo and other secured facilities, and borders. In addition, it develops AgLAB-1000, a mass spectrometer for use in the hemp and cannabis market. Further, the company develops BreathTest-1000, a breath analysis tool to screen for volatile organic compound metabolites found in a person's breath. The company was formerly known as SPACEHAB, Inc. and changed its name to Astrotech Corporation in 2009. Astrotech Corporation was incorporated in 1984 and is based in Austin, Texas.",
+        "fullTimeEmployees": 14,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 10.9826,
+        "recommendationKey": "none",
+        "totalCash": 52626000,
+        "totalCashPerShare": 1.039,
+        "ebitda": -8359000,
+        "totalDebt": 1037000,
+        "quickRatio": 19.644,
+        "currentRatio": 20.488,
+        "totalRevenue": 869000,
+        "debtToEquity": 1.948,
+        "revenuePerShare": 0.018,
+        "returnOnAssets": -0.08817001,
+        "returnOnEquity": -0.14557,
+        "grossProfits": 192000,
+        "freeCashflow": -4439250,
+        "operatingCashflow": -6792000,
+        "revenueGrowth": 1.4,
+        "grossMargins": 0.22094,
+        "ebitdaMargins": 0,
+        "operatingMargins": -9.89068,
+        "profitMargins": 0,
+        "financialCurrency": "USD"
+    }
+}

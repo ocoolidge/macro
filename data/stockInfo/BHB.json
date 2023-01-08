@@ -1,0 +1,318 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BHB",
+        "Security_Name": "Bar Harbor Bankshares, Inc. Common Stock",
+        "Listing_Exchange": "A",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BHB",
+        "NASDAQ_Symbol": "BHB",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 31.42,
+        "open": 31.42,
+        "dayLow": 31.3905,
+        "dayHigh": 31.95,
+        "regularMarketPreviousClose": 31.42,
+        "regularMarketOpen": 31.42,
+        "regularMarketDayLow": 31.3905,
+        "regularMarketDayHigh": 31.95,
+        "dividendRate": 1.04,
+        "dividendYield": 0.0358,
+        "exDividendDate": "2022-11-15T00:00:00.000Z",
+        "payoutRatio": 0.36900002,
+        "fiveYearAvgDividendYield": 3.38,
+        "beta": 0.838614,
+        "trailingPE": 13.816529,
+        "forwardPE": 11.048443,
+        "volume": 10595,
+        "regularMarketVolume": 10595,
+        "averageVolume": 24333,
+        "averageVolume10days": 21500,
+        "averageDailyVolume10Day": 21500,
+        "bid": 30.2,
+        "ask": 32.05,
+        "bidSize": 3000,
+        "askSize": 900,
+        "marketCap": 478528544,
+        "fiftyTwoWeekLow": 24,
+        "fiftyTwoWeekHigh": 33.11,
+        "priceToSalesTrailing12Months": 3.418061,
+        "fiftyDayAverage": 30.643,
+        "twoHundredDayAverage": 28.2421,
+        "trailingAnnualDividendRate": 0.88,
+        "trailingAnnualDividendYield": 0.028007638,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 0.68,
+                    "estimate": 0.67
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.62,
+                    "estimate": 0.66
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 0.7,
+                    "estimate": 0.69
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 0.76,
+                    "estimate": 0.75
+                }
+            ],
+            "currentQuarterEstimate": 0.82,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1666137600
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 116038000,
+                    "earnings": 32937000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 116544000,
+                    "earnings": 22620000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 136543000,
+                    "earnings": 33244000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 138758000,
+                    "earnings": 39299000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 34332000,
+                    "earnings": 9766000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 33305000,
+                    "earnings": 9112000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 34936000,
+                    "earnings": 10503000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 37427000,
+                    "earnings": 11430000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1666137600
+            ],
+            "earningsAverage": 0.82,
+            "earningsLow": 0.81,
+            "earningsHigh": 0.83,
+            "revenueAverage": 40500000,
+            "revenueLow": 39900000,
+            "revenueHigh": 41090000
+        },
+        "exDividendDate": "2022-11-15T00:00:00.000Z",
+        "dividendDate": "2022-12-16T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2021-05-19T00:00:00.000Z",
+                "firm": "Piper Sandler",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0031417,
+        "postMarketChange": 0.1,
+        "postMarketTime": "2023-01-06T21:01:50.000Z",
+        "postMarketPrice": 31.93,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.016231706,
+        "regularMarketChange": 0.5100002,
+        "regularMarketTime": "2023-01-06T21:00:00.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 31.93,
+        "regularMarketDayHigh": 31.95,
+        "regularMarketDayLow": 31.3905,
+        "regularMarketVolume": 10595,
+        "averageDailyVolume10Day": 21500,
+        "averageDailyVolume3Month": 24333,
+        "regularMarketPreviousClose": 31.42,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 31.42,
+        "exchange": "ASE",
+        "exchangeName": "NYSE American",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BHB",
+        "underlyingSymbol": null,
+        "shortName": "Bar Harbor Bankshares, Inc.",
+        "longName": "Bar Harbor Bankshares",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 478528544
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 604908608,
+        "forwardPE": 9.794478,
+        "profitMargins": 0.29151,
+        "floatShares": 14702307,
+        "sharesOutstanding": 14986800,
+        "sharesShort": 155481,
+        "sharesShortPriorMonth": 148120,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.010299999,
+        "heldPercentInsiders": 0.02479,
+        "heldPercentInstitutions": 0.52779,
+        "shortRatio": 7.01,
+        "shortPercentOfFloat": 0.0106,
+        "beta": 0.838614,
+        "category": null,
+        "bookValue": 27.129,
+        "priceToBook": 1.1769693,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.036,
+        "netIncomeToCommon": 40811000,
+        "trailingEps": 2.311,
+        "forwardEps": 2.89,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": "2017-03-22T00:00:00.000Z",
+        "enterpriseToRevenue": 4.321
+    },
+    "summaryProfile": {
+        "address1": "82 Main Street",
+        "address2": "PO Box 400",
+        "city": "Bar Harbor",
+        "state": "ME",
+        "zip": "04609-0400",
+        "country": "United States",
+        "phone": "207 669 6784",
+        "fax": "207 288 2699",
+        "website": "https://www.barharbor.bank",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Bar Harbor Bankshares operates as the holding company for Bar Harbor Bank & Trust that provides commercial, lending, retail, and wealth management banking services. It accepts various deposit products, including interest-bearing and non-interest-bearing demand accounts, savings accounts, time deposits, and money market deposit accounts, as well as certificates of deposit. The company also provides commercial real estate loans, such as multi-family, commercial construction and land development, and other commercial real estate classes; commercial and industrial loans, including loans to commercial and agricultural businesses, and tax exempt entities; residential real estate loans consists of mortgages for 1-4 family housing; and consumer loans comprises home equity loans, lines of credit, auto, and other installment lending. In addition, it provides life insurance, annuity, and retirement products, as well as financial planning services; and third-party investment and insurance services. Further, the company offers trust and estate administration, wealth advisory, and investment management services to individuals, businesses, not-for-profit organizations, and municipalities; and 401K plan, financial, estate and charitable planning, investment management, family office, municipal, and tax services. It operates 53 locations across Maine, New Hampshire, and Vermont. The company was founded in 1887 and is based in Bar Harbor, Maine.",
+        "fullTimeEmployees": 489,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 31.93,
+        "targetHighPrice": 33,
+        "targetLowPrice": 32,
+        "targetMeanPrice": 32.5,
+        "targetMedianPrice": 32.5,
+        "recommendationMean": 2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 82065000,
+        "totalCashPerShare": 5.447,
+        "totalDebt": 249004992,
+        "totalRevenue": 140000000,
+        "revenuePerShare": 9.321,
+        "returnOnAssets": 0.0107700005,
+        "returnOnEquity": 0.10223,
+        "grossProfits": 138758000,
+        "earningsGrowth": 0.04,
+        "revenueGrowth": 0.005,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0.37993,
+        "profitMargins": 0.29151,
+        "financialCurrency": "USD"
+    }
+}

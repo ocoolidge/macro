@@ -1,0 +1,407 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "BCH",
+        "Security_Name": "Banco De Chile Banco De Chile ADS",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "BCH",
+        "NASDAQ_Symbol": "BCH",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 8,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 4,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 3,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 8,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 19.56,
+        "open": 19.78,
+        "dayLow": 19.64,
+        "dayHigh": 19.975,
+        "regularMarketPreviousClose": 19.56,
+        "regularMarketOpen": 19.78,
+        "regularMarketDayLow": 19.64,
+        "regularMarketDayHigh": 19.975,
+        "dividendRate": 1.37,
+        "dividendYield": 0.0753,
+        "exDividendDate": "2022-03-28T00:00:00.000Z",
+        "payoutRatio": 0.3742,
+        "fiveYearAvgDividendYield": 4.13,
+        "beta": 0.225619,
+        "trailingPE": 11.027779,
+        "forwardPE": 11.089386,
+        "volume": 276480,
+        "regularMarketVolume": 276480,
+        "averageVolume": 169562,
+        "averageVolume10days": 177500,
+        "averageDailyVolume10Day": 177500,
+        "bid": 0,
+        "ask": 0,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 10025936896,
+        "fiftyTwoWeekLow": 15.64,
+        "fiftyTwoWeekHigh": 22.74,
+        "fiftyDayAverage": 19.008,
+        "twoHundredDayAverage": 19.20825,
+        "trailingAnnualDividendRate": 0.005,
+        "trailingAnnualDividendYield": 0.00025562372,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "actual": 0.47,
+                    "estimate": 0.45
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.68,
+                    "estimate": 0.51
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.72,
+                    "estimate": 0.67
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 1.01,
+                    "estimate": 0.73
+                }
+            ],
+            "currentQuarterEstimate": 0.51,
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1591871000000,
+                    "earnings": 594872000000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1667246000000,
+                    "earnings": 593008000000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1476063000000,
+                    "earnings": 463108000000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1856997000000,
+                    "earnings": 792922000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2021",
+                    "revenue": 452053000000,
+                    "earnings": 184235000000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 554772000000,
+                    "earnings": 283818000000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 585781000000,
+                    "earnings": 291727000000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 740639000000,
+                    "earnings": 431522000000
+                }
+            ]
+        },
+        "financialCurrency": "CLP"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [],
+            "earningsAverage": 0.51,
+            "earningsLow": 0,
+            "earningsHigh": 0.84,
+            "revenueAverage": 794570000,
+            "revenueLow": 769500000,
+            "revenueHigh": 819640000
+        },
+        "exDividendDate": "2022-03-28T00:00:00.000Z",
+        "dividendDate": "2022-04-07T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2022-08-19T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2022-03-02T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2022-02-17T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2020-11-17T00:00:00.000Z",
+                "firm": "Itau BBA",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2019-09-10T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": "2017-09-06T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-08-15T00:00:00.000Z",
+                "firm": "Standpoint Research",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-07-15T00:00:00.000Z",
+                "firm": "Scotiabank",
+                "toGrade": "Outperform",
+                "fromGrade": "Sector Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2016-04-07T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2015-08-26T00:00:00.000Z",
+                "firm": "Standpoint Research",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2014-11-06T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2014-07-07T00:00:00.000Z",
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2013-09-17T00:00:00.000Z",
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "Hold",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2013-01-03T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2012-10-25T00:00:00.000Z",
+                "firm": "Credit Suisse",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2012-10-11T00:00:00.000Z",
+                "firm": "Barclays",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": 0.0075566554,
+        "postMarketChange": 0.14999962,
+        "postMarketTime": "2023-01-06T23:40:19.000Z",
+        "postMarketPrice": 20,
+        "postMarketSource": "DELAYED",
+        "regularMarketChangePercent": 0.014826224,
+        "regularMarketChange": 0.29000092,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 19.85,
+        "regularMarketDayHigh": 19.975,
+        "regularMarketDayLow": 19.64,
+        "regularMarketVolume": 276480,
+        "averageDailyVolume10Day": 177500,
+        "averageDailyVolume3Month": 169562,
+        "regularMarketPreviousClose": 19.56,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 19.78,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "BCH",
+        "underlyingSymbol": null,
+        "shortName": "Banco De Chile Banco De Chile",
+        "longName": "Banco de Chile",
+        "currency": "USD",
+        "quoteSourceName": "Delayed Quote",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 10025936896
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 9182452736,
+        "forwardPE": 11.886228,
+        "profitMargins": 0.50772,
+        "floatShares": 182957086,
+        "sharesOutstanding": 505084992,
+        "sharesShort": 296202,
+        "sharesShortPriorMonth": 209744,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.00059999997,
+        "heldPercentInsiders": 0,
+        "heldPercentInstitutions": 0.0118700005,
+        "shortRatio": 1.95,
+        "beta": 0.225619,
+        "category": null,
+        "bookValue": 10,
+        "priceToBook": 1.985,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-06-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 1.636,
+        "trailingEps": 1.8,
+        "forwardEps": 1.79,
+        "pegRatio": 1.79,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": "2018-11-23T00:00:00.000Z"
+    },
+    "summaryProfile": {
+        "address1": "Ahumada 251",
+        "city": "Santiago de Chile",
+        "country": "Chile",
+        "phone": "56 2 653 1111",
+        "website": "https://portales.bancochile.cl",
+        "industry": "Banks—Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Banco de Chile, together with its subsidiaries, provides banking and financial products and services to customers in Chile. It operates through Retail Banking, Wholesale Banking, and Treasury and Money Market segments. The company offers deposit products, such as checking accounts, current accounts, demand deposits and accounts, saving accounts, and time deposits; commercial, mortgage, consumer, working capital, syndicated, and installment loans; and credit cards. It also provides leasing, factoring, and foreign trade services; international and treasury banking services; and financial advisory services. In addition, the company offers liquidity management services, debt instruments, and derivative contracts and leases, as well as financial transaction and currency trading services; and securities brokerage, mutual funds management, wholesale customer, investment banking and management, and insurance brokerage services. As of December 31, 2021, it operated through a network of 272 branches and 1,761 ATMs. The company serves individuals, small and medium-sized companies, corporate clients, and large companies. Banco de Chile was founded in 1893 and is headquartered in Santiago, Chile.",
+        "fullTimeEmployees": 12340,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 19.85,
+        "targetHighPrice": 25,
+        "targetLowPrice": 19,
+        "targetMeanPrice": 21.04,
+        "targetMedianPrice": 21,
+        "recommendationMean": 2.9,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 7,
+        "returnOnAssets": 0.02343,
+        "returnOnEquity": 0.2848,
+        "grossProfits": 1814891000000,
+        "earningsGrowth": 1.636,
+        "revenueGrowth": 0.774,
+        "grossMargins": 0,
+        "ebitdaMargins": 0,
+        "operatingMargins": 0,
+        "profitMargins": 0.50772,
+        "financialCurrency": "CLP"
+    }
+}

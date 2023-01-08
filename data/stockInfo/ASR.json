@@ -1,0 +1,367 @@
+{
+    "info": {
+        "Nasdaq_Traded": "Y",
+        "Symbol": "ASR",
+        "Security_Name": "Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",
+        "Listing_Exchange": "N",
+        "Market_Category": "",
+        "ETF": "N",
+        "Round_Lot_Size": "100.0",
+        "Test_Issue": "N",
+        "Financial_Status": "",
+        "CQS_Symbol": "ASR",
+        "NASDAQ_Symbol": "ASR",
+        "NextShares": "N"
+    },
+    "history": [],
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 5,
+                "sell": 2,
+                "strongSell": 1
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 2,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 3,
+                "sell": 1,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 2,
+                "hold": 3,
+                "sell": 2,
+                "strongSell": 1
+            }
+        ],
+        "maxAge": 86400
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "previousClose": 250.1,
+        "open": 253.17,
+        "dayLow": 252.92,
+        "dayHigh": 260.01,
+        "regularMarketPreviousClose": 250.1,
+        "regularMarketOpen": 253.17,
+        "regularMarketDayLow": 252.92,
+        "regularMarketDayHigh": 260.01,
+        "dividendRate": 7.65,
+        "dividendYield": 0.0343,
+        "exDividendDate": "2022-05-27T00:00:00.000Z",
+        "payoutRatio": 0.4755,
+        "beta": 0.883513,
+        "trailingPE": 151.02351,
+        "forwardPE": 28.814814,
+        "volume": 49233,
+        "regularMarketVolume": 49233,
+        "averageVolume": 60467,
+        "averageVolume10days": 56310,
+        "averageDailyVolume10Day": 56310,
+        "bid": 244,
+        "ask": 250.21,
+        "bidSize": 900,
+        "askSize": 800,
+        "marketCap": 7745717248,
+        "fiftyTwoWeekLow": 179.01,
+        "fiftyTwoWeekHigh": 260.01,
+        "priceToSalesTrailing12Months": 0.31195143,
+        "fiftyDayAverage": 240.5644,
+        "twoHundredDayAverage": 216.47595,
+        "trailingAnnualDividendRate": 8.21,
+        "trailingAnnualDividendYield": 0.032826867,
+        "currency": "USD",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "algorithm": null,
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "actual": 3.24,
+                    "estimate": 2.82
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 3.6,
+                    "estimate": 3.07
+                },
+                {
+                    "date": "2Q2022",
+                    "actual": 4.43,
+                    "estimate": 3.67
+                },
+                {
+                    "date": "3Q2022",
+                    "actual": 4.2,
+                    "estimate": 3.92
+                }
+            ],
+            "currentQuarterEstimate": 3.82,
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 15410241000,
+                    "earnings": 4987601000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 16821638000,
+                    "earnings": 5465822000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 12624731000,
+                    "earnings": 1972319000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 18784661000,
+                    "earnings": 5983747000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "4Q2021",
+                    "revenue": 6789564000,
+                    "earnings": 2013123000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 5425805000,
+                    "earnings": 2193709000
+                },
+                {
+                    "date": "2Q2022",
+                    "revenue": 6319709000,
+                    "earnings": 2661548000
+                },
+                {
+                    "date": "3Q2022",
+                    "revenue": 6294804000,
+                    "earnings": 2546504000
+                }
+            ]
+        },
+        "financialCurrency": "MXN"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [],
+            "earningsAverage": 3.82,
+            "earningsLow": 3.7,
+            "earningsHigh": 3.93,
+            "revenueAverage": 303470000,
+            "revenueLow": 298570000,
+            "revenueHigh": 308360000
+        },
+        "exDividendDate": "2022-05-27T00:00:00.000Z",
+        "dividendDate": "2022-06-13T00:00:00.000Z"
+    },
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": "2021-12-01T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Sell",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2021-03-11T00:00:00.000Z",
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2018-12-12T00:00:00.000Z",
+                "firm": "B of A Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2018-10-04T00:00:00.000Z",
+                "firm": "Morgan Stanley",
+                "toGrade": "Underweight",
+                "fromGrade": "Equal-Weight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": "2016-07-21T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": "2016-01-22T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-07-05T00:00:00.000Z",
+                "firm": "CJS Securities",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": "2012-02-09T00:00:00.000Z",
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": -0.00101171,
+        "postMarketChange": -0.26001,
+        "postMarketTime": "2023-01-06T21:00:14.000Z",
+        "postMarketPrice": 256.74,
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": 0.026549317,
+        "regularMarketChange": 6.639984,
+        "regularMarketTime": "2023-01-06T21:00:01.000Z",
+        "priceHint": 2,
+        "regularMarketPrice": 256.74,
+        "regularMarketDayHigh": 260.01,
+        "regularMarketDayLow": 252.92,
+        "regularMarketVolume": 49233,
+        "averageDailyVolume10Day": 56310,
+        "averageDailyVolume3Month": 60467,
+        "regularMarketPreviousClose": 250.1,
+        "regularMarketSource": "DELAYED",
+        "regularMarketOpen": 253.17,
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "CLOSED",
+        "quoteType": "EQUITY",
+        "symbol": "ASR",
+        "underlyingSymbol": null,
+        "shortName": "Grupo Aeroportuario del Sureste",
+        "longName": "Grupo Aeroportuario del Sureste, S. A. B. de C. V.",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "lastMarket": null,
+        "marketCap": 7745717248
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": 2,
+        "enterpriseValue": 17858168832,
+        "forwardPE": 22.660194,
+        "profitMargins": 0.38012,
+        "floatShares": 15894387,
+        "sharesOutstanding": 30000000,
+        "sharesShort": 136580,
+        "sharesShortPriorMonth": 164003,
+        "sharesShortPreviousMonthDate": 1663200000,
+        "dateShortInterest": 1665705600,
+        "sharesPercentSharesOut": 0.0046,
+        "heldPercentInsiders": 0,
+        "heldPercentInstitutions": 0.19203,
+        "shortRatio": 2.73,
+        "beta": 0.883513,
+        "category": null,
+        "bookValue": 1159.43,
+        "priceToBook": 0.22143638,
+        "fundFamily": null,
+        "legalType": null,
+        "lastFiscalYearEnd": "2021-12-31T00:00:00.000Z",
+        "nextFiscalYearEnd": "2023-12-31T00:00:00.000Z",
+        "mostRecentQuarter": "2022-09-30T00:00:00.000Z",
+        "earningsQuarterlyGrowth": 0.419,
+        "netIncomeToCommon": 9438450688,
+        "trailingEps": 1.7,
+        "forwardEps": 8.91,
+        "pegRatio": -229.1,
+        "lastSplitFactor": null,
+        "enterpriseToRevenue": 0.719,
+        "enterpriseToEbitda": 1.144
+    },
+    "summaryProfile": {
+        "address1": "Bosque de Alisos No. 47A",
+        "address2": "4th Floor Bosques de las Lomas",
+        "city": "Mexico City",
+        "state": "DF",
+        "zip": "05120",
+        "country": "Mexico",
+        "phone": "52 55 5284 0408",
+        "website": "https://www.asur.com.mx",
+        "industry": "Airports & Air Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "Grupo Aeroportuario del Sureste, S. A. B. de C. V. holds concessions to operate, maintain, and develop airports in the southeast region of Mexico. The company operates nine airports that are located in the cities of Cancún, Cozumel, Mérida, Huatulco, Oaxaca, Veracruz, Villahermosa, Tapachula, and Minatitlan. It provides aeronautical services, which include passenger, aircraft landing and parking, passenger walkway, and airport security services. The company also offers non-aeronautical services, such as leasing of space at its airports to retailers, restaurants, airlines, and other commercial tenants; catering, handling, and ground transportation services. In addition, it operates the Luis Muñoz Marín International Airport in San Juan, Puerto Rico; and holds concessions to operate the various airports in Colombia, including the Enrique Olaya Herrera Airport in Medellín and José María Córdova International Airport in Rionegro, the Los Garzones Airport in Montería, the Antonio Roldán Betancourt Airport in Carepa, the El Caraño Airport in Quibdó, and the Las Brujas Airport in Corozal. The company was incorporated in 1998 and is headquartered in Mexico City, Mexico.",
+        "fullTimeEmployees": 1777,
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": 256.74,
+        "targetHighPrice": 283,
+        "targetLowPrice": 199,
+        "targetMeanPrice": 241.76,
+        "targetMedianPrice": 239.3,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 13917369344,
+        "totalCashPerShare": 463.91,
+        "ebitda": 15608504320,
+        "totalDebt": 16098094080,
+        "quickRatio": 3.38,
+        "currentRatio": 3.697,
+        "totalRevenue": 24829882368,
+        "debtToEquity": 33.179,
+        "revenuePerShare": 827.66,
+        "returnOnAssets": 0.124110006,
+        "returnOnEquity": 0.21564,
+        "grossProfits": 8920830000,
+        "freeCashflow": 2980225024,
+        "operatingCashflow": 13176532992,
+        "earningsGrowth": 0.419,
+        "revenueGrowth": 0.294,
+        "grossMargins": 0.55775,
+        "ebitdaMargins": 0.62861997,
+        "operatingMargins": 0.54744,
+        "profitMargins": 0.38012,
+        "financialCurrency": "MXN"
+    }
+}
