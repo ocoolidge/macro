@@ -92,7 +92,6 @@ function parseData(response){
 	function doData(stuff, longest){
 
 		let equilibriumGDP = generateLine(("((" + parseFloat(stuff.inducer.data[frame]) + " * x) + " + parseFloat(stuff.autoEx.data[frame])+")").toString(), 0, 30000, 100)
-		
 		let graph = makeEquibGDPGraph('chartAnim', equilibriumGDP)
 		let ctx = $('#chartAnim')
 		ctx.data('chartAnim', graph)
@@ -280,7 +279,6 @@ function generateLine(value, i1, i2, step = 1) {
 }
 
 function makeEquibGDPGraph(ctx, data){
-
 	let aChart = new Chart(ctx, {
 		type: "line",
 		data: {
