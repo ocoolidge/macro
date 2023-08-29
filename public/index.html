@@ -9,22 +9,24 @@
 		<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+		<!-- <script src="../node_modules/chart.js/dist/chart.umd.js"></script> -->
 		<link rel="stylesheet" href="styles.css">
-        
 	</head>
 
 	<body>
+		<div id = 'nav'><button class = 'navButton' id = 'showHideMacro'>Crazy Money Data</button></div>
+		<div class = 'subAppWrapper' id = 'macroWrapper'>
+			<div position = 'absolute' width = '120px' height = '100vh' id = 'macroNav'><h1>Categories</h1></div>
+			<div id = 'seriessNav'></div>
+		</div>
 
-        <button id = 'removeButton'>Clear</button>
-
-        <div position = 'absolute' width = '120px' height = '100vh' id = 'nav'>
-            <h1>Categories</h1>
-        </div>
-
-        <div id = 'seriessNav'>
-
-        </div>
+		<script>
+			$("#macroWrapper").toggle()
+			$("#showHideMacro").click(() => { $("#macroWrapper").toggle() })
+		</script>
+		<!-- <script src="../node_modules/chart.js/dist/chart.umd.js"></script> -->
+		<script type="module" src="injestFred.js"></script>
 
     </body>
-    <script type="module" src="injestFred.js"></script>
+
 </html>

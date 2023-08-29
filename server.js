@@ -5,15 +5,13 @@ const fs = require("fs")
 const axios = require('axios')
 const xml = require('xml')
 
-
 const portNumber = 4000
 let app = express()
 
 app.use(express.static(__dirname + '/public'))
-app.get('/gross', function(req, res) { res.sendFile(__dirname + '/public/html/gross.html') })
 app.get('/macroOld', function(req, res) { res.sendFile(__dirname + '/public/macro.html') })
-app.get('/macro', function(req, res) { res.sendFile(__dirname + '/public/index.html') })
-app.get('/', function(req, res){ res.send('<h1>Electric Pit Bike Dot Com</h1>') })
+// app.get('/macro', function(req, res) { res.sendFile(__dirname + '/public/index.html') })
+// app.get('/', function(req, res){ res.send('<h1>Electric Pit Bike Dot Com</h1>') })
 
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended: true}))
